@@ -47,9 +47,9 @@ const ExamIndexRoute = ExamIndexRouteImport.update({
   getParentRoute: () => rootRouteImport,
 } as any)
 const StudyCourseCodeRoute = StudyCourseCodeRouteImport.update({
-  id: '/$courseCode',
-  path: '/$courseCode',
-  getParentRoute: () => StudyRoute,
+  id: '/study/$courseCode',
+  path: '/study/$courseCode',
+  getParentRoute: () => rootRouteImport,
 } as any)
 const SessionCourseCodeRoute = SessionCourseCodeRouteImport.update({
   id: '/session/$courseCode',
@@ -67,14 +67,14 @@ const ExamCourseCodeIndexRoute = ExamCourseCodeIndexRouteImport.update({
   getParentRoute: () => rootRouteImport,
 } as any)
 const ExamCourseCodeSessionRoute = ExamCourseCodeSessionRouteImport.update({
-  id: '/session',
-  path: '/session',
-  getParentRoute: () => ExamCourseCodeRoute,
+  id: '/exam/$courseCode/session',
+  path: '/exam/$courseCode/session',
+  getParentRoute: () => rootRouteImport,
 } as any)
 const ExamCourseCodeResultsRoute = ExamCourseCodeResultsRouteImport.update({
-  id: '/results',
-  path: '/results',
-  getParentRoute: () => ExamCourseCodeRoute,
+  id: '/exam/$courseCode/results',
+  path: '/exam/$courseCode/results',
+  getParentRoute: () => rootRouteImport,
 } as any)
 
 export interface FileRoutesByFullPath {
@@ -165,8 +165,11 @@ export interface RootRouteChildren {
   HomeRoute: typeof HomeRoute
   ResultsCourseCodeRoute: typeof ResultsCourseCodeRoute
   SessionCourseCodeRoute: typeof SessionCourseCodeRoute
+  StudyCourseCodeRoute: typeof StudyCourseCodeRoute
   ExamIndexRoute: typeof ExamIndexRoute
   StudyIndexRoute: typeof StudyIndexRoute
+  ExamCourseCodeResultsRoute: typeof ExamCourseCodeResultsRoute
+  ExamCourseCodeSessionRoute: typeof ExamCourseCodeSessionRoute
   ExamCourseCodeIndexRoute: typeof ExamCourseCodeIndexRoute
 }
 
@@ -209,10 +212,10 @@ declare module '@tanstack/react-router' {
     }
     '/study/$courseCode': {
       id: '/study/$courseCode'
-      path: '/$courseCode'
+      path: '/study/$courseCode'
       fullPath: '/study/$courseCode'
       preLoaderRoute: typeof StudyCourseCodeRouteImport
-      parentRoute: typeof StudyRoute
+      parentRoute: typeof rootRouteImport
     }
     '/session/$courseCode': {
       id: '/session/$courseCode'
@@ -237,17 +240,17 @@ declare module '@tanstack/react-router' {
     }
     '/exam/$courseCode/session': {
       id: '/exam/$courseCode/session'
-      path: '/session'
+      path: '/exam/$courseCode/session'
       fullPath: '/exam/$courseCode/session'
       preLoaderRoute: typeof ExamCourseCodeSessionRouteImport
-      parentRoute: typeof ExamCourseCodeRoute
+      parentRoute: typeof rootRouteImport
     }
     '/exam/$courseCode/results': {
       id: '/exam/$courseCode/results'
-      path: '/results'
+      path: '/exam/$courseCode/results'
       fullPath: '/exam/$courseCode/results'
       preLoaderRoute: typeof ExamCourseCodeResultsRouteImport
-      parentRoute: typeof ExamCourseCodeRoute
+      parentRoute: typeof rootRouteImport
     }
   }
 }
@@ -258,20 +261,13 @@ const rootRouteChildren: RootRouteChildren = {
   HomeRoute: HomeRoute,
   ResultsCourseCodeRoute: ResultsCourseCodeRoute,
   SessionCourseCodeRoute: SessionCourseCodeRoute,
+  StudyCourseCodeRoute: StudyCourseCodeRoute,
   ExamIndexRoute: ExamIndexRoute,
   StudyIndexRoute: StudyIndexRoute,
+  ExamCourseCodeResultsRoute: ExamCourseCodeResultsRoute,
+  ExamCourseCodeSessionRoute: ExamCourseCodeSessionRoute,
   ExamCourseCodeIndexRoute: ExamCourseCodeIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
   ._addFileTypes<FileRouteTypes>()
-
-import type { getRouter } from './router.tsx'
-import type { startInstance } from './start.ts'
-declare module '@tanstack/react-start' {
-  interface Register {
-    ssr: true
-    router: Awaited<ReturnType<typeof getRouter>>
-    config: Awaited<ReturnType<typeof startInstance.getOptions>>
-  }
-}
