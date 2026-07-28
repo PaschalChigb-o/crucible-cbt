@@ -1,0 +1,1706 @@
+{
+  "course": "STA121",
+  "total": 100,
+  "questions": [
+    {
+      "id": "STA121_C1_001",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "A researcher studies the relationship between a student's daily study hours and their final exam score. In this study, the final exam score is classified as which type of variable?",
+      "options": [
+        "Independent variable",
+        "Dependent variable",
+        "Confounding variable",
+        "Qualitative variable"
+      ],
+      "answer": "Dependent variable",
+      "explanation": "The dependent variable is the outcome being measured or predicted, which changes in response to variations in the independent variable (study hours).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_002",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "The complete collection of all elements, individuals, or items whose characteristics are being studied is called the:",
+      "options": [
+        "Sample",
+        "Population",
+        "Frame",
+        "Statistic"
+      ],
+      "answer": "Population",
+      "explanation": "By definition, a population encompasses every single member of the group under statistical investigation.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_003",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Any numerical summary measure calculated from a population dataset is formally referred to as a:",
+      "options": [
+        "Statistic",
+        "Parameter",
+        "Variable",
+        "Constant"
+      ],
+      "answer": "Parameter",
+      "explanation": "Parameters describe population characteristics, whereas statistics describe sample characteristics.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_004",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which of the following represents a qualitative (categorical) variable?",
+      "options": [
+        "Weekly income in dollars",
+        "Commute distance in kilometers",
+        "Eye color of participants",
+        "Number of children in a household"
+      ],
+      "answer": "Eye color of participants",
+      "explanation": "Eye color describes an attribute or category rather than a quantifiable numerical amount.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_005",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "A university registry records the academic rank of professors as Assistant Professor, Associate Professor, or Full Professor. What is the level of measurement for this variable?",
+      "options": [
+        "Nominal",
+        "Ordinal",
+        "Interval",
+        "Ratio"
+      ],
+      "answer": "Ordinal",
+      "explanation": "The ranks possess a natural logical ordering or hierarchy, but the numerical distance between the ranks is not measurable.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_006",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "The temperature of an office space measured in degrees Celsius represents which level of data measurement?",
+      "options": [
+        "Nominal",
+        "Ordinal",
+        "Interval",
+        "Ratio"
+      ],
+      "answer": "Interval",
+      "explanation": "Temperature has an ordered scale with meaningful differences, but its zero point is arbitrary (0°C does not mean a complete absence of heat).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_007",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "If a researcher selects a sample by picking every name that happens to be easily accessible at a local library entrance, what type of sampling is being conducted?",
+      "options": [
+        "Simple Random Sampling",
+        "Convenience Sampling",
+        "Stratified Sampling",
+        "Quota Sampling"
+      ],
+      "answer": "Convenience Sampling",
+      "explanation": "Convenience sampling relies on picking subjects who are readily available and easiest to recruit.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_008",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which sampling design divides the target population into homogeneous, non-overlapping groups before drawing a random sample from each group?",
+      "options": [
+        "Cluster Sampling",
+        "Systematic Sampling",
+        "Stratified Random Sampling",
+        "Judgmental Sampling"
+      ],
+      "answer": "Stratified Random Sampling",
+      "explanation": "Stratification ensures that distinct, internally uniform subgroups (strata) are proportionally represented in the sample.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_009",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "A sampling frame is best defined as:",
+      "options": [
+        "The actual list or directory of target population elements from which a sample is selected.",
+        "The margin of error tolerated during statistical testing.",
+        "The collection of data values gathered after non-response adjustments.",
+        "A summary table showing frequency distributions."
+      ],
+      "answer": "The actual list or directory of target population elements from which a sample is selected.",
+      "explanation": "The sampling frame operationalizes the population, providing the literal list of entities available for random choice.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_010",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Sampling error occurs exclusively because:",
+      "options": [
+        "Data entries were recorded incorrectly by automated machines.",
+        "Only a subset (sample) of the population is observed instead of the entire population.",
+        "The target respondents refused to fill out the questionnaire.",
+        "The statistical software used an outdated calculation algorithm."
+      ],
+      "answer": "Only a subset (sample) of the population is observed instead of the entire population.",
+      "explanation": "Sampling error is the natural, inevitable chance variation that happens when a sample is used to estimate a population parameter.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_011",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which branch of statistics focuses primarily on summarizing, organizing, and graphing data patterns without making broader generalizations?",
+      "options": [
+        "Inferential Statistics",
+        "Mathematical Statistics",
+        "Descriptive Statistics",
+        "Nonparametric Statistics"
+      ],
+      "answer": "Descriptive Statistics",
+      "explanation": "Descriptive statistics limits its scope to characterizing the immediate features of the observed dataset.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_012",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "A variable that can assume a countable number of distinct, isolated values (such as the number of cars passing through a toll booth) is classified as:",
+      "options": [
+        "Continuous",
+        "Discrete",
+        "Qualitative",
+        "Nominal"
+      ],
+      "answer": "Discrete",
+      "explanation": "Discrete variables advance via distinct increments with zero intermediate possibilities between adjacent values.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_013",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which data collection method involves a researcher tracking the natural behavior of subjects in real-time without introducing any deliberate interventions or treatments?",
+      "options": [
+        "Experimental Study",
+        "Observational Study",
+        "Controlled Trial",
+        "Simulation Study"
+      ],
+      "answer": "Observational Study",
+      "explanation": "Observational studies record existing traits and behaviors without modifying or manipulating the environment.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_014",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "A data point that deviates drastically from the general clustering trend of the rest of the dataset is called an:",
+      "options": [
+        "Outlier",
+        "Origin",
+        "Midpoint",
+        "Deviation"
+      ],
+      "answer": "Outlier",
+      "explanation": "Outliers are extreme data points that lie far away from the central distribution mass.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_015",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which level of measurement features a true, non-arbitrary zero point, allowing statements like \"Value A is twice as large as Value B\"?",
+      "options": [
+        "Nominal",
+        "Ordinal",
+        "Interval",
+        "Ratio"
+      ],
+      "answer": "Ratio",
+      "explanation": "The ratio level possesses an absolute zero point indicating total absence of the property, which makes multiplicative comparisons valid.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_016",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "When an investigator uses data previously gathered and compiled by an external agency (such as government census archives) for a new study, this source is classified as:",
+      "options": [
+        "Primary Data",
+        "Secondary Data",
+        "Raw Experimental Data",
+        "Subjective Data"
+      ],
+      "answer": "Secondary Data",
+      "explanation": "Secondary data refers to information originally gathered by someone else for a separate purpose.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_017",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Nonresponse bias occurs in survey sampling when:",
+      "options": [
+        "The researcher fails to select an appropriate random number generator.",
+        "Individuals who choose not to participate hold systematically different opinions than those who do respond.",
+        "The sample size is mathematically larger than the target population.",
+        "Questions are formatted with multiple-choice options."
+      ],
+      "answer": "Individuals who choose not to participate hold systematically different opinions than those who do respond.",
+      "explanation": "When non-responders differ systematically from responders, the final collected data skews unrepresentatively.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_018",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "If a company numbers all its 500 employee records from 1 to 500 and uses a random number table to pick 50 workers, which sampling technique is being implemented?",
+      "options": [
+        "Simple Random Sampling",
+        "Systematic Sampling",
+        "Convenience Sampling",
+        "Cluster Sampling"
+      ],
+      "answer": "Simple Random Sampling",
+      "explanation": "Simple random sampling gives every single individual and every possible subset of size n an equal chance of selection.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_019",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "A town has 4,000 households across 4 distinct geographic wards. A researcher randomly selects 2 complete wards and surveys every household located inside those selected wards. Which sampling design is this?",
+      "options": [
+        "Stratified Sampling",
+        "Cluster Sampling",
+        "Systematic Sampling",
+        "Simple Random Sampling"
+      ],
+      "answer": "Cluster Sampling",
+      "explanation": "Cluster sampling divides the population into geographic chunks (clusters), randomly selects entire clusters, and enumerates all members within them.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C1_020",
+      "course": "STA121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which properties are preserved by data measured at the nominal level?",
+      "options": [
+        "Order and equal intervals",
+        "Classification and identification only",
+        "Absolute zero and rank ordering",
+        "Multiplicative scaling ratios"
+      ],
+      "answer": "Classification and identification only",
+      "explanation": "Nominal data serves strictly as labels or names for mutually exclusive categories, carrying no mathematical order or scale.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C2_021",
+      "course": "STA121",
+      "chapter": 2,
+      "type": "calculation",
+      "question": "Compute the arithmetic mean of the following student exam scores: 15, 20, 25, 30, 35, 40, 45.",
+      "options": [
+        "25",
+        "30",
+        "35",
+        "40"
+      ],
+      "answer": "30",
+      "explanation": "Sum of values = 15 + 20 + 25 + 30 + 35 + 40 + 45 = 210. Mean = 210 / 7 = 30.",
+      "working": "\\bar{x} = \\frac{\\sum x}{n} = \\frac{15 + 20 + 25 + 30 + 35 + 40 + 45}{7} = \\frac{210}{7} = 30",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C2_022",
+      "course": "STA121",
+      "chapter": 2,
+      "type": "calculation",
+      "question": "Find the median for the following unordered list of operational durations (in minutes): 8, 3, 14, 9, 21, 11, 5.",
+      "options": [
+        "8",
+        "9",
+        "11",
+        "14"
+      ],
+      "answer": "9",
+      "explanation": "First, sort the data array: 3, 5, 8, 9, 11, 14, 21. The middle value position is (7+1)/2 = 4th position, which corresponds to 9.",
+      "working": "Sorted data: 3, 5, 8, 9, 11, 14, 21. Position = (7 + 1) / 2 = 4th position = 9.",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C2_023",
+      "course": "STA121",
+      "chapter": 2,
+      "type": "calculation",
+      "question": "What is the mode of the given data vector? [12, 15, 12, 18, 22, 15, 30, 15, 24]",
+      "options": [
+        "12",
+        "15",
+        "18",
+        "22"
+      ],
+      "answer": "15",
+      "explanation": "The value 15 occurs 3 times in the dataset, more frequently than any other score element.",
+      "working": "Frequency count: 12: 2, 15: 3, 18: 1, 22: 1, 24: 1, 30: 1. Mode = 15.",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C2_024",
+      "course": "STA121",
+      "chapter": 2,
+      "type": "calculation",
+      "question": "A small investment grows by 10% in year one (1.10 multiplier) and by 40% in year two (1.40 multiplier). Find the geometric mean growth multiplier factor per year.",
+      "options": [
+        "1.21",
+        "1.24",
+        "1.25",
+        "1.30"
+      ],
+      "answer": "1.24",
+      "explanation": "Geometric Mean = \\sqrt{1.10 \\times 1.40} = \\sqrt{1.54} \\approx 1.24.",
+      "working": "GM = \\sqrt{1.10 \\times 1.40} = \\sqrt{1.54} \\approx 1.241",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C2_025",
+      "course": "STA121",
+      "chapter": 2,
+      "type": "calculation",
+      "question": "An analytical task is broken down into two phases. A system executes the first phase at a speed of 20 operations per second and the second phase at 30 operations per second. Assuming both phases require an identical volume of operations, find the harmonic mean execution speed.",
+      "options": [
+        "24 operations per second",
+        "25 operations per second",
+        "26 operations per second",
+        "27 operations per second"
+      ],
+      "answer": "24 operations per second",
+      "explanation": "Harmonic Mean = 2 / (1/20 + 1/30) = 2 / (5/60) = 24 operations per second.",
+      "working": "HM = \\frac{2}{\\frac{1}{20} + \\frac{1}{30}} = \\frac{2}{\\frac{3+2}{60}} = \\frac{2 \\times 60}{5} = 24",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C2_026",
+      "course": "STA121",
+      "chapter": 2,
+      "type": "calculation",
+      "question": "A regional business network features five branches whose annual revenues are $10 million, $20 million, $40 million, $80 million, and $160 million. Compute the geometric mean revenue of these five branches.",
+      "options": [
+        "$40 million",
+        "$52 million",
+        "$62 million",
+        "$80 million"
+      ],
+      "answer": "$40 million",
+      "explanation": "Geometric Mean = (10 \\times 20 \\times 40 \\times 80 \\times 160)^{1/5} = (102,400,000)^{1/5} = 40.",
+      "working": "GM = \\sqrt[5]{10 \\times 20 \\times 40 \\times 80 \\times 160} = \\sqrt[5]{102,400,000} = 40",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C2_027",
+      "course": "STA121",
+      "chapter": 2,
+      "type": "calculation",
+      "question": "An office printer prints three separate multi-page documents. The printing speed for the first document is 10 pages per minute, for the second is 15 pages per minute, and for the third is 30 pages per minute. Assuming each document has an identical number of pages, find the harmonic mean printing speed.",
+      "options": [
+        "15 pages per minute",
+        "18 pages per minute",
+        "20 pages per minute",
+        "22 pages per minute"
+      ],
+      "answer": "15 pages per minute",
+      "explanation": "Harmonic Mean = 3 / (1/10 + 1/15 + 1/30) = 3 / (6/30) = 15 pages per minute.",
+      "working": "HM = \\frac{3}{\\frac{1}{10} + \\frac{1}{15} + \\frac{1}{30}} = \\frac{3}{\\frac{3 + 2 + 1}{30}} = \\frac{3 \\times 30}{6} = 15",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C2_028",
+      "course": "STA121",
+      "chapter": 2,
+      "type": "calculation",
+      "question": "Consider the following grouped dataset representing the hours spent streaming online per week by a group of subscribers:\n| Hours Class | Frequency (f) |\n|---|---|\n| 0 - 9 | 2 |\n| 10 - 19 | 6 |\n| 20 - 29 | 10 |\n| 30 - 39 | 2 |\nWhat is the mid-point value (x_i) for the modal class?",
+      "options": [
+        "14.5",
+        "20.0",
+        "24.5",
+        "25.0"
+      ],
+      "answer": "24.5",
+      "explanation": "The class with the highest frequency (f = 10) is 20 - 29. The class midpoint is calculated as (20 + 29) / 2 = 24.5.",
+      "working": "Modal class = 20 - 29 (f = 10). Midpoint x_i = \\frac{20 + 29}{2} = 24.5.",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C2_029",
+      "course": "STA121",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which mathematical property of the arithmetic mean ensures that the sum of the deviations of all individual values from their mean is always equal to zero (i.e., \\sum (x_i - \\bar{x}) = 0)?",
+      "options": [
+        "Property of Least Squares",
+        "Algebraic Balance Property",
+        "Proportional Scalability",
+        "Geometric Symmetry"
+      ],
+      "answer": "Algebraic Balance Property",
+      "explanation": "The arithmetic mean acts as the center of gravity of a dataset. Because positive and negative deviations perfectly cancel each other out, \\sum(x_i - \\bar{x}) = \\sum x_i - n\\bar{x} = n\\bar{x} - n\\bar{x} = 0.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C3_030",
+      "course": "STA121",
+      "chapter": 3,
+      "type": "calculation",
+      "question": "A sample consists of the following score observations: 12, 15, 18, 22, 25, 30, 34, 40, 44. Using the standard linear position formula P_k = \\frac{k(n+1)}{100}, find the position and value of the 25th percentile (P_{25}, which corresponds to the first quartile Q_1).",
+      "options": [
+        "Position 2.5; Value = 16.5",
+        "Position 2.5; Value = 18.0",
+        "Position 3.0; Value = 18.0",
+        "Position 3.5; Value = 20.0"
+      ],
+      "answer": "Position 2.5; Value = 16.5",
+      "explanation": "Given n = 9 sorted values. Position of P_{25} = 25(9 + 1)/100 = 2.5. Interpolating between the 2nd value (15) and 3rd value (18): 15 + 0.5(18 - 15) = 16.5.",
+      "working": "Position = \\frac{25(9+1)}{100} = 2.5. Value = 15 + 0.5(18 - 15) = 16.5.",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C3_031",
+      "course": "STA121",
+      "chapter": 3,
+      "type": "calculation",
+      "question": "Using the same ordered array from Question 30 (12, 15, 18, 22, 25, 30, 34, 40, 44), calculate the value of the 7th decile (D_7).",
+      "options": [
+        "30.0",
+        "34.0",
+        "37.0",
+        "40.0"
+      ],
+      "answer": "34.0",
+      "explanation": "Position = 7(9+1)/10 = 7. The 7th value in the sorted array is exactly 34.",
+      "working": "Position = \\frac{7(9+1)}{10} = 7. 7th term in sorted array = 34.",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C3_032",
+      "course": "STA121",
+      "chapter": 3,
+      "type": "calculation",
+      "question": "Given the following cumulative frequency framework for grouped data:\n| Class Boundaries | Cumulative Frequency (CF) |\n|---|---|\n| 10.5 - 20.5 | 5 |\n| 20.5 - 30.5 | 15 |\n| 30.5 - 40.5 | 35 |\n| 40.5 - 50.5 | 50 |\nFind the first quartile (Q_1) for this grouped distribution. (Total frequency N = 50).",
+      "options": [
+        "23.5",
+        "25.5",
+        "28.0",
+        "30.5"
+      ],
+      "answer": "28.0",
+      "explanation": "Target index for Q_1 = N/4 = 50/4 = 12.5. Class = 20.5 - 30.5. L = 20.5, CF_prev = 5, f = 10, w = 10. Q_1 = 20.5 + ((12.5 - 5)/10) * 10 = 28.0.",
+      "working": "Q_1 = L + \\left(\\frac{\\frac{N}{4} - CF_{prev}}{f}\\right) w = 20.5 + \\left(\\frac{12.5 - 5}{10}\\right) \\times 10 = 28.0",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C3_033",
+      "course": "STA121",
+      "chapter": 3,
+      "type": "calculation",
+      "question": "Using the grouped frequency matrix from Question 32, calculate the 9th decile (D_9).",
+      "options": [
+        "44.5",
+        "45.5",
+        "47.17",
+        "48.5"
+      ],
+      "answer": "47.17",
+      "explanation": "Target index for D_9 = (9 * 50)/10 = 45. Class = 40.5 - 50.5. L = 40.5, CF_prev = 35, f = 15, w = 10. D_9 = 40.5 + ((45 - 35)/15) * 10 = 40.5 + 6.67 = 47.17.",
+      "working": "D_9 = L + \\left(\\frac{\\frac{9N}{10} - CF_{prev}}{f}\\right) w = 40.5 + \\left(\\frac{45 - 35}{15}\\right) \\times 10 = 40.5 + 6.67 = 47.17",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C3_034",
+      "course": "STA121",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "Which partition measure divides an ordered dataset into exactly eight equal parts?",
+      "options": [
+        "Percentiles",
+        "Quintiles",
+        "Octiles",
+        "Deciles"
+      ],
+      "answer": "Octiles",
+      "explanation": "Octiles split data into 8 equal fragments, quintiles split data into 5 equal fragments, deciles split into 10 fragments, and percentiles split into 100 fragments.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C3_035",
+      "course": "STA121",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "The median of a distribution is mathematically equivalent to which structural combination of partition values?",
+      "options": [
+        "Q_1, D_5, and P_{50}",
+        "Q_2, D_5, and P_{50}",
+        "Q_3, D_5, and P_{25}",
+        "Q_2, D_2, and P_{50}"
+      ],
+      "answer": "Q_2, D_5, and P_{50}",
+      "explanation": "The second quartile (Q_2), the fifth decile (D_5), and the fiftieth percentile (P_{50}) all divide the dataset at exactly the 50% mark, matching the median.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C3_036",
+      "course": "STA121",
+      "chapter": 3,
+      "type": "calculation",
+      "question": "A high school student ranks at the 85th percentile in a standardized exam taken by a group of 1,200 candidates. How many students scored lower than or equal to this student?",
+      "options": [
+        "180",
+        "850",
+        "1,020",
+        "1,115"
+      ],
+      "answer": "1,020",
+      "explanation": "85% of 1,200 = 0.85 * 1,200 = 1,020 students.",
+      "working": "Count = 0.85 \\times 1200 = 1020",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C3_037",
+      "course": "STA121",
+      "chapter": 3,
+      "type": "calculation",
+      "question": "If a dataset has been segmented into quintiles, what percentage of the total observations falls below the 3rd quintile (V_3)?",
+      "options": [
+        "30%",
+        "45%",
+        "60%",
+        "75%"
+      ],
+      "answer": "60%",
+      "explanation": "Each quintile represents exactly 20% of the data. Therefore, the 3rd quintile (V_3) marks the cutoff point where 3 * 20% = 60% of the data falls below it.",
+      "working": "Percentage = 3 \\times 20\\% = 60\\%",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_038",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "Calculate the sample variance for the following small set of data: 3, 6, 9.",
+      "options": [
+        "4.5",
+        "6.0",
+        "9.0",
+        "12.0"
+      ],
+      "answer": "9.0",
+      "explanation": "Mean = (3+6+9)/3 = 6. Deviations: -3, 0, 3. Squared deviations: 9, 0, 9. Sum = 18. Sample variance s^2 = 18 / (3 - 1) = 9.0.",
+      "working": "\\bar{x} = 6. s^2 = \\frac{(3-6)^2 + (6-6)^2 + (9-6)^2}{3-1} = \\frac{9 + 0 + 9}{2} = \\frac{18}{2} = 9.0",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_039",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "Given that a sample dataset has a maximum value of 92 and a range of 54, compute the minimum value in this dataset.",
+      "options": [
+        "38",
+        "46",
+        "54",
+        "146"
+      ],
+      "answer": "38",
+      "explanation": "Range = Max - Min => 54 = 92 - Min => Min = 92 - 54 = 38.",
+      "working": "Min = Max - Range = 92 - 54 = 38",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_040",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "If the first quartile (Q_1) of a distribution is 24.5 and the third quartile (Q_3) is 48.5, calculate the Quartile Deviation (also known as the Semi-Interquartile Range).",
+      "options": [
+        "12.0",
+        "24.0",
+        "36.5",
+        "73.0"
+      ],
+      "answer": "12.0",
+      "explanation": "Quartile Deviation = (Q_3 - Q_1) / 2 = (48.5 - 24.5) / 2 = 24 / 2 = 12.0.",
+      "working": "QD = \\frac{Q_3 - Q_1}{2} = \\frac{48.5 - 24.5}{2} = \\frac{24}{2} = 12.0",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_041",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "Find the mean deviation about the mean for the following sample data values: 2, 5, 8, 9.",
+      "options": [
+        "2.0",
+        "2.5",
+        "3.0",
+        "10.0"
+      ],
+      "answer": "2.5",
+      "explanation": "Mean = (2+5+8+9)/4 = 6. Absolute deviations: |2-6|=4, |5-6|=1, |8-6|=2, |9-6|=3. Sum = 10. Mean Deviation = 10 / 4 = 2.5.",
+      "working": "\\bar{x} = 6. \\sum |x_i - \\bar{x}| = 4 + 1 + 2 + 3 = 10. MD = \\frac{10}{4} = 2.5",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_042",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "A financial analyst calculates that a portfolio has an arithmetic mean return of 12% and a standard deviation of 3%. Find the Coefficient of Variation (CV) for this portfolio.",
+      "options": [
+        "0.25%",
+        "4.00%",
+        "25.00%",
+        "40.00%"
+      ],
+      "answer": "25.00%",
+      "explanation": "CV = (s / mean) * 100% = (3% / 12%) * 100% = 25.00%.",
+      "working": "CV = \\left(\\frac{\\sigma}{\\mu}\\right) \\times 100\\% = \\left(\\frac{3}{12}\\right) \\times 100\\% = 25.00\\%",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_043",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Why is standard deviation generally preferred over variance as a descriptive measure of absolute dispersion in reporting results?",
+      "options": [
+        "Standard deviation is unaffected by the presence of extreme outliers.",
+        "Standard deviation is expressed in the same original units of measurement as the data, making it directly interpretable.",
+        "Standard deviation can be easily computed for open-ended intervals without midpoints.",
+        "Variance can yield negative values, whereas standard deviation is always positive."
+      ],
+      "answer": "Standard deviation is expressed in the same original units of measurement as the data, making it directly interpretable.",
+      "explanation": "Because variance squares the original metrics (e.g., squaring kg into kg^2), taking the square root yields the standard deviation, restoring the metric back to its intuitive linear scale (kg).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_044",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "If every constant value inside a sample dataset is multiplied by a positive scalar value of 3, how are the variance and the standard deviation of the new dataset affected?",
+      "options": [
+        "Both standard deviation and variance are multiplied by 3.",
+        "Standard deviation is multiplied by 3, and variance is multiplied by 9.",
+        "Standard deviation is multiplied by 9, and variance is multiplied by 3.",
+        "Standard deviation increases by 3, while variance remains unchanged."
+      ],
+      "answer": "Standard deviation is multiplied by 3, and variance is multiplied by 9.",
+      "explanation": "Scaling metrics dictates that s_new = |c| * s_old and s^2_new = c^2 * s^2_old. With c = 3, standard deviation changes by 3, and variance changes by 3^2 = 9.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_045",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which measure of dispersion is a relative measure, allowing the direct comparison of variability between two datasets that are measured in completely different units?",
+      "options": [
+        "Interquartile Range",
+        "Standard Deviation",
+        "Coefficient of Variation",
+        "Mean Absolute Deviation"
+      ],
+      "answer": "Coefficient of Variation",
+      "explanation": "The Coefficient of Variation (CV) converts absolute dispersion into a dimensionless percentage score, making it possible to compare variability between completely different scales (e.g., weight in grams vs. height in centimeters).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_046",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "A set of experimental trials shows a standard deviation of 5.0. If a constant value of 10.0 is added to every single trial score in the dataset, what will be the value of the new standard deviation?",
+      "options": [
+        "5.0",
+        "10.0",
+        "15.0",
+        "25.0"
+      ],
+      "answer": "5.0",
+      "explanation": "Adding a constant to every value shifts the location but leaves the distance between points unchanged. Hence, standard deviation remains 5.0.",
+      "working": "s_{new} = s_{old} = 5.0",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_047",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "A distribution has an 80th percentile (P_{80}) of 75 and a 20th percentile (P_{20}) of 35. Calculate the 80-20 percentile range.",
+      "options": [
+        "20",
+        "40",
+        "55",
+        "110"
+      ],
+      "answer": "40",
+      "explanation": "Percentile range = P_{80} - P_{20} = 75 - 35 = 40.",
+      "working": "Range = P_{80} - P_{20} = 75 - 35 = 40",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_048",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "Consider the following grouped frequency step table:\n| Class Bounds | Frequency (f) | Midpoint (x) |\n|---|---|---|\n| 0 - 4 | 3 | 2 |\n| 4 - 8 | 7 | 6 |\nGiven that the mean of this sample is exactly 4.8, compute the sum of squares component \\sum f(x - \\bar{x})^2 needed to evaluate grouped variance.",
+      "options": [
+        "33.6",
+        "39.2",
+        "42.0",
+        "48.8"
+      ],
+      "answer": "33.6",
+      "explanation": "Row 1: 3 * (2 - 4.8)^2 = 3 * 7.84 = 23.52. Row 2: 7 * (6 - 4.8)^2 = 7 * 1.44 = 10.08. Total sum = 23.52 + 10.08 = 33.6.",
+      "working": "\\sum f(x - \\bar{x})^2 = 3(2 - 4.8)^2 + 7(6 - 4.8)^2 = 3(7.84) + 7(1.44) = 23.52 + 10.08 = 33.6",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_049",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "If a researcher wants a quick, rough estimate of the standard deviation of a large, symmetric, bell-shaped distribution using only the minimum and maximum values, which rule of thumb can be applied based on the empirical rule?",
+      "options": [
+        "Standard deviation is approximately equal to Range divided by 2.",
+        "Standard deviation is approximately equal to Range divided by 4.",
+        "Standard deviation is approximately equal to Range multiplied by 6.",
+        "Standard deviation is approximately equal to the square root of the Range."
+      ],
+      "answer": "Standard deviation is approximately equal to Range divided by 4.",
+      "explanation": "Approximately 95% of data falls within ±2 standard deviations of the mean, creating an effective span of 4 standard deviations. Therefore, Range ≈ 4s => s ≈ Range / 4.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_050",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "The coefficient of quartile deviation is defined as \\frac{Q_3 - Q_1}{Q_3 + Q_1}. If Q_1 = 15 and Q_3 = 35, calculate this relative index.",
+      "options": [
+        "0.40",
+        "0.50",
+        "0.67",
+        "2.33"
+      ],
+      "answer": "0.40",
+      "explanation": "Coefficient = (35 - 15) / (35 + 15) = 20 / 50 = 0.40.",
+      "working": "Coeff = \\frac{35 - 15}{35 + 15} = \\frac{20}{50} = 0.40",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_051",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "A technical analyst records the processing speed of a server over 6 distinct sessions and calculates a sample standard deviation (s) of 4.0. What is the computed value of the sample variance (s^2)?",
+      "options": [
+        "2.0",
+        "8.0",
+        "16.0",
+        "32.0"
+      ],
+      "answer": "16.0",
+      "explanation": "Sample variance is the square of the sample standard deviation: s^2 = (4.0)^2 = 16.0.",
+      "working": "s^2 = (4.0)^2 = 16.0",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_052",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "A retail shop evaluates its daily transactional logs. The Interquartile Range (IQR) of checkout totals is found to be $30.0. If the first quartile (Q_1) is known to be $15.0, determine the value of the third quartile (Q_3).",
+      "options": [
+        "$15.0",
+        "$30.0",
+        "$45.0",
+        "$60.0"
+      ],
+      "answer": "$45.0",
+      "explanation": "IQR = Q_3 - Q_1 => 30 = Q_3 - 15 => Q_3 = 45.0.",
+      "working": "Q_3 = IQR + Q_1 = 30.0 + 15.0 = 45.0",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_053",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "Given the simple raw data values 10, 20, 30, 40, 50, calculate the mean square deviation about an arbitrary origin of A = 30, defined by the formula \\frac{1}{n}\\sum(x_i - A)^2.",
+      "options": [
+        "100",
+        "200",
+        "250",
+        "1,000"
+      ],
+      "answer": "200",
+      "explanation": "Deviations from A=30: -20, -10, 0, 10, 20. Squared: 400, 100, 0, 100, 400. Sum = 1000. Mean square deviation = 1000 / 5 = 200.",
+      "working": "Deviations = [-20, -10, 0, 10, 20]. Squared = [400, 100, 0, 100, 400]. Sum = 1000. MS = 1000 / 5 = 200.",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_054",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "If a dataset has a variance of 0, what can be definitively concluded about the individual values within that dataset?",
+      "options": [
+        "All values in the dataset are equal to 0.",
+        "Half of the values are positive and half are negative, balancing each other out.",
+        "Every single observation in the dataset has the exact same numerical value.",
+        "The sample size is extremely large, approaching infinity."
+      ],
+      "answer": "Every single observation in the dataset has the exact same numerical value.",
+      "explanation": "Variance measures dispersion. If s^2 = 0, there is no spread, meaning every single value is identical to the mean.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C4_055",
+      "course": "STA121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which mathematical measure of dispersion ignores structural data variations between the intermediate values of a distribution because it depends entirely on the two extreme boundary observations?",
+      "options": [
+        "Standard Deviation",
+        "Mean Deviation",
+        "Range",
+        "Quartile Deviation"
+      ],
+      "answer": "Range",
+      "explanation": "The Range (Max - Min) is determined solely by the two extreme endpoints, ignoring the behavior of the data clustering in between.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_056",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "If the occurrence of Event A completely rules out the possibility of Event B occurring simultaneously in a single trial, these two events are defined as being:",
+      "options": [
+        "Independent",
+        "Mutually Exclusive",
+        "Dependent",
+        "Complementary"
+      ],
+      "answer": "Mutually Exclusive",
+      "explanation": "Two events are mutually exclusive if they cannot occur at the same time; their intersection is an empty set: P(A ∩ B) = 0.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_057",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which approach to probability defines the probability of an event based on the proportion of times the event occurs over a long series of identical, repeatable experimental trials?",
+      "options": [
+        "Classical Approach",
+        "Empirical (Relative Frequency) Approach",
+        "Subjective Approach",
+        "Axiomatic Approach"
+      ],
+      "answer": "Empirical (Relative Frequency) Approach",
+      "explanation": "The empirical approach calculates probability from actual observations as the limit of the relative frequency as the number of trials becomes large.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_058",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Let S represent the entire sample space of a random experiment, and let A be any event within that sample space. According to the foundational axioms of probability, which of the following statements is false?",
+      "options": [
+        "0 ≤ P(A) ≤ 1",
+        "P(S) = 1",
+        "P(∅) = 0",
+        "P(A) + P(A') = 0"
+      ],
+      "answer": "P(A) + P(A') = 0",
+      "explanation": "The sum of an event and its complement must equal 1 (P(A) + P(A') = 1), not 0.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_059",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "A standard six-sided die is rolled once. What is the probability of rolling a number that is either prime (2, 3, 5) or an even number (2, 4, 6)?",
+      "options": [
+        "1/2",
+        "2/3",
+        "5/6",
+        "1"
+      ],
+      "answer": "5/6",
+      "explanation": "P(Prime) = 3/6, P(Even) = 3/6, P(Prime ∩ Even) = P({2}) = 1/6. P(Prime ∪ Even) = 3/6 + 3/6 - 1/6 = 5/6.",
+      "working": "P(A \\cup B) = P(A) + P(B) - P(A \\cap B) = \\frac{3}{6} + \\frac{3}{6} - \\frac{1}{6} = \\frac{5}{6}",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_060",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "In a corporate department, 60% of employees use an automated scheduling tool (M), 40% use an advanced database tracker (D), and 20% use both software platforms. Find the probability that a randomly selected employee uses the database tracker given that they already use the automated scheduling tool.",
+      "options": [
+        "0.20",
+        "0.33",
+        "0.50",
+        "0.60"
+      ],
+      "answer": "0.33",
+      "explanation": "P(D|M) = P(D ∩ M) / P(M) = 0.20 / 0.60 ≈ 0.33.",
+      "working": "P(D|M) = \\frac{P(D \\cap M)}{P(M)} = \\frac{0.20}{0.60} = 0.333...",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_061",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "If two events, A and B, are independent with P(A) = 0.30 and P(B) = 0.50, calculate the probability of their joint occurrence, P(A ∩ B).",
+      "options": [
+        "0.15",
+        "0.20",
+        "0.65",
+        "0.80"
+      ],
+      "answer": "0.15",
+      "explanation": "For independent events, the multiplication rule applies: P(A ∩ B) = P(A) * P(B) = 0.30 * 0.50 = 0.15.",
+      "working": "P(A \\cap B) = P(A) \\times P(B) = 0.30 \\times 0.50 = 0.15",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_062",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "Consider a standard deck of 52 playing cards. If two cards are drawn sequentially without replacement, what is the probability that both cards drawn are Aces? (There are 4 Aces in a deck).",
+      "options": [
+        "1/169",
+        "1/221",
+        "4/663",
+        "2/51"
+      ],
+      "answer": "1/221",
+      "explanation": "P(Both Aces) = (4/52) * (3/51) = (1/13) * (1/17) = 1/221.",
+      "working": "P(A_1 \\cap A_2) = \\frac{4}{52} \\times \\frac{3}{51} = \\frac{1}{13} \\times \\frac{1}{17} = \\frac{1}{221}",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_063",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Given two events A and B where P(A) > 0 and P(B) > 0. If A and B are known to be mutually exclusive, which of the following statements regarding their statistical independence must be true?",
+      "options": [
+        "They must be independent.",
+        "They cannot be independent; they are dependent.",
+        "Their independence depends on the size of the sample space.",
+        "P(A|B) = P(A)"
+      ],
+      "answer": "They cannot be independent; they are dependent.",
+      "explanation": "If they are mutually exclusive, P(A ∩ B) = 0. Since P(A) * P(B) > 0, the independence condition fails. Knowing one occurs tells you with certainty the other cannot, meaning they are dependent.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_064",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "In the context of set theory and probability sample spaces, the set containing all possible outcomes that belong to Event A, Event B, or both, is referred to as the:",
+      "options": [
+        "Intersection of A and B",
+        "Complement of A and B",
+        "Union of A and B",
+        "Partition of A and B"
+      ],
+      "answer": "Union of A and B",
+      "explanation": "The union (A ∪ B) encompasses all unique sample points residing in set A, set B, or their overlap.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_065",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "A factory has two independent backup generators. The probability that Generator 1 fails during a power outage is 0.05, and the probability that Generator 2 fails is 0.08. Find the probability that at least one of the generators operates successfully during an outage.",
+      "options": [
+        "0.004",
+        "0.126",
+        "0.874",
+        "0.996"
+      ],
+      "answer": "0.996",
+      "explanation": "P(At least one operates) = 1 - P(Both fail) = 1 - (0.05 * 0.08) = 1 - 0.004 = 0.996.",
+      "working": "P(\\text{At least 1 works}) = 1 - P(F_1 \\cap F_2) = 1 - (0.05 \\times 0.08) = 1 - 0.004 = 0.996",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_066",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "An urn contains 5 red balls and 3 blue balls. If 2 balls are selected at random simultaneously, find the total number of distinct ways to choose exactly 1 red ball and 1 blue ball.",
+      "options": [
+        "8",
+        "15",
+        "28",
+        "56"
+      ],
+      "answer": "15",
+      "explanation": "Ways = C(5,1) * C(3,1) = 5 * 3 = 15.",
+      "working": "Ways = \\binom{5}{1} \\times \\binom{3}{1} = 5 \\times 3 = 15",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_067",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Bayes' Theorem is an analytical framework that allows a statistician to calculate:",
+      "options": [
+        "Prior probabilities before any physical evidence is observed.",
+        "Posterior probabilities by updating prior probabilities in light of new sample information or evidence.",
+        "The joint probability of unconditionally independent parameters.",
+        "The exact size of a complex sample space configuration."
+      ],
+      "answer": "Posterior probabilities by updating prior probabilities in light of new sample information or evidence.",
+      "explanation": "Bayes' Theorem provides a mathematical method to mathematically revise existing probability configurations (P(A)) into conditional posterior structures (P(A|B)) once empirical observations are made.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_068",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "Suppose P(A) = 0.40, P(B) = 0.70, and the probability of their union is P(A ∪ B) = 0.85. Calculate the conditional probability P(A | B).",
+      "options": [
+        "0.25",
+        "0.36",
+        "0.63",
+        "0.85"
+      ],
+      "answer": "0.36",
+      "explanation": "P(A ∩ B) = P(A) + P(B) - P(A ∪ B) = 0.40 + 0.70 - 0.85 = 0.25. P(A|B) = P(A ∩ B) / P(B) = 0.25 / 0.70 ≈ 0.357 ≈ 0.36.",
+      "working": "P(A \\cap B) = 0.40 + 0.70 - 0.85 = 0.25. P(A|B) = \\frac{0.25}{0.70} \\approx 0.3571",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_069",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "A screening test for a certain medical condition has a sensitivity of 90%. In a specific population, 10% of individuals actually have this condition. If a person randomly selected from this population tests positive, and the total probability of anyone testing positive across the population is 0.18, calculate the posterior probability that this person genuinely has the condition.",
+      "options": [
+        "0.09",
+        "0.10",
+        "0.50",
+        "0.90"
+      ],
+      "answer": "0.50",
+      "explanation": "P(Condition|Positive) = [P(Positive|Condition) * P(Condition)] / P(Positive) = [0.90 * 0.10] / 0.18 = 0.09 / 0.18 = 0.50.",
+      "working": "P(C|+) = \\frac{P(+|C)P(C)}{P(+)} = \\frac{0.90 \\times 0.10}{0.18} = \\frac{0.09}{0.18} = 0.50",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_070",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "If two sets A and B have no elements in common, their intersection forms an empty set denoted by A ∩ B = ∅. In probability framework mapping, the numerical value assigned to P(A ∩ B) under this specific constraint is:",
+      "options": [
+        "-1.0",
+        "0.0",
+        "0.5",
+        "1.0"
+      ],
+      "answer": "0.0",
+      "explanation": "An empty set contains zero favorable outcomes, so its structural probability value is exactly 0.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_071",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "What is the sample space size when rolling three distinct, standard six-sided dice simultaneously?",
+      "options": [
+        "18",
+        "36",
+        "108",
+        "216"
+      ],
+      "answer": "216",
+      "explanation": "By the fundamental counting principle, the total size of the sample space for three independent dice is: 6 * 6 * 6 = 6^3 = 216.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_072",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "A committee of 3 members needs to be formed from a pool of 5 qualified engineers and 4 project managers. Find the probability that the committee will consist of exactly 2 engineers and 1 project manager.",
+      "options": [
+        "5/14",
+        "10/21",
+        "20/42",
+        "10/14"
+      ],
+      "answer": "10/21",
+      "explanation": "Ways = C(5,2) * C(4,1) = 10 * 4 = 40. Total outcomes = C(9,3) = 84. Probability = 40 / 84 = 10 / 21.",
+      "working": "P = \\frac{\\binom{5}{2} \\binom{4}{1}}{\\binom{9}{3}} = \\frac{10 \\times 4}{84} = \\frac{40}{84} = \\frac{10}{21}",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_073",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "The probability that a local delivery service arrives on time on any given day is 0.85. What is the probability that the delivery service will fail to arrive on time on a randomly selected day?",
+      "options": [
+        "0.15",
+        "0.30",
+        "0.70",
+        "0.85"
+      ],
+      "answer": "0.15",
+      "explanation": "Using the complement rule: P(Late) = 1 - P(On Time) = 1 - 0.85 = 0.15.",
+      "working": "P(\\text{Late}) = 1 - 0.85 = 0.15",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_074",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Let A and B be two events defined on the same sample space. The conditional probability expression P(A|B) is mathematically undefined if and only if which of the following holds true?",
+      "options": [
+        "P(A) = 0",
+        "P(B) = 0",
+        "P(A ∩ B) = 1",
+        "A and B are independent"
+      ],
+      "answer": "P(B) = 0",
+      "explanation": "Because division by zero is mathematically undefined, the conditional ratio P(A ∩ B)/P(B) breaks down if the conditioning event has a probability of zero.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_075",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "An electronic circuit contains two components operating in a parallel alignment. The system functions as long as at least one component works. If Component X has a reliability of 0.90 and Component Y has a reliability of 0.95, and they operate independently, find the total reliability of the parallel system.",
+      "options": [
+        "0.8550",
+        "0.9000",
+        "0.9500",
+        "0.9950"
+      ],
+      "answer": "0.9950",
+      "explanation": "P(System works) = 1 - P(Both fail) = 1 - ((1 - 0.90) * (1 - 0.95)) = 1 - (0.10 * 0.05) = 1 - 0.005 = 0.9950.",
+      "working": "R = 1 - (1 - 0.90)(1 - 0.95) = 1 - (0.10 \\times 0.05) = 1 - 0.005 = 0.9950",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_076",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "A variable whose values are determined completely by the outcome of a random experiment is formally known as a:",
+      "options": [
+        "Constant parameter",
+        "Random variable",
+        "Algebraic placeholder",
+        "Deterministic function"
+      ],
+      "answer": "Random variable",
+      "explanation": "A random variable mapping pairs sample space outcomes to actual numerical numbers dynamically based on chance.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C5_077",
+      "course": "STA121",
+      "chapter": 5,
+      "type": "calculation",
+      "question": "A bag contains 4 white marbles and 6 black marbles. If 3 marbles are drawn completely at random without replacement, find the total number of items in the sample space.",
+      "options": [
+        "30",
+        "120",
+        "210",
+        "720"
+      ],
+      "answer": "120",
+      "explanation": "Total marbles = 10. Selecting 3 without replacement: C(10, 3) = (10 * 9 * 8) / (3 * 2 * 1) = 120.",
+      "working": "N = \\binom{10}{3} = \\frac{10 \\times 9 \\times 8}{3 \\times 2 \\times 1} = 120",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C6_078",
+      "course": "STA121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "Which of the following is a fundamental mathematical property that a discrete probability mass function P(X = x) must satisfy for all possible values of x?",
+      "options": [
+        "\\sum P(X = x) = 0",
+        "P(X = x) > 1",
+        "\\sum P(X = x) = 1 and 0 ≤ P(X = x) ≤ 1",
+        "\\int_{-\\infty}^{\\infty} P(X = x) dx = 1"
+      ],
+      "answer": "\\sum P(X = x) = 1 and 0 ≤ P(X = x) ≤ 1",
+      "explanation": "For a valid discrete distribution, individual probabilities must fall between 0 and 1 inclusive, and their total sum across the entire support must equal exactly 1.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C6_079",
+      "course": "STA121",
+      "chapter": 6,
+      "type": "calculation",
+      "question": "Consider the following discrete probability distribution for a random variable X:\n| x | 1 | 2 | 3 |\n|---|---|---|---|\n| P(X = x) | 0.2 | 0.5 | k |\nDetermine the value of the missing constant k.",
+      "options": [
+        "0.2",
+        "0.3",
+        "0.5",
+        "0.7"
+      ],
+      "answer": "0.3",
+      "explanation": "0.2 + 0.5 + k = 1 => 0.7 + k = 1 => k = 0.3.",
+      "working": "k = 1 - (0.2 + 0.5) = 0.3",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C6_080",
+      "course": "STA121",
+      "chapter": 6,
+      "type": "calculation",
+      "question": "Using the distribution from Question 79 (with k = 0.3), compute the expected value (mean) E(X) of the random variable.",
+      "options": [
+        "2.0",
+        "2.1",
+        "2.3",
+        "2.5"
+      ],
+      "answer": "2.1",
+      "explanation": "E(X) = (1 * 0.2) + (2 * 0.5) + (3 * 0.3) = 0.2 + 1.0 + 0.9 = 2.1.",
+      "working": "E(X) = \\sum x P(X=x) = 1(0.2) + 2(0.5) + 3(0.3) = 0.2 + 1.0 + 0.9 = 2.1",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C6_081",
+      "course": "STA121",
+      "chapter": 6,
+      "type": "calculation",
+      "question": "A fair coin is tossed 4 independent times. Let X represent the number of heads obtained. Find the probability of getting exactly 3 heads (X = 3) using the binomial formula.",
+      "options": [
+        "0.1250",
+        "0.2500",
+        "0.3125",
+        "0.3750"
+      ],
+      "answer": "0.2500",
+      "explanation": "P(X = 3) = C(4, 3) * (0.5)^3 * (0.5)^1 = 4 * 0.125 * 0.5 = 0.2500.",
+      "working": "P(X=3) = \\binom{4}{3} (0.5)^3 (0.5)^1 = 4 \\times 0.125 \\times 0.5 = 0.2500",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C6_082",
+      "course": "STA121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "Which discrete probability distribution is most appropriate for modeling the number of rare, independent events that occur within a fixed interval of time or space, given a known constant average rate?",
+      "options": [
+        "Binomial Distribution",
+        "Poisson Distribution",
+        "Uniform Distribution",
+        "Normal Distribution"
+      ],
+      "answer": "Poisson Distribution",
+      "explanation": "The Poisson distribution models counts of isolated events occurring over specific intervals under a constant mean rate (λ).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C6_083",
+      "course": "STA121",
+      "chapter": 6,
+      "type": "calculation",
+      "question": "If a random variable X follows a Poisson distribution with a mean parameter of λ = 4, what is the exact numerical value of its variance?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": "4",
+      "explanation": "A core identifying property of the Poisson distribution is that its variance matches its mean parameter exactly: Var(X) = λ = 4.",
+      "working": "Var(X) = \\lambda = 4",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C6_084",
+      "course": "STA121",
+      "chapter": 6,
+      "type": "calculation",
+      "question": "A multiple-choice exam contains 20 questions, where each question has 4 options (only one is correct). If a student guesses randomly on every single question, calculate the expected number of correct answers.",
+      "options": [
+        "4",
+        "5",
+        "10",
+        "15"
+      ],
+      "answer": "5",
+      "explanation": "This fits a binomial distribution with n = 20 and p = 0.25: E(X) = n * p = 20 * 0.25 = 5.",
+      "working": "E(X) = n p = 20 \\times 0.25 = 5",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C6_085",
+      "course": "STA121",
+      "chapter": 6,
+      "type": "calculation",
+      "question": "Suppose a customer service desk experiences an average of λ = 1 urgent system ticket per hour. What is the probability that they will receive exactly 0 tickets in a given hour? (Take e^{-1} ≈ 0.3679).",
+      "options": [
+        "0.0000",
+        "0.1839",
+        "0.3679",
+        "0.5000"
+      ],
+      "answer": "0.3679",
+      "explanation": "P(X = 0) = (e^{-1} * 1^0) / 0! = e^{-1} ≈ 0.3679.",
+      "working": "P(X=0) = \\frac{e^{-1} \\times 1^0}{0!} = 0.3679",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C6_086",
+      "course": "STA121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "Which condition is a requirement for a random experiment to be classified as a sequence of Bernoulli trials?",
+      "options": [
+        "Each trial can yield infinitely many outcomes.",
+        "The trials are highly dependent on previous outcomes.",
+        "The probability of success changes linearly from one trial to the next.",
+        "Each trial has exactly two possible outcomes: success or failure."
+      ],
+      "answer": "Each trial has exactly two possible outcomes: success or failure.",
+      "explanation": "Bernoulli trials demand strictly binary outcomes (Success/Failure) alongside trial independence and a constant success probability.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C6_087",
+      "course": "STA121",
+      "chapter": 6,
+      "type": "calculation",
+      "question": "A binomial distribution has parameters n = 100 and p = 0.20. Compute the standard deviation (σ) of this distribution.",
+      "options": [
+        "4",
+        "16",
+        "20",
+        "80"
+      ],
+      "answer": "4",
+      "explanation": "Variance = n * p * (1 - p) = 100 * 0.20 * 0.80 = 16. Standard Deviation = \\sqrt{16} = 4.",
+      "working": "\\sigma = \\sqrt{n p (1-p)} = \\sqrt{100 \\times 0.20 \\times 0.80} = \\sqrt{16} = 4",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_088",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "For any continuous random variable X defined by a probability density function f(x), the probability that the variable takes on an exact single point value c (i.e., P(X = c)) is always equal to:",
+      "options": [
+        "0",
+        "0.5",
+        "1",
+        "f(c)"
+      ],
+      "answer": "0",
+      "explanation": "Because area under a curve at a single isolated point has zero width, the integration interval yields exactly 0. Continuous variables possess probability exclusively over ranges.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_089",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "The total area bounded under the curve of any valid probability density function (PDF) must always be:",
+      "options": [
+        "Equal to the variance parameter",
+        "Dependent on the sample size",
+        "Exactly equal to 1",
+        "Less than 0.50"
+      ],
+      "answer": "Exactly equal to 1",
+      "explanation": "By absolute axiomatic definition of continuous limits, \\int_{-\\infty}^{\\infty} f(x) dx = 1, expressing total operational certainty over the support.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_090",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "The normal curve is perfectly symmetrical and bell-shaped. For a perfectly normal distribution, which structural relationship holds true regarding its measures of central tendency?",
+      "options": [
+        "Mean > Median > Mode",
+        "Mean < Median < Mode",
+        "Mean = Median = Mode",
+        "Mean × Median = Mode"
+      ],
+      "answer": "Mean = Median = Mode",
+      "explanation": "Due to absolute bilateral mirror symmetry, the peak apex center point acts simultaneously as mean, median, and mode.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_091",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "calculation",
+      "question": "A continuous random variable X is uniformly distributed over the interval [10, 50]. Find the value of its probability density function f(x) within this interval.",
+      "options": [
+        "1/10",
+        "1/40",
+        "1/50",
+        "1/60"
+      ],
+      "answer": "1/40",
+      "explanation": "For a uniform distribution, f(x) = 1 / (b - a) = 1 / (50 - 10) = 1/40.",
+      "working": "f(x) = \\frac{1}{b - a} = \\frac{1}{50 - 10} = \\frac{1}{40}",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_092",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "calculation",
+      "question": "Using the uniform distribution interval [10, 50] from Question 91, find the probability that X falls between 20 and 30 (P(20 ≤ X ≤ 30)).",
+      "options": [
+        "0.20",
+        "0.25",
+        "0.33",
+        "0.50"
+      ],
+      "answer": "0.25",
+      "explanation": "P(20 ≤ X ≤ 30) = (30 - 20) / (50 - 10) = 10 / 40 = 0.25.",
+      "working": "P(20 \\le X \\le 30) = \\frac{30 - 20}{50 - 10} = \\frac{10}{40} = 0.25",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_093",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "A standard normal distribution is a special case of the normal distribution where the parameters for the mean (μ) and standard deviation (σ) are set to which specific values?",
+      "options": [
+        "μ = 1, σ = 0",
+        "μ = 0, σ = 1",
+        "μ = 0, σ = 0",
+        "μ = 1, σ = 1"
+      ],
+      "answer": "μ = 0, σ = 1",
+      "explanation": "The Z-score baseline standardization restricts normal layouts strictly to a mean of zero and variance of one.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_094",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "calculation",
+      "question": "A normal distribution has a mean of μ = 100 and a standard deviation of σ = 15. Convert an individual raw score of x = 130 into its corresponding standard score (z-score).",
+      "options": [
+        "-2.0",
+        "+1.0",
+        "+2.0",
+        "+3.0"
+      ],
+      "answer": "+2.0",
+      "explanation": "z = (x - μ) / σ = (130 - 100) / 15 = 30 / 15 = +2.0.",
+      "working": "z = \\frac{130 - 100}{15} = \\frac{30}{15} = +2.0",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_095",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "According to the Empirical Rule for a normal distribution, approximately what percentage of data observations lies within ±1 standard deviation of the mean?",
+      "options": [
+        "50%",
+        "68%",
+        "95%",
+        "99.7%"
+      ],
+      "answer": "68%",
+      "explanation": "The empirical configuration parameters map normal boundaries to roughly 68% for ±1σ, 95% for ±2σ, and 99.7% for ±3σ.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_096",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "calculation",
+      "question": "Let Z be a standard normal random variable. Given that the cumulative standard normal area table shows Φ(1.0) = P(Z ≤ 1.0) = 0.8413, find the probability that Z is greater than 1.0 (P(Z > 1.0)).",
+      "options": [
+        "0.1587",
+        "0.3413",
+        "0.5000",
+        "0.8413"
+      ],
+      "answer": "0.1587",
+      "explanation": "By complement rules: P(Z > 1.0) = 1 - P(Z ≤ 1.0) = 1 - 0.8413 = 0.1587.",
+      "working": "P(Z > 1.0) = 1 - P(Z \\le 1.0) = 1 - 0.8413 = 0.1587",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_097",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What type of skewness value is structurally associated with a perfectly normal distribution curve?",
+      "options": [
+        "Highly positive skewness",
+        "Moderately negative skewness",
+        "Exactly zero skewness",
+        "Skewness approaching infinity"
+      ],
+      "answer": "Exactly zero skewness",
+      "explanation": "Symmetrical profiles show perfect equivalence across both tail distributions, resulting in an exact skew score of 0.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_098",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "If a continuous random variable measures the time until a specific electronic part fails, and these failures occur at a constant independent rate, which distribution is typically utilized to model this continuous duration?",
+      "options": [
+        "Binomial Distribution",
+        "Exponential Distribution",
+        "Hypergeometric Distribution",
+        "Uniform Distribution"
+      ],
+      "answer": "Exponential Distribution",
+      "explanation": "The continuous Exponential distribution maps structural wait duration or spacing intervals between Poisson arrival trends.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_099",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "calculation",
+      "question": "A continuous uniform distribution is mapped on the interval [a, b]. If the mean of this uniform distribution is known to be 30 and the lower limit is a = 10, determine the upper limit value b.",
+      "options": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "answer": "50",
+      "explanation": "Mean = (a + b) / 2 => 30 = (10 + b) / 2 => 60 = 10 + b => b = 50.",
+      "working": "\\mu = \\frac{a + b}{2} \\implies 30 = \\frac{10 + b}{2} \\implies 60 = 10 + b \\implies b = 50",
+      "variant_of": null
+    },
+    {
+      "id": "STA121_C7_100",
+      "course": "STA121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "The total area under the standard normal curve to the left of its mean parameter (μ = 0) is exactly:",
+      "options": [
+        "0.00",
+        "0.25",
+        "0.50",
+        "1.00"
+      ],
+      "answer": "0.50",
+      "explanation": "Due to symmetric properties, the structural mean center splits the total probabilistic area constraint (1.00) into exactly two equivalent halves (0.50).",
+      "working": null,
+      "variant_of": null
+    }
+  ]
+}

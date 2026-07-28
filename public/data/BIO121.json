@@ -1,0 +1,2046 @@
+{
+  "course": "BIO121",
+  "total": 120,
+  "questions": [
+    {
+      "id": "BIO121_C1_001",
+      "course": "BIO121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which of the following locomotory organelles is primarily used by the class Sarcodina in Phylum Protozoa?",
+      "options": [
+        "Cilia",
+        "Flagella",
+        "Pseudopodia",
+        "Tentacles"
+      ],
+      "answer": "Pseudopodia",
+      "explanation": "Members of the class Sarcodina use pseudopodia for locomotion.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C1_002",
+      "course": "BIO121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "The resting form that many protozoans alternate to from their free-living vegetative form is known as:",
+      "options": [
+        "Trophozoite",
+        "Cyst",
+        "Sporozoite",
+        "Zygote"
+      ],
+      "answer": "Cyst",
+      "explanation": "Many protozoans alternate between a free-living vegetative form known as a trophozoite and a resting form called a cyst.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C1_003",
+      "course": "BIO121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which structure is primarily responsible for osmoregulation in many freshwater protozoans?",
+      "options": [
+        "Nucleus",
+        "Contractile vacuole",
+        "Pellicle",
+        "Food vacuole"
+      ],
+      "answer": "Contractile vacuole",
+      "explanation": "Protozoans possess a contractile vacuole that is used for osmoregulation.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C1_004",
+      "course": "BIO121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "In the systematic classification of *Paramecium caudatum*, to which sub-phylum does it belong?",
+      "options": [
+        "Sarcodina",
+        "Ciliophora",
+        "Mastigophora",
+        "Sporozoa"
+      ],
+      "answer": "Ciliophora",
+      "explanation": "The systematic classification of *Paramecium caudatum* identifies its sub-phylum as Ciliophora.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C1_005",
+      "course": "BIO121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which class of protozoans is characterized by the total absence of locomotory organelles and is exclusively parasitic?",
+      "options": [
+        "Sarcodina",
+        "Mastigophora",
+        "Ciliophora",
+        "Sporozoa"
+      ],
+      "answer": "Sporozoa",
+      "explanation": "Sporozoa are characterized by the absence of locomotory organelles and they are exclusively endoparasitic.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C2_006",
+      "course": "BIO121",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Cnidarians are described as diploblastic, meaning their body wall consists of how many germ layers?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": "Two",
+      "explanation": "Cnidarians are diploblastic, possessing two germ layers: the ectoderm and the endoderm.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C2_007",
+      "course": "BIO121",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "The characteristic stinging cells found in organisms belonging to the Phylum Cnidaria are known as:",
+      "options": [
+        "Flame cells",
+        "Cnidocytes",
+        "Pseudopodia",
+        "Choanocytes"
+      ],
+      "answer": "Cnidocytes",
+      "explanation": "Cnidarians possess characteristic stinging cells known as cnidocytes.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C2_008",
+      "course": "BIO121",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of the following organisms is a representative member of the class Hydrozoa?",
+      "options": [
+        "Jellyfish",
+        "Sea anemone",
+        "Hydra",
+        "Coral"
+      ],
+      "answer": "Hydra",
+      "explanation": "*Hydra* is a representative member of the class Hydrozoa.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C2_009",
+      "course": "BIO121",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What type of symmetry is exhibited by members of the Phylum Cnidaria?",
+      "options": [
+        "Bilateral symmetry",
+        "Radial symmetry",
+        "Asymmetry",
+        "Spherical symmetry"
+      ],
+      "answer": "Radial symmetry",
+      "explanation": "Cnidarians are described as having radial symmetry.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C2_010",
+      "course": "BIO121",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "In Cnidarians, what is the primary function of the gastrovascular cavity?",
+      "options": [
+        "Excretion",
+        "Ingestion and egestion",
+        "Locomotion",
+        "Respiration"
+      ],
+      "answer": "Ingestion and egestion",
+      "explanation": "In Cnidarians, the mouth serves as the opening for both ingestion and egestion.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C3_011",
+      "course": "BIO121",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "Which excretory organ is specifically found in members of the Phylum Platyhelminthes?",
+      "options": [
+        "Nephridia",
+        "Malpighian tubules",
+        "Flame cells",
+        "Contractile vacuole"
+      ],
+      "answer": "Flame cells",
+      "explanation": "Excretion in Platyhelminthes occurs with the help of flame cells.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C3_012",
+      "course": "BIO121",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "Platyhelminthes are described as triploblastic, which means they possess:",
+      "options": [
+        "One germ layer",
+        "Two germ layers",
+        "Three germ layers",
+        "No germ layers"
+      ],
+      "answer": "Three germ layers",
+      "explanation": "Platyhelminthes are triploblastic, meaning they have three germ layers (ectoderm, mesoderm, and endoderm).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C3_013",
+      "course": "BIO121",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "What is the common name for the class Cestoda within the Phylum Platyhelminthes?",
+      "options": [
+        "Liver flukes",
+        "Tapeworms",
+        "Flatworms",
+        "Roundworms"
+      ],
+      "answer": "Tapeworms",
+      "explanation": "Members of the class Cestoda are commonly called tapeworms.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C3_014",
+      "course": "BIO121",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "The body space between the ectoderm and endoderm in Platyhelminthes is filled with a connective tissue called:",
+      "options": [
+        "Parenchyma",
+        "Coelom",
+        "Hemocoel",
+        "Mesoglea"
+      ],
+      "answer": "Parenchyma",
+      "explanation": "In Platyhelminthes, the mesoderm forms a connective tissue called parenchyma that fills the body spaces.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C3_015",
+      "course": "BIO121",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "Which class of Platyhelminthes contains primarily free-living flatworms?",
+      "options": [
+        "Cestoda",
+        "Trematoda",
+        "Turbellaria",
+        "Monogenea"
+      ],
+      "answer": "Turbellaria",
+      "explanation": "The class Turbellaria consists of all the free-living flatworms found in both marine and freshwater environments.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C1_016",
+      "course": "BIO121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which of the following protozoan classes is characterized by the use of cilia for movement?",
+      "options": [
+        "Sarcodina",
+        "Ciliophora",
+        "Mastigophora",
+        "Sporozoa"
+      ],
+      "answer": "Ciliophora",
+      "explanation": "The class Ciliophora (or Ciliata) uses cilia for locomotion.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C2_017",
+      "course": "BIO121",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which class of Cnidarians includes the true jellyfish?",
+      "options": [
+        "Anthozoa",
+        "Hydrozoa",
+        "Scyphozoa",
+        "Cubozoa"
+      ],
+      "answer": "Scyphozoa",
+      "explanation": "The class Scyphozoa includes the true jellyfish.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C3_018",
+      "course": "BIO121",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "What is the common name for the Trematoda class members like *Fasciola hepatica*?",
+      "options": [
+        "Tapeworms",
+        "Liver flukes",
+        "Roundworms",
+        "Pinworms"
+      ],
+      "answer": "Liver flukes",
+      "explanation": "*Fasciola hepatica* is commonly known as the liver fluke, a member of the class Trematoda.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C1_019",
+      "course": "BIO121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Protozoans that are capable of both autotrophic and heterotrophic nutrition are known as:",
+      "options": [
+        "Parasites",
+        "Saprophytes",
+        "Mixotrophs",
+        "Symbionts"
+      ],
+      "answer": "Mixotrophs",
+      "explanation": "Mixotrophs are organisms that operate as both autotrophs and heterotrophs, such as *Euglena*.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C2_020",
+      "course": "BIO121",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of these is a marine dweller within the Phylum Cnidaria?",
+      "options": [
+        "Hydra",
+        "Sea anemone",
+        "Earthworm",
+        "Amoeba"
+      ],
+      "answer": "Sea anemone",
+      "explanation": "Sea anemones are marine dwellers, unlike *Hydra* which is found in freshwater.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C3_021",
+      "course": "BIO121",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "Which feature is absent in the digestive system of Cestodes (tapeworms)?",
+      "options": [
+        "Mouth",
+        "Digestive tract",
+        "Suckers",
+        "Hooks"
+      ],
+      "answer": "Digestive tract",
+      "explanation": "In Cestodes, the mouth and digestive tract are totally absent.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C1_022",
+      "course": "BIO121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which of the following is a parasitic protozoan that causes malaria?",
+      "options": [
+        "*Amoeba proteus*",
+        "*Euglena viridis*",
+        "*Plasmodium spp.*",
+        "*Paramecium caudatum*"
+      ],
+      "answer": "*Plasmodium spp.*",
+      "explanation": "Malaria is caused by *Plasmodium spp.*.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C2_023",
+      "course": "BIO121",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the primary method of asexual reproduction in *Hydra*?",
+      "options": [
+        "Binary fission",
+        "Conjugation",
+        "Budding",
+        "Spore formation"
+      ],
+      "answer": "Budding",
+      "explanation": "Cnidarians like *Hydra* reproduce asexually by budding.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C3_024",
+      "course": "BIO121",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "Which phylum is characterized by dorsoventrally flattened bodies and bilateral symmetry?",
+      "options": [
+        "Protozoa",
+        "Cnidaria",
+        "Platyhelminthes",
+        "Nematoda"
+      ],
+      "answer": "Platyhelminthes",
+      "explanation": "Platyhelminthes are dorsoventrally flattened worms with bilateral symmetry.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C1_025",
+      "course": "BIO121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "The fusion of similar gametes in protozoan sexual reproduction is called:",
+      "options": [
+        "Anisogamy",
+        "Isogamy",
+        "Conjugation",
+        "Fission"
+      ],
+      "answer": "Isogamy",
+      "explanation": "Sexual reproduction in protozoans involves isogamy, which is the fusion of similar gametes.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C4_026",
+      "course": "BIO121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following is the common name for members of the Phylum Nematoda?",
+      "options": [
+        "Flatworms",
+        "Roundworms",
+        "Tapeworms",
+        "Flukes"
+      ],
+      "answer": "Roundworms",
+      "explanation": "Nematodes are commonly called roundworms.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C4_027",
+      "course": "BIO121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which specific parasitic nematode is responsible for causing lymphatic filariasis, also known as elephantiasis?",
+      "options": [
+        "*Ascaris lumbricoides*",
+        "*Wuchereria bancrofti*",
+        "*Dracunculus medinensis*",
+        "*Enterobius vermicularis*"
+      ],
+      "answer": "*Wuchereria bancrofti*",
+      "explanation": "*Wuchereria bancrofti* is a filarial nematode that causes lymphatic filariasis, also known as elephantiasis.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C4_028",
+      "course": "BIO121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the primary basis for classifying the Phylum Nematoda into the classes Phasmidia and Aphasmidia?",
+      "options": [
+        "Presence or absence of phasmids",
+        "Body segment number",
+        "Type of digestive tract",
+        "Reproductive method"
+      ],
+      "answer": "Presence or absence of phasmids",
+      "explanation": "The Phylum Nematoda is divided into two classes, Phasmidia and Aphasmidia, based on the presence or absence of phasmids (caudal sensory organs).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C4_029",
+      "course": "BIO121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the common name for *Enterobius vermicularis*, a common nematode parasite in children?",
+      "options": [
+        "Hookworm",
+        "Pinworm",
+        "Whipworm",
+        "Guinea worm"
+      ],
+      "answer": "Pinworm",
+      "explanation": "*Enterobius vermicularis* is commonly known as the pinworm or threadworm.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C4_030",
+      "course": "BIO121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "How do nematodes typically carry out excretion?",
+      "options": [
+        "Through flame cells",
+        "By diffusion across body walls",
+        "Via contractile vacuoles",
+        "Using Malpighian tubules"
+      ],
+      "answer": "By diffusion across body walls",
+      "explanation": "Excretion in nematodes is achieved by diffusion across their body walls.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_031",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which phylum is the only phylum within the sub-phylum Vertebrata?",
+      "options": [
+        "Chordata",
+        "Arthropoda",
+        "Mollusca",
+        "Echinodermata"
+      ],
+      "answer": "Chordata",
+      "explanation": "Phylum Chordata is the only phylum in the sub-phylum Vertebrata.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_032",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which class of vertebrates is characterized by possessing feathers for insulation and flight?",
+      "options": [
+        "Mammalia",
+        "Reptilia",
+        "Amphibia",
+        "Aves"
+      ],
+      "answer": "Aves",
+      "explanation": "Aves possess feathers for insulation and flight.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_033",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which subclass of Pisces includes the primitive jawless species of fish?",
+      "options": [
+        "Agnatha",
+        "Chondrichthyes",
+        "Osteichthyes",
+        "Urochordata"
+      ],
+      "answer": "Agnatha",
+      "explanation": "The subclass Agnatha includes primitive jawless species of fish, such as hagfish and lamprey.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_034",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which order of Amphibia is characterized by being legless?",
+      "options": [
+        "Anura",
+        "Apoda",
+        "Urodela",
+        "Testudinata"
+      ],
+      "answer": "Apoda",
+      "explanation": "Apoda are the legless amphibians, such as the caecilian.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_035",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "What is the defining characteristic of Eutherian (placental) mammals?",
+      "options": [
+        "They lay eggs",
+        "They have a maternal pouch",
+        "They carry their babies to term via a placenta",
+        "They are ectothermic"
+      ],
+      "answer": "They carry their babies to term via a placenta",
+      "explanation": "Eutherian mammals carry their babies to term, with embryonic development occurring within the maternal uterus connected via a placenta.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_036",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "What type of heart chamber configuration do birds and mammals possess?",
+      "options": [
+        "2-chambered",
+        "3-chambered",
+        "4-chambered",
+        "5-chambered"
+      ],
+      "answer": "4-chambered",
+      "explanation": "Birds and mammals both have a 4-chambered heart (2 auricles and 2 ventricles).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_037",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which order of reptiles includes turtles and tortoises?",
+      "options": [
+        "Squamata",
+        "Crocodilia",
+        "Testudinata",
+        "Sphenodonta"
+      ],
+      "answer": "Testudinata",
+      "explanation": "The order Testudinata includes turtles and tortoises.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_038",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which mammal order is known for having a long muscular trunk?",
+      "options": [
+        "Cetacea",
+        "Proboscidea",
+        "Chiroptera",
+        "Sirenia"
+      ],
+      "answer": "Proboscidea",
+      "explanation": "The order Proboscidea includes animals like the elephant, which possesses a long muscular trunk.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C4_039",
+      "course": "BIO121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which nematode parasite is associated with causing river blindness (onchocerciasis)?",
+      "options": [
+        "*Ascaris lumbricoides*",
+        "*Dracunculus medinensis*",
+        "*Onchocerca volvulus*",
+        "*Ancylostoma duodenale*"
+      ],
+      "answer": "*Onchocerca volvulus*",
+      "explanation": "*Onchocerca volvulus* is the parasite that causes onchocerciasis, also known as river blindness.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_040",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which vertebrate class is referred to as ectotherms (cold-blooded) and includes crocodiles and lizards?",
+      "options": [
+        "Aves",
+        "Mammalia",
+        "Reptilia",
+        "Amphibia"
+      ],
+      "answer": "Reptilia",
+      "explanation": "Reptiles, including lizards and crocodiles, are ectotherms.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_041",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "What is the primary respiratory organ of adult amphibians?",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Skin",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "Amphibian respiration can occur through the mouth cavity, skin, gills, and lungs; adults primarily use the skin, mouth cavity, and lungs.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_042",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which subclass of fish contains the cartilaginous fishes, such as sharks?",
+      "options": [
+        "Agnatha",
+        "Chondrichthyes",
+        "Osteichthyes",
+        "Cephalochordata"
+      ],
+      "answer": "Chondrichthyes",
+      "explanation": "The subclass Chondrichthyes consists of cartilaginous fishes, for example, sharks.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_043",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which of the following is a characteristic of Marsupial mammals?",
+      "options": [
+        "They lack mammary glands",
+        "They possess a maternal pouch",
+        "They are all aquatic",
+        "They lay hard-shelled eggs"
+      ],
+      "answer": "They possess a maternal pouch",
+      "explanation": "Marsupials possess a maternal pouch where the premature baby is carried until it is mature.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_044",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which order of birds includes parrots?",
+      "options": [
+        "Anseriformes",
+        "Galliformes",
+        "Psittaciformes",
+        "Falconiformes"
+      ],
+      "answer": "Psittaciformes",
+      "explanation": "The order Psittaciformes includes parrots.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_045",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which class of vertebrates is characterized by 'double life' stages (aquatic larva and terrestrial adult)?",
+      "options": [
+        "Pisces",
+        "Amphibia",
+        "Reptilia",
+        "Aves"
+      ],
+      "answer": "Amphibia",
+      "explanation": "Amphibians live a dual or double life; 'amphi' means dual and 'bio' means life.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C4_046",
+      "course": "BIO121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the common name for *Dracunculus medinensis*?",
+      "options": [
+        "Hookworm",
+        "Pinworm",
+        "Whipworm",
+        "Guinea worm"
+      ],
+      "answer": "Guinea worm",
+      "explanation": "*Dracunculus medinensis* is commonly known as the Guinea worm.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_047",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "The name 'Chordata' is derived from which anatomical structure?",
+      "options": [
+        "Dorsal nerve cord",
+        "Notochord",
+        "Post-anal tail",
+        "Pharyngeal slits"
+      ],
+      "answer": "Notochord",
+      "explanation": "The word Chordata is derived from notochord.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_048",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which order of reptiles includes tuatara?",
+      "options": [
+        "Squamata",
+        "Crocodilia",
+        "Testudinata",
+        "Sphenodonta"
+      ],
+      "answer": "Sphenodonta",
+      "explanation": "The order Sphenodonta includes tuatara.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_049",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which mammalian order is composed of flying mammals?",
+      "options": [
+        "Chiroptera",
+        "Insectivora",
+        "Cetaceans",
+        "Rodentia"
+      ],
+      "answer": "Chiroptera",
+      "explanation": "The order Chiroptera consists of flying mammals, which are bats.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C5_050",
+      "course": "BIO121",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "What kind of fish are included in the subclass Osteichthyes?",
+      "options": [
+        "Jawless fish",
+        "Cartilaginous fish",
+        "Bony fish",
+        "Lungfish"
+      ],
+      "answer": "Bony fish",
+      "explanation": "Osteichthyes are the bony fishes.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_051",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "In aerobic respiration, what is the primary end product of the breakdown of glucose?",
+      "options": [
+        "Lactic acid",
+        "Ethanol",
+        "Carbon dioxide and water",
+        "Ammonia"
+      ],
+      "answer": "Carbon dioxide and water",
+      "explanation": "Aerobic respiration involves the complete breakdown of glucose into carbon dioxide (CO2) and water (H2O).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_052",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "Which respiratory pigment found in crustaceans and mollusks contains copper and gives blood a blue color?",
+      "options": [
+        "Hemoglobin",
+        "Myoglobin",
+        "Hemocyanin",
+        "Chlorophyll"
+      ],
+      "answer": "Hemocyanin",
+      "explanation": "Hemocyanin is a copper-containing respiratory pigment found in crustaceans and mollusks, giving their blood a blue color.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_053",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "Which process in cellular respiration occurs in the cytoplasm and is anaerobic?",
+      "options": [
+        "Krebs cycle",
+        "Electron transport chain",
+        "Glycolysis",
+        "Oxidative phosphorylation"
+      ],
+      "answer": "Glycolysis",
+      "explanation": "Glycolysis occurs in the cytoplasm, is anaerobic, and produces 2 ATP.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_054",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "In insects, how does air travel directly to the tissues?",
+      "options": [
+        "Through the circulatory system",
+        "Via tracheae",
+        "Across the skin",
+        "Through gills"
+      ],
+      "answer": "Via tracheae",
+      "explanation": "In insects, air enters through spiracles and travels via tracheae directly to tissues, independent of the circulatory system.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_055",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "What is the primary function of respiration in organisms?",
+      "options": [
+        "To produce food",
+        "To release energy in the form of ATP",
+        "To eliminate undigested food",
+        "To absorb sunlight"
+      ],
+      "answer": "To release energy in the form of ATP",
+      "explanation": "Respiration is the biological process through which organisms break down food molecules to release energy in the form of ATP.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_056",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which nitrogenous waste product is highly toxic and requires large amounts of water to be diluted and excreted?",
+      "options": [
+        "Urea",
+        "Uric acid",
+        "Ammonia",
+        "Bilirubin"
+      ],
+      "answer": "Ammonia",
+      "explanation": "Ammonia is highly toxic, very soluble in water, and must be diluted and removed quickly.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_057",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which structures are used by insects to collect nitrogenous waste and dump it into the hindgut?",
+      "options": [
+        "Protonephridia",
+        "Metanephridia",
+        "Malpighian tubules",
+        "Flame cells"
+      ],
+      "answer": "Malpighian tubules",
+      "explanation": "Insects have Malpighian tubules that extend into the hemocoel to collect waste and dump it into the hindgut.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_058",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the primary excretory product of birds and reptiles to minimize water loss?",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Uric acid",
+        "Carbon dioxide"
+      ],
+      "answer": "Uric acid",
+      "explanation": "Birds and reptiles excrete uric acid in a paste or solid form to minimize water loss.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_059",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the difference between excretion and egestion?",
+      "options": [
+        "Excretion removes undigested food; egestion removes metabolic waste",
+        "Excretion removes metabolic waste; egestion removes undigested food",
+        "There is no difference",
+        "Excretion happens in plants; egestion happens in animals"
+      ],
+      "answer": "Excretion removes metabolic waste; egestion removes undigested food",
+      "explanation": "Excretion is the removal of metabolic waste, while egestion is the elimination of undigested food (feces).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_060",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which organ in mammals is responsible for processing toxic substances and breaking down old blood cells?",
+      "options": [
+        "Kidneys",
+        "Lungs",
+        "Liver",
+        "Skin"
+      ],
+      "answer": "Liver",
+      "explanation": "The liver processes toxins and old blood cells, and bile pigments are excreted in bile.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_061",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "Which respiratory system component is involved in buccopharyngeal respiration in amphibians?",
+      "options": [
+        "Lungs",
+        "Skin",
+        "Lining of the mouth",
+        "Gills"
+      ],
+      "answer": "Lining of the mouth",
+      "explanation": "Buccopharyngeal respiration occurs through the lining of the mouth in amphibians.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_062",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which excretory organ is found in crustaceans like crabs and prawns?",
+      "options": [
+        "Malpighian tubules",
+        "Green glands",
+        "Flame cells",
+        "Metanephridia"
+      ],
+      "answer": "Green glands",
+      "explanation": "Crustaceans like crabs and prawns use green glands (also called antennal glands) for excretion.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_063",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "Approximately how many ATP molecules are produced from one glucose molecule in aerobic respiration?",
+      "options": [
+        "2",
+        "10",
+        "36-38",
+        "50"
+      ],
+      "answer": "36-38",
+      "explanation": "Aerobic respiration produces 36-38 ATP per glucose molecule.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_064",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "In vertebrates, where does the filtration of blood primarily occur within the nephron?",
+      "options": [
+        "Loop of Henle",
+        "Proximal convoluted tubule",
+        "Glomerulus",
+        "Collecting duct"
+      ],
+      "answer": "Glomerulus",
+      "explanation": "In vertebrates, filtration occurs in the glomerulus of the nephron.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_065",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "What is the primary respiratory pigment in vertebrates?",
+      "options": [
+        "Hemocyanin",
+        "Hemoglobin",
+        "Myoglobin",
+        "Chlorophyll"
+      ],
+      "answer": "Hemoglobin",
+      "explanation": "Hemoglobin is the red, iron-containing respiratory pigment found in vertebrates.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_066",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which type of animal is classified as ammonotelic?",
+      "options": [
+        "Mammals",
+        "Birds",
+        "Freshwater fish",
+        "Reptiles"
+      ],
+      "answer": "Freshwater fish",
+      "explanation": "Freshwater fish and amphibians are ammonotelic animals, meaning they excrete ammonia.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_067",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "Which of the following is a byproduct of anaerobic respiration in some organisms?",
+      "options": [
+        "Oxygen",
+        "Ethanol",
+        "Water",
+        "Glucose"
+      ],
+      "answer": "Ethanol",
+      "explanation": "End products of anaerobic respiration may include lactic acid or ethanol and CO2.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_068",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Where does the urea cycle primarily occur in mammals?",
+      "options": [
+        "Kidneys",
+        "Lungs",
+        "Liver",
+        "Small intestine"
+      ],
+      "answer": "Liver",
+      "explanation": "Urea is formed in the liver via the urea cycle.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_069",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "What is the role of the diaphragm in respiration?",
+      "options": [
+        "Energy production",
+        "Ventilation of the lungs",
+        "Waste elimination",
+        "Oxygen storage"
+      ],
+      "answer": "Ventilation of the lungs",
+      "explanation": "In pulmonary respiration, ventilation of the lungs is achieved via diaphragm or chest movements.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_070",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which excretory structure is found in annelids (earthworms)?",
+      "options": [
+        "Flame cells",
+        "Metanephridia",
+        "Malpighian tubules",
+        "Green glands"
+      ],
+      "answer": "Metanephridia",
+      "explanation": "Annelids (earthworms) possess metanephridia, one pair per body segment.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_071",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "What happens to respiration rates in response to higher temperatures?",
+      "options": [
+        "Respiration stops",
+        "Respiration speeds up",
+        "Respiration slows down",
+        "Respiration remains constant"
+      ],
+      "answer": "Respiration speeds up",
+      "explanation": "Higher temperatures result in faster respiration up to a point.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_072",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which animal group uses salt glands to eliminate excess salts?",
+      "options": [
+        "Freshwater fish",
+        "Mammals",
+        "Marine birds",
+        "Protozoans"
+      ],
+      "answer": "Marine birds",
+      "explanation": "Birds, such as marine birds, have salt glands near the eyes to eliminate excess salts.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_073",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "Which of these animals utilizes body surface respiration?",
+      "options": [
+        "Human",
+        "Grasshopper",
+        "Earthworm",
+        "Fish"
+      ],
+      "answer": "Earthworm",
+      "explanation": "Gas exchange across moist, thin body surfaces via diffusion occurs in animals like earthworms, leeches, and flatworms.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C7_074",
+      "course": "BIO121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which excretory structure is characteristic of the Platyhelminthes?",
+      "options": [
+        "Contractile vacuole",
+        "Protonephridia (flame cells)",
+        "Metanephridia",
+        "Kidney"
+      ],
+      "answer": "Protonephridia (flame cells)",
+      "explanation": "Platyhelminthes use protonephridia, which consist of a network of tubules with flame cells.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C6_075",
+      "course": "BIO121",
+      "chapter": 6,
+      "type": "phrase",
+      "question": "What is the primary respiratory site for fish and tadpoles?",
+      "options": [
+        "Lungs",
+        "Skin",
+        "Gills",
+        "Tracheae"
+      ],
+      "answer": "Gills",
+      "explanation": "Branchial respiration using gills is common in fish, tadpoles, and some crustaceans.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_076",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "What is the non-living particle form of a virus when it is outside a host cell?",
+      "options": [
+        "Prokaryote",
+        "Virion",
+        "Capsid",
+        "Plasmid"
+      ],
+      "answer": "Virion",
+      "explanation": "A virus particle outside of a host cell is a non-living particle called a virion.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_077",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Which component is present in the rigid cell wall of fungi?",
+      "options": [
+        "Peptidoglycan",
+        "Chitin",
+        "Cellulose only",
+        "Starch"
+      ],
+      "answer": "Chitin",
+      "explanation": "The cell wall of fungi is composed of chitin and glucans, and sometimes cellulose.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_078",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Bacteria that thrive in extreme environmental conditions are classified as:",
+      "options": [
+        "Eubacteria",
+        "Cyanobacteria",
+        "Archaebacteria",
+        "Actinomycetes"
+      ],
+      "answer": "Archaebacteria",
+      "explanation": "Archaebacteria are bacteria that live in extreme conditions and resemble the first known prokaryotes.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_079",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "What is the symbiotic association between fungi and green algae called?",
+      "options": [
+        "Mycorrhizae",
+        "Lichen",
+        "Zygomycota",
+        "Thallus"
+      ],
+      "answer": "Lichen",
+      "explanation": "Lichens are an association of two organisms, fungi and green algae.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_080",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "What is the specific name for the rod-shaped bacteria?",
+      "options": [
+        "Cocci",
+        "Bacilli",
+        "Vibrios",
+        "Spirilla"
+      ],
+      "answer": "Bacilli",
+      "explanation": "Bacteria shapes include cocci (round/spherical), bacilli (rod-shaped), vibrios (comma-shaped), and spirilla (coiled).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_081",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Which group of fungi is known as the 'sac fungi'?",
+      "options": [
+        "Zygomycota",
+        "Ascomycota",
+        "Basidiomycota",
+        "Deuteromycota"
+      ],
+      "answer": "Ascomycota",
+      "explanation": "Ascomycota are commonly called the sac fungi.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_082",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "What is the primary method of reproduction for bacteria?",
+      "options": [
+        "Binary fission",
+        "Conjugation",
+        "Spore formation",
+        "Fragmentation"
+      ],
+      "answer": "Binary fission",
+      "explanation": "Bacteria reproduce asexually by binary fission.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_083",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "In the context of lichen, what does the algal partner provide to the fungus?",
+      "options": [
+        "Protection",
+        "Water",
+        "Minerals",
+        "Nutrients (photosynthates)"
+      ],
+      "answer": "Nutrients (photosynthates)",
+      "explanation": "The photosynthetic algal partner (phycobiont) provides nutrients (photosynthates) for the fungus.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_084",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Which term describes the body of a fungus?",
+      "options": [
+        "Thallus",
+        "Mycelium",
+        "Hyphae",
+        "Pellicle"
+      ],
+      "answer": "Thallus",
+      "explanation": "The body of a fungus is called the thallus.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_085",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Which type of lichen appears leaf-like or membranous?",
+      "options": [
+        "Crustose",
+        "Fruticose",
+        "Foliose",
+        "Thalloid"
+      ],
+      "answer": "Foliose",
+      "explanation": "Foliose lichens appear leaf-like or show a membranous nature.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_086",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Viruses are considered obligate parasites because they:",
+      "options": [
+        "Can only live in soil",
+        "Only reproduce within living cells",
+        "Lack a cell wall",
+        "Are always spherical in shape"
+      ],
+      "answer": "Only reproduce within living cells",
+      "explanation": "Viruses are obligate parasites that only exist, survive, or reproduce within living cells.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_087",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Bacteria that use chemicals as a source of energy are called:",
+      "options": [
+        "Phototrophs",
+        "Chemotrophs",
+        "Actinomycetes",
+        "Cyanobacteria"
+      ],
+      "answer": "Chemotrophs",
+      "explanation": "Based on their source of energy, bacteria are classified into phototrophs (use light) and chemotrophs (use chemicals).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_088",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Which fungal group is referred to as 'imperfect fungi' because they lack a known sexual life cycle?",
+      "options": [
+        "Zygomycota",
+        "Ascomycota",
+        "Basidiomycota",
+        "Deuteromycota"
+      ],
+      "answer": "Deuteromycota",
+      "explanation": "Deuteromycota are known as imperfect fungi, lacking a known sexual life cycle.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_089",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "What is the size range of viruses?",
+      "options": [
+        "1-5 nm",
+        "10-400 nm",
+        "0.5-1.0 nm",
+        "100-1000 nm"
+      ],
+      "answer": "10-400 nm",
+      "explanation": "[FLAGGED — UNIT ERROR: Source document stated 10-400 µm, which is incorrect. Viruses range in size from 10 to 400 nanometers (nm). Units updated to nm.] Viruses range in size from 10-400 nm.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_090",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Which lichen type is branched or occurs as an outgrowth from the substrate?",
+      "options": [
+        "Crustose",
+        "Foliose",
+        "Fruticose",
+        "Thalloid"
+      ],
+      "answer": "Fruticose",
+      "explanation": "Fruticose lichens are branched or occur as an outgrowth from the substrate.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_091",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "What are mold-like bacteria known as?",
+      "options": [
+        "Cyanobacteria",
+        "Actinomycetes",
+        "Chloroxybacteria",
+        "Bacilli"
+      ],
+      "answer": "Actinomycetes",
+      "explanation": "Actinomycetes are characterized as mold-like bacteria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_092",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Which type of microorganism lacks chlorophyll and is thus called achlorophyllous?",
+      "options": [
+        "Bacteria",
+        "Fungi",
+        "Algae",
+        "Lichens"
+      ],
+      "answer": "Fungi",
+      "explanation": "Fungi do not have chlorophyll and are described as achlorophyllous.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_093",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Which bacterial structure is used for propulsion and is thinner and shorter than flagella?",
+      "options": [
+        "Pili (fimbriae)",
+        "Nucleoid",
+        "Capsid",
+        "Cell wall"
+      ],
+      "answer": "Pili (fimbriae)",
+      "explanation": "Bacteria propel themselves by flagella or pili (fimbriae), which are thinner, shorter, and more numerous than flagella.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_094",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "The relationship between fungi and the root of higher plants is known as:",
+      "options": [
+        "Mycorrhizae",
+        "Lichens",
+        "Symbiosis",
+        "Parasitism"
+      ],
+      "answer": "Mycorrhizae",
+      "explanation": "Mycorrhizae is the beneficial relationship between fungi and the roots of higher plants.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_095",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Which fungal division is commonly called the 'club fungi'?",
+      "options": [
+        "Zygomycota",
+        "Ascomycota",
+        "Basidiomycota",
+        "Chytridiomycota"
+      ],
+      "answer": "Basidiomycota",
+      "explanation": "Basidiomycota are called the club fungi.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_096",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "What is the defining characteristic of the genetic material in viruses?",
+      "options": [
+        "It consists of both DNA and RNA",
+        "It consists of either DNA or RNA",
+        "It lacks any nucleic acid",
+        "It is double-stranded protein"
+      ],
+      "answer": "It consists of either DNA or RNA",
+      "explanation": "A virus particle consists of one or more molecules of DNA or RNA.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_097",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Bacteria shapes that are regularly coiled are called:",
+      "options": [
+        "Vibrios",
+        "Spirilla",
+        "Bacilli",
+        "Cocci"
+      ],
+      "answer": "Spirilla",
+      "explanation": "Spirilla are bacteria that are regularly coiled.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_098",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Which lichen type is found on soil, wood, or rock?",
+      "options": [
+        "Crustose",
+        "Foliose",
+        "Fruticose",
+        "Thalloid"
+      ],
+      "answer": "Crustose",
+      "explanation": "Crustose refers to a group of lichens found in soil, wood, or rock.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_099",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "Which organelle is notably absent in prokaryotic bacteria?",
+      "options": [
+        "Ribosome",
+        "Cell membrane",
+        "True nucleus",
+        "DNA"
+      ],
+      "answer": "True nucleus",
+      "explanation": "Bacteria are prokaryotic and lack a true nucleus.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C8_100",
+      "course": "BIO121",
+      "chapter": 8,
+      "type": "phrase",
+      "question": "What allows lichens to grow in environments like bare stone walls or concrete?",
+      "options": [
+        "They are photosynthetic",
+        "They have true roots",
+        "They can grow where no other organisms are able to",
+        "They are parasitic"
+      ],
+      "answer": "They can grow where no other organisms are able to",
+      "explanation": "Lichens can grow where no other organisms are able to, such as stone walls, rock faces, and roofing tiles.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C9_101",
+      "course": "BIO121",
+      "chapter": 9,
+      "type": "phrase",
+      "question": "Which gas is primarily responsible for the start of the gaseous exchange process in the human respiratory system?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Methane"
+      ],
+      "answer": "Oxygen",
+      "explanation": "Oxygen is the primary gas required for respiration and is the main component for gaseous exchange in the alveoli.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C9_102",
+      "course": "BIO121",
+      "chapter": 9,
+      "type": "phrase",
+      "question": "What is the primary site of gaseous exchange in the human lungs?",
+      "options": [
+        "Trachea",
+        "Bronchi",
+        "Alveoli",
+        "Pleura"
+      ],
+      "answer": "Alveoli",
+      "explanation": "Alveoli are tiny air sacs in the lungs that serve as the primary site for the exchange of oxygen and carbon dioxide.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C9_103",
+      "course": "BIO121",
+      "chapter": 9,
+      "type": "phrase",
+      "question": "Which respiratory pigment is responsible for transporting oxygen in human muscles?",
+      "options": [
+        "Hemoglobin",
+        "Myoglobin",
+        "Erythrin",
+        "Erythropoietin"
+      ],
+      "answer": "Myoglobin",
+      "explanation": "Myoglobin is the respiratory pigment found specifically in muscle tissues for oxygen storage and transport.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C9_104",
+      "course": "BIO121",
+      "chapter": 9,
+      "type": "phrase",
+      "question": "During the process of inhalation, what is the action of the diaphragm?",
+      "options": [
+        "Relaxation and moves upward",
+        "Contraction and moves downward",
+        "Stays stationary",
+        "Expansion without movement"
+      ],
+      "answer": "Contraction and moves downward",
+      "explanation": "During inhalation, the diaphragm contracts and moves downward to increase the volume of the thoracic cavity.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C9_105",
+      "course": "BIO121",
+      "chapter": 9,
+      "type": "phrase",
+      "question": "Which structure prevents food from entering the trachea during swallowing?",
+      "options": [
+        "Glottis",
+        "Pharynx",
+        "Epiglottis",
+        "Larynx"
+      ],
+      "answer": "Epiglottis",
+      "explanation": "The epiglottis is a flap of tissue that covers the opening of the trachea (glottis) during swallowing to prevent choking.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C10_106",
+      "course": "BIO121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which substance is secreted by the stomach to activate pepsinogen and kill bacteria?",
+      "options": [
+        "Bile",
+        "HCl",
+        "Mucous",
+        "Sodium bicarbonate"
+      ],
+      "answer": "HCl",
+      "explanation": "Hydrochloric acid (HCl) is secreted by the stomach to provide an acidic environment that activates pepsinogen into pepsin and destroys pathogens.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C10_107",
+      "course": "BIO121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the function of bile in the digestive system?",
+      "options": [
+        "Protein digestion",
+        "Emulsification of fats",
+        "Starch breakdown",
+        "Killing viruses"
+      ],
+      "answer": "Emulsification of fats",
+      "explanation": "Bile is produced by the liver and stored in the gallbladder; it emulsifies fats, breaking them into smaller droplets for easier digestion.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C10_108",
+      "course": "BIO121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which cells in the stomach are responsible for secreting pepsinogen?",
+      "options": [
+        "Chief cells",
+        "Oxyntic cells",
+        "Parietal cells",
+        "Goblet cells"
+      ],
+      "answer": "Chief cells",
+      "explanation": "Chief cells (or zymogenic cells) in the gastric glands secrete pepsinogen, the inactive precursor of the enzyme pepsin.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C10_109",
+      "course": "BIO121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What are chylomicrons and how are they processed?",
+      "options": [
+        "Protein structures that enter the blood stream",
+        "Fat globules coated with protein that enter the lymphatic system",
+        "Carbohydrate energy stores",
+        "Waste products of the liver"
+      ],
+      "answer": "Fat globules coated with protein that enter the lymphatic system",
+      "explanation": "Chylomicrons are lipoprotein particles formed in the small intestine that transport dietary lipids to the lymphatic system.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C10_110",
+      "course": "BIO121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which organ is associated with the secretion of trypsin and chymotrypsin?",
+      "options": [
+        "Liver",
+        "Stomach",
+        "Pancreas",
+        "Small intestine"
+      ],
+      "answer": "Pancreas",
+      "explanation": "The pancreas secretes pancreatic juice containing enzymes such as trypsin and chymotrypsin, which are essential for protein digestion.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C11_111",
+      "course": "BIO121",
+      "chapter": 11,
+      "type": "phrase",
+      "question": "Which blood component is primarily responsible for the transport of oxygen in humans?",
+      "options": [
+        "White blood cells",
+        "Platelets",
+        "Red blood cells (erythrocytes)",
+        "Plasma"
+      ],
+      "answer": "Red blood cells (erythrocytes)",
+      "explanation": "Red blood cells contain hemoglobin, which binds to oxygen and facilitates its transport throughout the body.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C11_112",
+      "course": "BIO121",
+      "chapter": 11,
+      "type": "phrase",
+      "question": "What is the function of the Sinoatrial (SA) node in the human heart?",
+      "options": [
+        "Filtering blood",
+        "Producing antibodies",
+        "Acting as the natural pacemaker",
+        "Preventing backflow of blood"
+      ],
+      "answer": "Acting as the natural pacemaker",
+      "explanation": "The SA node initiates the electrical impulses that trigger heart contractions, serving as the heart's natural pacemaker.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C11_113",
+      "course": "BIO121",
+      "chapter": 11,
+      "type": "phrase",
+      "question": "Which type of blood vessel carries blood away from the heart?",
+      "options": [
+        "Veins",
+        "Capillaries",
+        "Arteries",
+        "Venules"
+      ],
+      "answer": "Arteries",
+      "explanation": "Arteries are muscular vessels that transport oxygenated blood (with the exception of the pulmonary artery) away from the heart to tissues.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C11_114",
+      "course": "BIO121",
+      "chapter": 11,
+      "type": "phrase",
+      "question": "Which chamber of the human heart receives deoxygenated blood from the body?",
+      "options": [
+        "Left atrium",
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle"
+      ],
+      "answer": "Right atrium",
+      "explanation": "The right atrium receives deoxygenated blood from the superior and inferior vena cava.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C11_115",
+      "course": "BIO121",
+      "chapter": 11,
+      "type": "phrase",
+      "question": "What is the primary role of platelets in the circulatory system?",
+      "options": [
+        "Immune defense",
+        "Oxygen transport",
+        "Blood clotting (coagulation)",
+        "Nutrient absorption"
+      ],
+      "answer": "Blood clotting (coagulation)",
+      "explanation": "Platelets are essential for the formation of blood clots to stop bleeding at the site of a wound.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C12_116",
+      "course": "BIO121",
+      "chapter": 12,
+      "type": "phrase",
+      "question": "What is the basic functional unit of the nervous system?",
+      "options": [
+        "Nephron",
+        "Neuron",
+        "Axon",
+        "Synapse"
+      ],
+      "answer": "Neuron",
+      "explanation": "The neuron is the specialized nerve cell responsible for transmitting electrical and chemical signals throughout the nervous system.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C12_117",
+      "course": "BIO121",
+      "chapter": 12,
+      "type": "phrase",
+      "question": "Which neurotransmitter is commonly associated with muscle contraction at the neuromuscular junction?",
+      "options": [
+        "Dopamine",
+        "Serotonin",
+        "Acetylcholine",
+        "GABA"
+      ],
+      "answer": "Acetylcholine",
+      "explanation": "Acetylcholine is the primary neurotransmitter released at the neuromuscular junction to trigger muscle contraction.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C12_118",
+      "course": "BIO121",
+      "chapter": 12,
+      "type": "phrase",
+      "question": "What are the two major divisions of the vertebrate nervous system?",
+      "options": [
+        "Sensory and Motor",
+        "Central and Peripheral",
+        "Sympathetic and Parasympathetic",
+        "Brain and Spinal cord"
+      ],
+      "answer": "Central and Peripheral",
+      "explanation": "The nervous system is divided into the Central Nervous System (CNS) and the Peripheral Nervous System (PNS).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C12_119",
+      "course": "BIO121",
+      "chapter": 12,
+      "type": "phrase",
+      "question": "What is the gap between two communicating neurons called?",
+      "options": [
+        "Axon",
+        "Dendrite",
+        "Synapse",
+        "Myelin sheath"
+      ],
+      "answer": "Synapse",
+      "explanation": "A synapse is the microscopic junction where signals are passed from one neuron to another or to an effector cell.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO121_C12_120",
+      "course": "BIO121",
+      "chapter": 12,
+      "type": "phrase",
+      "question": "Which part of the brain is primarily responsible for balance, coordination, and posture?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "answer": "Cerebellum",
+      "explanation": "The cerebellum coordinates voluntary muscular movements, posture, and balance.",
+      "working": null,
+      "variant_of": null
+    }
+  ]
+}

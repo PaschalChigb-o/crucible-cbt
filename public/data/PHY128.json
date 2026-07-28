@@ -1,0 +1,856 @@
+{
+  "course": "PHY128",
+  "total": 50,
+  "questions": [
+    {
+      "id": "PHY128_C4_001",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "According to the practical precautions for the use of an ammeter, how must it be connected to a component to measure the current through that component?",
+      "options": [
+        "In parallel with the component",
+        "In series with the component",
+        "Directly across the battery terminals",
+        "In series with the voltmeter"
+      ],
+      "answer": "In series with the component",
+      "explanation": "The source material states that an ammeter must be connected in series with a component to measure the current through that component.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_002",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following describes the correct connection for a voltmeter in a circuit?",
+      "options": [
+        "In series with the component",
+        "In parallel with the component",
+        "In series with the battery",
+        "Across the galvanometer"
+      ],
+      "answer": "In parallel with the component",
+      "explanation": "The source material explicitly states that a voltmeter must be connected in parallel with the component.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_003",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "In a Wheatstone bridge experiment, what is the purpose of the galvanometer?",
+      "options": [
+        "To measure the total current",
+        "To measure the voltage",
+        "To detect the balance point where no current flows",
+        "To protect the battery from damage"
+      ],
+      "answer": "To detect the balance point where no current flows",
+      "explanation": "The galvanometer is used to determine the balance point in a Wheatstone bridge, which is reached when no current flows through it.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_004",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "When using a meter bridge, which material is recommended for cleaning the wire?",
+      "options": [
+        "Water",
+        "Oil",
+        "Acetone if available and emery cloth",
+        "Alcohol and a paper towel"
+      ],
+      "answer": "Acetone if available and emery cloth",
+      "explanation": "The source material advises cleaning the wire properly with acetone if available and emery cloth.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_005",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What happens if the sliding contact of a meter bridge is pressed too hard onto the wire?",
+      "options": [
+        "The circuit will balance faster",
+        "The wire may become non-uniform",
+        "The galvanometer will be protected",
+        "The resistance will increase automatically"
+      ],
+      "answer": "The wire may become non-uniform",
+      "explanation": "The instructions for the meter bridge warn against pressing the sliding contact hard because it can make the wire non-uniform.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_006",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "For a potentiometer, the potential difference (V) is related to the balance length (L) by which relationship?",
+      "options": [
+        "V = L/k",
+        "V = k/L",
+        "V = kL",
+        "V = L^2"
+      ],
+      "answer": "V = kL",
+      "explanation": "Since the wire is uniform, the resistance per unit length is constant, leading to the relationship V = kL.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_007",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "When measuring the internal resistance of a cell using a potentiometer, why should the accumulator be fully charged?",
+      "options": [
+        "To increase the current in the circuit",
+        "To protect the galvanometer",
+        "To ensure the e.m.f. is stable during the experiment",
+        "To prevent the wire from heating up"
+      ],
+      "answer": "To ensure the e.m.f. is stable during the experiment",
+      "explanation": "The practical precautions state that the accumulator must be fully charged to ensure reliable readings during the measurement of internal resistance.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_008",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "calculation",
+      "question": "In a potentiometer experiment to compare two cells with e.m.f. E1 and E2 and balance lengths L1 and L2, which equation is correct?",
+      "options": [
+        "E1/E2 = L2/L1",
+        "E1/E2 = L1/L2",
+        "E1*E2 = L1*L2",
+        "E1+E2 = L1+L2"
+      ],
+      "answer": "E1/E2 = L1/L2",
+      "explanation": "The source material confirms that the e.m.f. is proportional to the balance length, hence E1/E2 = L1/L2.",
+      "working": "Since E1 = kL1 and E2 = kL2, dividing the two gives E1/E2 = kL1/kL2 = L1/L2.",
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_009",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the primary advantage of using electrical heating in a calorimeter compared to other methods?",
+      "options": [
+        "It is cheaper to set up",
+        "It eliminates uncertain heat loss",
+        "It allows for higher temperatures",
+        "It requires less electrical power"
+      ],
+      "answer": "It eliminates uncertain heat loss",
+      "explanation": "Electrical heating has the important advantage that uncertain heat loss during the transfer of a hot body to the calorimeter is eliminated.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_010",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Why is a protective high-series resistor used with a galvanometer?",
+      "options": [
+        "To calibrate the galvanometer",
+        "To prevent damage from excessive current",
+        "To increase the sensitivity of the galvanometer",
+        "To measure voltage drops"
+      ],
+      "answer": "To prevent damage from excessive current",
+      "explanation": "A high-series resistor is used to protect the galvanometer from being damaged by excessive current during the initial search for a balance point.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_011",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What type of galvanometer is most commonly used in institutional laboratories?",
+      "options": [
+        "Moving coil galvanometer",
+        "Centre zero galvanometer",
+        "Ballistic galvanometer",
+        "Astatic galvanometer"
+      ],
+      "answer": "Centre zero galvanometer",
+      "explanation": "The source material specifies that the most commonly used type of galvanometer in institutions is the centre zero galvanometer.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_012",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the resistance of an ideal voltmeter?",
+      "options": [
+        "Zero",
+        "Very low",
+        "Very high",
+        "Equal to the resistor being measured"
+      ],
+      "answer": "Very high",
+      "explanation": "The resistance of a voltmeter is always very high so that it does not divert an appreciable current from the main circuit.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_013",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "When using a galvanometer to find a balance point, what should the pointer indicate if the connections are correct?",
+      "options": [
+        "It should stay at zero",
+        "It should show opposite deflections at two ends",
+        "It should deflect in the same direction at both ends",
+        "It should vibrate rapidly"
+      ],
+      "answer": "It should show opposite deflections at two ends",
+      "explanation": "To find a balance point, the galvanometer should show opposite deflections when touching the two ends of the wire.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_014",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "In the context of the Meter Bridge, the point D is located by what means?",
+      "options": [
+        "A fixed contact",
+        "A sliding contact",
+        "A laser pointer",
+        "A digital probe"
+      ],
+      "answer": "A sliding contact",
+      "explanation": "The point D on the meter bridge is located by a sliding contact.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_015",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "The Wheatstone bridge consists of how many resistances arranged in a specific circuit?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": "Four",
+      "explanation": "The Wheatstone bridge consists of four resistances, R1, R2, R3, and R4, arranged as shown in the diagram.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_016",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the primary unit of electric current?",
+      "options": [
+        "Volt",
+        "Ohm",
+        "Ampere",
+        "Watt"
+      ],
+      "answer": "Ampere",
+      "explanation": "The unit of electric current is the ampere.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_017",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "The instrument used for measuring potential difference is called:",
+      "options": [
+        "Ammeter",
+        "Voltmeter",
+        "Galvanometer",
+        "Rheostat"
+      ],
+      "answer": "Voltmeter",
+      "explanation": "The instrument used for measuring the potential difference between two points is the voltmeter.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_018",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the result if the positive terminal of an ammeter is connected to the negative side of a circuit?",
+      "options": [
+        "The reading is more accurate",
+        "The pointer moves backwards",
+        "The meter is immediately destroyed",
+        "The current flow increases"
+      ],
+      "answer": "The pointer moves backwards",
+      "explanation": "It is important to connect the positive terminals of electric meters correctly, otherwise the pointer will read backwards.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_019",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of these is a correct statement regarding the resistance of an ammeter?",
+      "options": [
+        "It should be very high",
+        "It should be very small",
+        "It should be equal to the internal resistance of the battery",
+        "It should be infinite"
+      ],
+      "answer": "It should be very small",
+      "explanation": "The resistance of an ammeter should be very small, otherwise it will increase the resistance in the circuit and reduce the current it is meant to measure.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_020",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "When using a Wheatstone bridge, what condition must be met for the bridge to be balanced?",
+      "options": [
+        "No current flows through the galvanometer",
+        "The battery voltage is zero",
+        "The total resistance is zero",
+        "The current is maximum through the galvanometer"
+      ],
+      "answer": "No current flows through the galvanometer",
+      "explanation": "A balance is reached in a Wheatstone bridge when no current flows through the galvanometer.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_021",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "The Wheatstone bridge method is described as the most convenient and accurate way to measure:",
+      "options": [
+        "Capacitance",
+        "Inductance",
+        "Resistance",
+        "Frequency"
+      ],
+      "answer": "Resistance",
+      "explanation": "The Wheatstone bridge is the most convenient and accurate way of measuring resistance over a range of different values.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_022",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "In the electrical heating experiment, the heating element is typically connected to:",
+      "options": [
+        "The voltmeter directly",
+        "The galvanometer",
+        "An electric heater within the calorimeter",
+        "A high resistance box"
+      ],
+      "answer": "An electric heater within the calorimeter",
+      "explanation": "The electrical heating device consists of a calorimeter containing an electric heater.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_023",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "The term 'potential difference' is measured in which unit?",
+      "options": [
+        "Amperes",
+        "Volts",
+        "Ohms",
+        "Watts"
+      ],
+      "answer": "Volts",
+      "explanation": "The unit of potential difference is the volt.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_024",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the purpose of the stirrers in a calorimeter experiment?",
+      "options": [
+        "To heat the liquid faster",
+        "To keep the temperature uniform throughout the liquid",
+        "To measure the resistance of the heater",
+        "To protect the thermometer"
+      ],
+      "answer": "To keep the temperature uniform throughout the liquid",
+      "explanation": "A stirrer is used in the calorimeter to keep the temperature of the liquid uniform.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C4_025",
+      "course": "PHY128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following is an essential piece of equipment in the electrical heating experiment described?",
+      "options": [
+        "Thermometer",
+        "Prism",
+        "Lens",
+        "Mirror"
+      ],
+      "answer": "Thermometer",
+      "explanation": "The diagram of the electrical heating device clearly shows a thermometer placed within the calorimeter.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_026",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the phenomenon called when an object appears to move relative to another object due to a change in the observer's position?",
+      "options": [
+        "Refraction",
+        "Parallax",
+        "Reflection",
+        "Dispersion"
+      ],
+      "answer": "Parallax",
+      "explanation": "The motion of one object relative to another observed when the eye is moved is called parallax.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_027",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "According to the laws of reflection, what is the relationship between the angle of reflection and the angle of incidence?",
+      "options": [
+        "The angle of reflection is greater",
+        "The angle of reflection is smaller",
+        "The angles are equal",
+        "There is no fixed relationship"
+      ],
+      "answer": "The angles are equal",
+      "explanation": "The law of reflection states that the angle of reflection equals the angle of incidence.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_028",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the geometric centre of a spherical mirror called?",
+      "options": [
+        "Principal focus",
+        "Centre of curvature",
+        "Pole",
+        "Aperture"
+      ],
+      "answer": "Pole",
+      "explanation": "The geometric centre of the mirror is called the pole (P).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_029",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "For a spherical mirror, what is the relation between the focal length (f) and the radius of curvature (r)?",
+      "options": [
+        "f = r",
+        "f = 2r",
+        "f = r/2",
+        "f = 1/r"
+      ],
+      "answer": "f = r/2",
+      "explanation": "The focal length of a spherical mirror is related to the radius of curvature by the relation f = r/2.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_030",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "calculation",
+      "question": "Using the mirror formula 1/u + 1/v = 1/f, if the focal length f is 10cm and the object distance u is 20cm, what is the image distance v?",
+      "options": [
+        "10cm",
+        "20cm",
+        "30cm",
+        "40cm"
+      ],
+      "answer": "20cm",
+      "explanation": "Given 1/u + 1/v = 1/f, substitute the values: 1/20 + 1/v = 1/10.",
+      "working": "1/v = 1/10 - 1/20 = 2/20 - 1/20 = 1/20. Therefore, v = 20cm.",
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_031",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of the following is the correct definition for linear magnification (m) by a mirror?",
+      "options": [
+        "Object height / Image height",
+        "Image height / Object height",
+        "Image distance / Object height",
+        "Object distance / Image distance"
+      ],
+      "answer": "Image height / Object height",
+      "explanation": "Linear magnification is given by the ratio of the height of the image to the height of the object.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_032",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "When light passes from one medium to another, the angle of incidence (i) and angle of refraction (r) are related by Snell's law as:",
+      "options": [
+        "sini * sinr = n",
+        "sini / sinr = n",
+        "sinr / sini = n",
+        "sini + sinr = n"
+      ],
+      "answer": "sini / sinr = n",
+      "explanation": "Snell's law is given by the expression sini/sinr = n.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_033",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "A ray of light passing through a rectangular glass block emerges laterally displaced. What can be said about the incident ray and the emergent ray?",
+      "options": [
+        "The emergent ray is parallel to the incident ray",
+        "The emergent ray is perpendicular to the incident ray",
+        "The emergent ray is deviated by 90 degrees",
+        "There is no displacement"
+      ],
+      "answer": "The emergent ray is parallel to the incident ray",
+      "explanation": "The incident ray is laterally displaced and emerges such that the angle of incidence equals the angle of emergence, meaning it emerges without deviation but is displaced.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_034",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the angle of deviation (d) for a ray passing through a triangular prism given by?",
+      "options": [
+        "d = (i - r1) - (e - r2)",
+        "d = (i - r1) + (e - r2)",
+        "d = i + r1 + e + r2",
+        "d = (i + r1) * (e + r2)"
+      ],
+      "answer": "d = (i - r1) + (e - r2)",
+      "explanation": "The angle of deviation d is given by the expression d = (i - r1) + (e - r2).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_035",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "At the minimum angle of deviation (D) in a prism, which condition holds true?",
+      "options": [
+        "i is not equal to e",
+        "i = e",
+        "r1 is not equal to r2",
+        "The angle of incidence is 90 degrees"
+      ],
+      "answer": "i = e",
+      "explanation": "At minimum deviation, the ray passes symmetrically through the prism, implying the angle of incidence equals the angle of emergence (i = e).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_036",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is total internal reflection?",
+      "options": [
+        "Reflection of light by a lens",
+        "Light passing from a less dense to a denser medium",
+        "Light incident at an angle greater than the critical angle from a denser to a less dense medium",
+        "The absorption of light by a glass block"
+      ],
+      "answer": "Light incident at an angle greater than the critical angle from a denser to a less dense medium",
+      "explanation": "Light incident at an angle greater than the critical angle while moving from a denser to a less dense medium suffers total internal reflection.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_037",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "If the critical angle (c) for light passing from glass to air is known, what is the refractive index (n) of the glass?",
+      "options": [
+        "n = 1/sinc",
+        "n = sinc",
+        "n = cosc",
+        "n = 1/tanc"
+      ],
+      "answer": "n = 1/sinc",
+      "explanation": "Applying Snell's law for critical incidence (r = 90), we obtain the equation n = 1/sinc.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_038",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which type of lens gives real images?",
+      "options": [
+        "Diverging lens",
+        "Concave lens",
+        "Converging lens",
+        "Plane mirror"
+      ],
+      "answer": "Converging lens",
+      "explanation": "The converging lens gives real images.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_039",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "How can the approximate focal length of a converging lens be easily obtained?",
+      "options": [
+        "By measuring the radius of curvature",
+        "By focusing the image of a distant object onto a screen",
+        "By using a mirror",
+        "By measuring the diameter of the lens"
+      ],
+      "answer": "By focusing the image of a distant object onto a screen",
+      "explanation": "The approximate focal length of a lens can be obtained by focusing the image of a distant object onto a screen.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_040",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "For a combination of a converging lens (f1) and a diverging lens (f2) with a combined focal length (fc), what is the relationship?",
+      "options": [
+        "1/fc = 1/f1 - 1/f2",
+        "1/fc = 1/f1 + 1/f2",
+        "fc = f1 + f2",
+        "fc = f1 * f2"
+      ],
+      "answer": "1/fc = 1/f1 + 1/f2",
+      "explanation": "It can be shown that for a combination, 1/fc = 1/f1 + 1/f2.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_041",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the term for the distance between the pole and the principal focus of a mirror?",
+      "options": [
+        "Object distance",
+        "Image distance",
+        "Focal length",
+        "Radius of curvature"
+      ],
+      "answer": "Focal length",
+      "explanation": "The distance between the principal focus (F) and the mirror (pole) is called the focal length (f).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_042",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of these devices utilize curved mirrors?",
+      "options": [
+        "Spectacles",
+        "Car driving mirrors",
+        "Prisms",
+        "Glass blocks"
+      ],
+      "answer": "Car driving mirrors",
+      "explanation": "Curved mirrors are used as car driving mirrors and as reflectors in car headlamps.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_043",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the path of a light ray known as in geometric optics?",
+      "options": [
+        "Ray",
+        "Beam",
+        "Wavefront",
+        "Pulse"
+      ],
+      "answer": "Ray",
+      "explanation": "The ray treatment of light is called geometric optics.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_044",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the effect on a light ray if the angle of incidence is equal to the angle of emergence through a rectangular glass block?",
+      "options": [
+        "The ray is dispersed",
+        "The ray is reflected",
+        "The ray emerges without deviation but is displaced",
+        "The ray stops passing through"
+      ],
+      "answer": "The ray emerges without deviation but is displaced",
+      "explanation": "The incident ray is laterally displaced and emerges such that the angle of incidence is equal to the angle of emergence, meaning it emerges without deviation.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_045",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "In the experiment for minimum deviation of a prism, what is the value A equal to?",
+      "options": [
+        "A = r1 + r2",
+        "A = r1 - r2",
+        "A = i + e",
+        "A = d + i"
+      ],
+      "answer": "A = r1 + r2",
+      "explanation": "The source material states that A = r1 + r2.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_046",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of the following is a key component of geometric optics studies?",
+      "options": [
+        "The law of gravity",
+        "The laws of reflection",
+        "The law of thermodynamics",
+        "The law of conservation of mass"
+      ],
+      "answer": "The laws of reflection",
+      "explanation": "Geometric optics involves the laws of reflection and the laws of refraction.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_047",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "The principal axis is defined as the line passing through:",
+      "options": [
+        "The pole and the focus",
+        "The pole and the centre of curvature",
+        "The focus and the centre of curvature",
+        "The object and the image"
+      ],
+      "answer": "The pole and the centre of curvature",
+      "explanation": "The line CP is called the principal axis, connecting the pole and the centre of curvature.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_048",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the angle of refraction (r) when the angle of incidence (i) is the critical angle (c)?",
+      "options": [
+        "0 degrees",
+        "45 degrees",
+        "90 degrees",
+        "180 degrees"
+      ],
+      "answer": "90 degrees",
+      "explanation": "The angle of incidence for which the angle of refraction r = 90 degrees is called the critical angle c.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_049",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the purpose of using two pins in the 'no-parallax' method to locate an image?",
+      "options": [
+        "To measure distance",
+        "To eliminate parallax to find the image position",
+        "To increase magnification",
+        "To bend the light"
+      ],
+      "answer": "To eliminate parallax to find the image position",
+      "explanation": "Parallax is eliminated by making the object coincide with its image to determine its position.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PHY128_C2_050",
+      "course": "PHY128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of these is mentioned as an application of optical materials?",
+      "options": [
+        "Building bridges",
+        "Spectacles",
+        "Cooking",
+        "Electrical wiring"
+      ],
+      "answer": "Spectacles",
+      "explanation": "The scientific study of light and optical materials is useful in the making of spectacles, cameras, and telescopes.",
+      "working": null,
+      "variant_of": null
+    }
+  ]
+}

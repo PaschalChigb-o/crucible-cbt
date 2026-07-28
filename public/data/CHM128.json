@@ -1,0 +1,856 @@
+{
+  "course": "CHM128",
+  "total": 50,
+  "questions": [
+    {
+      "id": "CHM128_C1_001",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which of the following physical states should be observed and recorded for an organic compound during the initial examination?",
+      "options": [
+        "Solid, liquid, or gas",
+        "Solid, liquid, or powder",
+        "Gas, vapour, or liquid",
+        "Crystalline or amorphous solid"
+      ],
+      "answer": "Solid, liquid, or gas",
+      "explanation": "The procedure for physical state observation explicitly requires recording whether the test substance is a solid, liquid, or gas.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_002",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which of the following odours is associated with nitro-compounds and benzaldehyde in Experiment 1?",
+      "options": [
+        "Carbolic",
+        "Fishlike",
+        "Bitter Almond",
+        "Sour"
+      ],
+      "answer": "Bitter Almond",
+      "explanation": "Nitro-compounds and benzaldehyde are characterized by a bitter almond (shoe polish) odour.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_003",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "In the ignition test, what does a 'luminous sooty flame' indicate?",
+      "options": [
+        "Single aliphatic compound",
+        "Aromatic or unsaturated aliphatic compound",
+        "Amines",
+        "Nitrogen compounds"
+      ],
+      "answer": "Aromatic or unsaturated aliphatic compound",
+      "explanation": "According to the ignition test procedure, a luminous sooty flame indicates an aromatic or unsaturated aliphatic compound.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_004",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What is the result of confirming a black residue on a spatula with ammonium nitrate solution?",
+      "options": [
+        "Carbon is oxidised to carbon dioxide",
+        "Nitrogen is evolved",
+        "The compound is a metallic salt",
+        "The residue becomes white"
+      ],
+      "answer": "Carbon is oxidised to carbon dioxide",
+      "explanation": "A black residue confirmed with ammonium nitrate indicates carbon, which will be oxidised to carbon dioxide.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_005",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "In the Lassaigne's test, why is the hot red tube plunged into distilled water in a Pyrex boiling tube?",
+      "options": [
+        "To cool the tube rapidly",
+        "To convert elements into inorganic water-soluble salts",
+        "To purify the sodium metal",
+        "To test for the presence of carbon"
+      ],
+      "answer": "To convert elements into inorganic water-soluble salts",
+      "explanation": "The purpose of the sodium fusion/Lassaigne's test is to convert elements into inorganic salts that are water-soluble.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_006",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What does an immediate purple colour indicate in the test for sulphur using sodium nitroprusside?",
+      "options": [
+        "Presence of Nitrogen",
+        "Presence of Phosphorus",
+        "Presence of Sulphur",
+        "Presence of Halogens"
+      ],
+      "answer": "Presence of Sulphur",
+      "explanation": "Adding a freshly prepared solution of sodium nitroprusside to the filtrate and observing an immediate purple colour indicates the presence of sulphur.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_007",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "During the test for nitrogen, a dark green or black precipitate is formed. What is added to the mixture next?",
+      "options": [
+        "Sodium hydroxide",
+        "Concentrated hydrochloric acid",
+        "Silver nitrate",
+        "Ammonium molybdate"
+      ],
+      "answer": "Concentrated hydrochloric acid",
+      "explanation": "After adding iron (II) sulphate and seeing a precipitate, the mixture is boiled and then acidified with concentrated hydrochloric acid.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_008",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "In the test for halogens, what indicates the presence of AgCl?",
+      "options": [
+        "Yellow precipitate soluble in ammonium hydroxide",
+        "White precipitate soluble in ammonium hydroxide",
+        "White precipitate insoluble in ammonium hydroxide",
+        "Green precipitate"
+      ],
+      "answer": "White precipitate soluble in ammonium hydroxide",
+      "explanation": "A white precipitate that is soluble in ammonium hydroxide indicates the presence of AgCl (chlorine).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_009",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What is the temperature requirement for the formation of the yellow precipitate in the test for phosphorus?",
+      "options": [
+        "20 °C",
+        "30 °C",
+        "40 °C",
+        "50 °C"
+      ],
+      "answer": "50 °C",
+      "explanation": "The formation of the yellow precipitate in the phosphorus test requires gentle warming at 50 °C.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_010",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "In the solubility test, if a sample is insoluble in water, what does it form?",
+      "options": [
+        "A suspension",
+        "A second layer",
+        "A colloid",
+        "A precipitate"
+      ],
+      "answer": "A second layer",
+      "explanation": "The procedure notes that a liquid sample that is insoluble in water forms a second layer.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_011",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What reagent is used to test for phenols in Experiment 3?",
+      "options": [
+        "Silver nitrate",
+        "Sodium nitrite",
+        "Iron (III) chloride",
+        "Sodium hydroxide"
+      ],
+      "answer": "Iron (III) chloride",
+      "explanation": "The test for phenols involves adding iron (III) chloride, which produces a violet or blue colour.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_012",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which gas is evolved if the substance is a primary amine in the test for amine?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "answer": "Nitrogen",
+      "explanation": "In the test for amines, the evolution of nitrogen gas indicates a primary amine.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_013",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What indicates the presence of an aldehyde in the silver mirror test?",
+      "options": [
+        "Yellow precipitate",
+        "Black precipitate or silver mirror",
+        "Violet colour",
+        "Blue colour"
+      ],
+      "answer": "Black precipitate or silver mirror",
+      "explanation": "If a black precipitate or a silver mirror is formed in the test tube with AgNO3 and NaOH, it indicates the presence of an aldehyde.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_014",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What reagent is used to test for starch in carbohydrates?",
+      "options": [
+        "Fehling's solution",
+        "Iodine solution",
+        "Sodium hydroxide",
+        "Silver nitrate"
+      ],
+      "answer": "Iodine solution",
+      "explanation": "To test for starch, iodine solution is added; a blue-black colour indicates the presence of starch.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_015",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "In the test for esters, what confirms the presence of an ester?",
+      "options": [
+        "Pink colour persists after boiling",
+        "Pink colour disappears on boiling",
+        "Blue colour changes to red",
+        "Effervescence"
+      ],
+      "answer": "Pink colour disappears on boiling",
+      "explanation": "The test involves using phenolphthalein; if the pink colour disappears on boiling, it confirms an ester.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_016",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What is the observation for a secondary amine when tested with sodium nitrite and HCl?",
+      "options": [
+        "Effervescence",
+        "No visible reaction",
+        "Yellow oily liquid",
+        "Violet colour"
+      ],
+      "answer": "Yellow oily liquid",
+      "explanation": "If a yellow oily liquid is formed during the amine test, it indicates a secondary amine.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_017",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What test is used for Aldehydes and Ketones?",
+      "options": [
+        "Silver nitrate test",
+        "Sodium hydrogen sulphate test",
+        "Iron(III) chloride test",
+        "Sodium nitrite test"
+      ],
+      "answer": "Sodium hydrogen sulphate test",
+      "explanation": "The functional group test for aldehydes and ketones uses saturated sodium hydrogen sulphate.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_018",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "When testing amides, what indicates an amide on red litmus paper?",
+      "options": [
+        "Paper remains red",
+        "Paper turns blue",
+        "Paper bleaches",
+        "Paper turns yellow"
+      ],
+      "answer": "Paper turns blue",
+      "explanation": "In the amide test, an irritating smell is evolved, and the gas turns red litmus paper blue.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_019",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What is the solvent used in the silver nitrate test for alkyl halides?",
+      "options": [
+        "Water",
+        "Ethanol",
+        "Methanol",
+        "Acetone"
+      ],
+      "answer": "Ethanol",
+      "explanation": "The silver nitrate test for alkyl halides is performed in 95% ethanol.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_020",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "In the Fehling's test, what colour precipitate indicates a reducing sugar?",
+      "options": [
+        "Black",
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "answer": "Red",
+      "explanation": "A reddish-brown precipitate indicates the presence of a reducing sugar when using Fehling's reagent.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_021",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "How should a sample be smelled safely in the lab?",
+      "options": [
+        "Directly from the container",
+        "Using a pipette",
+        "Blow air over the sample toward the nose",
+        "By heating the sample"
+      ],
+      "answer": "Blow air over the sample toward the nose",
+      "explanation": "The procedure dictates raising the sample to nose level and blowing air with the palm of the hand toward the nose without direct sniffing.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_022",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which of these is a 'carbolic' odour indicating phenols?",
+      "options": [
+        "Disinfectant",
+        "Fishlike",
+        "Pungent",
+        "Sweet"
+      ],
+      "answer": "Disinfectant",
+      "explanation": "Carbolic odour is described as a disinfectant smell associated with phenols and halogen-phenols.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_023",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What precaution is mentioned regarding the sodium fusion tube heating?",
+      "options": [
+        "Heat to blue flame",
+        "Ensure the tube is not pointing towards you or another",
+        "Always use a ceramic tube",
+        "Do not use a bunsen burner"
+      ],
+      "answer": "Ensure the tube is not pointing towards you or another",
+      "explanation": "The procedure specifies that the Pyrex boiling tube used for plunging the sodium fusion mixture should not be pointed towards oneself or another person.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_024",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What is the expected outcome for a test for Nitrogen if the Lassaigne's test is positive for Nitrogen?",
+      "options": [
+        "Prussian blue precipitate",
+        "Red precipitate",
+        "Gas bubbles",
+        "No change"
+      ],
+      "answer": "Prussian blue precipitate",
+      "explanation": "The final result for the detection of nitrogen is the formation of a Prussian blue precipitate.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C1_025",
+      "course": "CHM128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What is the purpose of using 5% HCl in the solubility test?",
+      "options": [
+        "To test for basicity",
+        "To test for acidity",
+        "To increase solubility",
+        "To decolourise the solution"
+      ],
+      "answer": "To test for basicity",
+      "explanation": "Solubility tests using 5% HCl are generally used to determine the basicity of the organic compound.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_026",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the effect of excess heat on a solid during melting point determination?",
+      "options": [
+        "It makes the melting point more accurate",
+        "It causes the solid to sublime",
+        "It leads to a broader melting point range and potentially depressed values",
+        "It prevents the solid from melting"
+      ],
+      "answer": "It leads to a broader melting point range and potentially depressed values",
+      "explanation": "According to the introduction to Experiment 4, excessive heat can lead to a broader melting point range and lower (depressed) melting point values.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_027",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "How should a capillary tube be sealed for melting point determination?",
+      "options": [
+        "By using a rubber stopper",
+        "By heating the end in a flame for 3 or more minutes while rotating",
+        "By using a chemical sealant",
+        "By melting it onto the thermometer"
+      ],
+      "answer": "By heating the end in a flame for 3 or more minutes while rotating",
+      "explanation": "The procedure states the capillary tube should be sealed by heating in a flame for 3 or more minutes while continuously rotating it.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_028",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "To what length should the capillary tube be filled with the compound?",
+      "options": [
+        "5–10 mm",
+        "1–2 cm",
+        "3–5 cm",
+        "The entire tube"
+      ],
+      "answer": "1–2 cm",
+      "explanation": "The procedure specifies gently tapping the capillary tube to fill the compound to a length of 1–2 cm.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_029",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "In the boiling point determination, what is the purpose of the water bath?",
+      "options": [
+        "To speed up the chemical reaction",
+        "To provide a uniform heating medium for the test tube",
+        "To cool the compound",
+        "To prevent the thermometer from breaking"
+      ],
+      "answer": "To provide a uniform heating medium for the test tube",
+      "explanation": "The boiling point setup involves immersing the test tube containing the sample in a 250 mL beaker filled 3/4 with water, which acts as a heating bath.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_030",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "At what point should you record the boiling point of the liquid?",
+      "options": [
+        "When the liquid begins to bubble",
+        "When the liquid is first heated",
+        "When the liquid begins to flow into the capillary tube as it cools",
+        "As soon as the water bath reaches 100 °C"
+      ],
+      "answer": "When the liquid begins to flow into the capillary tube as it cools",
+      "explanation": "As the liquid cools, the temperature at which it begins to flow into the capillary tube is recorded as its boiling point.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_031",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of these solvents has the highest boiling point?",
+      "options": [
+        "Acetone",
+        "Methanol",
+        "Acetic acid (glacial)",
+        "Dichloromethane"
+      ],
+      "answer": "Acetic acid (glacial)",
+      "explanation": "According to Table 6.1, the boiling point of acetic acid (glacial) is 118 °C, which is higher than the others listed.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_032",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of the following solvents is classified as \"Non-flammable: vapour toxic\"?",
+      "options": [
+        "Ethanol",
+        "Carbon tetrachloride",
+        "Diethyl ether",
+        "Cyclohexane"
+      ],
+      "answer": "Carbon tetrachloride",
+      "explanation": "Table 6.1 classifies carbon tetrachloride as non-flammable and vapour toxic.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_033",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the recommended action if the solution is not colourless during the recrystallisation of acetanilide?",
+      "options": [
+        "Add more solvent",
+        "Add 0.1 g of decolourising carbon and boil for a few minutes",
+        "Filter the solution immediately without cooling",
+        "Discard the solution and start over"
+      ],
+      "answer": "Add 0.1 g of decolourising carbon and boil for a few minutes",
+      "explanation": "The procedure for acetanilide from water states that if the solution is not colourless, add 0.1 g of decolourising carbon and continue boiling to remove coloured impurities.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_034",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Why is fluted filter paper used in the recrystallisation process?",
+      "options": [
+        "To increase the surface area and speed up the filtration process",
+        "To make the crystals larger",
+        "To prevent the solvent from evaporating",
+        "To absorb impurities"
+      ],
+      "answer": "To increase the surface area and speed up the filtration process",
+      "explanation": "Fluted filter paper is used in a short-necked funnel to facilitate faster filtration of the hot solution.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_035",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "During the recrystallisation of sulphanilic acid, how much decolourising carbon is added at 70–80 °C?",
+      "options": [
+        "0.1 g",
+        "0.2 g",
+        "0.5 g",
+        "1.0 g"
+      ],
+      "answer": "0.2 g",
+      "explanation": "The procedure for sulphanilic acid specifies adding 0.2 g of decolourising carbon to the solution at 70–80 °C.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_036",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the primary purpose of washing the crystals with cold water after recrystallisation?",
+      "options": [
+        "To dissolve the crystals",
+        "To remove adhering mother-liquor",
+        "To speed up the drying process",
+        "To bleach the crystals"
+      ],
+      "answer": "To remove adhering mother-liquor",
+      "explanation": "The procedure instructs to wash the crystals twice with 5 mL portions of cold water to remove the adhering mother-liquor.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_037",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the recommended drying temperature for the crystals in an oven?",
+      "options": [
+        "50 °C",
+        "80 °C",
+        "100 °C",
+        "120 °C"
+      ],
+      "answer": "80 °C",
+      "explanation": "Crystals should be placed in an oven held at a temperature of about 80 °C to dry.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_038",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which solvent is described as \"Flammable, avoid whenever possible\"?",
+      "options": [
+        "Water",
+        "Ethanol",
+        "Diethyl ether",
+        "Acetic acid"
+      ],
+      "answer": "Diethyl ether",
+      "explanation": "Table 6.1 lists diethyl ether as flammable and advises avoiding its use whenever possible.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_039",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "In the theory of recrystallisation, if impurities (B) are less soluble than the compound (A) (i.e., SB < SA), what happens?",
+      "options": [
+        "B will be easier to remove",
+        "A will not crystallise",
+        "The purification process becomes more complex as both may crystallise",
+        "The solvent will not work"
+      ],
+      "answer": "The purification process becomes more complex as both may crystallise",
+      "explanation": "The text notes that when the impurity is less soluble than the compound being purified, it requires specific considerations during the crystallisation process.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_040",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Why must the beaker be kept hot if the solution cannot be filtered in a single operation during recrystallisation?",
+      "options": [
+        "To prevent premature crystallisation",
+        "To avoid burning the beaker",
+        "To speed up the reaction",
+        "To increase the amount of decolourising carbon"
+      ],
+      "answer": "To prevent premature crystallisation",
+      "explanation": "The procedure advises returning the beaker to the hotplate to keep the unfiltered portion hot and prevent the compound from crystallising too early.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_041",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the approximate boiling point of methanol?",
+      "options": [
+        "56 °C",
+        "64.5 °C",
+        "78 °C",
+        "100 °C"
+      ],
+      "answer": "64.5 °C",
+      "explanation": "According to Table 6.1, the boiling point of methanol is 64.5 °C.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_042",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the common name for the mixture when the boiling point of a fraction exceeds 120 °C?",
+      "options": [
+        "Petroleum ether",
+        "Ligroin",
+        "Toluene",
+        "Benzene"
+      ],
+      "answer": "Ligroin",
+      "explanation": "When the boiling point exceeds 120 °C, the fraction is usually called ligroin.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_043",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of these solvents is listed as \"Not very flammable, pungent vapours\"?",
+      "options": [
+        "Acetone",
+        "Dichloromethane",
+        "Acetic acid (glacial)",
+        "Cyclohexane"
+      ],
+      "answer": "Acetic acid (glacial)",
+      "explanation": "Table 6.1 identifies acetic acid (glacial) as not very flammable but having pungent vapours.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_044",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What should be observed as the liquid approaches its boiling point in Experiment 5?",
+      "options": [
+        "The liquid starts to turn black",
+        "A few bubbles will be observed flowing out of the end of the capillary tube",
+        "The thermometer reading drops rapidly",
+        "The water in the beaker starts to freeze"
+      ],
+      "answer": "A few bubbles will be observed flowing out of the end of the capillary tube",
+      "explanation": "As the liquid approaches its boiling point, a few bubbles will be observed flowing out of the end of the capillary tube.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_045",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the boiling point of ethanol?",
+      "options": [
+        "61 °C",
+        "77 °C",
+        "78 °C",
+        "81 °C"
+      ],
+      "answer": "78 °C",
+      "explanation": "Table 6.1 indicates the boiling point of ethanol is 78 °C.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_046",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the final step after crystals have dried in the recrystallisation process?",
+      "options": [
+        "Weigh the yield of the recrystallised material",
+        "Add more solvent",
+        "Melt the crystals again",
+        "Filter the crystals again"
+      ],
+      "answer": "Weigh the yield of the recrystallised material",
+      "explanation": "The procedure concludes by placing the dried crystals in an oven and weighing the yield of the recrystallised material.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_047",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which solvent is described as \"Non-flammable: vapour toxic\"?",
+      "options": [
+        "Chloroform",
+        "Methanol",
+        "Ethyl acetate",
+        "Industrial spirit"
+      ],
+      "answer": "Chloroform",
+      "explanation": "Table 6.1 categorises chloroform as non-flammable and vapour toxic.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_048",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Why is swirling recommended when cooling the hot filtrate?",
+      "options": [
+        "To create larger crystals",
+        "To speed up the separation of the solid",
+        "To heat the solution further",
+        "To change the colour of the filtrate"
+      ],
+      "answer": "To speed up the separation of the solid",
+      "explanation": "The procedure states that covering the flask with a watch glass and cooling rapidly with swirling allows for the separation of the solid.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_049",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "How long should the mixture stand to complete the separation of the solid after cooling?",
+      "options": [
+        "5 minutes",
+        "10 minutes",
+        "30 minutes",
+        "60 minutes"
+      ],
+      "answer": "30 minutes",
+      "explanation": "The procedure instructs the student to allow the mixture to stand for about 30 minutes to complete the separation of the solid.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "CHM128_C2_050",
+      "course": "CHM128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the boiling point of cyclohexane?",
+      "options": [
+        "41 °C",
+        "61 °C",
+        "77 °C",
+        "81 °C"
+      ],
+      "answer": "81 °C",
+      "explanation": "Table 6.1 states that the boiling point of cyclohexane is 81 °C.",
+      "working": null,
+      "variant_of": null
+    }
+  ]
+}

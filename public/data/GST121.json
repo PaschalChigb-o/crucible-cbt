@@ -1,0 +1,2555 @@
+{
+  "course": "GST121",
+  "total": 150,
+  "questions": [
+    {
+      "id": "GST121_C1_001",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which immediate cause of the Nigerian Civil War is explicitly noted in Chapter 1?",
+      "options": [
+        "The discovery of commercial crude oil in the Niger Delta",
+        "Disagreements over the 1963 creation of the Midwestern Region",
+        "Ethno-religious violence and anti-Igbo programs in Northern Nigeria",
+        "The refusal of Britain to grant total autonomy to regional governors"
+      ],
+      "answer": "Ethno-religious violence and anti-Igbo programs in Northern Nigeria",
+      "explanation": "Chapter 1 states that the immediate causes of the war are mostly attributed to ethno-religious violence and anti-Igbo programs in Northern Nigeria, a military coup, a counter-coup, and the persecution of Southerners living in the North.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_002",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Who announced the Biafran surrender on January 15th, 1970?",
+      "options": [
+        "Lt. Col. Philip Effiong",
+        "Gen. Yakubu Gowon",
+        "Gen. Olusegun Obasanjo",
+        "Col. Chukwuemeka Odumegwu Ojukwu"
+      ],
+      "answer": "Lt. Col. Philip Effiong",
+      "explanation": "The text states that on January 15th, 1970, Lt. Col. Philip Effiong, who took over from Lt. Col. Odimegwu Ojukwu after he went into exile in Ivory Coast, announced the Biafran surrender.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_003",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What did General Yakubu Gowon's slogan \"No victor, no vanquished\" signify to the nation?",
+      "options": [
+        "That the four regions would be completely dissolved into states",
+        "That military tribunals would try all breakaway officers immediately",
+        "That the Eastern region would pay reparations to the rest of Nigeria",
+        "That no side should claim victory or defeat, as the war was fought to preserve unity"
+      ],
+      "answer": "That no side should claim victory or defeat, as the war was fought to preserve unity",
+      "explanation": "The text states that by \"no victor, no vanquished,\" it is meant that no side involved in the war will or should claim victory or defeat over the other. The end of the war was a victory for all Nigerian citizens.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_004",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which structural project is explicitly cited in the text as an infrastructure that was destroyed during the war but quickly rehabilitated afterward?",
+      "options": [
+        "The Kainji Dam Power Station",
+        "The Niger bridge connecting Onitsha and Asaba",
+        "The Enugu Railway Station",
+        "The Port Harcourt Airport"
+      ],
+      "answer": "The Niger bridge connecting Onitsha and Asaba",
+      "explanation": "Under the purpose of the 3Rs (Reconstruction, Rehabilitation, and Reconciliation), the text notes that the Niger bridge connecting Onitsha with Asaba was destroyed during the war but quickly rehabilitated afterward.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_005",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "How is the \"Indigenization Policy\" defined in the GST 121 curriculum text?",
+      "options": [
+        "The replacement of English with local languages in retail markets",
+        "The mandate that all foreign corporations must distribute 100% of profits to rural communities",
+        "The forceful takeover of international embassies by local military task forces",
+        "The roping off of certain types of business activities and the reserving of these for exclusive ownership and control of Nigerians"
+      ],
+      "answer": "The roping off of certain types of business activities and the reserving of these for exclusive ownership and control of Nigerians",
+      "explanation": "The text directly defines the indigenization policy as \"the roping off of certain types of business activities and the reserving of these for exclusive ownership and control of Nigerians.\"",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_006",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "According to the textbook, why was the military government of Gowon more amenable to making indigenization changes than their democratic predecessor?",
+      "options": [
+        "Because of their increasing distrust of foreign capital following their experiences during the civil war",
+        "Because they had lower revenue generation from crude oil",
+        "Because democratic institutions had completely banned indigenous small-scale ventures",
+        "Because they wanted to eliminate the influence of traditional rulers in local trade hubs"
+      ],
+      "answer": "Because of their increasing distrust of foreign capital following their experiences during the civil war",
+      "explanation": "The text states the military government was more amenable to changes partly because of their increasing distrust of foreign capital, which was an aftermath of their experience in relying on foreign governments and multinational corporations during the Nigerian civil war.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_007",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Under Schedule 1 of the Nigerian Enterprise Promotion Decree of 1972, what percentage of ownership was reserved for Nigerians?",
+      "options": [
+        "100%",
+        "20%",
+        "60%",
+        "40%"
+      ],
+      "answer": "100%",
+      "explanation": "The text outlines Schedule 1 businesses under the 1972 decree (such as PR, block making, and laundry services) and explicitly states that these businesses are to be owned 100% by Nigerians.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_008",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which business activity was categorized under Schedule 2 of the 1972 decree, requiring 40% ownership by Nigerians and 60% investment by foreigners?",
+      "options": [
+        "Brewing of beer",
+        "Haulage of goods by road",
+        "Public Relations (PR)",
+        "Block and brick making"
+      ],
+      "answer": "Brewing of beer",
+      "explanation": "The text explicitly groups \"Brewing of beer\" under Schedule 2 of the 1972 decree, noting they are to be owned 40% by Nigerians while foreigners can invest 60%.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_009",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "In 1977, the Nigerian Enterprise Promotion Decree was amended under which administration to accommodate a third schedule?",
+      "options": [
+        "Alhaji Shehu Shagari",
+        "Gen. Ibrahim Babangida",
+        "Gen. Olusegun Obasanjo",
+        "Gen. Yakubu Gowon"
+      ],
+      "answer": "Gen. Olusegun Obasanjo",
+      "explanation": "The text notes that in 1977, the Nigerian Enterprise Promotion Decree was amended under the government of Gen. Olusegun Obasanjo to accommodate a third schedule.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_010",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What practice is described by critics as a mechanism that defeated the good intentions of the indigenization policy, where Nigerians acted on behalf of foreigners?",
+      "options": [
+        "Hoarding",
+        "Arbitrage",
+        "Smuggling",
+        "Fronting"
+      ],
+      "answer": "Fronting",
+      "explanation": "The text mentions criticisms of the policy, including the issue of fronting, whereby some Nigerians fronted for foreigners to register businesses listed in schedules 1 and 2, defeating the good intentions of the government.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_011",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "When was the National Youth Service Corps (NYSC) established, and under which Decree number?",
+      "options": [
+        "June 16, 1993 under Decree No. 51",
+        "July 29, 1967 under Decree No. 14",
+        "May 22, 1973 under Decree No. 24",
+        "October 1, 1960 under Decree No. 1"
+      ],
+      "answer": "May 22, 1973 under Decree No. 24",
+      "explanation": "It was established on May 22, 1973 under Decree No. 24 by the military government of Gen. Yakubu Gowon as a way to reconcile and reintegrate Nigerians after the civil war.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_012",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which age parameter determines whether a tertiary institution graduate receives a Certificate of Exemption instead of proceeding to a state of deployment for NYSC?",
+      "options": [
+        "Graduating at above 30 years of age",
+        "Graduating at above 25 years of age",
+        "Graduating at above 40 years of age",
+        "Graduating at above 35 years of age"
+      ],
+      "answer": "Graduating at above 30 years of age",
+      "explanation": "The text specifies that those who graduate at above 30 years of age are given a Certificate of Exemption, while those below 30 years proceed to their states of deployment.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_013",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Why are part-time graduates excluded from participating in the active one-year NYSC service scheme according to the text?",
+      "options": [
+        "Because their curriculum lacks civic education components",
+        "Because they are deemed to be adults already in one employ or another",
+        "Because they do not take oath allegiances in their institutions",
+        "Because they lack formal certificates recognized by the NUC"
+      ],
+      "answer": "Because they are deemed to be adults already in one employ or another",
+      "explanation": "The text explicitly states that part-time graduates are not allowed to participate in the NYSC scheme because they are deemed to be adults already in one employ or another.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_014",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "According to Bandura (1977), as cited in Chapter 2, how is apprenticeship defined?",
+      "options": [
+        "A system aimed purely at restricting young draftees from urban migration",
+        "A process of acquiring complex skills and norms under the guidance of skilled performers",
+        "A structured form of legal defense mechanisms within civil law codes",
+        "An educational pathway restricted entirely to manual agricultural systems"
+      ],
+      "answer": "A process of acquiring complex skills and norms under the guidance of skilled performers",
+      "explanation": "The text states that Bandura (1977) defines apprenticeship as a process of acquiring complex skills and norms under the guidance of skilled performers.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_015",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What are the historic craft clusters that defined apprenticeship among the Hausa-Fulani prior to colonialism?",
+      "options": [
+        "Boat building and public relations management",
+        "Leatherwork, blacksmithing, and traditional medicine",
+        "Weaving, pottery, and commercial shipping",
+        "Adire textile production and architectural design"
+      ],
+      "answer": "Leatherwork, blacksmithing, and traditional medicine",
+      "explanation": "The text states that among the Hausa-Fulani, apprenticeship historically revolved around crafts like leatherwork, blacksmithing, and traditional medicine.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_016",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "In what year was the first national apprenticeship system of training introduced by the Statute of Artificers?",
+      "options": [
+        "1993",
+        "1930",
+        "1563",
+        "1261"
+      ],
+      "answer": "1563",
+      "explanation": "The text notes that in 1563, the first national apprenticeship system of training was introduced by the Statute of Artificers.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_017",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What was the core restriction placed on masters regarding apprentice capacity under the 1563 Statute of Artificers?",
+      "options": [
+        "Masters could have no more than 5 apprentices",
+        "Masters were restricted to short-term contracts of 6 months",
+        "Masters could have no more than 3 apprentices",
+        "Masters could only recruit within their direct biological family"
+      ],
+      "answer": "Masters could have no more than 3 apprentices",
+      "explanation": "The text explicitly states that \"Masters\" could have no more than 3 apprentices and that apprenticeships should last a total of 7 years.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_018",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "According to Hickson and Thompson (2019), why did medieval cities establish laws lengthening an apprenticeship's year of service beyond free contracting?",
+      "options": [
+        "To enable agricultural workers to learn modern industrial manufacturing tasks",
+        "To maximize profit margins for guild masters by reducing labor costs",
+        "To protect consumers from shoddy goods and ensure quality control",
+        "To prevent the migration of skilled labor to rural areas"
+      ],
+      "answer": "To protect consumers from shoddy goods and ensure quality control",
+      "explanation": "The text states that medieval cities established laws lengthening an apprenticeship's year of service beyond free contracting to protect consumers from shoddy goods and ensure quality control.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_019",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What is the primary objective of the National Directorate of Employment (NDE) as stated in the text?",
+      "options": [
+        "To regulate the prices of agricultural commodities in local markets",
+        "To provide skills acquisition training to unemployed youths",
+        "To manage the national pension scheme for retired civil servants",
+        "To oversee the operations of foreign multinational corporations"
+      ],
+      "answer": "To provide skills acquisition training to unemployed youths",
+      "explanation": "The text states that the NDE was established to provide skills acquisition training to unemployed youths, with the aim of reducing unemployment and poverty.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_020",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which of the following is NOT one of the four core programs of the National Directorate of Employment (NDE)?",
+      "options": [
+        "Vocational Skills Development Program",
+        "Rural Employment Promotion Program",
+        "Special Public Works Program",
+        "Tertiary Education Scholarship Program"
+      ],
+      "answer": "Tertiary Education Scholarship Program",
+      "explanation": "The text lists Vocational Skills Development Program, Rural Employment Promotion Program, Special Public Works Program, and Small Scale Enterprises Program as the four core programs of the NDE. Tertiary Education Scholarship Program is not listed.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_021",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which of the following is categorized as a \"folkway\" rather than a \"more\" under the basic Nigerian norms described in the text?",
+      "options": [
+        "The prohibition against taking another man's life",
+        "Conventional ways of greeting each other, such as prostrating or removing caps",
+        "The strict legal codes against incestuous relationships",
+        "Formalized statutory laws governed by judiciary frameworks"
+      ],
+      "answer": "Conventional ways of greeting each other, such as prostrating or removing caps",
+      "explanation": "The text lists conventional ways of greeting each other (two hands for elders, prostrating, bending of the head, and removal of caps) as examples of folkways that do not carry harsh sanctions.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_022",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Whose famous philosophical postulation, \"I am because we are. And since we are therefore, I am\", is cited to illustrate Nigerian communal life over rugged individualism?",
+      "options": [
+        "Sogolo (1993)",
+        "Mbiti (1999)",
+        "Onwubiko (1999)",
+        "Ibia (2016)"
+      ],
+      "answer": "Mbiti (1999)",
+      "explanation": "Under the section discussing \"Communal Life,\" the text states that Mbiti (1999) postulations emphasize that the individual exists because of the community, which is opposed to Western rugged individualism.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_023",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "According to the text, why were elders deeply respected in traditional Nigerian societies?",
+      "options": [
+        "Because they controlled the modern digital mass media channels",
+        "Because grey hairs were viewed as a symbol of experience and wisdom",
+        "Because they had formal certificates in western literacy collections",
+        "Because they were immune to negative social sanctions"
+      ],
+      "answer": "Because grey hairs were viewed as a symbol of experience and wisdom",
+      "explanation": "The text states that elders were deeply respected in traditional Nigerian societies because grey hairs were viewed as a symbol of experience and wisdom.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_024",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which of the following is NOT considered a \"negative sanction\" in traditional Nigerian society, as described in the text?",
+      "options": [
+        "Ostracism",
+        "Praise singing",
+        "Fines",
+        "Excommunication"
+      ],
+      "answer": "Praise singing",
+      "explanation": "The text lists ostracism, fines, and excommunication as negative sanctions. Praise singing is a positive sanction.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C1_025",
+      "course": "GST121",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "According to the text, what is the primary purpose of \"positive sanctions\" in traditional Nigerian society?",
+      "options": [
+        "To deter individuals from committing crimes",
+        "To encourage conformity to societal norms and values",
+        "To punish those who violate community rules",
+        "To publicly shame individuals for their transgressions"
+      ],
+      "answer": "To encourage conformity to societal norms and values",
+      "explanation": "The text explains that positive sanctions, such as praise singing and chieftaincy titles, are used to encourage conformity to societal norms and values.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_026",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the primary focus of Chapter 4 regarding the Nigerian environment?",
+      "options": [
+        "The impact of climate change on agricultural practices",
+        "The geological history and formation of Nigeria's landmass",
+        "The human-environment interaction and environmental problems",
+        "The distribution of mineral resources across the country"
+      ],
+      "answer": "The human-environment interaction and environmental problems",
+      "explanation": "Chapter 4 focuses on the human-environment interaction and the environmental problems arising from this interaction in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_027",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following is NOT listed as a major environmental problem in Nigeria in Chapter 4?",
+      "options": [
+        "Desertification",
+        "Oil spillage",
+        "Volcanic eruptions",
+        "Erosion"
+      ],
+      "answer": "Volcanic eruptions",
+      "explanation": "Chapter 4 lists desertification, oil spillage, erosion, flooding, and deforestation as major environmental problems in Nigeria. Volcanic eruptions are not mentioned.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_028",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "In which geographical region of Nigeria is desertification most prevalent?",
+      "options": [
+        "The Niger Delta region",
+        "The South-Western region",
+        "The Northern part of Nigeria",
+        "The Eastern rainforest belt"
+      ],
+      "answer": "The Northern part of Nigeria",
+      "explanation": "The text explicitly states that desertification is a major environmental problem in the Northern part of Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_029",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What human activity is identified as a primary cause of desertification in Nigeria?",
+      "options": [
+        "Over-irrigation of farmlands",
+        "Excessive use of fossil fuels",
+        "Overgrazing and deforestation",
+        "Industrial pollution from urban centers"
+      ],
+      "answer": "Overgrazing and deforestation",
+      "explanation": "Chapter 4 attributes desertification primarily to human activities such as overgrazing, deforestation, and unsustainable agricultural practices.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_030",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which environmental problem is most closely associated with the oil-producing regions of Nigeria?",
+      "options": [
+        "Coastal erosion",
+        "Gully erosion",
+        "Oil spillage",
+        "Desert encroachment"
+      ],
+      "answer": "Oil spillage",
+      "explanation": "The text highlights oil spillage as a significant environmental problem predominantly affecting the oil-producing regions of Nigeria, leading to pollution of land and water.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_031",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the main consequence of oil spillage on the environment, as described in Chapter 4?",
+      "options": [
+        "Increased soil fertility for cash crops",
+        "Enhanced biodiversity in aquatic ecosystems",
+        "Pollution of land and water, destroying livelihoods",
+        "Promotion of new species of flora and fauna"
+      ],
+      "answer": "Pollution of land and water, destroying livelihoods",
+      "explanation": "Chapter 4 details that oil spillage leads to severe pollution of land and water bodies, which in turn destroys agricultural lands, fishing grounds, and overall livelihoods of affected communities.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_032",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which type of erosion is particularly severe in the South-Eastern part of Nigeria?",
+      "options": [
+        "Wind erosion",
+        "Coastal erosion",
+        "Gully erosion",
+        "Glacial erosion"
+      ],
+      "answer": "Gully erosion",
+      "explanation": "The text specifically identifies gully erosion as a severe environmental problem in the South-Eastern part of Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_033",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What natural factor contributes significantly to erosion in Nigeria, as mentioned in the text?",
+      "options": [
+        "Low annual rainfall",
+        "High seismic activity",
+        "Heavy rainfall and topography",
+        "Extensive permafrost regions"
+      ],
+      "answer": "Heavy rainfall and topography",
+      "explanation": "Chapter 4 explains that heavy rainfall, coupled with the topography of certain regions, significantly contributes to various forms of erosion in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_034",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the primary cause of flooding in many Nigerian cities and communities?",
+      "options": [
+        "Excessive dam construction upstream",
+        "Poor drainage systems and indiscriminate waste disposal",
+        "Prolonged drought conditions",
+        "Tectonic plate movements"
+      ],
+      "answer": "Poor drainage systems and indiscriminate waste disposal",
+      "explanation": "The text states that flooding in Nigerian cities is often caused by poor drainage systems, indiscriminate disposal of refuse, and building on floodplains.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_035",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following is a consequence of deforestation in Nigeria?",
+      "options": [
+        "Increased rainfall and cooler temperatures",
+        "Enhanced soil stability and reduced erosion",
+        "Loss of biodiversity and disruption of ecological balance",
+        "Expansion of forest reserves and wildlife habitats"
+      ],
+      "answer": "Loss of biodiversity and disruption of ecological balance",
+      "explanation": "Chapter 4 explains that deforestation leads to the loss of biodiversity, disruption of ecological balance, soil erosion, and climate change.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_036",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the term used to describe the process of trees being cut down without adequate replacement?",
+      "options": [
+        "Afforestation",
+        "Reforestation",
+        "Deforestation",
+        "Silviculture"
+      ],
+      "answer": "Deforestation",
+      "explanation": "The text defines deforestation as the clearing of forests for other land uses without adequate reforestation, leading to various environmental problems.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_037",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following is a sustainable practice recommended in Chapter 4 to combat desertification?",
+      "options": [
+        "Intensifying monoculture farming",
+        "Promoting agroforestry and tree planting",
+        "Expanding cattle ranching in arid areas",
+        "Increasing the use of chemical fertilizers"
+      ],
+      "answer": "Promoting agroforestry and tree planting",
+      "explanation": "Chapter 4 suggests promoting agroforestry, tree planting, and sustainable land management practices as ways to combat desertification.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_038",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What role does environmental education play in addressing Nigeria's environmental problems?",
+      "options": [
+        "It has no significant impact on environmental issues",
+        "It primarily focuses on theoretical concepts without practical application",
+        "It raises awareness and promotes responsible environmental behavior",
+        "It is solely the responsibility of government agencies"
+      ],
+      "answer": "It raises awareness and promotes responsible environmental behavior",
+      "explanation": "The text emphasizes the importance of environmental education in raising awareness among the populace about environmental issues and promoting responsible environmental behavior.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_039",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which international agreement is mentioned in Chapter 4 as relevant to addressing climate change?",
+      "options": [
+        "The Kyoto Protocol",
+        "The Geneva Convention",
+        "The Treaty of Versailles",
+        "The Universal Declaration of Human Rights"
+      ],
+      "answer": "The Kyoto Protocol",
+      "explanation": "Chapter 4 mentions international efforts and agreements like the Kyoto Protocol as relevant to addressing climate change and its impacts.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_040",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the term for the long-term shift in global or regional climate patterns?",
+      "options": [
+        "Weather variability",
+        "Climate change",
+        "Atmospheric pressure",
+        "Seasonal migration"
+      ],
+      "answer": "Climate change",
+      "explanation": "The text discusses climate change as a significant environmental concern, referring to the long-term shift in global or regional climate patterns.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_041",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following is a major source of greenhouse gas emissions in Nigeria?",
+      "options": [
+        "Solar power generation",
+        "Hydroelectric dams",
+        "Fossil fuel combustion",
+        "Wind farms"
+      ],
+      "answer": "Fossil fuel combustion",
+      "explanation": "Chapter 4 identifies fossil fuel combustion from vehicles, industries, and power generation as a major source of greenhouse gas emissions in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_042",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the primary impact of rising sea levels on Nigeria's coastal communities?",
+      "options": [
+        "Increased tourism opportunities",
+        "Enhanced freshwater availability",
+        "Coastal erosion and displacement of communities",
+        "Promotion of marine biodiversity"
+      ],
+      "answer": "Coastal erosion and displacement of communities",
+      "explanation": "The text explains that rising sea levels lead to coastal erosion, inundation of low-lying areas, and displacement of coastal communities in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_043",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which government agency is primarily responsible for environmental protection in Nigeria?",
+      "options": [
+        "National Agency for Food and Drug Administration and Control (NAFDAC)",
+        "Nigerian National Petroleum Corporation (NNPC)",
+        "Federal Ministry of Environment",
+        "Central Bank of Nigeria (CBN)"
+      ],
+      "answer": "Federal Ministry of Environment",
+      "explanation": "Chapter 4 highlights the role of the Federal Ministry of Environment as the primary government agency responsible for environmental protection and policy implementation in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_044",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the concept of \"environmental sustainability\" as presented in Chapter 4?",
+      "options": [
+        "Exploiting natural resources at the fastest possible rate for economic growth",
+        "Meeting the needs of the present without compromising the ability of future generations to meet their own needs",
+        "Prioritizing industrial development over environmental conservation",
+        "Transferring environmental problems to less developed countries"
+      ],
+      "answer": "Meeting the needs of the present without compromising the ability of future generations to meet their own needs",
+      "explanation": "The text defines environmental sustainability as meeting the needs of the present without compromising the ability of future generations to meet their own needs, emphasizing responsible resource management.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_045",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following is an example of a renewable energy source discussed in Chapter 4?",
+      "options": [
+        "Coal",
+        "Natural gas",
+        "Solar energy",
+        "Crude oil"
+      ],
+      "answer": "Solar energy",
+      "explanation": "Chapter 4 discusses the importance of renewable energy sources like solar, wind, and hydro power in mitigating climate change and promoting sustainable development.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_046",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the term for the variety of life on Earth at all its levels, from genes to ecosystems?",
+      "options": [
+        "Monoculture",
+        "Biodiversity",
+        "Ecology",
+        "Biogeography"
+      ],
+      "answer": "Biodiversity",
+      "explanation": "The text defines biodiversity as the variety of life on Earth at all its levels, from genes to ecosystems, and highlights its importance for ecological balance.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_047",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following is a traditional method of waste disposal that contributes to environmental pollution in Nigeria?",
+      "options": [
+        "Composting",
+        "Recycling",
+        "Open dumping and burning",
+        "Incineration with energy recovery"
+      ],
+      "answer": "Open dumping and burning",
+      "explanation": "Chapter 4 identifies open dumping and burning of waste as common traditional methods of waste disposal in Nigeria that contribute significantly to environmental pollution.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_048",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the concept of \"environmental impact assessment (EIA)\" as discussed in Chapter 4?",
+      "options": [
+        "A process to determine the financial viability of environmental projects",
+        "A tool to predict the environmental consequences of a proposed development project",
+        "A method for calculating the carbon footprint of individuals",
+        "A strategy for promoting environmental tourism"
+      ],
+      "answer": "A tool to predict the environmental consequences of a proposed development project",
+      "explanation": "The text describes Environmental Impact Assessment (EIA) as a tool used to predict the environmental consequences of a proposed development project and to suggest mitigation measures.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_049",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following is a key principle of environmental management?",
+      "options": [
+        "Exploitation of natural resources without limits",
+        "Prioritizing short-term economic gains over long-term environmental health",
+        "The polluter pays principle",
+        "Ignoring the interconnectedness of ecosystems"
+      ],
+      "answer": "The polluter pays principle",
+      "explanation": "Chapter 4 discusses key principles of environmental management, including the polluter pays principle, which holds that those who produce pollution should bear the costs of managing it.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C4_050",
+      "course": "GST121",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the term for the gradual increase in the Earth's average surface temperature?",
+      "options": [
+        "Global cooling",
+        "Global warming",
+        "Ice age",
+        "Atmospheric inversion"
+      ],
+      "answer": "Global warming",
+      "explanation": "The text refers to global warming as the gradual increase in the Earth's average surface temperature, primarily caused by the buildup of greenhouse gases.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_051",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the primary focus of Chapter 7 regarding the Nigerian economy?",
+      "options": [
+        "The history of pre-colonial trade routes",
+        "The impact of globalization on local industries",
+        "The structure and characteristics of the Nigerian economy",
+        "The role of traditional agriculture in national development"
+      ],
+      "answer": "The structure and characteristics of the Nigerian economy",
+      "explanation": "Chapter 7 provides an overview of the structure and characteristics of the Nigerian economy, including its various sectors and challenges.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_052",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which sector has historically been the backbone of the Nigerian economy before the discovery of oil?",
+      "options": [
+        "Manufacturing",
+        "Services",
+        "Agriculture",
+        "Mining"
+      ],
+      "answer": "Agriculture",
+      "explanation": "The text states that before the discovery of oil, agriculture was the backbone of the Nigerian economy, employing a large percentage of the population.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_053",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What significant event led to a shift in Nigeria's economic focus from agriculture to crude oil?",
+      "options": [
+        "The end of the Nigerian Civil War",
+        "The discovery of large crude oil reserves",
+        "The implementation of the Indigenization Policy",
+        "The establishment of the National Youth Service Corps"
+      ],
+      "answer": "The discovery of large crude oil reserves",
+      "explanation": "Chapter 7 explains that the discovery of large crude oil reserves in the Niger Delta led to a significant shift in Nigeria's economic focus from agriculture to oil.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_054",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which of the following is a characteristic of a developing economy, as described in Chapter 7, that applies to Nigeria?",
+      "options": [
+        "High per capita income",
+        "Diversified industrial base",
+        "High dependence on primary commodities",
+        "Advanced technological infrastructure"
+      ],
+      "answer": "High dependence on primary commodities",
+      "explanation": "The text characterizes Nigeria as a developing economy with a high dependence on primary commodities, particularly crude oil, for export earnings.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_055",
+      "course": "GST121",
+      "type": "phrase",
+      "question": "What is the term for the total value of goods and services produced within a country's borders in a specific time period?",
+      "options": [
+        "Gross National Product (GNP)",
+        "Net National Product (NNP)",
+        "Gross Domestic Product (GDP)",
+        "Per Capita Income"
+      ],
+      "answer": "Gross Domestic Product (GDP)",
+      "explanation": "Chapter 7 defines Gross Domestic Product (GDP) as the total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_056",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which of the following is a major challenge facing the Nigerian economy, as discussed in Chapter 7?",
+      "options": [
+        "Low unemployment rates",
+        "High levels of corruption and mismanagement",
+        "Stable exchange rates",
+        "Abundant and reliable power supply"
+      ],
+      "answer": "High levels of corruption and mismanagement",
+      "explanation": "The text identifies high levels of corruption, mismanagement, inadequate infrastructure, and over-reliance on oil as major challenges facing the Nigerian economy.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_057",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What economic policy involves the government selling state-owned enterprises to private individuals or companies?",
+      "options": [
+        "Nationalization",
+        "Subsidization",
+        "Privatization",
+        "Protectionism"
+      ],
+      "answer": "Privatization",
+      "explanation": "Chapter 7 discusses privatization as an economic policy where the government transfers ownership of state-owned enterprises to the private sector, often to improve efficiency and reduce government expenditure.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_058",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which institution is responsible for monetary policy in Nigeria?",
+      "options": [
+        "Federal Ministry of Finance",
+        "Central Bank of Nigeria (CBN)",
+        "National Assembly",
+        "Nigerian Stock Exchange"
+      ],
+      "answer": "Central Bank of Nigeria (CBN)",
+      "explanation": "The text identifies the Central Bank of Nigeria (CBN) as the institution responsible for formulating and implementing monetary policy to ensure price stability and promote economic growth.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_059",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the term for the general increase in prices and fall in the purchasing value of money?",
+      "options": [
+        "Deflation",
+        "Stagflation",
+        "Inflation",
+        "Recession"
+      ],
+      "answer": "Inflation",
+      "explanation": "Chapter 7 defines inflation as the general increase in prices and fall in the purchasing value of money, which is a persistent economic challenge in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_060",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which of the following is a measure taken by the Nigerian government to diversify the economy away from oil?",
+      "options": [
+        "Increasing reliance on oil exports",
+        "Investing heavily in the agricultural sector",
+        "Reducing foreign direct investment",
+        "Deregulating the oil sector completely"
+      ],
+      "answer": "Investing heavily in the agricultural sector",
+      "explanation": "The text highlights government efforts to diversify the economy by investing in non-oil sectors, particularly agriculture, to reduce dependence on crude oil.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_061",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the role of the informal sector in the Nigerian economy?",
+      "options": [
+        "It contributes minimally to employment and GDP",
+        "It is heavily regulated and taxed by the government",
+        "It provides employment and income for a large segment of the population",
+        "It primarily consists of large multinational corporations"
+      ],
+      "answer": "It provides employment and income for a large segment of the population",
+      "explanation": "Chapter 7 acknowledges the significant role of the informal sector in Nigeria, providing employment and income for a large segment of the population, despite being largely unregulated.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_062",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which of the following is a key component of Nigeria's financial sector?",
+      "options": [
+        "Subsistence farming cooperatives",
+        "Traditional craft guilds",
+        "Commercial banks and stock exchange",
+        "Informal street vendors' associations"
+      ],
+      "answer": "Commercial banks and stock exchange",
+      "explanation": "The text describes Nigeria's financial sector as comprising commercial banks, the stock exchange, insurance companies, and other financial institutions.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_063",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the term for the economic system where the means of production are privately owned and operated for profit?",
+      "options": [
+        "Socialism",
+        "Communism",
+        "Capitalism",
+        "Mixed economy"
+      ],
+      "answer": "Capitalism",
+      "explanation": "Chapter 7 implicitly discusses elements of capitalism in the Nigerian economy, where private ownership and profit motive drive economic activities.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_064",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which of the following is a factor that hinders industrial development in Nigeria?",
+      "options": [
+        "Abundant raw materials",
+        "Stable political environment",
+        "Inadequate power supply and infrastructure",
+        "High demand for locally manufactured goods"
+      ],
+      "answer": "Inadequate power supply and infrastructure",
+      "explanation": "The text identifies inadequate power supply, poor infrastructure, and high cost of doing business as factors hindering industrial development in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_065",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the concept of \"human capital development\" in the context of economic growth?",
+      "options": [
+        "Investing in physical infrastructure like roads and bridges",
+        "Focusing solely on natural resource extraction",
+        "Improving the skills, knowledge, and health of the workforce",
+        "Promoting foreign labor over local talent"
+      ],
+      "answer": "Improving the skills, knowledge, and health of the workforce",
+      "explanation": "Chapter 7 emphasizes human capital development, which involves investing in education, healthcare, and skills training to improve the productivity and well-being of the workforce, as crucial for economic growth.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_066",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which of the following is a major export commodity for Nigeria, besides crude oil?",
+      "options": [
+        "Automobiles",
+        "Textiles",
+        "Cocoa",
+        "Electronics"
+      ],
+      "answer": "Cocoa",
+      "explanation": "The text mentions cocoa as one of Nigeria's traditional agricultural export commodities, alongside other cash crops.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_067",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the term for the total amount of money that a country's government has borrowed?",
+      "options": [
+        "Budget surplus",
+        "National debt",
+        "Foreign exchange reserves",
+        "Balance of trade"
+      ],
+      "answer": "National debt",
+      "explanation": "Chapter 7 discusses national debt as the total amount of money that a country's government has borrowed, often a concern for developing economies.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_068",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which of the following is a policy aimed at encouraging foreign investment in Nigeria?",
+      "options": [
+        "Imposing high tariffs on imported goods",
+        "Restricting repatriation of profits by foreign companies",
+        "Providing tax incentives and investment guarantees",
+        "Nationalizing all foreign-owned businesses"
+      ],
+      "answer": "Providing tax incentives and investment guarantees",
+      "explanation": "The text mentions government policies aimed at attracting foreign direct investment, such as providing tax incentives, investment guarantees, and creating a favorable business environment.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_069",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the primary objective of the Economic Community of West African States (ECOWAS) regarding regional trade?",
+      "options": [
+        "To establish a common currency for all member states",
+        "To promote free trade and economic integration among member states",
+        "To impose trade barriers on non-member countries",
+        "To regulate the prices of agricultural products within the region"
+      ],
+      "answer": "To promote free trade and economic integration among member states",
+      "explanation": "Chapter 7 discusses ECOWAS's objective to promote free trade, economic cooperation, and integration among its West African member states.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_070",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which of the following is a characteristic of a mixed economy, as exemplified by Nigeria?",
+      "options": [
+        "Complete government control over all economic activities",
+        "Absence of government intervention in the economy",
+        "A combination of private enterprise and government intervention",
+        "Economic decisions made solely by market forces"
+      ],
+      "answer": "A combination of private enterprise and government intervention",
+      "explanation": "The text implies that Nigeria operates a mixed economy, characterized by a combination of private sector activities and significant government intervention in economic affairs.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_071",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the term for the process of increasing the economic interdependence of national economies across the world?",
+      "options": [
+        "Regionalization",
+        "Protectionism",
+        "Globalization",
+        "Autarky"
+      ],
+      "answer": "Globalization",
+      "explanation": "Chapter 7 discusses globalization as the process of increasing economic interdependence among national economies, driven by cross-border trade, technology, and capital flows.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_072",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which of the following is a benefit of foreign direct investment (FDI) for Nigeria?",
+      "options": [
+        "Increased national debt",
+        "Transfer of technology and creation of employment",
+        "Reduced domestic competition",
+        "Loss of local control over industries"
+      ],
+      "answer": "Transfer of technology and creation of employment",
+      "explanation": "The text highlights benefits of FDI, such as the transfer of technology, creation of employment opportunities, and increased capital inflow.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_073",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the primary function of the Nigerian Stock Exchange (NSE)?",
+      "options": [
+        "To regulate commodity prices",
+        "To facilitate the buying and selling of securities",
+        "To manage government revenue from oil exports",
+        "To provide loans to small businesses"
+      ],
+      "answer": "To facilitate the buying and selling of securities",
+      "explanation": "Chapter 7 describes the Nigerian Stock Exchange (NSE) as a platform that facilitates the buying and selling of securities, enabling companies to raise capital and investors to trade shares.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_074",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "Which of the following is a challenge associated with Nigeria's reliance on crude oil?",
+      "options": [
+        "Stable global oil prices",
+        "Increased agricultural output",
+        "Vulnerability to global oil price fluctuations",
+        "Diversified export base"
+      ],
+      "answer": "Vulnerability to global oil price fluctuations",
+      "explanation": "The text explains that Nigeria's heavy reliance on crude oil makes its economy vulnerable to fluctuations in global oil prices, leading to economic instability.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C7_075",
+      "course": "GST121",
+      "chapter": 7,
+      "type": "phrase",
+      "question": "What is the term for the government's use of spending and taxation to influence the economy?",
+      "options": [
+        "Monetary policy",
+        "Fiscal policy",
+        "Trade policy",
+        "Industrial policy"
+      ],
+      "answer": "Fiscal policy",
+      "explanation": "Chapter 7 defines fiscal policy as the government's use of spending and taxation to influence the economy, often used to stimulate growth or control inflation.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_076",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the primary focus of Chapter 10 regarding the Nigerian political system?",
+      "options": [
+        "The history of traditional chieftaincy institutions",
+        "The structure and functions of government at various levels",
+        "The impact of international relations on domestic politics",
+        "The role of civil society organizations in governance"
+      ],
+      "answer": "The structure and functions of government at various levels",
+      "explanation": "Chapter 10 provides an overview of the Nigerian political system, focusing on the structure and functions of government at the federal, state, and local levels.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_077",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which of the following best describes Nigeria's system of government?",
+      "options": [
+        "Unitary system",
+        "Confederal system",
+        "Federal system",
+        "Monarchy"
+      ],
+      "answer": "Federal system",
+      "explanation": "The text explicitly states that Nigeria operates a federal system of government, with power shared between the federal, state, and local governments.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_078",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What are the three arms of government at the federal level in Nigeria?",
+      "options": [
+        "Executive, Judiciary, and Traditional Council",
+        "Legislature, Executive, and Judiciary",
+        "Military, Police, and Civil Service",
+        "Federal, State, and Local Governments"
+      ],
+      "answer": "Legislature, Executive, and Judiciary",
+      "explanation": "Chapter 10 outlines the three arms of government at the federal level: the Legislature (National Assembly), the Executive (Presidency), and the Judiciary (Courts).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_079",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Who is the head of the Executive arm of government at the federal level in Nigeria?",
+      "options": [
+        "The Chief Justice of Nigeria",
+        "The Senate President",
+        "The President",
+        "The Speaker of the House of Representatives"
+      ],
+      "answer": "The President",
+      "explanation": "The text identifies the President as the head of the Executive arm of government at the federal level, responsible for implementing laws and policies.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_080",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the primary function of the Legislature (National Assembly) in Nigeria?",
+      "options": [
+        "To interpret laws",
+        "To implement laws",
+        "To make laws",
+        "To enforce laws"
+      ],
+      "answer": "To make laws",
+      "explanation": "Chapter 10 states that the primary function of the Legislature (National Assembly) is to make laws for the peace, order, and good governance of the Federation.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_081",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which body constitutes the National Assembly in Nigeria?",
+      "options": [
+        "The House of Chiefs and the House of Assembly",
+        "The Senate and the House of Representatives",
+        "The Council of State and the Federal Executive Council",
+        "The Supreme Court and the Court of Appeal"
+      ],
+      "answer": "The Senate and the House of Representatives",
+      "explanation": "The text explains that the National Assembly is a bicameral legislature consisting of the Senate and the House of Representatives.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_082",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the highest court in Nigeria?",
+      "options": [
+        "The Court of Appeal",
+        "The Federal High Court",
+        "The Supreme Court",
+        "The National Industrial Court"
+      ],
+      "answer": "The Supreme Court",
+      "explanation": "Chapter 10 identifies the Supreme Court as the highest court in Nigeria, with final appellate jurisdiction.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_083",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Who is the head of the Judiciary at the federal level in Nigeria?",
+      "options": [
+        "The Attorney-General of the Federation",
+        "The Chief Justice of Nigeria",
+        "The President of the Court of Appeal",
+        "The Inspector-General of Police"
+      ],
+      "answer": "The Chief Justice of Nigeria",
+      "explanation": "The text states that the Chief Justice of Nigeria is the head of the Judiciary at the federal level.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_084",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the primary function of the Local Government Councils in Nigeria?",
+      "options": [
+        "To formulate national foreign policy",
+        "To manage state finances and budgets",
+        "To provide basic services and administration at the grassroots level",
+        "To oversee the operations of the military"
+      ],
+      "answer": "To provide basic services and administration at the grassroots level",
+      "explanation": "Chapter 10 explains that Local Government Councils are responsible for providing basic services, maintaining law and order, and administering affairs at the grassroots level.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_085",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which of the following is a challenge to good governance in Nigeria, as discussed in Chapter 10?",
+      "options": [
+        "High levels of transparency and accountability",
+        "Strong independent institutions",
+        "Corruption and weak institutions",
+        "Active citizen participation"
+      ],
+      "answer": "Corruption and weak institutions",
+      "explanation": "The text identifies corruption, weak institutions, lack of accountability, and political instability as major challenges to good governance in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_086",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the concept of \"separation of powers\" in the Nigerian political system?",
+      "options": [
+        "The concentration of all governmental powers in one arm",
+        "The division of governmental powers among the legislative, executive, and judicial arms",
+        "The supremacy of the military over civilian rule",
+        "The absence of checks and balances among government organs"
+      ],
+      "answer": "The division of governmental powers among the legislative, executive, and judicial arms",
+      "explanation": "Chapter 10 explains the principle of separation of powers, which divides governmental powers among the legislative, executive, and judicial arms to prevent abuse of power.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_087",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which of the following is a role of political parties in Nigeria?",
+      "options": [
+        "To enforce laws and maintain order",
+        "To interpret the constitution",
+        "To mobilize citizens for political participation and contest elections",
+        "To manage the national economy"
+      ],
+      "answer": "To mobilize citizens for political participation and contest elections",
+      "explanation": "The text describes political parties as playing a crucial role in mobilizing citizens for political participation, articulating policies, and contesting elections.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_088",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the term for the process by which citizens elect their representatives to govern them?",
+      "options": [
+        "Coup d'état",
+        "Referendum",
+        "Election",
+        "Appointment"
+      ],
+      "answer": "Election",
+      "explanation": "Chapter 10 discusses elections as the democratic process by which citizens choose their representatives to govern them at various levels.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_089",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which of the following is a fundamental human right guaranteed by the Nigerian Constitution?",
+      "options": [
+        "Right to unlimited wealth accumulation",
+        "Right to freedom of expression",
+        "Right to impose personal beliefs on others",
+        "Right to evade taxes"
+      ],
+      "answer": "Right to freedom of expression",
+      "explanation": "The text highlights fundamental human rights enshrined in the Nigerian Constitution, including the right to life, dignity of the human person, personal liberty, and freedom of expression.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_090",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the role of the Independent National Electoral Commission (INEC) in Nigeria?",
+      "options": [
+        "To appoint political office holders",
+        "To conduct and supervise elections",
+        "To interpret electoral laws",
+        "To fund political parties"
+      ],
+      "answer": "To conduct and supervise elections",
+      "explanation": "Chapter 10 describes INEC as the body responsible for organizing, conducting, and supervising elections in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_091",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which of the following is a characteristic of a democratic system of government?",
+      "options": [
+        "Rule by a single dictator",
+        "Suppression of dissent and opposition",
+        "Free and fair elections and respect for human rights",
+        "Absence of a constitution"
+      ],
+      "answer": "Free and fair elections and respect for human rights",
+      "explanation": "The text implicitly discusses democracy as a system characterized by free and fair elections, respect for human rights, rule of law, and accountability.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_092",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the concept of \"checks and balances\" in government?",
+      "options": [
+        "The ability of one arm of government to dominate the others",
+        "A system where each arm of government can limit the powers of the others",
+        "The absence of oversight among government institutions",
+        "The concentration of power in the executive arm"
+      ],
+      "answer": "A system where each arm of government can limit the powers of the others",
+      "explanation": "Chapter 10 explains checks and balances as a system where each arm of government has powers to limit or scrutinize the actions of the other arms, preventing abuse of power.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_093",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which of the following is a role of the media in a democratic society?",
+      "options": [
+        "To disseminate government propaganda exclusively",
+        "To act as a watchdog, informing the public and holding government accountable",
+        "To suppress dissenting opinions",
+        "To promote a single political ideology"
+      ],
+      "answer": "To act as a watchdog, informing the public and holding government accountable",
+      "explanation": "The text highlights the media's role as a watchdog in a democratic society, informing the public, facilitating public discourse, and holding government accountable.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_094",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the term for the supreme law of the land in Nigeria?",
+      "options": [
+        "The Criminal Code Act",
+        "The Constitution",
+        "The Electoral Act",
+        "The Companies and Allied Matters Act"
+      ],
+      "answer": "The Constitution",
+      "explanation": "Chapter 10 identifies the Constitution as the supreme law of the land in Nigeria, to which all other laws must conform.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_095",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which of the following is a characteristic of federalism in Nigeria?",
+      "options": [
+        "Centralization of all powers in the federal government",
+        "Absence of state and local governments",
+        "Division of powers between federal, state, and local governments",
+        "Unicameral legislature at all levels"
+      ],
+      "answer": "Division of powers between federal, state, and local governments",
+      "explanation": "The text explains federalism in Nigeria as the division of governmental powers between the federal, state, and local governments, each with its defined responsibilities.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_096",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the primary role of the civil service in Nigeria?",
+      "options": [
+        "To formulate political party manifestos",
+        "To implement government policies and programs",
+        "To adjudicate legal disputes",
+        "To command the armed forces"
+      ],
+      "answer": "To implement government policies and programs",
+      "explanation": "Chapter 10 describes the civil service as responsible for the day-to-day implementation of government policies and programs.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_097",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which of the following is a mechanism for citizen participation in governance, apart from elections?",
+      "options": [
+        "Military coups",
+        "Protests and advocacy",
+        "Nepotism",
+        "Bribery"
+      ],
+      "answer": "Protests and advocacy",
+      "explanation": "The text mentions various forms of citizen participation, including protests, advocacy, public hearings, and community development initiatives, as ways to influence governance.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_098",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the term for the process of removing a public official from office through a vote of no confidence or impeachment?",
+      "options": [
+        "Appointment",
+        "Resignation",
+        "Impeachment",
+        "Dissolution"
+      ],
+      "answer": "Impeachment",
+      "explanation": "Chapter 10 discusses impeachment as a process by which a legislative body can remove a public official from office for misconduct.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_099",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "Which of the following is a characteristic of a constitutional democracy?",
+      "options": [
+        "Unlimited power of the government",
+        "Absence of a written constitution",
+        "Rule of law and limited government",
+        "Suppression of minority rights"
+      ],
+      "answer": "Rule of law and limited government",
+      "explanation": "The text implicitly describes constitutional democracy as a system where the government's power is limited by a constitution and operates under the rule of law, protecting individual rights.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C10_100",
+      "course": "GST121",
+      "chapter": 10,
+      "type": "phrase",
+      "question": "What is the primary purpose of the Nigerian Constitution?",
+      "options": [
+        "To establish a monarchy",
+        "To outline the structure of government and guarantee citizens' rights",
+        "To promote a single religion",
+        "To centralize all powers in the federal government"
+      ],
+      "answer": "To outline the structure of government and guarantee citizens' rights",
+      "explanation": "Chapter 10 explains that the Nigerian Constitution serves to establish the framework of government, define its powers, and guarantee the fundamental rights and freedoms of citizens.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_101",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the primary focus of Chapter 13 regarding social issues in Nigeria?",
+      "options": [
+        "The history of traditional festivals and ceremonies",
+        "The impact of social media on youth culture",
+        "Major social problems and their implications for national development",
+        "The evolution of Nigerian fashion and music"
+      ],
+      "answer": "Major social problems and their implications for national development",
+      "explanation": "Chapter 13 examines major social problems in Nigeria, such as poverty, inequality, crime, and their implications for national development.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_102",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is identified as a major social problem in Nigeria in Chapter 13?",
+      "options": [
+        "High literacy rates",
+        "Widespread access to healthcare",
+        "Poverty and inequality",
+        "Low unemployment rates"
+      ],
+      "answer": "Poverty and inequality",
+      "explanation": "The text highlights poverty and inequality as pervasive social problems in Nigeria, affecting a large segment of the population.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_103",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the term for the state of being extremely poor, lacking basic necessities like food, water, and shelter?",
+      "options": [
+        "Affluence",
+        "Poverty",
+        "Prosperity",
+        "Wealth"
+      ],
+      "answer": "Poverty",
+      "explanation": "Chapter 13 defines poverty as the state of being extremely poor, lacking basic necessities like food, water, shelter, and healthcare.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_104",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is a consequence of high levels of inequality in a society?",
+      "options": [
+        "Increased social cohesion",
+        "Reduced crime rates",
+        "Social unrest and instability",
+        "Equal opportunities for all citizens"
+      ],
+      "answer": "Social unrest and instability",
+      "explanation": "The text explains that high levels of inequality can lead to social unrest, resentment, and instability within a society.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_105",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the primary cause of high unemployment rates among youth in Nigeria?",
+      "options": [
+        "Abundance of job opportunities",
+        "Lack of interest in employment",
+        "Mismatch between skills and labor market demands",
+        "High wages in the informal sector"
+      ],
+      "answer": "Mismatch between skills and labor market demands",
+      "explanation": "Chapter 13 attributes high youth unemployment to factors such as a mismatch between skills acquired in education and the demands of the labor market, inadequate job creation, and lack of entrepreneurial skills.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_106",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is a common form of crime in Nigeria, as discussed in Chapter 13?",
+      "options": [
+        "Cybercrime",
+        "Petty theft and armed robbery",
+        "Organized corporate fraud",
+        "International espionage"
+      ],
+      "answer": "Petty theft and armed robbery",
+      "explanation": "The text identifies petty theft, armed robbery, kidnapping, and cybercrime as common forms of crime in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_107",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the term for the unlawful use of violence and intimidation, especially against civilians, in the pursuit of political aims?",
+      "options": [
+        "Activism",
+        "Protest",
+        "Terrorism",
+        "Insurgency"
+      ],
+      "answer": "Terrorism",
+      "explanation": "Chapter 13 discusses terrorism as a significant security challenge in Nigeria, involving the unlawful use of violence and intimidation for political aims.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_108",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is a consequence of insecurity and crime on national development?",
+      "options": [
+        "Increased foreign investment",
+        "Boost in tourism",
+        "Disruption of economic activities and displacement of people",
+        "Enhanced social cohesion"
+      ],
+      "answer": "Disruption of economic activities and displacement of people",
+      "explanation": "The text explains that insecurity and crime lead to the disruption of economic activities, displacement of people, loss of lives and property, and a negative impact on investment.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_109",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the term for the movement of people from rural areas to urban centers in search of better opportunities?",
+      "options": [
+        "Emigration",
+        "Immigration",
+        "Rural-urban migration",
+        "Nomadism"
+      ],
+      "answer": "Rural-urban migration",
+      "explanation": "Chapter 13 discusses rural-urban migration as a demographic trend in Nigeria, driven by the search for better economic opportunities and social amenities in urban areas.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_110",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is a challenge associated with rapid urbanization in Nigeria?",
+      "options": [
+        "Reduced pressure on urban infrastructure",
+        "Adequate housing and sanitation",
+        "Overcrowding, slums, and strain on social services",
+        "Improved public transportation"
+      ],
+      "answer": "Overcrowding, slums, and strain on social services",
+      "explanation": "The text explains that rapid urbanization in Nigeria leads to challenges such as overcrowding, the proliferation of slums, inadequate housing, and strain on social services like water, sanitation, and healthcare.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_111",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the term for the spread of infectious diseases within a population?",
+      "options": [
+        "Endemic",
+        "Epidemic",
+        "Pandemic",
+        "Outbreak"
+      ],
+      "answer": "Epidemic",
+      "explanation": "Chapter 13 discusses the challenges of public health in Nigeria, including the spread of infectious diseases, which can sometimes reach epidemic proportions.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_112",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is a factor contributing to poor healthcare outcomes in Nigeria?",
+      "options": [
+        "High doctor-patient ratio",
+        "Well-equipped medical facilities",
+        "Inadequate funding and lack of access to quality healthcare",
+        "Abundant supply of essential medicines"
+      ],
+      "answer": "Inadequate funding and lack of access to quality healthcare",
+      "explanation": "The text identifies inadequate funding, shortage of healthcare professionals, poor infrastructure, and lack of access to quality healthcare as factors contributing to poor health outcomes in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_113",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the term for the systematic oppression and discrimination against a group of people based on their ethnicity, religion, or other characteristics?",
+      "options": [
+        "Affirmative action",
+        "Social inclusion",
+        "Marginalization",
+        "Integration"
+      ],
+      "answer": "Marginalization",
+      "explanation": "Chapter 13 discusses marginalization as a social issue where certain groups are systematically oppressed and discriminated against, leading to their exclusion from mainstream society.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_114",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is a consequence of inadequate education in Nigeria?",
+      "options": [
+        "High rates of innovation and technological advancement",
+        "Increased economic opportunities for all citizens",
+        "Low human capital development and reduced productivity",
+        "Enhanced social mobility"
+      ],
+      "answer": "Low human capital development and reduced productivity",
+      "explanation": "The text explains that inadequate access to quality education leads to low human capital development, reduced productivity, and limited opportunities for individuals and national development.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_115",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the term for the unequal treatment or perception of individuals based on their gender?",
+      "options": [
+        "Gender equality",
+        "Gender equity",
+        "Gender neutrality",
+        "Gender discrimination"
+      ],
+      "answer": "Gender discrimination",
+      "explanation": "Chapter 13 discusses gender discrimination as a social issue where individuals are treated unequally based on their gender, often leading to disadvantages for women and girls.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_116",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is a government initiative aimed at addressing poverty in Nigeria?",
+      "options": [
+        "Increasing luxury taxes",
+        "Implementing social safety nets and empowerment programs",
+        "Reducing minimum wage",
+        "Privatizing essential social services"
+      ],
+      "answer": "Implementing social safety nets and empowerment programs",
+      "explanation": "The text mentions government initiatives such as social safety nets, empowerment programs, and conditional cash transfers aimed at alleviating poverty and improving living standards.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_117",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the role of civil society organizations (CSOs) in addressing social problems in Nigeria?",
+      "options": [
+        "To replace government functions entirely",
+        "To advocate for policy changes and provide social services",
+        "To promote political instability",
+        "To enforce laws and maintain order"
+      ],
+      "answer": "To advocate for policy changes and provide social services",
+      "explanation": "Chapter 13 highlights the role of CSOs in advocating for policy changes, providing social services, raising awareness, and empowering communities to address social problems.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_118",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is a factor that contributes to corruption in Nigeria?",
+      "options": [
+        "Strong rule of law and accountability mechanisms",
+        "High levels of transparency in governance",
+        "Weak institutions and lack of enforcement",
+        "Active citizen oversight"
+      ],
+      "answer": "Weak institutions and lack of enforcement",
+      "explanation": "The text identifies weak institutions, lack of transparency, inadequate enforcement of laws, and a culture of impunity as factors contributing to corruption in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_119",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the term for the process of people leaving their home country to settle permanently in another?",
+      "options": [
+        "Internal migration",
+        "Immigration",
+        "Emigration",
+        "Displacement"
+      ],
+      "answer": "Emigration",
+      "explanation": "Chapter 13 discusses emigration as the act of leaving one's own country to settle permanently in another, often driven by economic or social factors.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_120",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is a consequence of brain drain in Nigeria?",
+      "options": [
+        "Increased availability of skilled labor domestically",
+        "Loss of skilled professionals and reduced national capacity",
+        "Enhanced technological advancement",
+        "Improved healthcare services"
+      ],
+      "answer": "Loss of skilled professionals and reduced national capacity",
+      "explanation": "The text explains that brain drain, the emigration of highly skilled professionals, leads to a loss of human capital and reduced national capacity in critical sectors.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_121",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the term for the practice of demanding money or favors with menaces or by the use of force?",
+      "options": [
+        "Philanthropy",
+        "Extortion",
+        "Donation",
+        "Charity"
+      ],
+      "answer": "Extortion",
+      "explanation": "Chapter 13 mentions extortion as a criminal act involving the practice of obtaining something, especially money, through force or threats.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_122",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is a social consequence of drug abuse in Nigeria?",
+      "options": [
+        "Improved public health",
+        "Increased productivity",
+        "Mental health issues and increased crime rates",
+        "Enhanced family cohesion"
+      ],
+      "answer": "Mental health issues and increased crime rates",
+      "explanation": "The text explains that drug abuse leads to mental health issues, increased crime rates, family breakdown, and reduced productivity.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_123",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the term for the unlawful act of transporting or coercing people into forced labor or sexual exploitation?",
+      "options": [
+        "Humanitarian aid",
+        "Human trafficking",
+        "Voluntary migration",
+        "Refugee resettlement"
+      ],
+      "answer": "Human trafficking",
+      "explanation": "Chapter 13 discusses human trafficking as a serious crime involving the exploitation of individuals through force, fraud, or coercion for various purposes, including forced labor and sexual exploitation.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_124",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "Which of the following is a strategy for promoting peace and conflict resolution in Nigeria?",
+      "options": [
+        "Inciting ethnic divisions",
+        "Promoting dialogue and mediation",
+        "Encouraging vigilantism",
+        "Suppressing freedom of assembly"
+      ],
+      "answer": "Promoting dialogue and mediation",
+      "explanation": "The text suggests promoting dialogue, mediation, peace education, and community-based conflict resolution mechanisms as strategies for fostering peace and resolving conflicts.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C13_125",
+      "course": "GST121",
+      "chapter": 13,
+      "type": "phrase",
+      "question": "What is the primary objective of social welfare programs in Nigeria?",
+      "options": [
+        "To increase social inequality",
+        "To provide basic support and improve the well-being of vulnerable populations",
+        "To eliminate all forms of government intervention",
+        "To promote individual self-reliance without any external assistance"
+      ],
+      "answer": "To provide basic support and improve the well-being of vulnerable populations",
+      "explanation": "Chapter 13 explains that social welfare programs aim to provide basic support, protect vulnerable populations, and improve their well-being through various interventions.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_126",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the primary focus of Chapter 16 regarding global issues and Nigeria?",
+      "options": [
+        "The history of Nigeria's foreign policy",
+        "The impact of global challenges on Nigeria and its role in international affairs",
+        "The cultural exchange programs between Nigeria and other nations",
+        "The economic benefits of isolationism for Nigeria"
+      ],
+      "answer": "The impact of global challenges on Nigeria and its role in international affairs",
+      "explanation": "Chapter 16 examines global issues such as climate change, terrorism, and economic globalization, and their impact on Nigeria, as well as Nigeria's role in addressing these challenges.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_127",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which of the following is a global challenge that significantly impacts Nigeria, as discussed in Chapter 16?",
+      "options": [
+        "The rise of isolated national economies",
+        "Climate change and environmental degradation",
+        "Declining international trade",
+        "The end of international cooperation"
+      ],
+      "answer": "Climate change and environmental degradation",
+      "explanation": "The text identifies climate change, environmental degradation, terrorism, and economic globalization as global challenges with significant impacts on Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_128",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the term for the worldwide interconnectedness and interdependence of economies, cultures, and populations?",
+      "options": [
+        "Regionalism",
+        "Nationalism",
+        "Globalization",
+        "Isolationism"
+      ],
+      "answer": "Globalization",
+      "explanation": "Chapter 16 defines globalization as the worldwide interconnectedness and interdependence of economies, cultures, and populations, driven by cross-border flows of goods, services, capital, and information.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_129",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which of the following is a positive impact of globalization on Nigeria?",
+      "options": [
+        "Increased dependence on primary commodities",
+        "Loss of local cultural identity",
+        "Increased foreign direct investment and technological transfer",
+        "Brain drain of skilled professionals"
+      ],
+      "answer": "Increased foreign direct investment and technological transfer",
+      "explanation": "The text highlights positive impacts of globalization on Nigeria, such as increased foreign direct investment, technological transfer, and access to global markets.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_130",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the primary objective of Nigeria's foreign policy?",
+      "options": [
+        "To promote regional conflicts",
+        "To isolate Nigeria from international affairs",
+        "To protect national interests and promote peace and cooperation",
+        "To establish military dominance in Africa"
+      ],
+      "answer": "To protect national interests and promote peace and cooperation",
+      "explanation": "Chapter 16 states that Nigeria's foreign policy aims to protect its national interests, promote peace and security, foster regional cooperation, and contribute to global development.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_131",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which international organization is Nigeria a prominent member of, playing a significant role in promoting regional peace and security?",
+      "options": [
+        "North Atlantic Treaty Organization (NATO)",
+        "European Union (EU)",
+        "Economic Community of West African States (ECOWAS)",
+        "Association of Southeast Asian Nations (ASEAN)"
+      ],
+      "answer": "Economic Community of West African States (ECOWAS)",
+      "explanation": "The text highlights Nigeria's prominent role in ECOWAS, actively contributing to regional peace, security, and economic integration.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_132",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the term for the movement of people across national borders, often for economic or political reasons?",
+      "options": [
+        "Internal displacement",
+        "Urbanization",
+        "International migration",
+        "Nomadic pastoralism"
+      ],
+      "answer": "International migration",
+      "explanation": "Chapter 16 discusses international migration as a global phenomenon with significant implications for Nigeria, including brain drain and remittances.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_133",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which of the following is a challenge associated with international migration for Nigeria?",
+      "options": [
+        "Increased remittances from diaspora",
+        "Brain drain and loss of skilled labor",
+        "Enhanced cultural exchange",
+        "Improved diplomatic relations"
+      ],
+      "answer": "Brain drain and loss of skilled labor",
+      "explanation": "The text identifies brain drain, the emigration of skilled professionals, as a significant challenge associated with international migration for Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_134",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the role of the United Nations (UN) in addressing global challenges?",
+      "options": [
+        "To impose sanctions on all developing countries",
+        "To promote international cooperation and maintain peace and security",
+        "To dictate the domestic policies of member states",
+        "To fund military interventions in sovereign nations"
+      ],
+      "answer": "To promote international cooperation and maintain peace and security",
+      "explanation": "Chapter 16 highlights the UN's role in promoting international cooperation, maintaining peace and security, and addressing global challenges through various programs and initiatives.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_135",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which of the following is a global health issue that has impacted Nigeria?",
+      "options": [
+        "Eradication of all infectious diseases",
+        "Increased life expectancy across all demographics",
+        "HIV/AIDS, malaria, and tuberculosis epidemics",
+        "Universal access to advanced medical technology"
+      ],
+      "answer": "HIV/AIDS, malaria, and tuberculosis epidemics",
+      "explanation": "The text discusses global health issues like HIV/AIDS, malaria, and tuberculosis as having significant impacts on public health in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_136",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the term for the illegal trade in goods, services, or people across national borders?",
+      "options": [
+        "Fair trade",
+        "Smuggling",
+        "Legitimate commerce",
+        "Free trade"
+      ],
+      "answer": "Smuggling",
+      "explanation": "Chapter 16 mentions smuggling as an illegal cross-border activity that poses economic and security challenges for Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_137",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which of the following is a consequence of international terrorism on Nigeria?",
+      "options": [
+        "Increased tourism revenue",
+        "Enhanced national security",
+        "Disruption of peace and security, and economic instability",
+        "Promotion of foreign investment"
+      ],
+      "answer": "Disruption of peace and security, and economic instability",
+      "explanation": "The text explains that international terrorism leads to the disruption of peace and security, loss of lives, displacement of people, and economic instability in affected regions, including Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_138",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the role of international aid and development assistance for Nigeria?",
+      "options": [
+        "To create dependency and hinder local initiatives",
+        "To supplement domestic resources and support development projects",
+        "To replace government funding entirely",
+        "To promote political interference in domestic affairs"
+      ],
+      "answer": "To supplement domestic resources and support development projects",
+      "explanation": "Chapter 16 discusses international aid as a means to supplement domestic resources, support development projects, and address humanitarian crises in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_139",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which of the following is a global economic institution that Nigeria interacts with?",
+      "options": [
+        "The World Bank",
+        "The North Korean Central Bank",
+        "The Vatican Bank",
+        "The Bank of Transnistria"
+      ],
+      "answer": "The World Bank",
+      "explanation": "The text mentions Nigeria's interactions with global economic institutions like the World Bank and the International Monetary Fund (IMF) for financial assistance and policy advice.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_140",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the term for the collective efforts of nations to address common global challenges?",
+      "options": [
+        "Unilateralism",
+        "Isolationism",
+        "Multilateralism",
+        "Protectionism"
+      ],
+      "answer": "Multilateralism",
+      "explanation": "Chapter 16 emphasizes multilateralism as the collective efforts of nations through international organizations and agreements to address common global challenges.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_141",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which of the following is a consequence of climate change for Nigeria?",
+      "options": [
+        "Increased agricultural productivity",
+        "Reduced frequency of extreme weather events",
+        "Desertification, flooding, and food insecurity",
+        "Stable sea levels"
+      ],
+      "answer": "Desertification, flooding, and food insecurity",
+      "explanation": "The text explains that climate change leads to adverse consequences for Nigeria, including desertification, increased frequency of flooding, and food insecurity.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_142",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the term for the unlawful acquisition and transfer of assets across national borders?",
+      "options": [
+        "Foreign direct investment",
+        "Money laundering",
+        "Remittances",
+        "Trade finance"
+      ],
+      "answer": "Money laundering",
+      "explanation": "Chapter 16 discusses money laundering as a global financial crime involving the unlawful acquisition and transfer of assets to conceal their illicit origin.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_143",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which of the following is a challenge to Nigeria's participation in global trade?",
+      "options": [
+        "High quality of locally manufactured goods",
+        "Competitive export prices",
+        "Lack of diversified export base and infrastructure deficits",
+        "Strong trade agreements with major economies"
+      ],
+      "answer": "Lack of diversified export base and infrastructure deficits",
+      "explanation": "The text identifies challenges to Nigeria's global trade participation, including a lack of diversified export base, infrastructure deficits, and issues with product quality and standards.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_144",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the term for the protection of a country's domestic industries from foreign competition through tariffs and quotas?",
+      "options": [
+        "Free trade",
+        "Protectionism",
+        "Liberalization",
+        "Globalization"
+      ],
+      "answer": "Protectionism",
+      "explanation": "Chapter 16 discusses protectionism as an economic policy aimed at protecting domestic industries from foreign competition through measures like tariffs and quotas.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_145",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which of the following is a global challenge related to food security that affects Nigeria?",
+      "options": [
+        "Abundant food surpluses globally",
+        "Stable food prices and supply chains",
+        "Climate change, conflicts, and poverty leading to food insecurity",
+        "Universal access to nutritious food"
+      ],
+      "answer": "Climate change, conflicts, and poverty leading to food insecurity",
+      "explanation": "The text highlights global challenges to food security, such as climate change, conflicts, and poverty, which contribute to food insecurity in Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_146",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the term for the unlawful attack on computer systems and networks?",
+      "options": [
+        "Cybersecurity",
+        "Cybercrime",
+        "Digital forensics",
+        "Network administration"
+      ],
+      "answer": "Cybercrime",
+      "explanation": "Chapter 16 discusses cybercrime as a global challenge involving unlawful attacks on computer systems and networks, with implications for national security and economic stability.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_147",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which of the following is a consequence of global pandemics on Nigeria?",
+      "options": [
+        "Improved public health infrastructure",
+        "Disruption of healthcare systems and economic activities",
+        "Increased international travel",
+        "Enhanced social gatherings"
+      ],
+      "answer": "Disruption of healthcare systems and economic activities",
+      "explanation": "The text explains that global pandemics lead to the disruption of healthcare systems, economic activities, social life, and increased mortality rates in affected countries, including Nigeria.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_148",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the role of international cooperation in addressing global challenges?",
+      "options": [
+        "To promote national self-interest exclusively",
+        "To facilitate collective action and shared responsibility",
+        "To hinder cross-border initiatives",
+        "To encourage unilateral decision-making"
+      ],
+      "answer": "To facilitate collective action and shared responsibility",
+      "explanation": "Chapter 16 emphasizes the importance of international cooperation in facilitating collective action, shared responsibility, and coordinated responses to address complex global challenges.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_149",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "Which of the following is a global challenge related to energy security that affects Nigeria?",
+      "options": [
+        "Abundant and stable global energy supply",
+        "Diversified energy sources",
+        "Fluctuations in global oil prices and energy access issues",
+        "Reduced demand for fossil fuels"
+      ],
+      "answer": "Fluctuations in global oil prices and energy access issues",
+      "explanation": "The text discusses global energy security challenges, including fluctuations in global oil prices, energy access issues, and the transition to renewable energy, which impact Nigeria as a major oil producer.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "GST121_C16_150",
+      "course": "GST121",
+      "chapter": 16,
+      "type": "phrase",
+      "question": "What is the term for the process of integrating different cultures and societies worldwide?",
+      "options": [
+        "Cultural isolation",
+        "Cultural assimilation",
+        "Cultural globalization",
+        "Cultural preservation"
+      ],
+      "answer": "Cultural globalization",
+      "explanation": "Chapter 16 discusses cultural globalization as the process of integrating different cultures and societies worldwide, leading to increased cultural exchange and interconnectedness.",
+      "working": null,
+      "variant_of": null
+    }
+  ]
+}
