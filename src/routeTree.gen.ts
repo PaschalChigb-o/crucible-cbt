@@ -13,6 +13,7 @@ import { Route as StudyRouteImport } from './routes/study'
 import { Route as HomeRouteImport } from './routes/home'
 import { Route as ExamRouteImport } from './routes/exam'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as StudyCourseCodeRouteImport } from './routes/study.$courseCode'
 
 const StudyRoute = StudyRouteImport.update({
   id: '/study',
@@ -34,39 +35,47 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const StudyCourseCodeRoute = StudyCourseCodeRouteImport.update({
+  id: '/$courseCode',
+  path: '/$courseCode',
+  getParentRoute: () => StudyRoute,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/exam': typeof ExamRoute
   '/home': typeof HomeRoute
-  '/study': typeof StudyRoute
+  '/study': typeof StudyRouteWithChildren
+  '/study/$courseCode': typeof StudyCourseCodeRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/exam': typeof ExamRoute
   '/home': typeof HomeRoute
-  '/study': typeof StudyRoute
+  '/study': typeof StudyRouteWithChildren
+  '/study/$courseCode': typeof StudyCourseCodeRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/exam': typeof ExamRoute
   '/home': typeof HomeRoute
-  '/study': typeof StudyRoute
+  '/study': typeof StudyRouteWithChildren
+  '/study/$courseCode': typeof StudyCourseCodeRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/exam' | '/home' | '/study'
+  fullPaths: '/' | '/exam' | '/home' | '/study' | '/study/$courseCode'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/exam' | '/home' | '/study'
-  id: '__root__' | '/' | '/exam' | '/home' | '/study'
+  to: '/' | '/exam' | '/home' | '/study' | '/study/$courseCode'
+  id: '__root__' | '/' | '/exam' | '/home' | '/study' | '/study/$courseCode'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   ExamRoute: typeof ExamRoute
   HomeRoute: typeof HomeRoute
-  StudyRoute: typeof StudyRoute
+  StudyRoute: typeof StudyRouteWithChildren
 }
 
 declare module '@tanstack/react-router' {
@@ -99,14 +108,31 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/study/$courseCode': {
+      id: '/study/$courseCode'
+      path: '/$courseCode'
+      fullPath: '/study/$courseCode'
+      preLoaderRoute: typeof StudyCourseCodeRouteImport
+      parentRoute: typeof StudyRoute
+    }
   }
 }
+
+interface StudyRouteChildren {
+  StudyCourseCodeRoute: typeof StudyCourseCodeRoute
+}
+
+const StudyRouteChildren: StudyRouteChildren = {
+  StudyCourseCodeRoute: StudyCourseCodeRoute,
+}
+
+const StudyRouteWithChildren = StudyRoute._addFileChildren(StudyRouteChildren)
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   ExamRoute: ExamRoute,
   HomeRoute: HomeRoute,
-  StudyRoute: StudyRoute,
+  StudyRoute: StudyRouteWithChildren,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
