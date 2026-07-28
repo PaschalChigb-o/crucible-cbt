@@ -3,7 +3,7 @@ import { COURSE_CONFIG, COURSE_ORDER } from "@/config/courses";
 import { BackBar, C, Screen } from "@/components/ui-crucible";
 import { CourseIcon } from "@/components/CourseIcon";
 
-export const Route = createFileRoute("/exam")({
+export const Route = createFileRoute("/exam/")({
   head: () => ({
     meta: [
       { title: "CRUCIBLE — Exam Mode" },

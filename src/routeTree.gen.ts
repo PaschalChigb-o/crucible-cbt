@@ -9,31 +9,21 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
-import { Route as StudyRouteImport } from './routes/study'
 import { Route as HomeRouteImport } from './routes/home'
-import { Route as ExamRouteImport } from './routes/exam'
 import { Route as AdminRouteImport } from './routes/admin'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as StudyIndexRouteImport } from './routes/study.index'
+import { Route as ExamIndexRouteImport } from './routes/exam.index'
 import { Route as StudyCourseCodeRouteImport } from './routes/study.$courseCode'
 import { Route as SessionCourseCodeRouteImport } from './routes/session.$courseCode'
 import { Route as ResultsCourseCodeRouteImport } from './routes/results.$courseCode'
-import { Route as ExamCourseCodeRouteImport } from './routes/exam.$courseCode'
+import { Route as ExamCourseCodeIndexRouteImport } from './routes/exam.$courseCode.index'
 import { Route as ExamCourseCodeSessionRouteImport } from './routes/exam.$courseCode.session'
 import { Route as ExamCourseCodeResultsRouteImport } from './routes/exam.$courseCode.results'
 
-const StudyRoute = StudyRouteImport.update({
-  id: '/study',
-  path: '/study',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const HomeRoute = HomeRouteImport.update({
   id: '/home',
   path: '/home',
-  getParentRoute: () => rootRouteImport,
-} as any)
-const ExamRoute = ExamRouteImport.update({
-  id: '/exam',
-  path: '/exam',
   getParentRoute: () => rootRouteImport,
 } as any)
 const AdminRoute = AdminRouteImport.update({
@@ -46,10 +36,20 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const StudyIndexRoute = StudyIndexRouteImport.update({
+  id: '/study/',
+  path: '/study/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ExamIndexRoute = ExamIndexRouteImport.update({
+  id: '/exam/',
+  path: '/exam/',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const StudyCourseCodeRoute = StudyCourseCodeRouteImport.update({
-  id: '/$courseCode',
-  path: '/$courseCode',
-  getParentRoute: () => StudyRoute,
+  id: '/study/$courseCode',
+  path: '/study/$courseCode',
+  getParentRoute: () => rootRouteImport,
 } as any)
 const SessionCourseCodeRoute = SessionCourseCodeRouteImport.update({
   id: '/session/$courseCode',
@@ -61,135 +61,125 @@ const ResultsCourseCodeRoute = ResultsCourseCodeRouteImport.update({
   path: '/results/$courseCode',
   getParentRoute: () => rootRouteImport,
 } as any)
-const ExamCourseCodeRoute = ExamCourseCodeRouteImport.update({
-  id: '/$courseCode',
-  path: '/$courseCode',
-  getParentRoute: () => ExamRoute,
+const ExamCourseCodeIndexRoute = ExamCourseCodeIndexRouteImport.update({
+  id: '/exam/$courseCode/',
+  path: '/exam/$courseCode/',
+  getParentRoute: () => rootRouteImport,
 } as any)
 const ExamCourseCodeSessionRoute = ExamCourseCodeSessionRouteImport.update({
-  id: '/session',
-  path: '/session',
-  getParentRoute: () => ExamCourseCodeRoute,
+  id: '/exam/$courseCode/session',
+  path: '/exam/$courseCode/session',
+  getParentRoute: () => rootRouteImport,
 } as any)
 const ExamCourseCodeResultsRoute = ExamCourseCodeResultsRouteImport.update({
-  id: '/results',
-  path: '/results',
-  getParentRoute: () => ExamCourseCodeRoute,
+  id: '/exam/$courseCode/results',
+  path: '/exam/$courseCode/results',
+  getParentRoute: () => rootRouteImport,
 } as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/admin': typeof AdminRoute
-  '/exam': typeof ExamRouteWithChildren
   '/home': typeof HomeRoute
-  '/study': typeof StudyRouteWithChildren
-  '/exam/$courseCode': typeof ExamCourseCodeRouteWithChildren
   '/results/$courseCode': typeof ResultsCourseCodeRoute
   '/session/$courseCode': typeof SessionCourseCodeRoute
   '/study/$courseCode': typeof StudyCourseCodeRoute
+  '/exam/': typeof ExamIndexRoute
+  '/study/': typeof StudyIndexRoute
   '/exam/$courseCode/results': typeof ExamCourseCodeResultsRoute
   '/exam/$courseCode/session': typeof ExamCourseCodeSessionRoute
+  '/exam/$courseCode/': typeof ExamCourseCodeIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/admin': typeof AdminRoute
-  '/exam': typeof ExamRouteWithChildren
   '/home': typeof HomeRoute
-  '/study': typeof StudyRouteWithChildren
-  '/exam/$courseCode': typeof ExamCourseCodeRouteWithChildren
   '/results/$courseCode': typeof ResultsCourseCodeRoute
   '/session/$courseCode': typeof SessionCourseCodeRoute
   '/study/$courseCode': typeof StudyCourseCodeRoute
+  '/exam': typeof ExamIndexRoute
+  '/study': typeof StudyIndexRoute
   '/exam/$courseCode/results': typeof ExamCourseCodeResultsRoute
   '/exam/$courseCode/session': typeof ExamCourseCodeSessionRoute
+  '/exam/$courseCode': typeof ExamCourseCodeIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/admin': typeof AdminRoute
-  '/exam': typeof ExamRouteWithChildren
   '/home': typeof HomeRoute
-  '/study': typeof StudyRouteWithChildren
-  '/exam/$courseCode': typeof ExamCourseCodeRouteWithChildren
   '/results/$courseCode': typeof ResultsCourseCodeRoute
   '/session/$courseCode': typeof SessionCourseCodeRoute
   '/study/$courseCode': typeof StudyCourseCodeRoute
+  '/exam/': typeof ExamIndexRoute
+  '/study/': typeof StudyIndexRoute
   '/exam/$courseCode/results': typeof ExamCourseCodeResultsRoute
   '/exam/$courseCode/session': typeof ExamCourseCodeSessionRoute
+  '/exam/$courseCode/': typeof ExamCourseCodeIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
     | '/admin'
-    | '/exam'
     | '/home'
-    | '/study'
-    | '/exam/$courseCode'
     | '/results/$courseCode'
     | '/session/$courseCode'
     | '/study/$courseCode'
+    | '/exam/'
+    | '/study/'
     | '/exam/$courseCode/results'
     | '/exam/$courseCode/session'
+    | '/exam/$courseCode/'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
     | '/admin'
-    | '/exam'
     | '/home'
-    | '/study'
-    | '/exam/$courseCode'
     | '/results/$courseCode'
     | '/session/$courseCode'
     | '/study/$courseCode'
+    | '/exam'
+    | '/study'
     | '/exam/$courseCode/results'
     | '/exam/$courseCode/session'
+    | '/exam/$courseCode'
   id:
     | '__root__'
     | '/'
     | '/admin'
-    | '/exam'
     | '/home'
-    | '/study'
-    | '/exam/$courseCode'
     | '/results/$courseCode'
     | '/session/$courseCode'
     | '/study/$courseCode'
+    | '/exam/'
+    | '/study/'
     | '/exam/$courseCode/results'
     | '/exam/$courseCode/session'
+    | '/exam/$courseCode/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AdminRoute: typeof AdminRoute
-  ExamRoute: typeof ExamRouteWithChildren
   HomeRoute: typeof HomeRoute
-  StudyRoute: typeof StudyRouteWithChildren
   ResultsCourseCodeRoute: typeof ResultsCourseCodeRoute
   SessionCourseCodeRoute: typeof SessionCourseCodeRoute
+  StudyCourseCodeRoute: typeof StudyCourseCodeRoute
+  ExamIndexRoute: typeof ExamIndexRoute
+  StudyIndexRoute: typeof StudyIndexRoute
+  ExamCourseCodeResultsRoute: typeof ExamCourseCodeResultsRoute
+  ExamCourseCodeSessionRoute: typeof ExamCourseCodeSessionRoute
+  ExamCourseCodeIndexRoute: typeof ExamCourseCodeIndexRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
-    '/study': {
-      id: '/study'
-      path: '/study'
-      fullPath: '/study'
-      preLoaderRoute: typeof StudyRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/home': {
       id: '/home'
       path: '/home'
       fullPath: '/home'
       preLoaderRoute: typeof HomeRouteImport
-      parentRoute: typeof rootRouteImport
-    }
-    '/exam': {
-      id: '/exam'
-      path: '/exam'
-      fullPath: '/exam'
-      preLoaderRoute: typeof ExamRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/admin': {
@@ -206,12 +196,26 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/study/': {
+      id: '/study/'
+      path: '/study'
+      fullPath: '/study/'
+      preLoaderRoute: typeof StudyIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/exam/': {
+      id: '/exam/'
+      path: '/exam'
+      fullPath: '/exam/'
+      preLoaderRoute: typeof ExamIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/study/$courseCode': {
       id: '/study/$courseCode'
-      path: '/$courseCode'
+      path: '/study/$courseCode'
       fullPath: '/study/$courseCode'
       preLoaderRoute: typeof StudyCourseCodeRouteImport
-      parentRoute: typeof StudyRoute
+      parentRoute: typeof rootRouteImport
     }
     '/session/$courseCode': {
       id: '/session/$courseCode'
@@ -227,72 +231,42 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof ResultsCourseCodeRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/exam/$courseCode': {
-      id: '/exam/$courseCode'
-      path: '/$courseCode'
-      fullPath: '/exam/$courseCode'
-      preLoaderRoute: typeof ExamCourseCodeRouteImport
-      parentRoute: typeof ExamRoute
+    '/exam/$courseCode/': {
+      id: '/exam/$courseCode/'
+      path: '/exam/$courseCode'
+      fullPath: '/exam/$courseCode/'
+      preLoaderRoute: typeof ExamCourseCodeIndexRouteImport
+      parentRoute: typeof rootRouteImport
     }
     '/exam/$courseCode/session': {
       id: '/exam/$courseCode/session'
-      path: '/session'
+      path: '/exam/$courseCode/session'
       fullPath: '/exam/$courseCode/session'
       preLoaderRoute: typeof ExamCourseCodeSessionRouteImport
-      parentRoute: typeof ExamCourseCodeRoute
+      parentRoute: typeof rootRouteImport
     }
     '/exam/$courseCode/results': {
       id: '/exam/$courseCode/results'
-      path: '/results'
+      path: '/exam/$courseCode/results'
       fullPath: '/exam/$courseCode/results'
       preLoaderRoute: typeof ExamCourseCodeResultsRouteImport
-      parentRoute: typeof ExamCourseCodeRoute
+      parentRoute: typeof rootRouteImport
     }
   }
 }
 
-interface ExamCourseCodeRouteChildren {
-  ExamCourseCodeResultsRoute: typeof ExamCourseCodeResultsRoute
-  ExamCourseCodeSessionRoute: typeof ExamCourseCodeSessionRoute
-}
-
-const ExamCourseCodeRouteChildren: ExamCourseCodeRouteChildren = {
-  ExamCourseCodeResultsRoute: ExamCourseCodeResultsRoute,
-  ExamCourseCodeSessionRoute: ExamCourseCodeSessionRoute,
-}
-
-const ExamCourseCodeRouteWithChildren = ExamCourseCodeRoute._addFileChildren(
-  ExamCourseCodeRouteChildren,
-)
-
-interface ExamRouteChildren {
-  ExamCourseCodeRoute: typeof ExamCourseCodeRouteWithChildren
-}
-
-const ExamRouteChildren: ExamRouteChildren = {
-  ExamCourseCodeRoute: ExamCourseCodeRouteWithChildren,
-}
-
-const ExamRouteWithChildren = ExamRoute._addFileChildren(ExamRouteChildren)
-
-interface StudyRouteChildren {
-  StudyCourseCodeRoute: typeof StudyCourseCodeRoute
-}
-
-const StudyRouteChildren: StudyRouteChildren = {
-  StudyCourseCodeRoute: StudyCourseCodeRoute,
-}
-
-const StudyRouteWithChildren = StudyRoute._addFileChildren(StudyRouteChildren)
-
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AdminRoute: AdminRoute,
-  ExamRoute: ExamRouteWithChildren,
   HomeRoute: HomeRoute,
-  StudyRoute: StudyRouteWithChildren,
   ResultsCourseCodeRoute: ResultsCourseCodeRoute,
   SessionCourseCodeRoute: SessionCourseCodeRoute,
+  StudyCourseCodeRoute: StudyCourseCodeRoute,
+  ExamIndexRoute: ExamIndexRoute,
+  StudyIndexRoute: StudyIndexRoute,
+  ExamCourseCodeResultsRoute: ExamCourseCodeResultsRoute,
+  ExamCourseCodeSessionRoute: ExamCourseCodeSessionRoute,
+  ExamCourseCodeIndexRoute: ExamCourseCodeIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

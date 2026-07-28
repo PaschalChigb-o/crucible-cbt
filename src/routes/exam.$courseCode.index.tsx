@@ -3,7 +3,7 @@ import { FileQuestion, Clock } from "lucide-react";
 import { COURSE_CONFIG, EXAM_CONFIG } from "@/config/courses";
 import { BackBar, C, Screen } from "@/components/ui-crucible";
 
-export const Route = createFileRoute("/exam/$courseCode")({
+export const Route = createFileRoute("/exam/$courseCode/")({
   head: ({ params }) => ({
     meta: [
       { title: `CRUCIBLE — Exam Brief ${params.courseCode}` },
