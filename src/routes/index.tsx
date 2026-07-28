@@ -1,24 +1,67 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, useNavigate } from "@tanstack/react-router";
+import { useEffect } from "react";
+import { C } from "@/components/ui-crucible";
 
-// No head() here: the home route inherits title/description/og/twitter from
-// __root.tsx, and ships no og:image so serve-time hosting can inject the
-// project's social preview (explicit og:image or latest screenshot).
 export const Route = createFileRoute("/")({
-  component: Index,
+  head: () => ({
+    meta: [
+      { title: "CRUCIBLE — Enter the crucible. Leave prepared." },
+      {
+        name: "description",
+        content:
+          "CBT examination practice for Nigerian university students. 9 courses, 1,350+ questions.",
+      },
+      {
+        property: "og:title",
+        content: "CRUCIBLE — Enter the crucible. Leave prepared.",
+      },
+      {
+        property: "og:description",
+        content:
+          "CBT examination practice app for Nigerian university students across all faculties.",
+      },
+    ],
+  }),
+  component: Splash,
 });
 
-// IMPORTANT: Replace this placeholder. See ./README.md for routing conventions.
-function Index() {
+function Splash() {
+  const navigate = useNavigate();
+  useEffect(() => {
+    const t = setTimeout(() => navigate({ to: "/home" }), 2500);
+    return () => clearTimeout(t);
+  }, [navigate]);
+
   return (
     <div
-      className="flex min-h-screen items-center justify-center"
-      style={{ backgroundColor: "#fcfbf8" }}
+      className="flex min-h-screen items-center justify-center px-6"
+      style={{ background: C.primary }}
     >
-      <img
-        data-lovable-blank-page-placeholder="REMOVE_THIS"
-        src="https://cdn.gpteng.co/blank-app-v1.svg"
-        alt="Your app will live here!"
-      />
+      <div className="fade-in flex flex-col items-center text-center">
+        <img
+          src="/assets/logo.png"
+          alt="CRUCIBLE"
+          width={120}
+          height={120}
+          style={{ width: 120, height: 120, borderRadius: 24 }}
+        />
+        <h1
+          className="heading"
+          style={{ fontSize: 36, color: C.gold, marginTop: 20 }}
+        >
+          CRUCIBLE
+        </h1>
+        <p
+          style={{
+            fontSize: 14,
+            color: C.textLight,
+            opacity: 0.7,
+            marginTop: 8,
+          }}
+        >
+          Enter the crucible. Leave prepared.
+        </p>
+      </div>
     </div>
   );
 }
