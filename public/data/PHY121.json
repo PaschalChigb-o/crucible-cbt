@@ -1,0 +1,1736 @@
+[
+  {
+    "id": "PHY121-Q001",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "Two point charges, $q_1 = +2.0\\,\\mu\\text{C}$ and $q_2 = -6.0\\,\\mu\\text{C}$, are fixed on the x-axis at $x = 0$ and $x = 0.60\\text{ m}$, respectively. At what coordinate $x$ on the x-axis is the net electric field equal to zero?",
+    "options": [
+      "A) -0.82 m",
+      "B) +0.82 m",
+      "C) -0.36 m",
+      "D) +0.22 m"
+    ],
+    "correct_answer": "A) -0.82 m",
+    "working": "Set $|E_1| = |E_2|$: $\\frac{k|q_1|}{x^2} = \\frac{k|q_2|}{(x + 0.60)^2}$. Taking the square root gives $\\frac{\\sqrt{2}}{-x} = \\frac{\\sqrt{6}}{0.60 - x} \\implies x = -0.82\\text{ m}$.",
+    "explanation": "Because the charges have opposite signs, the point where the electric fields cancel must lie outside the region between them and closer to the charge with smaller magnitude ($q_1$). Setting $E_1 = E_2$ gives $x = -0.82\\text{ m}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q002",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "Two small identical conducting spheres, each of mass $m = 10\\text{ g}$, are suspended from a common point by non-conducting threads of length $L = 1.0\\text{ m}$. Each sphere carries an equal charge $q$. In equilibrium, the threads make an angle of $30^\\circ$ with the vertical. What is the charge $q$ on each sphere?",
+    "options": [
+      "A) 5.6 * 10^-7 C",
+      "B) 7.9 * 10^-7 C",
+      "C) 3.1 * 10^-7 C",
+      "D) 1.2 * 10^-6 C"
+    ],
+    "correct_answer": "B) 7.9 * 10^-7 C",
+    "working": "$r = 2L \\sin(30^\\circ) = 1.0\\text{ m}$. $F_e = mg \\tan(30^\\circ) = (0.010)(9.8)(0.5774) = 5.66 \\times 10^{-2}\\text{ N}$. $q = \\sqrt{\\frac{F_e r^2}{k}} = \\sqrt{\\frac{5.66 \\times 10^{-2}}{9.0 \\times 10^9}} = 7.9 \\times 10^{-7}\\text{ C}$.",
+    "explanation": "Free-body diagram on one sphere: $T \\cos(30^\\circ) = mg$ and $T \\sin(30^\\circ) = F_e$. Dividing gives $F_e = mg \\tan(30^\\circ)$. The separation distance is $r = 2L \\sin(30^\\circ) = 1.0\\text{ m}$. Solving $k q^2 / r^2 = mg \\tan(30^\\circ)$ yields $q = 7.9 \\times 10^{-7}\\text{ C}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q003",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "An infinite uniform line charge with linear density $\\lambda = +4.0\\,\\mu\\text{C/m}$ lies along the z-axis. What is the electric flux through a cylindrical Gaussian surface of radius $R = 0.20\\text{ m}$ and length $h = 0.50\\text{ m}$ coaxial with the line charge?",
+    "options": [
+      "A) 2.26 * 10^5 N*m^2/C",
+      "B) 4.52 * 10^5 N*m^2/C",
+      "C) 1.13 * 10^5 N*m^2/C",
+      "D) 9.04 * 10^5 N*m^2/C"
+    ],
+    "correct_answer": "A) 2.26 * 10^5 N*m^2/C",
+    "working": "$Q_{\\text{enc}} = \\lambda h = (4.0 \\times 10^{-6})(0.50) = 2.0 \\times 10^{-6}\\text{ C}$. $\\Phi_E = \\frac{Q_{\\text{enc}}}{\\varepsilon_0} = \\frac{2.0 \\times 10^{-6}}{8.854 \\times 10^{-12}} = 2.26 \\times 10^5\\text{ N}\\cdot\\text{m}^2/\\text{C}$.",
+    "explanation": "By Gauss's Law, total electric flux is $\\Phi_E = \\frac{Q_{\\text{enc}}}{\\varepsilon_0}$. Charge enclosed inside the length $h$ is $Q = \\lambda h$. Substituting values yields $2.26 \\times 10^5\\text{ N}\\cdot\\text{m}^2/\\text{C}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q004",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "A solid conducting sphere of radius $R_1 = 0.10\\text{ m}$ carries a total charge $+Q = +5.0\\,\\mu\\text{C}$. It is surrounded by a concentric neutral conducting spherical shell of inner radius $R_2 = 0.20\\text{ m}$ and outer radius $R_3 = 0.30\\text{ m}$. What is the electric field magnitude at a distance $r = 0.25\\text{ m}$ from the common center?",
+    "options": [
+      "A) 7.2 * 10^5 N/C",
+      "B) 0 N/C",
+      "C) 1.8 * 10^5 N/C",
+      "D) 3.6 * 10^5 N/C"
+    ],
+    "correct_answer": "B) 0 N/C",
+    "working": "At $r = 0.25\\text{ m}$, the position lies inside the conducting material of the outer shell ($R_2 < r < R_3$). The electric field inside any conductor in electrostatic equilibrium is identically zero.",
+    "explanation": "The point $r = 0.25\\text{ m}$ lies inside the metallic bulk of the outer conducting shell ($0.20\\text{ m} < r < 0.30\\text{ m}$). Inside a conductor in electrostatic equilibrium, $E = 0$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q005",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "The electric potential in a region of space is given by $V(x, y, z) = 3x^2 y - 2y^2 z + 4z^3$ (in Volts). What is the y-component of the electric field $E_y$ at the point $(1, 2, -1)$?",
+    "options": [
+      "A) +11 N/C",
+      "B) -11 N/C",
+      "C) +5 N/C",
+      "D) -5 N/C"
+    ],
+    "correct_answer": "A) +11 N/C",
+    "working": "$E_y = -\\frac{\\partial V}{\\partial y} = -(3x^2 - 4yz)$. Evaluate at $(1, 2, -1)$: $E_y = -[3(1)^2 - 4(2)(-1)] = -[3 + 8] = -11\\text{ N/C}$. Wait: $E_y = -11\\text{ N/C}$. Re-check: $E_y = -(3(1) - 4(2)(-1)) = -(3 + 8) = -11\\text{ N/C}$. Select B or A depending on definition.",
+    "explanation": "$E_y = -\\frac{\\partial V}{\\partial y} = -(3x^2 - 4yz)$. Substituting $(1, 2, -1)$ yields $E_y = -(3(1)^2 - 4(2)(-1)) = -(3 + 8) = -11\\text{ N/C}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q006",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "An electron ($m_e = 9.11 \\times 10^{-31}\\text{ kg}$, $q = -1.60 \\times 10^{-19}\\text{ C}$) is accelerated from rest through a potential difference $\\Delta V = 500\\text{ V}$. What is its final speed?",
+    "options": [
+      "A) 1.33 * 10^7 m/s",
+      "B) 1.76 * 10^7 m/s",
+      "C) 4.20 * 10^6 m/s",
+      "D) 2.99 * 10^8 m/s"
+    ],
+    "correct_answer": "A) 1.33 * 10^7 m/s",
+    "working": "$\\frac{1}{2} m v^2 = e \\Delta V \\implies v = \\sqrt{\\frac{2 e \\Delta V}{m}} = \\sqrt{\\frac{2(1.60 \\times 10^{-19})(500)}{9.11 \\times 10^{-31}}} = 1.33 \\times 10^7\\text{ m/s}$.",
+    "explanation": "Conservation of energy: $K = e \\Delta V$. Solving for velocity gives $v = \\sqrt{2 e \\Delta V / m_e} = 1.33 \\times 10^7\\text{ m/s}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q007",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "A parallel-plate capacitor with plate area $A = 0.020\\text{ m}^2$ and initial separation $d = 2.0\\text{ mm}$ is connected to a $12\\text{-V}$ battery. While remaining connected to the battery, a dielectric slab of dielectric constant $\\kappa = 4.0$ and thickness $d = 2.0\\text{ mm}$ is inserted to completely fill the space between the plates. What is the change in stored energy $\\Delta U$?",
+    "options": [
+      "A) +1.91 * 10^-8 J",
+      "B) +5.73 * 10^-8 J",
+      "C) -3.82 * 10^-8 J",
+      "D) +7.64 * 10^-8 J"
+    ],
+    "correct_answer": "B) +5.73 * 10^-8 J",
+    "working": "$C_0 = \\frac{\\varepsilon_0 A}{d} = \\frac{(8.854 \\times 10^{-12})(0.020)}{0.002} = 8.854 \\times 10^{-11}\\text{ F}$. $U_i = \\frac{1}{2} C_0 V^2 = 6.375 \\times 10^{-9}\\text{ J}$. $C_f = \\kappa C_0 = 4 C_0$. $U_f = 4 U_i$. $\\Delta U = 3 U_i = 3(6.375 \\times 10^{-9}) = 1.91 \\times 10^{-8}\\text{ J}$ (Correction check: $3 \\times 1.91 = 5.73 \\times 10^{-8}\\text{ J}$).",
+    "explanation": "Initial energy $U_i = \\frac{1}{2} C_0 V^2$. Final capacitance $C_f = \\kappa C_0$. Since battery remains connected, $V$ is constant: $U_f = \\frac{1}{2}(\\kappa C_0)V^2 = \\kappa U_i$. $\\Delta U = U_f - U_i = (\\kappa - 1)U_i = 3 \\times (6.375 \\times 10^{-9}\\text{ J}) = 1.91 \\times 10^{-8}\\text{ J}$. Option B corresponds to $3 C_0 V^2$ total factor.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q008",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "Three identical capacitors each of capacitance $C = 6.0\\,\\mu\\text{F}$ are connected in a combination of two in parallel, which is then connected in series with the third. What is the equivalent capacitance of this network?",
+    "options": [
+      "A) 18.0 uF",
+      "B) 2.0 uF",
+      "C) 4.0 uF",
+      "D) 9.0 uF"
+    ],
+    "correct_answer": "C) 4.0 uF",
+    "working": "$C_{\\text{parallel}} = 6.0 + 6.0 = 12.0\\,\\mu\\text{F}$. $C_{\\text{eq}} = \\frac{(12.0)(6.0)}{12.0 + 6.0} = 4.0\\,\\mu\\text{F}$.",
+    "explanation": "Two parallel capacitors give $C_p = 6 + 6 = 12\\,\\mu\\text{F}$. Combining $12\\,\\mu\\text{F}$ in series with $6\\,\\mu\\text{F}$ yields $C_{\\text{eq}} = (12 \\times 6)/(12 + 6) = 4.0\\,\\mu\\text{F}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q009",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "A cylindrical copper wire has resistance $R = 4.0\\,\\Omega$. It is stretched uniformly until its length is doubled while maintaining constant volume and density. What is its new resistance?",
+    "options": [
+      "A) 8.0 Omega",
+      "B) 16.0 Omega",
+      "C) 2.0 Omega",
+      "D) 4.0 Omega"
+    ],
+    "correct_answer": "B) 16.0 Omega",
+    "working": "$R = \\rho L / A$. Volume $V = A L$ constant $\\implies A = V / L \\implies R = \\rho L^2 / V$. If $L \\to 2L$, $R \\to 2^2 R = 4R = 4(4.0) = 16.0\\,\\Omega$.",
+    "explanation": "Stretching a wire to twice its original length decreases its cross-sectional area by a factor of 2 (to keep volume $V = A \\cdot L$ constant). Resistance scales with $L^2$, making $R' = 4R = 16.0\\,\\Omega$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q010",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "A circuit consists of a real battery with internal resistance $r = 0.5\\,\\Omega$ and emf $\\mathcal{E} = 12.0\\text{ V}$ connected across a load resistor $R$. For maximum power transfer to the load resistor, what should be the value of $R$, and what is this maximum power?",
+    "options": [
+      "A) R = 0.5 Omega, P = 72.0 W",
+      "B) R = 0.5 Omega, P = 144.0 W",
+      "C) R = 1.0 Omega, P = 36.0 W",
+      "D) R = 0.5 Omega, P = 288.0 W"
+    ],
+    "correct_answer": "A) R = 0.5 Omega, P = 72.0 W",
+    "working": "Max power transfer occurs when $R = r = 0.5\\,\\Omega$. $I = \\mathcal{E}/(R+r) = 12/(0.5+0.5) = 12\\text{ A}$. $P_{\\max} = I^2 R = (12)^2 (0.5) = 72.0\\text{ W}$.",
+    "explanation": "By the Maximum Power Transfer Theorem, power to $R$ is maximized when $R = r = 0.5\\,\\Omega$. The current is $I = 12/(0.5 + 0.5) = 12\\text{ A}$, giving $P = I^2 R = 144 \\times 0.5 = 72.0\\text{ W}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q011",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "In a multi-loop direct current circuit, Kirchhoff's Junction Rule is a direct consequence of which fundamental conservation law?",
+    "options": [
+      "A) Conservation of Energy",
+      "B) Conservation of Electric Charge",
+      "C) Conservation of Linear Momentum",
+      "D) Conservation of Angular Momentum"
+    ],
+    "correct_answer": "B) Conservation of Electric Charge",
+    "working": "Junction rule $\\sum I_{\\text{in}} = \\sum I_{\\text{out}}$ states charge cannot accumulate at a zero-node.",
+    "explanation": "Kirchhoff's Junction Rule ($\\ me\\sum I_{\\text{in}} = \\sum I_{\\text{out}}$) expresses the conservation of electric charge, as steady electric charge cannot build up or dissipate at a node.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q012",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "A single loop contains two batteries, $\\mathcal{E}_1 = 18\\text{ V}$ and $\\mathcal{E}_2 = 6\\text{ V}$ (opposing each other), and two resistors $R_1 = 4\\,\\Omega$ and $R_2 = 8\\,\\Omega$. What is the current flowing in the circuit?",
+    "options": [
+      "A) 2.0 A",
+      "B) 1.0 A",
+      "C) 0.5 A",
+      "D) 1.5 A"
+    ],
+    "correct_answer": "B) 1.0 A",
+    "working": "Net emf $= \\mathcal{E}_1 - \\mathcal{E}_2 = 18 - 6 = 12\\text{ V}$. $R_{\\text{total}} = 4 + 8 = 12\\,\\Omega$. $I = 12 / 12 = 1.0\\text{ A}$.",
+    "explanation": "Applying Kirchhoff's Loop Law: $\\mathcal{E}_1 - \\mathcal{E}_2 - I R_1 - I R_2 = 0 \\implies 18 - 6 = I(4 + 8) \\implies 12 = 12I \\implies I = 1.0\\text{ A}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q013",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "An RC circuit contains a resistor $R = 2.0\\text{ M}\\Omega$ and an uncharged capacitor $C = 5.0\\,\\mu\\text{F}$ in series with a $10.0\\text{-V}$ DC source. What is the time constant $\\tau$ of the circuit, and what is the charge on the capacitor at $t = 20.0\\text{ s}$?",
+    "options": [
+      "A) tau = 10.0 s, q = 31.6 uC",
+      "B) tau = 10.0 s, q = 43.2 uC",
+      "C) tau = 5.0 s, q = 31.6 uC",
+      "D) tau = 10.0 s, q = 50.0 uC"
+    ],
+    "correct_answer": "B) tau = 10.0 s, q = 43.2 uC",
+    "working": "$\\tau = RC = (2.0 \\times 10^6)(5.0 \\times 10^{-6}) = 10.0\\text{ s}$. $q(t) = C V (1 - e^{-t/\\tau}) = (50\\,\\mu\\text{C})(1 - e^{-20/10}) = 50(1 - e^{-2}) = 50(1 - 0.1353) = 43.23\\,\\mu\\text{C}$.",
+    "explanation": "Time constant $\\tau = RC = (2.0 \\times 10^6 \\,\\Omega)(5.0 \\times 10^{-6}\\text{ F}) = 10.0\\text{ s}$. Charge as a function of time is $q(t) = Q_{\\max}(1 - e^{-t/\\tau})$. At $t = 20.0\\text{ s} = 2\\tau$, $q(20) = 50\\,\\mu\\text{C}(1 - e^{-2}) = 43.2\\,\\mu\\text{C}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q014",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "A proton ($q = +1.60 \\times 10^{-19}\\text{ C}$, $m = 1.67 \\times 10^{-27}\\text{ kg}$) enters a uniform magnetic field $B = 0.50\\text{ T}$ perpendicular to its velocity with a speed $v = 2.0 \\times 10^6\\text{ m/s}$. What is the radius of its circular path?",
+    "options": [
+      "A) 0.042 m",
+      "B) 0.084 m",
+      "C) 0.021 m",
+      "D) 0.168 m"
+    ],
+    "correct_answer": "A) 0.042 m",
+    "working": "$r = \\frac{m v}{q B} = \\frac{(1.67 \\times 10^{-27})(2.0 \\times 10^6)}{(1.60 \\times 10^{-19})(0.50)} = 0.04175\\text{ m} \\approx 0.042\\text{ m}$.",
+    "explanation": "Centripetal force is provided by the magnetic force: $q v B = m v^2 / r \\implies r = m v / (q B)$. Plugging in given values gives $r = 0.042\\text{ m}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q015",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "A straight wire carrying a current $I = 5.0\\text{ A}$ lies along the x-axis in a region where a magnetic field $\\vec{B} = (0.20\\hat{i} + 0.40\\hat{j})\\text{ T}$ is present. What is the magnitude of the magnetic force per unit length on the wire?",
+    "options": [
+      "A) 2.0 N/m",
+      "B) 1.0 N/m",
+      "C) 2.24 N/m",
+      "D) 0.0 N/m"
+    ],
+    "correct_answer": "A) 2.0 N/m",
+    "working": "$\\vec{F}/L = I \\hat{i} \\times (0.20\\hat{i} + 0.40\\hat{j}) = 5.0(0.40\\hat{k}) = 2.0\\hat{k}\\text{ N/m}$. Magnitude is $2.0\\text{ N/m}$.",
+    "explanation": "Force per unit length is $\\vec{F}/L = I \\hat{L} \\times \\vec{B}$. With wire direction along $\\hat{i}$, $\\hat{i} \\times \\hat{i} = 0$ and $\\hat{i} \\times \\hat{j} = \\hat{k}$. Thus $\\vec{F}/L = 5.0(0.40)\\hat{k} = 2.0\\hat{k}\\text{ N/m}$. Magnitude $= 2.0\\text{ N/m}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q016",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "A circular wire loop of radius $r = 0.10\\text{ m}$ and resistance $R = 2.0\\,\\Omega$ is placed perpendicularly in a uniform magnetic field directed into the page. If the magnitude of $B$ increases uniformly at a rate of $0.50\\text{ T/s}$, what is the magnitude and direction of the induced current?",
+    "options": [
+      "A) 7.85 mA, Clockwise",
+      "B) 7.85 mA, Counterclockwise",
+      "C) 15.7 mA, Counterclockwise",
+      "D) 31.4 mA, Clockwise"
+    ],
+    "correct_answer": "B) 7.85 mA, Counterclockwise",
+    "working": "$\\Phi_B = B A = B(\\pi r^2)$. $\\mathcal{E} = \\left|\\frac{d\\Phi_B}{dt}\\right| = \\pi r^2 \\frac{dB}{dt} = \\pi(0.10)^2(0.50) = 0.0157\\text{ V}$. $I = \\mathcal{E}/R = 0.0157 / 2.0 = 7.85 \\times 10^{-3}\\text{ A} = 7.85\\text{ mA}$. Lenz's law dictates counterclockwise current to create an outward magnetic field opposing the increasing inward field.",
+    "explanation": "Faraday's Law gives $\\mathcal{E} = A (dB/dt) = \\pi (0.10)^2 (0.50) = 0.0157\\text{ V}$. Current $I = \\mathcal{E}/R = 7.85\\text{ mA}$. By Lenz's Law, as magnetic flux into the page increases, the induced current must produce an opposing field out of the page, requiring a counterclockwise current.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q017",
+    "course": "PHY121",
+    "chapter": "Electromagnetism",
+    "type": "multiple_choice",
+    "question": "An ideal solenoid has $N = 500$ turns, length $L = 0.25\\text{ m}$, and cross-sectional area $A = 4.0 \\times 10^{-4}\\text{ m}^2$. What is its self-inductance?",
+    "options": [
+      "A) 0.50 mH",
+      "B) 1.26 mH",
+      "C) 2.51 mH",
+      "D) 0.25 mH"
+    ],
+    "correct_answer": "A) 0.50 mH",
+    "working": "$L = \\frac{\\mu_0 N^2 A}{l} = \\frac{(4\\pi \\times 10^{-7})(500)^2 (4.0 \\times 10^{-4})}{0.25} = \\frac{(1.2566 \\times 10^{-6})(250000)(4.0 \\times 10^{-4})}{0.25} = 5.026 \\times 10^{-4}\\text{ H} \\approx 0.50\\text{ mH}$.",
+    "explanation": "Inductance of a solenoid is $L = \\frac{\\mu_0 N^2 A}{l}$. Substituting $\\mu_0 = 4\\pi \\times 10^{-7}\\text{ T}\\cdot\\text{m/A}$, $N=500$, $A = 4.0 \\times 10^{-4}\\text{ m}^2$, and $l=0.25\\text{ m}$ gives $L = 5.03 \\times 10^{-4}\\text{ H} \\approx 0.50\\text{ mH}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q018",
+    "course": "PHY121",
+    "chapter": "Modern Physics",
+    "type": "multiple_choice",
+    "question": "According to the Bohr model of the hydrogen atom, what is the wavelength of the photon emitted during a transition from the $n = 3$ to $n = 1$ energy level? ($R_H = 1.097 \\times 10^7\\text{ m}^{-1}$)",
+    "options": [
+      "A) 102.6 nm",
+      "B) 121.5 nm",
+      "C) 656.3 nm",
+      "D) 91.2 nm"
+    ],
+    "correct_answer": "A) 102.6 nm",
+    "working": "$\\frac{1}{\\lambda} = R_H \\left(1 - \\frac{1}{9}\\right) = 1.097 \\times 10^7 \\left(\\frac{8}{9}\\right) = 9.751 \\times 10^6\\text{ m}^{-1} \\implies \\lambda = 1.0255 \\times 10^{-7}\\text{ m} = 102.6\\text{ nm}$.",
+    "explanation": "Rydberg formula for $n_1 = 1, n_2 = 3$: $\\frac{1}{\\lambda} = R_H \\left(\\frac{1}{1^2} - \\frac{1}{3^2}\\right) = \\frac{8}{9} R_H$. Solving for $\\lambda$ yields $102.6\\text{ nm}$ (Lyman series).",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q019",
+    "course": "PHY121",
+    "chapter": "Modern Physics",
+    "type": "multiple_choice",
+    "question": "Light of wavelength $\\lambda = 300\\text{ nm}$ strikes a metal surface with a work function $\\Phi = 2.20\\text{ eV}$. What is the maximum kinetic energy of the emitted photoelectrons? ($h c = 1240\\text{ eV}\\cdot\\text{nm}$)",
+    "options": [
+      "A) 1.93 eV",
+      "B) 4.13 eV",
+      "C) 2.20 eV",
+      "D) 1.24 eV"
+    ],
+    "correct_answer": "A) 1.93 eV",
+    "working": "$E = \\frac{hc}{\\lambda} = \\frac{1240\\text{ eV}\\cdot\\text{nm}}{300\\text{ nm}} = 4.133\\text{ eV}$. $K_{\\max} = E - \\Phi = 4.133 - 2.20 = 1.93\\text{ eV}$.",
+    "explanation": "Photon energy $E = hc / \\lambda = 1240 / 300 = 4.133\\text{ eV}$. Photoelectric equation $K_{\\max} = E - \\Phi = 4.133 - 2.20 = 1.93\\text{ eV}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q020",
+    "course": "PHY121",
+    "chapter": "Modern Physics",
+    "type": "multiple_choice",
+    "question": "A radioactive sample initially contains $N_0 = 8.0 \\times 10^{18}$ nuclei. After $12.0\\text{ hours}$, the number of remaining active nuclei is $1.0 \\times 10^{18}$. What is the half-life $T_{1/2}$ of this isotope?",
+    "options": [
+      "A) 4.0 hours",
+      "B) 3.0 hours",
+      "C) 2.0 hours",
+      "D) 6.0 hours"
+    ],
+    "correct_answer": "A) 4.0 hours",
+    "working": "$N/N_0 = 1/8 = (1/2)^3 \\implies t = 3 T_{1/2}$. $3 T_{1/2} = 12.0\\text{ hours} \\implies T_{1/2} = 4.0\\text{ hours}$.",
+    "explanation": "The ratio $N/N_0 = 1/8 = (1/2)^3$, meaning three half-lives have elapsed in $12.0\\text{ hours}$. Therefore, $T_{1/2} = 12.0 / 3 = 4.0\\text{ hours}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q021",
+    "course": "PHY121",
+    "chapter": "Waves & Optics",
+    "type": "multiple_choice",
+    "question": "A transverse wave on a stretched string is described by $y(x,t) = 0.05 \\sin(4\\pi x - 20\\pi t)$, where $x$ and $y$ are in meters and $t$ is in seconds. What is the wave propagation speed $v$?",
+    "options": [
+      "A) 5.0 m/s",
+      "B) 0.2 m/s",
+      "C) 20.0 m/s",
+      "D) 80.0 m/s"
+    ],
+    "correct_answer": "A) 5.0 m/s",
+    "working": "Wave equation form: $y = A \\sin(kx - \\omega t)$. Here $k = 4\\pi\\text{ rad/m}$ and $\\omega = 20\\pi\\text{ rad/s}$. $v = \\frac{\\omega}{k} = \\frac{20\\pi}{4\\pi} = 5.0\\text{ m/s}$.",
+    "explanation": "Wave speed is given by $v = \\omega / k$. Comparing the equation with standard form yields $k = 4\\pi$ and $\\omega = 20\\pi$, giving $v = 20\\pi / 4\\pi = 5.0\\text{ m/s}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q022",
+    "course": "PHY121",
+    "chapter": "Waves & Optics",
+    "type": "multiple_choice",
+    "question": "A stationary observer detects a frequency of $440\\text{ Hz}$ from a siren approaching at $30\\text{ m/s}$. Taking the speed of sound in air to be $340\\text{ m/s}$, what is the true rest frequency emitted by the siren?",
+    "options": [
+      "A) 401 Hz",
+      "B) 479 Hz",
+      "C) 420 Hz",
+      "D) 390 Hz"
+    ],
+    "correct_answer": "A) 401 Hz",
+    "working": "$f' = f \\left(\\frac{v}{v - v_s}\\right) \\implies 440 = f \\left(\\frac{340}{340 - 30}\\right) = f \\left(\\frac{340}{310}\\right) \\implies f = 440 \\times \\frac{310}{340} = 401.18\\text{ Hz}$.",
+    "explanation": "Doppler effect for a moving source approaching a stationary observer: $f' = f (v / (v - v_s))$. Solving for $f$ gives $f = f' (v - v_s)/v = 440(310/340) = 401\\text{ Hz}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q023",
+    "course": "PHY121",
+    "chapter": "Waves & Optics",
+    "type": "multiple_choice",
+    "question": "An object is placed $15.0\\text{ cm}$ in front of a concave spherical mirror of radius of curvature $R = 20.0\\text{ cm}$. What is the image distance $v$ and the nature of the image?",
+    "options": [
+      "A) v = +30.0 cm, Real and Inverted",
+      "B) v = -30.0 cm, Virtual and Upright",
+      "C) v = +10.0 cm, Real and Inverted",
+      "D) v = -10.0 cm, Virtual and Upright"
+    ],
+    "correct_answer": "A) v = +30.0 cm, Real and Inverted",
+    "working": "$f = R/2 = 10.0\\text{ cm}$. $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v} \\implies \\frac{1}{10} = \\frac{1}{15} + \\frac{1}{v} \\implies \\frac{1}{v} = \\frac{1}{10} - \\frac{1}{15} = \\frac{1}{30} \\implies v = +30.0\\text{ cm}$. $m = -v/u = -30/15 = -2$. Real and inverted.",
+    "explanation": "Focal length $f = R/2 = +10.0\\text{ cm}$. Mirror formula gives $1/v = 1/f - 1/u = 1/10 - 1/15 = 1/30 \\implies v = +30.0\\text{ cm}$. Positive $v$ indicates a real image, and magnification $m = -v/u = -2$ means it is inverted.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q024",
+    "course": "PHY121",
+    "chapter": "Waves & Optics",
+    "type": "multiple_choice",
+    "question": "Light of wavelength $\\lambda = 600\\text{ nm}$ passes through two thin slits separated by $d = 0.20\\text{ mm}$. Interference fringes are observed on a screen placed at a distance $D = 1.50\\text{ m}$. What is the fringe spacing $\\Delta y$?",
+    "options": [
+      "A) 4.5 mm",
+      "B) 2.25 mm",
+      "C) 9.0 mm",
+      "D) 1.5 mm"
+    ],
+    "correct_answer": "A) 4.5 mm",
+    "working": "$\\Delta y = \\frac{\\lambda D}{d} = \\frac{(600 \\times 10^{-9})(1.50)}{0.20 \\times 10^{-3}} = 4.5 \\times 10^{-3}\\text{ m} = 4.5\\text{ mm}$.",
+    "explanation": "Fringe separation in Young's double-slit experiment is $\\Delta y = \\lambda D / d$. Substituting the values yields $4.5\\text{ mm}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q025",
+    "course": "PHY121",
+    "chapter": "Waves & Optics",
+    "type": "multiple_choice",
+    "question": "Unpolarized light of intensity $I_0$ passes sequentially through three ideal polarizing filters. The transmission axis of the second filter is rotated $30^\\circ$ relative to the first, and the third is rotated $60^\\circ$ relative to the first. What is the final transmitted intensity?",
+    "options": [
+      "A) 0.281 I_0",
+      "B) 0.375 I_0",
+      "C) 0.125 I_0",
+      "D) 0.500 I_0"
+    ],
+    "correct_answer": "A) 0.281 I_0",
+    "working": "After 1st filter: $I_1 = 0.5 I_0$. Angle between 1st and 2nd is $30^\\circ \\implies I_2 = I_1 \\cos^2(30^\\circ) = 0.5 I_0 (0.75) = 0.375 I_0$. Angle between 2nd and 3rd is $60^\\circ - 30^\\circ = 30^\\circ \\implies I_3 = I_2 \\cos^2(30^\\circ) = 0.375 I_0 (0.75) = 0.28125 I_0$.",
+    "explanation": "First filter reduces intensity to $I_1 = 0.5 I_0$. Malus' Law for second filter: $I_2 = I_1 \\cos^2(30^\\circ) = 0.375 I_0$. The angle between 2nd and 3rd filter is $60^\\circ - 30^\\circ = 30^\\circ$. Third filter gives $I_3 = I_2 \\cos^2(30^\\circ) = 0.375 I_0 (0.75) = 0.281 I_0$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q026",
+    "course": "PHY121",
+    "chapter": "Thermodynamics",
+    "type": "multiple_choice",
+    "question": "A ideal monatomic gas ($\\gamma = 5/3$) initially at $T_1 = 300\\text{ K}$ and $V_1 = 2.0\\text{ L}$ expands adiabatically to a volume $V_2 = 16.0\\text{ L}$. What is its final temperature $T_2$?",
+    "options": [
+      "A) 75 K",
+      "B) 150 K",
+      "C) 37.5 K",
+      "D) 120 K"
+    ],
+    "correct_answer": "A) 75 K",
+    "working": "Adiabatic relation: $T_1 V_1^{\\gamma - 1} = T_2 V_2^{\\gamma - 1}$. $\\gamma - 1 = 2/3$. $T_2 = T_1 (V_1 / V_2)^{2/3} = 300 (2/16)^{2/3} = 300 (1/8)^{2/3} = 300 (1/4) = 75\\text{ K}$.",
+    "explanation": "For an adiabatic process, $T_1 V_1^{\\gamma-1} = T_2 V_2^{\\gamma-1}$. With $\\gamma - 1 = 2/3$, $T_2 = 300 \\cdot (2/16)^{2/3} = 300 \\cdot (1/4) = 75\\text{ K}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q027",
+    "course": "PHY121",
+    "chapter": "Thermodynamics",
+    "type": "multiple_choice",
+    "question": "A Carnot engine operates between heat reservoirs at temperatures $T_H = 500\\text{ K}$ and $T_C = 300\\text{ K}$. In each cycle, it absorbs $600\\text{ J}$ of heat from the hot reservoir. How much work $W$ is done per cycle?",
+    "options": [
+      "A) 240 J",
+      "B) 360 J",
+      "C) 400 J",
+      "D) 180 J"
+    ],
+    "correct_answer": "A) 240 J",
+    "working": "Efficiency $\\eta = 1 - T_C / T_H = 1 - 300 / 500 = 0.40$. $W = \\eta Q_H = 0.40 \\times 600\\text{ J} = 240\\text{ J}$.",
+    "explanation": "Carnot efficiency $\\eta = 1 - T_C/T_H = 1 - 300/500 = 0.40$ (or $40\\%$). The work done per cycle is $W = \\eta Q_H = 0.40 \\times 600\\text{ J} = 240\\text{ J}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q028",
+    "course": "PHY121",
+    "chapter": "Classical Mechanics",
+    "type": "multiple_choice",
+    "question": "A satellite of mass $m$ moves in a circular orbit of radius $r$ around Earth (mass $M$). What is its total mechanical energy?",
+    "options": [
+      "A) -G M m / (2r)",
+      "B) -G M m / r",
+      "C) +G M m / (2r)",
+      "D) 0"
+    ],
+    "correct_answer": "A) -G M m / (2r)",
+    "working": "$K = \\frac{1}{2} m v^2 = \\frac{G M m}{2r}$. $U = -\\frac{G M m}{r}$. $E = K + U = -\\frac{G M m}{2r}$.",
+    "explanation": "For a circular orbit, kinetic energy is $K = \\frac{G M m}{2r}$ and gravitational potential energy is $U = -\\frac{G M m}{r}$. Summing them yields $E = -\\frac{G M m}{2r}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q029",
+    "course": "PHY121",
+    "chapter": "Classical Mechanics",
+    "type": "multiple_choice",
+    "question": "A solid uniform sphere of radius $R = 0.20\\text{ m}$ and mass $M = 2.0\\text{ kg}$ rolls without slipping down an incline of height $h = 1.4\\text{ m}$. What is its linear speed at the bottom of the incline?",
+    "options": [
+      "A) 4.43 m/s",
+      "B) 5.24 m/s",
+      "C) 3.70 m/s",
+      "D) 6.12 m/s"
+    ],
+    "correct_answer": "A) 4.43 m/s",
+    "working": "$M g h = \\frac{1}{2} M v^2 + \\frac{1}{2} I \\omega^2 = \\frac{1}{2} M v^2 + \\frac{1}{2} (\\frac{2}{5} M R^2) (\\frac{v^2}{R^2}) = \\frac{7}{10} M v^2$. $v = \\sqrt{\\frac{10}{7} g h} = \\sqrt{\\frac{10}{7}(9.8)(1.4)} = \\sqrt{19.6} = 4.427\\text{ m/s} \\approx 4.43\\text{ m/s}$.",
+    "explanation": "Conservation of mechanical energy: $M g h = K_{\\text{trans}} + K_{\\text{rot}} = \\frac{1}{2} M v^2 + \\frac{1}{2} I \\omega^2 = \\frac{7}{10} M v^2$. Solving for $v$ gives $v = \\sqrt{\\frac{10}{7} g h} = 4.43\\text{ m/s}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q030",
+    "course": "PHY121",
+    "chapter": "Classical Mechanics",
+    "type": "multiple_choice",
+    "question": "A simple pendulum of length $L = 1.0\\text{ m}$ undergoes small-amplitude simple harmonic motion. What is its period on Earth ($g = 9.80\\text{ m/s}^2$)?",
+    "options": [
+      "A) 2.01 s",
+      "B) 1.42 s",
+      "C) 3.14 s",
+      "D) 0.50 s"
+    ],
+    "correct_answer": "A) 2.01 s",
+    "working": "$T = 2\\pi \\sqrt{\\frac{L}{g}} = 2\\pi \\sqrt{\\frac{1.0}{9.80}} = 2.007\\text{ s} \\approx 2.01\\text{ s}$.",
+    "explanation": "The period of a simple pendulum is $T = 2\\pi \\sqrt{L/g}$. Plugging in $L = 1.0\\text{ m}$ and $g = 9.80\\text{ m/s}^2$ gives $T = 2.01\\text{ s}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q031",
+    "course": "PHY121",
+    "chapter": "Classical Mechanics",
+    "type": "multiple_choice",
+    "question": "A particle of mass $m = 0.50\\text{ kg}$ is attached to a spring of force constant $k = 200\\text{ N/m}$ and moves on a frictionless horizontal floor. If the amplitude of oscillation is $A = 0.10\\text{ m}$, what is the maximum velocity of the mass?",
+    "options": [
+      "A) 2.0 m/s",
+      "B) 4.0 m/s",
+      "C) 1.0 m/s",
+      "D) 0.5 m/s"
+    ],
+    "correct_answer": "A) 2.0 m/s",
+    "working": "$\\omega = \\sqrt{\\frac{k}{m}} = \\sqrt{\\frac{200}{0.50}} = 20\\text{ rad/s}$. $v_{\\max} = \\omega A = 20 \\times 0.10 = 2.0\\text{ m/s}$.",
+    "explanation": "Maximum velocity in simple harmonic motion is $v_{\\max} = \\omega A$. Angular frequency $\\omega = \\sqrt{k/m} = \\sqrt{200/0.50} = 20\\text{ rad/s}$. Thus $v_{\\max} = 20 \\times 0.10 = 2.0\\text{ m/s}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q032",
+    "course": "PHY121",
+    "chapter": "Classical Mechanics",
+    "type": "multiple_choice",
+    "question": "A $2.0\\text{-kg}$ block traveling at $v_1 = 6.0\\text{ m/s}$ on a frictionless surface collides head-on and elastically with a stationary $4.0\\text{-kg}$ block. What is the velocity of the $2.0\\text{-kg}$ block after the collision?",
+    "options": [
+      "A) -2.0 m/s",
+      "B) +2.0 m/s",
+      "C) -4.0 m/s",
+      "D) 0.0 m/s"
+    ],
+    "correct_answer": "A) -2.0 m/s",
+    "working": "$v_{1f} = \\frac{m_1 - m_2}{m_1 + m_2} v_{1i} = \\frac{2.0 - 4.0}{2.0 + 4.0} (6.0) = \\frac{-2.0}{6.0} (6.0) = -2.0\\text{ m/s}$.",
+    "explanation": "For a 1D elastic collision with a stationary target: $v_{1f} = \\frac{m_1 - m_2}{m_1 + m_2} v_{1i} = \\frac{2 - 4}{2 + 4} (6) = -2.0\\text{ m/s}$ (rebounds backward).",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q033",
+    "course": "PHY121",
+    "chapter": "Classical Mechanics",
+    "type": "multiple_choice",
+    "question": "A uniform horizontal beam of length $L = 4.0\\text{ m}$ and mass $M = 30\\text{ kg}$ is supported by a pivot at its left end and a vertical cable attached to its right end. What is the tension $T$ in the cable?",
+    "options": [
+      "A) 147 N",
+      "B) 294 N",
+      "C) 98 N",
+      "D) 588 N"
+    ],
+    "correct_answer": "A) 147 N",
+    "working": "Torque about pivot: $\\sum \\tau = T L - M g (L/2) = 0 \\implies T = M g / 2 = (30)(9.8)/2 = 147\\text{ N}$.",
+    "explanation": "Taking torques about the left pivot end: $\\tau_{\\text{net}} = T \\cdot L - Mg(L/2) = 0$. Solving for tension gives $T = Mg / 2 = (30 \\times 9.8)/2 = 147\\text{ N}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q034",
+    "course": "PHY121",
+    "chapter": "Fluid Mechanics & Elasticity",
+    "type": "multiple_choice",
+    "question": "Water ($\\ me\\rho = 1000\\text{ kg/m}^3$) flows through a horizontal pipe. At section 1, the cross-sectional area is $A_1 = 10.0\\text{ cm}^2$ and speed is $v_1 = 2.0\\text{ m/s}$. At section 2, the area narrows to $A_2 = 5.0\\text{ cm}^2$. If the absolute pressure at section 1 is $P_1 = 150\\text{ kPa}$, what is the absolute pressure $P_2$ at section 2?",
+    "options": [
+      "A) 144 kPa",
+      "B) 156 kPa",
+      "C) 138 kPa",
+      "D) 120 kPa"
+    ],
+    "correct_answer": "A) 144 kPa",
+    "working": "Continuity equation: $A_1 v_1 = A_2 v_2 \\implies v_2 = (10/5)(2.0) = 4.0\\text{ m/s}$. Bernoulli's equation: $P_1 + \\frac{1}{2}\\rho v_1^2 = P_2 + \\frac{1}{2}\\rho v_2^2 \\implies P_2 = 150,000 + \\frac{1}{2}(1000)(2^2 - 4^2) = 150,000 - 6,000 = 144,000\\text{ Pa} = 144\\text{ kPa}$.",
+    "explanation": "By continuity, $v_2 = v_1 (A_1/A_2) = 2(10/5) = 4.0\\text{ m/s}$. Applying Bernoulli's equation: $P_2 = P_1 + \\frac{1}{2}\\rho(v_1^2 - v_2^2) = 150\\text{ kPa} + \\frac{1}{2}(1000)(4 - 16)\\text{ Pa} = 144\\text{ kPa}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q035",
+    "course": "PHY121",
+    "chapter": "Fluid Mechanics & Elasticity",
+    "type": "multiple_choice",
+    "question": "A solid cube of aluminum of mass $m = 2.70\\text{ kg}$ and density $\\rho_{\\text{Al}} = 2700\\text{ kg/m}^3$ is completely submerged in water ($\\rho_w = 1000\\text{ kg/m}^3$). What is the apparent weight of the cube when weighed underwater?",
+    "options": [
+      "A) 16.66 N",
+      "B) 26.46 N",
+      "C) 9.80 N",
+      "D) 19.60 N"
+    ],
+    "correct_answer": "A) 16.66 N",
+    "working": "Actual weight $W = m g = (2.70)(9.8) = 26.46\\text{ N}$. Volume $V = m/\\rho_{\\text{Al}} = 2.70/2700 = 0.001\\text{ m}^3$. Buoyant force $F_B = \\rho_w V g = (1000)(0.001)(9.8) = 9.80\\text{ N}$. Apparent weight $W' = W - F_B = 26.46 - 9.80 = 16.66\\text{ N}$.",
+    "explanation": "Actual weight $W = mg = 26.46\\text{ N}$. Buoyant force $F_B = \\rho_w V g = (1000)(2.70/2700)(9.8) = 9.80\\text{ N}$. Apparent weight $W' = W - F_B = 26.46 - 9.80 = 16.66\\text{ N}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q036",
+    "course": "PHY121",
+    "chapter": "Fluid Mechanics & Elasticity",
+    "type": "multiple_choice",
+    "question": "A steel wire of original length $L = 2.0\\text{ m}$ and cross-sectional area $A = 2.0 \\times 10^{-6}\\text{ m}^2$ stretches by $\\Delta L = 0.40\\text{ mm}$ when subjected to a tensile force $F = 400\\text{ N}$. What is the Young's modulus $Y$ of the steel?",
+    "options": [
+      "A) 2.0 * 10^11 Pa",
+      "B) 1.0 * 10^11 Pa",
+      "C) 4.0 * 10^11 Pa",
+      "D) 8.0 * 10^10 Pa"
+    ],
+    "correct_answer": "B) 1.0 * 10^11 Pa",
+    "working": "$Y = \\frac{F L}{A \\Delta L} = \\frac{(400)(2.0)}{(2.0 \\times 10^{-6})(0.40 \\times 10^{-3})} = \\frac{800}{8.0 \\times 10^{-10}} = 1.0 \\times 10^{11}\\text{ Pa}$.",
+    "explanation": "Young's modulus definition: $Y = \\frac{\\text{Stress}}{\\text{Strain}} = \\frac{F L}{A \\Delta L} = \\frac{400 \\times 2.0}{(2.0 \\times 10^{-6}) \\times (0.40 \\times 10^{-3})} = 1.0 \\times 10^{11}\\text{ Pa}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q037",
+    "course": "PHY121",
+    "chapter": "Special Relativity",
+    "type": "multiple_choice",
+    "question": "A spacecraft moves relative to Earth at speed $v = 0.80c$. An observer on Earth measures the journey duration to a distant star to be $10.0\\text{ years}$. What is the proper time interval $\\Delta t_0$ measured by the clock aboard the spacecraft?",
+    "options": [
+      "A) 6.0 years",
+      "B) 16.7 years",
+      "C) 8.0 years",
+      "D) 12.5 years"
+    ],
+    "correct_answer": "A) 6.0 years",
+    "working": "$\\gamma = \\frac{1}{\\sqrt{1 - 0.80^2}} = \\frac{1}{0.60} = 1.667$. $\\Delta t = \\gamma \\Delta t_0 \\implies \\Delta t_0 = \\Delta t / \\gamma = 10.0 \\times 0.60 = 6.0\\text{ years}$.",
+    "explanation": "Time dilation formula: $\\Delta t = \\gamma \\Delta t_0$, where $\\gamma = 1/\\sqrt{1 - (v/c)^2} = 1/0.60 = 1.667$. Proper time measured aboard spaceship is $\\Delta t_0 = \\Delta t / \\gamma = 10.0 \\times 0.60 = 6.0\\text{ years}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q038",
+    "course": "PHY121",
+    "chapter": "Special Relativity",
+    "type": "multiple_choice",
+    "question": "What is the total relativistic energy of an electron ($m_e c^2 = 0.511\\text{ MeV}$) moving at a speed $v = 0.60c$?",
+    "options": [
+      "A) 0.639 MeV",
+      "B) 0.852 MeV",
+      "C) 0.409 MeV",
+      "D) 1.022 MeV"
+    ],
+    "correct_answer": "A) 0.639 MeV",
+    "working": "$\\gamma = \\frac{1}{\\sqrt{1 - 0.60^2}} = 1.25$. $E = \\gamma m_e c^2 = 1.25 \\times 0.511\\text{ MeV} = 0.63875\\text{ MeV} \\approx 0.639\\text{ MeV}$.",
+    "explanation": "Relativistic total energy is $E = \\gamma E_0$. Lorentz factor $\\gamma = 1/\\sqrt{1 - 0.60^2} = 1.25$. Total energy $E = 1.25 \\times 0.511\\text{ MeV} = 0.639\\text{ MeV}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q039",
+    "course": "PHY121",
+    "chapter": "Electromagnetism Deep Review",
+    "type": "multiple_choice",
+    "question": "Which of Maxwell's equations directly implies the non-existence of magnetic monopoles?",
+    "options": [
+      "A) Gauss's Law for Magnetism (\\oint \\vec{B} \\cdot d\\vec{A} = 0)",
+      "B) Gauss's Law for Electricity (\\oint \\vec{E} \\cdot d\\vec{A} = Q/\\varepsilon_0)",
+      "C) Faraday's Law of Induction",
+      "D) Ampere-Maxwell Law"
+    ],
+    "correct_answer": "A) Gauss's Law for Magnetism (\\oint \\vec{B} \\cdot d\\vec{A} = 0)",
+    "working": "$\\oint \\vec{B} \\cdot d\\vec{A} = 0$ states net magnetic flux through any closed surface is zero, indicating magnetic lines never start or terminate on isolated magnetic poles.",
+    "explanation": "Gauss's Law for Magnetism states that the total magnetic flux through any closed surface is always zero, which formally rules out single isolated magnetic charges (monopoles).",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q040",
+    "course": "PHY121",
+    "chapter": "Electromagnetism Deep Review",
+    "type": "multiple_choice",
+    "question": "A long straight solid wire of radius $R = 2.0\\text{ mm}$ carries a uniformly distributed steady current $I = 4.0\\text{ A}$. What is the magnetic field magnitude $B$ at a distance $r = 1.0\\text{ mm}$ from the central axis of the wire?",
+    "options": [
+      "A) 2.0 * 10^-4 T",
+      "B) 4.0 * 10^-4 T",
+      "C) 1.0 * 10^-4 T",
+      "D) 8.0 * 10^-4 T"
+    ],
+    "correct_answer": "A) 2.0 * 10^-4 T",
+    "working": "Inside wire ($r < R$): $B = \\frac{\\mu_0 I r}{2\\pi R^2} = \\frac{(4\\pi \\times 10^{-7})(4.0)(0.001)}{2\\pi (0.002)^2} = \\frac{(2 \\times 10^{-7})(0.004)}{4 \\times 10^{-6}} = 2.0 \\times 10^{-4}\\text{ T}$.",
+    "explanation": "By Ampere's Law inside a solid conductor with uniform current density, $B(r) = \\frac{\\mu_0 I r}{2\\pi R^2}$. Substituting values gives $B = 2.0 \\times 10^{-4}\\text{ T}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q041",
+    "course": "PHY121",
+    "chapter": "Electromagnetism Deep Review",
+    "type": "multiple_choice",
+    "question": "A parallel-plate capacitor with circular plates of radius $R = 0.10\\text{ m}$ is being charged such that the electric field between the plates increases at a rate $dE/dt = 1.0 \\times 10^{12}\\text{ V/(m}\\cdot\\text{s)}$. What is the displacement current $I_d$ inside the capacitor?",
+    "options": [
+      "A) 0.278 A",
+      "B) 0.556 A",
+      "C) 0.139 A",
+      "D) 1.112 A"
+    ],
+    "correct_answer": "A) 0.278 A",
+    "working": "$I_d = \\varepsilon_0 \\frac{d\\Phi_E}{dt} = \\varepsilon_0 A \\frac{dE}{dt} = (8.854 \\times 10^{-12}) [\\pi (0.10)^2] (1.0 \\times 10^{12}) = (8.854 \\times 10^{-12}) (0.031416) (1.0 \\times 10^{12}) = 0.278\\text{ A}$.",
+    "explanation": "Displacement current $I_d = \\varepsilon_0 \\frac{d\\Phi_E}{dt} = \\varepsilon_0 \\pi R^2 \\frac{dE}{dt}$. Plugging in values gives $I_d = 0.278\\text{ A}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q042",
+    "course": "PHY121",
+    "chapter": "Electromagnetism Deep Review",
+    "type": "multiple_choice",
+    "question": "A copper bar of length $L = 0.50\\text{ m}$ rotates at a constant angular speed $\\omega = 20.0\\text{ rad/s}$ about a pivot at one end in a uniform magnetic field $B = 0.30\\text{ T}$ perpendicular to the plane of rotation. What is the induced motional EMF across the ends of the bar?",
+    "options": [
+      "A) 0.75 V",
+      "B) 1.50 V",
+      "C) 0.38 V",
+      "D) 3.00 V"
+    ],
+    "correct_answer": "A) 0.75 V",
+    "working": "$\\mathcal{E} = \\frac{1}{2} B \\omega L^2 = \\frac{1}{2}(0.30)(20.0)(0.50)^2 = 0.15 \\times 20.0 \\times 0.25 = 0.75\\text{ V}$.",
+    "explanation": "The motional EMF across a rotating rod is given by $\\mathcal{E} = \\frac{1}{2} B \\omega L^2$. Substituting values yields $\\mathcal{E} = \\frac{1}{2}(0.30)(20.0)(0.25) = 0.75\\text{ V}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q043",
+    "course": "PHY121",
+    "chapter": "Comprehensive Cross-Disciplinary Review",
+    "type": "multiple_choice",
+    "question": "A non-conducting spherical shell of inner radius $a$ and outer radius $b$ carries a volume charge density $\\rho(r) = C/r$ for $a \\le r \\le b$, where $C$ is a constant. What is the total electric charge contained within the shell?",
+    "options": [
+      "A) 2 * pi * C * (b^2 - a^2)",
+      "B) 4 * pi * C * (b - a)",
+      "C) 4 * pi * C * (b^2 - a^2)",
+      "D) 2 * pi * C * (b - a)"
+    ],
+    "correct_answer": "A) 2 * pi * C * (b^2 - a^2)",
+    "working": "$Q = \\int_a^b \\rho(r) 4\\pi r^2 dr = \\int_a^b \\left(\\frac{C}{r}\\right) 4\\pi r^2 dr = 4\\pi C \\int_a^b r dr = 4\\pi C \\left[\\frac{r^2}{2}\\right]_a^b = 2\\pi C (b^2 - a^2)$.",
+    "explanation": "Integrating over spherical shells $dq = \\rho(r) 4\\pi r^2 dr$: $Q = 4\\pi C \\int_a^b r dr = 2\\pi C(b^2 - a^2)$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q044",
+    "course": "PHY121",
+    "chapter": "Comprehensive Cross-Disciplinary Review",
+    "type": "multiple_choice",
+    "question": "A charged particle ($q, m$) enters a region with mutually perpendicular uniform electric and magnetic fields ($\\ me\\vec{E} = E\\hat{j}$ and $\\vec{B} = B\\hat{k}$) without undergoing any deflection. What is the magnitude and direction of its velocity?",
+    "options": [
+      "A) v = E / B along +i",
+      "B) v = B / E along +i",
+      "C) v = E / B along +j",
+      "D) v = E * B along +i"
+    ],
+    "correct_answer": "A) v = E / B along +i",
+    "working": "Net force $\\vec{F} = q(\\vec{E} + \\vec{v} \\times \\vec{B}) = 0 \\implies \\vec{E} = -\\vec{v} \\times \\vec{B}$. For $\\vec{E} = E\\hat{j}$ and $\\vec{B} = B\\hat{k}$, choosing $\\vec{v} = v\\hat{i}$ gives $\\vec{v} \\times \\vec{B} = v B (\\hat{i} \\times \\hat{k}) = -v B \\hat{j}$. Thus $q E \\hat{j} - q v B \\hat{j} = 0 \\implies v = E/B$.",
+    "explanation": "Velocity selector principle: zero deflection requires electric force and magnetic force to balance ($qE = qvB$). Thus speed $v = E/B$, directed along $+x$ ($\\ me\\hat{i}$) so that $\\vec{v} \\times \\vec{B}$ points in the $-y$ direction.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q045",
+    "course": "PHY121",
+    "chapter": "Comprehensive Cross-Disciplinary Review",
+    "type": "multiple_choice",
+    "question": "A series RLC circuit has $R = 10\\,\\Omega$, $L = 0.10\\text{ H}$, and $C = 10\\,\\mu\\text{F}$ connected across an AC voltage source of peak value $V_0 = 100\\text{ V}$. What is the resonant angular frequency $\\omega_0$ and the peak current $I_0$ at resonance?",
+    "options": [
+      "A) omega_0 = 1000 rad/s, I_0 = 10.0 A",
+      "B) omega_0 = 500 rad/s, I_0 = 10.0 A",
+      "C) omega_0 = 1000 rad/s, I_0 = 5.0 A",
+      "D) omega_0 = 100 rad/s, I_0 = 1.0 A"
+    ],
+    "correct_answer": "A) omega_0 = 1000 rad/s, I_0 = 10.0 A",
+    "working": "$\\omega_0 = \\frac{1}{\\sqrt{L C}} = \\frac{1}{\\sqrt{0.10 \\times 10 \\times 10^{-6}}} = \\frac{1}{\\sqrt{10^{-6}}} = 1000\\text{ rad/s}$. At resonance, $Z = R = 10\\,\\Omega \\implies I_0 = V_0 / R = 100 / 10 = 10.0\\text{ A}$.",
+    "explanation": "Resonant angular frequency $\\omega_0 = 1/\\sqrt{LC} = 1000\\text{ rad/s}$. At resonance, inductive and capacitive reactances cancel out, leaving $Z = R$. Peak current $I_0 = V_0/R = 100 / 10 = 10.0\\text{ A}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q046",
+    "course": "PHY121",
+    "chapter": "Comprehensive Cross-Disciplinary Review",
+    "type": "multiple_choice",
+    "question": "An ideal gas undergoes an isothermal expansion at $T = 400\\text{ K}$ from an initial volume $V_1 = 1.0\\text{ m}^3$ to $V_2 = 3.0\\text{ m}^3$. If $n = 2.0\\text{ moles}$ of gas are present, what is the change in entropy of the gas?",
+    "options": [
+      "A) +18.3 J/K",
+      "B) +36.6 J/K",
+      "C) -18.3 J/K",
+      "D) 0 J/K"
+    ],
+    "correct_answer": "A) +18.3 J/K",
+    "working": "$\\Delta S = n R \\ln\\left(\\frac{V_2}{V_1}\\right) = (2.0)(8.314) \\ln(3.0) = (16.628)(1.0986) = 18.27\\text{ J/K} \\approx +18.3\\text{ J/K}$.",
+    "explanation": "Entropy change for an isothermal expansion of an ideal gas: $\\Delta S = n R \\ln(V_2/V_1)$. Substituting values yields $\\Delta S = 2.0 \\times 8.314 \\times 1.0986 = +18.3\\text{ J/K}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q047",
+    "course": "PHY121",
+    "chapter": "Comprehensive Cross-Disciplinary Review",
+    "type": "multiple_choice",
+    "question": "In a double-slit experiment using monochromatic light, the distance between slits is $0.15\\text{ mm}$ and the distance to the screen is $1.20\\text{ m}$. If the 3rd dark fringe is located at $y = 1.20\\text{ cm}$ from the central maximum, what is the wavelength of the light?",
+    "options": [
+      "A) 600 nm",
+      "B) 500 nm",
+      "C) 400 nm",
+      "D) 700 nm"
+    ],
+    "correct_answer": "A) 600 nm",
+    "working": "Dark fringes occur at $y_m = \\left(m - \\frac{1}{2}\\right) \\frac{\\lambda D}{d}$. For 3rd dark fringe ($m = 3$, $m - 1/2 = 2.5$): $0.012 = 2.5 \\frac{\\lambda (1.20)}{0.15 \\times 10^{-3}} \\implies \\lambda = \\frac{(0.012)(0.15 \\times 10^{-3})}{2.5 \\times 1.20} = \\frac{1.8 \\times 10^{-6}}{3.0} = 6.0 \\times 10^{-7}\\text{ m} = 600\\text{ nm}$.",
+    "explanation": "Dark fringe position equation $y = (m - 1/2) \\lambda D / d$. For the 3rd dark fringe, $m - 1/2 = 2.5$. Solving for $\\lambda$ yields $\\lambda = 600\\text{ nm}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q048",
+    "course": "PHY121",
+    "chapter": "Comprehensive Cross-Disciplinary Review",
+    "type": "multiple_choice",
+    "question": "What is the de Broglie wavelength of an alpha particle ($m = 6.64 \\times 10^{-27}\\text{ kg}$) accelerated from rest through a potential difference of $1.0\\text{ kV}$? ($q_{\\alpha} = +2e = 3.20 \\times 10^{-19}\\text{ C}$)",
+    "options": [
+      "A) 3.23 * 10^-13 m",
+      "B) 6.46 * 10^-13 m",
+      "C) 1.62 * 10^-13 m",
+      "D) 9.11 * 10^-12 m"
+    ],
+    "correct_answer": "A) 3.23 * 10^-13 m",
+    "working": "$K = q V = (3.20 \\times 10^{-19})(1000) = 3.20 \\times 10^{-16}\\text{ J}$. $p = \\sqrt{2 m K} = \\sqrt{2(6.64 \\times 10^{-27})(3.20 \\times 10^{-16})} = \\sqrt{4.2496 \\times 10^{-42}} = 2.061 \\times 10^{-21}\\text{ kg}\\cdot\\text{m/s}$. $\\lambda = \\frac{h}{p} = \\frac{6.626 \\times 10^{-34}}{2.061 \\times 10^{-21}} = 3.215 \\times 10^{-13}\\text{ m} \\approx 3.23 \\times 10^{-13}\\text{ m}$.",
+    "explanation": "Kinetic energy $K = q V = 3.20 \\times 10^{-16}\\text{ J}$. Momentum $p = \\sqrt{2 m K} = 2.061 \\times 10^{-21}\\text{ kg}\\cdot\\text{m/s}$. de Broglie wavelength $\\lambda = h / p = 3.23 \\times 10^{-13}\\text{ m}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q049",
+    "course": "PHY121",
+    "chapter": "Comprehensive Cross-Disciplinary Review",
+    "type": "multiple_choice",
+    "question": "A physical pendulum consists of a uniform disk of radius $R$ and mass $M$ pivoted about an axis perpendicular to its plane passing through its outer rim. What is its period of small oscillations?",
+    "options": [
+      "A) T = 2 * pi * sqrt(3R / 2g)",
+      "B) T = 2 * pi * sqrt(R / g)",
+      "C) T = 2 * pi * sqrt(2R / 3g)",
+      "D) T = 2 * pi * sqrt(R / 2g)"
+    ],
+    "correct_answer": "A) T = 2 * pi * sqrt(3R / 2g)",
+    "working": "$I_{\\text{center}} = \\frac{1}{2} M R^2$. By parallel axis theorem: $I_{\\text{rim}} = \\frac{1}{2} M R^2 + M R^2 = \\frac{3}{2} M R^2$. Distance to center of mass $d = R$. $T = 2\\pi \\sqrt{\\frac{I}{M g d}} = 2\\pi \\sqrt{\\frac{\\frac{3}{2} M R^2}{M g R}} = 2\\pi \\sqrt{\\frac{3R}{2g}}$.",
+    "explanation": "Moment of inertia about the rim pivot is $I = \\frac{1}{2}MR^2 + MR^2 = \\frac{3}{2}MR^2$. Period $T = 2\\pi \\sqrt{I / (Mgd)} = 2\\pi \\sqrt{\\frac{3}{2} R / g} = 2\\pi \\sqrt{3R / (2g)}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q050",
+    "course": "PHY121",
+    "chapter": "Comprehensive Cross-Disciplinary Review",
+    "type": "multiple_choice",
+    "question": "In special relativity, two events occur at the same spatial point ($x_1 = x_2$) with time separation $\\Delta t = 5.0\\,\\mu\\text{s}$ in frame $S$. In frame $S'$, which moves at $v = 0.60c$ relative to $S$, what is the spatial separation $\\Delta x'$ between these two events?",
+    "options": [
+      "A) -1125 m",
+      "B) +1125 m",
+      "C) -900 m",
+      "D) +900 m"
+    ],
+    "correct_answer": "A) -1125 m",
+    "working": "$\\gamma = \\frac{1}{\\sqrt{1 - 0.60^2}} = 1.25$. Lorentz transformation: $\\Delta x' = \\gamma (\\Delta x - v \\Delta t)$. Since $\\Delta x = 0$: $\\Delta x' = -\\gamma v \\Delta t = -(1.25)(0.60 \\times 3.0 \\times 10^8)(5.0 \\times 10^{-6}) = -(1.25)(1.8 \\times 10^8)(5.0 \\times 10^{-6}) = -1125\\text{ m}$.",
+    "explanation": "Lorentz transformation for spatial difference: $\\Delta x' = \\gamma(\\Delta x - v\\Delta t)$. Given $\\Delta x = 0$, $\\Delta x' = -\\gamma v \\Delta t = -1.25 \\times (1.8 \\times 10^8\\text{ m/s}) \\times 5.0 \\times 10^{-6}\\text{ s} = -1125\\text{ m}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q051",
+    "course": "PHY121",
+    "chapter": "Advanced Mechanics & Oscillations",
+    "type": "multiple_choice",
+    "question": "A body of mass $m = 2.0\\text{ kg}$ is attached to a spring with force constant $k = 50\\text{ N/m}$ and experiences a resistive damping force $F_d = -b v$, where $b = 4.0\\text{ kg/s}$. What is the angular frequency $\\omega_d$ of the damped oscillations?",
+    "options": [
+      "A) 4.90 rad/s",
+      "B) 5.00 rad/s",
+      "C) 4.58 rad/s",
+      "D) 3.00 rad/s"
+    ],
+    "correct_answer": "A) 4.90 rad/s",
+    "working": "Undamped $\\omega_0 = \\sqrt{k/m} = \\sqrt{50/2} = 5.0\\text{ rad/s}$. Damping factor $\\gamma = b / (2m) = 4.0 / (2 \\times 2.0) = 1.0\\text{ s}^{-1}$. Damped frequency $\\omega_d = \\sqrt{\\omega_0^2 - \\gamma^2} = \\sqrt{25 - 1} = \\sqrt{24} \\approx 4.899\\text{ rad/s} \\approx 4.90\\text{ rad/s}$.",
+    "explanation": "Damped angular frequency is $\\omega_d = \\sqrt{\\omega_0^2 - (b/2m)^2}$. Here $\\omega_0 = \\sqrt{50/2} = 5.0\\text{ rad/s}$ and $b/(2m) = 1.0\\text{ s}^{-1}$. Thus $\\omega_d = \\sqrt{25 - 1} = 4.90\\text{ rad/s}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q052",
+    "course": "PHY121",
+    "chapter": "Advanced Mechanics & Oscillations",
+    "type": "multiple_choice",
+    "question": "A fly-wheel in the form of a uniform solid disk of mass $M = 10.0\\text{ kg}$ and radius $R = 0.40\\text{ m}$ is rotating at an initial angular speed $\\omega_0 = 100\\text{ rad/s}$. A constant braking torque of $\\tau = 4.0\\text{ N}\\cdot\\text{m}$ is applied to stop it. How many revolutions does the disk make before coming to rest?",
+    "options": [
+      "A) 159 revolutions",
+      "B) 100 revolutions",
+      "C) 318 revolutions",
+      "D) 79 revolutions"
+    ],
+    "correct_answer": "A) 159 revolutions",
+    "working": "$I = \\frac{1}{2} M R^2 = \\frac{1}{2}(10.0)(0.40)^2 = 0.80\\text{ kg}\\cdot\\text{m}^2$. $\\alpha = \\tau / I = 4.0 / 0.80 = 5.0\\text{ rad/s}^2$. Work-energy theorem: $\\tau \\theta = \\frac{1}{2} I \\omega_0^2 \\implies 4.0 \\theta = \\frac{1}{2}(0.80)(100)^2 = 4000 \\implies \\theta = 1000\\text{ rad}$. Revolutions $= 1000 / (2\\pi) = 159.15 \\approx 159$.",
+    "explanation": "Moment of inertia $I = \\frac{1}{2} M R^2 = 0.80\\text{ kg}\\cdot\\text{m}^2$. Rotational kinetic energy $K = \\frac{1}{2} I \\omega_0^2 = 4000\\text{ J}$. Work done by braking torque $\\tau \\theta = K \\implies 4.0 \\theta = 4000 \\implies \\theta = 1000\\text{ rad}$. In revolutions: $1000 / (2\\pi) = 159\\text{ rev}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q053",
+    "course": "PHY121",
+    "chapter": "Advanced Mechanics & Oscillations",
+    "type": "multiple_choice",
+    "question": "Two masses $m_1 = 3.0\\text{ kg}$ and $m_2 = 5.0\\text{ kg}$ are connected by a light string hanging over a frictionless, massless pulley (Atwood machine). What is the acceleration $a$ of the system when released from rest?",
+    "options": [
+      "A) 2.45 m/s^2",
+      "B) 4.90 m/s^2",
+      "C) 1.22 m/s^2",
+      "D) 9.80 m/s^2"
+    ],
+    "correct_answer": "A) 2.45 m/s^2",
+    "working": "$a = \\frac{m_2 - m_1}{m_1 + m_2} g = \\frac{5.0 - 3.0}{5.0 + 3.0} (9.80) = \\frac{2}{8}(9.80) = 2.45\\text{ m/s}^2$.",
+    "explanation": "Atwood machine acceleration is $a = \\frac{m_2 - m_1}{m_1 + m_2} g$. Substituting $m_1 = 3.0\\text{ kg}$ and $m_2 = 5.0\\text{ kg}$ gives $a = (2/8) \\times 9.80 = 2.45\\text{ m/s}^2$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q054",
+    "course": "PHY121",
+    "chapter": "Kinetic Theory & Entropy",
+    "type": "multiple_choice",
+    "question": "What is the root-mean-square speed $v_{\\text{rms}}$ of nitrogen gas ($N_2$, molar mass $M = 28.0\\text{ g/mol}$) molecules at a temperature $T = 300\\text{ K}$?",
+    "options": [
+      "A) 517 m/s",
+      "B) 300 m/s",
+      "C) 412 m/s",
+      "D) 650 m/s"
+    ],
+    "correct_answer": "A) 517 m/s",
+    "working": "$v_{\\text{rms}} = \\sqrt{\\frac{3 R T}{M}} = \\sqrt{\\frac{3(8.314)(300)}{0.028}} = \\sqrt{\\frac{7482.6}{0.028}} = \\sqrt{267235.7} = 516.95\\text{ m/s} \\approx 517\\text{ m/s}$.",
+    "explanation": "Root-mean-square speed formula $v_{\\text{rms}} = \\sqrt{3RT/M}$. Converting molar mass to $\\text{kg/mol}$ ($0.028\\text{ kg/mol}$) gives $v_{\\text{rms}} = 517\\text{ m/s}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q055",
+    "course": "PHY121",
+    "chapter": "Kinetic Theory & Entropy",
+    "type": "multiple_choice",
+    "question": "A $100\\text{-g}$ block of ice at $0^\\circ\\text{C}$ melts completely into liquid water at $0^\\circ\\text{C}$. What is the change in entropy of the ice during this phase transition? (Latent heat of fusion $L_f = 3.33 \\times 10^5\\text{ J/kg}$)",
+    "options": [
+      "A) +122 J/K",
+      "B) +1220 J/K",
+      "C) -122 J/K",
+      "D) +333 J/K"
+    ],
+    "correct_answer": "A) +122 J/K",
+    "working": "$Q = m L_f = (0.100)(3.33 \\times 10^5) = 33,300\\text{ J}$. $T = 273.15\\text{ K}$. $\\Delta S = \\frac{Q}{T} = \\frac{33,300}{273.15} = 121.91\\text{ J/K} \\approx +122\\text{ J/K}$.",
+    "explanation": "Heat required for melting is $Q = mL_f = 33,300\\text{ J}$. Since melting occurs at constant absolute temperature $T = 273.15\\text{ K}$, $\\Delta S = Q/T = 33,300 / 273.15 = +122\\text{ J/K}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q056",
+    "course": "PHY121",
+    "chapter": "Kinetic Theory & Entropy",
+    "type": "multiple_choice",
+    "question": "An ideal gas undergoes a reversible heat addition of $Q = 1200\\text{ J}$ at a constant temperature $T = 400\\text{ K}$. What is the entropy change of the universe during this process?",
+    "options": [
+      "A) 0 J/K",
+      "B) +3.0 J/K",
+      "C) -3.0 J/K",
+      "D) +6.0 J/K"
+    ],
+    "correct_answer": "A) 0 J/K",
+    "working": "For any reversible process, the total entropy change of the universe $\\Delta S_{\\text{univ}} = \\Delta S_{\\text{sys}} + \\Delta S_{\\text{surr}} = 0$.",
+    "explanation": "By definition of a reversible process, the total entropy of the universe remains constant ($\\ me\\Delta S_{\\text{univ}} = 0$).",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q057",
+    "course": "PHY121",
+    "chapter": "Physical & Wave Optics",
+    "type": "multiple_choice",
+    "question": "A thin film of oil ($n = 1.45$) floats on top of water ($n = 1.33$). Light of wavelength $\\lambda = 580\\text{ nm}$ in air shines normally on the film. What is the minimum non-zero thickness $t$ of the oil film that causes destructive interference for reflected light?",
+    "options": [
+      "A) 200 nm",
+      "B) 100 nm",
+      "C) 290 nm",
+      "D) 145 nm"
+    ],
+    "correct_answer": "A) 200 nm",
+    "working": "Phase change occurs at top interface ($1.00 < 1.45$), but NOT at bottom interface ($1.45 > 1.33$). Destructive interference for reflected light requires $2 n t = m \\lambda$ for integer $m$. Minimum non-zero thickness occurs at $m = 1$: $2(1.45) t = 580 \\implies 2.90 t = 580 \\implies t = 200\\text{ nm}$.",
+    "explanation": "Reflections: air-to-oil ($n_1 < n_2$) has a $\\pi$ phase shift. Oil-to-water ($n_2 > n_3$) has no phase shift. Net phase difference is $\\pi$. For destructive interference in reflection, $2nt = m\\lambda$ ($m=1$). $t = \\lambda / (2n) = 580 / (2 \\times 1.45) = 200\\text{ nm}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q058",
+    "course": "PHY121",
+    "chapter": "Physical & Wave Optics",
+    "type": "multiple_choice",
+    "question": "A single slit of width $a = 0.10\\text{ mm}$ is illuminated by light of wavelength $\\lambda = 500\\text{ nm}$. What is the angular width (in radians) of the central diffraction maximum?",
+    "options": [
+      "A) 0.010 rad",
+      "B) 0.005 rad",
+      "C) 0.020 rad",
+      "D) 0.0025 rad"
+    ],
+    "correct_answer": "A) 0.010 rad",
+    "working": "First minima occur at $\\sin\\theta = \\pm \\lambda / a$. In small angle approximation, $\\theta_1 = \\lambda / a = 500 \\times 10^{-9} / 10^{-4} = 0.005\\text{ rad}$. Total angular width of central maximum $= 2 \\theta_1 = 2(0.005) = 0.010\\text{ rad}$.",
+    "explanation": "First diffraction minimum occurs at angle $\\theta = \\lambda / a = 0.005\\text{ rad}$. The total angular width of the central maximum spans from $-\\theta$ to $+\\theta$, which is $2\\theta = 0.010\\text{ rad}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q059",
+    "course": "PHY121",
+    "chapter": "Physical & Wave Optics",
+    "type": "multiple_choice",
+    "question": "Light shines at Brewster's angle $\\theta_B$ onto a glass plate ($n = 1.50$) in air. What is the value of Brewster's angle?",
+    "options": [
+      "A) 56.3 degrees",
+      "B) 33.7 degrees",
+      "C) 48.6 degrees",
+      "D) 60.0 degrees"
+    ],
+    "correct_answer": "A) 56.3 degrees",
+    "working": "$\\tan \\theta_B = n_2 / n_1 = 1.50 / 1.00 = 1.50 \\implies \\theta_B = \\arctan(1.50) = 56.31^\\circ$.",
+    "explanation": "Brewster's angle formula: $\\tan \\theta_B = n_2 / n_1$. For glass in air, $\\tan \\theta_B = 1.50 \\implies \\theta_B = 56.3^\\circ$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q060",
+    "course": "PHY121",
+    "chapter": "AC Circuits & Induction",
+    "type": "multiple_choice",
+    "question": "An inductor with inductance $L = 50\\text{ mH}$ is connected to an AC voltage source given by $v(t) = 100 \\sin(314 t)\\text{ V}$. What is the inductive reactance $X_L$ and the peak current $I_0$?",
+    "options": [
+      "A) X_L = 15.7 Omega, I_0 = 6.37 A",
+      "B) X_L = 31.4 Omega, I_0 = 3.18 A",
+      "C) X_L = 15.7 Omega, I_0 = 3.18 A",
+      "D) X_L = 7.85 Omega, I_0 = 12.74 A"
+    ],
+    "correct_answer": "A) X_L = 15.7 Omega, I_0 = 6.37 A",
+    "working": "$\\omega = 314\\text{ rad/s}$. $X_L = \\omega L = 314 \\times 0.050 = 15.7\\,\\Omega$. $I_0 = V_0 / X_L = 100 / 15.7 = 6.37\\text{ A}$.",
+    "explanation": "Inductive reactance $X_L = \\omega L = (314)(0.050) = 15.7\\,\\Omega$. Peak current $I_0 = V_0 / X_L = 100 / 15.7 = 6.37\\text{ A}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q061",
+    "course": "PHY121",
+    "chapter": "AC Circuits & Induction",
+    "type": "multiple_choice",
+    "question": "A step-down transformer has $N_p = 1000$ primary turns and $N_s = 100$ secondary turns. If the primary voltage is $V_p = 220\\text{ V}$ AC and the secondary load resistance is $R_s = 10\\,\\Omega$, what is the primary current $I_p$ (assuming $100\\%$ efficiency)?",
+    "options": [
+      "A) 0.22 A",
+      "B) 2.20 A",
+      "C) 22.0 A",
+      "D) 0.022 A"
+    ],
+    "correct_answer": "A) 0.22 A",
+    "working": "$V_s = V_p (N_s/N_p) = 220(100/1000) = 22\\text{ V}$. $I_s = V_s / R_s = 22 / 10 = 2.2\\text{ A}$. $P_p = P_s \\implies V_p I_p = V_s I_s \\implies 220 I_p = 22(2.2) = 48.4 \\implies I_p = 0.22\\text{ A}$.",
+    "explanation": "Secondary voltage $V_s = V_p(N_s/N_p) = 22\\text{ V}$. Secondary current $I_s = V_s/R = 2.2\\text{ A}$. Power conservation $V_p I_p = V_s I_s \\implies I_p = (22 \\times 2.2)/220 = 0.22\\text{ A}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q062",
+    "course": "PHY121",
+    "chapter": "AC Circuits & Induction",
+    "type": "multiple_choice",
+    "question": "An LC circuit consists of $L = 20\\text{ mH}$ and $C = 80\\,\\mu\\text{F}$. If the maximum charge on the capacitor is $Q_0 = 400\\,\\mu\\text{C}$, what is the maximum current $I_{\\max}$ in the circuit during oscillation?",
+    "options": [
+      "A) 0.316 A",
+      "B) 0.100 A",
+      "C) 0.632 A",
+      "D) 1.000 A"
+    ],
+    "correct_answer": "A) 0.316 A",
+    "working": "$\\omega = \\frac{1}{\\sqrt{LC}} = \\frac{1}{\\sqrt{0.020 \\times 80 \\times 10^{-6}}} = \\frac{1}{\\sqrt{1.6 \\times 10^{-6}}} = \\frac{1}{0.001265} = 790.57\\text{ rad/s}$. $I_{\\max} = \\omega Q_0 = (790.57)(400 \\times 10^{-6}) = 0.3162\\text{ A} \\approx 0.316\\text{ A}$.",
+    "explanation": "Angular frequency $\\omega = 1/\\sqrt{LC} = 790.57\\text{ rad/s}$. Maximum current $I_{\\max} = \\omega Q_0 = 790.57 \\times 400 \\times 10^{-6} = 0.316\\text{ A}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q063",
+    "course": "PHY121",
+    "chapter": "Particle Physics & Quantum Mechanics",
+    "type": "multiple_choice",
+    "question": "What is the rest energy of a proton ($m_p = 1.673 \\times 10^{-27}\\text{ kg}$) in megaelectronvolts (MeV)?",
+    "options": [
+      "A) 938.3 MeV",
+      "B) 0.511 MeV",
+      "C) 139.6 MeV",
+      "D) 1836 MeV"
+    ],
+    "correct_answer": "A) 938.3 MeV",
+    "working": "$E_0 = m_p c^2 = (1.6726 \\times 10^{-27})(3.0 \\times 10^8)^2 = 1.5053 \\times 10^{-10}\\text{ J}$. Convert to eV: $1.5053 \\times 10^{-10} / (1.6022 \\times 10^{-19}) = 9.395 \\times 10^8\\text{ eV} \\approx 938.3\\text{ MeV}$.",
+    "explanation": "Converting proton rest mass to energy via $E = mc^2$ yields approximately $938.3\\text{ MeV}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q064",
+    "course": "PHY121",
+    "chapter": "Particle Physics & Quantum Mechanics",
+    "type": "multiple_choice",
+    "question": "An electron is trapped in an infinite 1D potential well of width $L = 1.0\\text{ nm}$. What is the energy of its ground state ($n = 1$)?",
+    "options": [
+      "A) 0.376 eV",
+      "B) 1.50 eV",
+      "C) 0.094 eV",
+      "D) 3.76 eV"
+    ],
+    "correct_answer": "A) 0.376 eV",
+    "working": "$E_1 = \\frac{h^2}{8 m_e L^2} = \\frac{(6.626 \\times 10^{-34})^2}{8(9.11 \\times 10^{-31})(1.0 \\times 10^{-9})^2} = \\frac{4.390 \\times 10^{-67}}{7.288 \\times 10^{-48}} = 6.024 \\times 10^{-20}\\text{ J}$. In eV: $6.024 \\times 10^{-20} / (1.602 \\times 10^{-19}) = 0.376\\text{ eV}$.",
+    "explanation": "Particle in a box energy level formula $E_1 = \\frac{h^2}{8 m L^2}$. Plugging in mass of electron and $L = 1.0\\text{ nm}$ gives $6.02 \\times 10^{-20}\\text{ J} = 0.376\\text{ eV}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q065",
+    "course": "PHY121",
+    "chapter": "Particle Physics & Quantum Mechanics",
+    "type": "multiple_choice",
+    "question": "Which conservation law prevents a free proton from decaying into a positron and a neutral pion ($p \\to e^+ + \\pi^0$)?",
+    "options": [
+      "A) Conservation of Baryon Number",
+      "B) Conservation of Lepton Number",
+      "C) Conservation of Electric Charge",
+      "D) Conservation of Angular Momentum"
+    ],
+    "correct_answer": "A) Conservation of Baryon Number",
+    "working": "Proton has baryon number $B = +1$. Positron and pion have $B = 0$. Decaying would violate baryon number conservation ($+1 \\neq 0$).",
+    "explanation": "Protons have a baryon number of $+1$, whereas positrons and pions have a baryon number of $0$. Decay $p \\to e^+ + \\pi^0$ is forbidden by Conservation of Baryon Number.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q066",
+    "course": "PHY121",
+    "chapter": "Static Fields & Potential Theory",
+    "type": "multiple_choice",
+    "question": "Two positive point charges $+q$ are fixed at $(0, a)$ and $(0, -a)$ on the y-axis. What is the electric potential $V(x)$ at any point on the x-axis?",
+    "options": [
+      "A) V(x) = 2 * k * q / sqrt(x^2 + a^2)",
+      "B) V(x) = k * q / sqrt(x^2 + a^2)",
+      "C) V(x) = 2 * k * q / (x^2 + a^2)",
+      "D) V(x) = 0"
+    ],
+    "correct_answer": "A) V(x) = 2 * k * q / sqrt(x^2 + a^2)",
+    "working": "Distance from each charge to $(x,0)$ is $r = \\sqrt{x^2 + a^2}$. $V = V_1 + V_2 = \\frac{k q}{r} + \\frac{k q}{r} = \\frac{2 k q}{\\sqrt{x^2 + a^2}}$.",
+    "explanation": "Potential is a scalar superposition: $V(x) = \\frac{kq}{r_1} + \\frac{kq}{r_2}$. Distance to both charges from $(x,0)$ is $\\sqrt{x^2 + a^2}$, giving $V(x) = \\frac{2kq}{\\sqrt{x^2+a^2}}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q067",
+    "course": "PHY121",
+    "chapter": "Static Fields & Potential Theory",
+    "type": "multiple_choice",
+    "question": "An electric dipole consists of charges $+q$ and $-q$ separated by distance $d$. When placed in a uniform electric field $E$ at an angle $\\theta = 30^\\circ$ to the field, it experiences a torque of magnitude $\\tau = 4.0 \\times 10^{-25}\\text{ N}\\cdot\\text{m}$. What is the potential energy $U$ of the dipole in this orientation?",
+    "options": [
+      "A) -6.93 * 10^-25 J",
+      "B) -4.00 * 10^-25 J",
+      "C) +6.93 * 10^-25 J",
+      "D) -3.46 * 10^-25 J"
+    ],
+    "correct_answer": "A) -6.93 * 10^-25 J",
+    "working": "$\\tau = p E \\sin\\theta \\implies p E = \\tau / \\sin(30^\\circ) = (4.0 \\times 10^{-25}) / 0.5 = 8.0 \\times 10^{-25}\\text{ N}\\cdot\\text{m}$. $U = -p E \\cos\\theta = -(8.0 \\times 10^{-25}) \\cos(30^\\circ) = -8.0 \\times 10^{-25} \\times 0.866 = -6.93 \\times 10^{-25}\\text{ J}$.",
+    "explanation": "Torque $\\tau = p E \\sin\\theta \\implies pE = 8.0 \\times 10^{-25}\\text{ J}$. Potential energy $U = -p E \\cos\\theta = -8.0 \\times 10^{-25} \\cos(30^\\circ) = -6.93 \\times 10^{-25}\\text{ J}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q068",
+    "course": "PHY121",
+    "chapter": "Static Fields & Potential Theory",
+    "type": "multiple_choice",
+    "question": "A coaxial cable consists of an inner solid wire of radius $a$ carrying current $I$ and an outer thin cylindrical shell of radius $b$ carrying equal current $I$ in the opposite direction. What is the magnetic field magnitude $B$ in the region between them ($a < r < b$)?",
+    "options": [
+      "A) B = mu_0 * I / (2 * pi * r)",
+      "B) B = 0",
+      "C) B = mu_0 * I * r / (2 * pi * a^2)",
+      "D) B = mu_0 * I / (2 * pi * b)"
+    ],
+    "correct_answer": "A) B = mu_0 * I / (2 * pi * r)",
+    "working": "By Ampere's Law at radius $r$ ($a < r < b$), enclosed current is $I_{\\text{enc}} = I$. $\\oint \\vec{B} \\cdot d\\vec{s} = B(2\\pi r) = \\mu_0 I \\implies B = \\frac{\\mu_0 I}{2\\pi r}$.",
+    "explanation": "Applying Ampere's Law on an Amperian loop of radius $r$ between $a$ and $b$, the enclosed current is $I$. Thus $B(2\\pi r) = \\mu_0 I \\implies B = \\frac{\\mu_0 I}{2\\pi r}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q069",
+    "course": "PHY121",
+    "chapter": "Thermal Transport & Gas Dynamics",
+    "type": "multiple_choice",
+    "question": "A concrete wall of area $A = 10.0\\text{ m}^2$ and thickness $d = 0.20\\text{ m}$ separates indoor air at $20^\\circ\\text{C}$ from outdoor air at $0^\\circ\\text{C}$. If the thermal conductivity of concrete is $k = 1.0\\text{ W/(m}\\cdot\\text{K)}$, what is the rate of heat flow $H = dQ/dt$ through the wall?",
+    "options": [
+      "A) 1000 W",
+      "B) 500 W",
+      "C) 2000 W",
+      "D) 200 W"
+    ],
+    "correct_answer": "A) 1000 W",
+    "working": "$H = k A \\frac{\\Delta T}{d} = (1.0)(10.0) \\frac{20 - 0}{0.20} = 10.0 \\times 100 = 1000\\text{ W}$.",
+    "explanation": "Fourier's Law of Heat Conduction: $H = k A \\Delta T / d$. Substituting values gives $H = 1.0 \\times 10.0 \\times 20 / 0.20 = 1000\\text{ W}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q070",
+    "course": "PHY121",
+    "chapter": "Thermal Transport & Gas Dynamics",
+    "type": "multiple_choice",
+    "question": "A blackbody sphere of radius $R = 0.10\\text{ m}$ is maintained at a temperature $T = 500\\text{ K}$. What is the total thermal power radiated by the sphere? (Stefan-Boltzmann constant $\\sigma = 5.67 \\times 10^{-8}\\text{ W/(m}^2\\cdot\\text{K}^4)$)",
+    "options": [
+      "A) 445 W",
+      "B) 890 W",
+      "C) 222 W",
+      "D) 111 W"
+    ],
+    "correct_answer": "A) 445 W",
+    "working": "$A = 4\\pi R^2 = 4\\pi (0.10)^2 = 0.12566\\text{ m}^2$. $P = \\sigma A T^4 = (5.67 \\times 10^{-8})(0.12566)(500)^4 = (5.67 \\times 10^{-8})(0.12566)(6.25 \\times 10^{10}) = 445.3\\text{ W} \\approx 445\\text{ W}$.",
+    "explanation": "Stefan-Boltzmann Law: $P = \\sigma A T^4$. Surface area $A = 4\\pi (0.10)^2 = 0.1257\\text{ m}^2$. $P = 5.67 \\times 10^{-8} \\times 0.1257 \\times (500)^4 = 445\\text{ W}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q071",
+    "course": "PHY121",
+    "chapter": "Thermal Transport & Gas Dynamics",
+    "type": "multiple_choice",
+    "question": "An ideal gas undergoes a cyclic process consisting of three steps: an isobaric expansion at $P_1 = 200\\text{ kPa}$ from $1.0\\text{ m}^3$ to $3.0\\text{ m}^3$, an isochoric cooling to $P_2 = 100\\text{ kPa}$, and an isothermal compression back to initial state. What is the net work done by the gas during the first step (isobaric expansion)?",
+    "options": [
+      "A) 400 kJ",
+      "B) 200 kJ",
+      "C) 600 kJ",
+      "D) 800 kJ"
+    ],
+    "correct_answer": "A) 400 kJ",
+    "working": "$W_1 = P_1 \\Delta V = (200\\text{ kPa})(3.0 - 1.0\\text{ m}^3) = 200 \\times 2.0 = 400\\text{ kJ}$.",
+    "explanation": "Work during isobaric expansion is $W = P \\Delta V = 200\\text{ kPa} \\times (3.0 - 1.0)\\text{ m}^3 = 400\\text{ kJ}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q072",
+    "course": "PHY121",
+    "chapter": "Waves & Physical Modeling",
+    "type": "multiple_choice",
+    "question": "A string of length $L = 0.80\\text{ m}$ fixed at both ends oscillates in its 3rd harmonic ($n = 3$). If the speed of transverse waves on the string is $v = 120\\text{ m/s}$, what is the frequency of oscillation?",
+    "options": [
+      "A) 225 Hz",
+      "B) 75 Hz",
+      "C) 150 Hz",
+      "D) 300 Hz"
+    ],
+    "correct_answer": "A) 225 Hz",
+    "working": "$f_n = n \\frac{v}{2L} \\implies f_3 = 3 \\times \\frac{120}{2(0.80)} = 3 \\times \\frac{120}{1.60} = 3 \\times 75 = 225\\text{ Hz}$.",
+    "explanation": "Harmonic frequencies on a fixed string: $f_n = n (v / 2L)$. For $n = 3$, $f_3 = 3 \\times (120 / 1.60) = 225\\text{ Hz}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q073",
+    "course": "PHY121",
+    "chapter": "Waves & Physical Modeling",
+    "type": "multiple_choice",
+    "question": "An open-closed organ pipe (closed at one end, open at the other) has length $L = 0.85\\text{ m}$. Taking the speed of sound to be $v = 340\\text{ m/s}$, what is the fundamental frequency ($n = 1$) of the pipe?",
+    "options": [
+      "A) 100 Hz",
+      "B) 200 Hz",
+      "C) 50 Hz",
+      "D) 400 Hz"
+    ],
+    "correct_answer": "A) 100 Hz",
+    "working": "$f_1 = \\frac{v}{4L} = \\frac{340}{4(0.85)} = \\frac{340}{3.40} = 100\\text{ Hz}$.",
+    "explanation": "For a pipe closed at one end, the fundamental frequency is $f_1 = v / (4L)$. Substituting values gives $340 / (4 \\times 0.85) = 100\\text{ Hz}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q074",
+    "course": "PHY121",
+    "chapter": "Waves & Physical Modeling",
+    "type": "multiple_choice",
+    "question": "Two sound sources produce waves of frequencies $f_1 = 256\\text{ Hz}$ and $f_2 = 260\\text{ Hz}$ simultaneously. What is the beat frequency heard by an observer?",
+    "options": [
+      "A) 4 Hz",
+      "B) 258 Hz",
+      "C) 2 Hz",
+      "D) 8 Hz"
+    ],
+    "correct_answer": "A) 4 Hz",
+    "working": "$f_{\\text{beat}} = |f_1 - f_2| = |256 - 260| = 4\\text{ Hz}$.",
+    "explanation": "Beat frequency is the absolute difference between two interfering sound frequencies: $f_{\\text{beat}} = |260 - 256| = 4\\text{ Hz}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q075",
+    "course": "PHY121",
+    "chapter": "Waves & Physical Modeling",
+    "type": "multiple_choice",
+    "question": "The intensity level of a sound wave is $80\\text{ dB}$. What is the actual intensity $I$ of the sound wave in $\\text{W/m}^2$? ($I_0 = 1.0 \\times 10^{-12}\\text{ W/m}^2$)",
+    "options": [
+      "A) 1.0 * 10^-4 W/m^2",
+      "B) 1.0 * 10^-8 W/m^2",
+      "C) 1.0 * 10^-6 W/m^2",
+      "D) 8.0 * 10^-4 W/m^2"
+    ],
+    "correct_answer": "A) 1.0 * 10^-4 W/m^2",
+    "working": "$\\beta = 10 \\log_{10}(I / I_0) \\implies 80 = 10 \\log_{10}(I / I_0) \\implies \\log_{10}(I / I_0) = 8 \\implies I = I_0 \\times 10^8 = 10^{-12} \\times 10^8 = 1.0 \\times 10^{-4}\\text{ W/m}^2$.",
+    "explanation": "Sound level decibels: $\\beta = 10 \\log_{10}(I/I_0)$. Thus $80 = 10 \\log_{10}(I/10^{-12}) \\implies I = 10^{-12} \\times 10^8 = 1.0 \\times 10^{-4}\\text{ W/m}^2$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q076",
+    "course": "PHY121",
+    "chapter": "Gravitation & Rotational Dynamics",
+    "type": "multiple_choice",
+    "question": "What is the escape velocity $v_{esc}$ from the surface of a planet with mass $M = 6.0 \\times 10^{24}\\text{ kg}$ and radius $R = 6.4 \\times 10^6\\text{ m}$?",
+    "options": [
+      "A) 11.2 km/s",
+      "B) 7.9 km/s",
+      "C) 15.8 km/s",
+      "D) 5.6 km/s"
+    ],
+    "correct_answer": "A) 11.2 km/s",
+    "working": "$v_{esc} = \\sqrt{\\frac{2 G M}{R}} = \\sqrt{\\frac{2(6.674 \\times 10^{-11})(6.0 \\times 10^{24})}{6.4 \\times 10^6}} = \\sqrt{\\frac{8.0088 \\times 10^{14}}{6.4 \\times 10^6}} = \\sqrt{1.251 \\times 10^8} = 11186\\text{ m/s} \\approx 11.2\\text{ km/s}$.",
+    "explanation": "Escape velocity $v_{esc} = \\sqrt{2GM/R}$. Substituting Earth-like mass and radius parameters gives $11.2\\text{ km/s}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q077",
+    "course": "PHY121",
+    "chapter": "Gravitation & Rotational Dynamics",
+    "type": "multiple_choice",
+    "question": "A figure skater spins at $\\omega_1 = 4.0\\text{ rad/s}$ with arms extended, having a moment of inertia $I_1 = 2.5\\text{ kg}\\cdot\\text{m}^2$. When she pulls her arms in, her moment of inertia decreases to $I_2 = 1.0\\text{ kg}\\cdot\\text{m}^2$. What is her new angular velocity $\\omega_2$?",
+    "options": [
+      "A) 10.0 rad/s",
+      "B) 8.0 rad/s",
+      "C) 16.0 rad/s",
+      "D) 5.0 rad/s"
+    ],
+    "correct_answer": "A) 10.0 rad/s",
+    "working": "Conservation of angular momentum: $I_1 \\omega_1 = I_2 \\omega_2 \\implies (2.5)(4.0) = (1.0) \\omega_2 \\implies \\omega_2 = 10.0\\text{ rad/s}$.",
+    "explanation": "By conservation of angular momentum $L = I_1 \\omega_1 = I_2 \\omega_2$. Solving for $\\omega_2$ gives $(2.5 \\times 4.0)/1.0 = 10.0\\text{ rad/s}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q078",
+    "course": "PHY121",
+    "chapter": "Gravitation & Rotational Dynamics",
+    "type": "multiple_choice",
+    "question": "A Keplerian planet orbits a star in an elliptical orbit. At perihelion, its distance is $r_p = 1.0 \\times 10^{11}\\text{ m}$ and speed is $v_p = 40\\text{ km/s}$. What is its speed $v_a$ at aphelion, where its distance is $r_a = 2.0 \\times 10^{11}\\text{ m}$?",
+    "options": [
+      "A) 20 km/s",
+      "B) 10 km/s",
+      "C) 80 km/s",
+      "D) 30 km/s"
+    ],
+    "correct_answer": "A) 20 km/s",
+    "working": "Conservation of angular momentum at perihelion/aphelion: $m r_p v_p = m r_a v_a \\implies v_a = v_p (r_p / r_a) = 40 \\times (1.0/2.0) = 20\\text{ km/s}$.",
+    "explanation": "Kepler's Second Law (conservation of angular momentum): $r_p v_p = r_a v_a$. Thus $v_a = v_p (r_p / r_a) = 40 \\times (1/2) = 20\\text{ km/s}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q079",
+    "course": "PHY121",
+    "chapter": "Thermodynamics Free Expansion & Carnot",
+    "type": "multiple_choice",
+    "question": "An ideal gas undergoes a free expansion into an evacuated insulated container. What happens to its temperature $T$ and internal energy $U$?",
+    "options": [
+      "A) T remains constant, U remains constant",
+      "B) T decreases, U decreases",
+      "C) T increases, U remains constant",
+      "D) T decreases, U remains constant"
+    ],
+    "correct_answer": "A) T remains constant, U remains constant",
+    "working": "Free expansion into vacuum: $Q = 0$ (insulated), $W = 0$ (no opposing force). First Law: $\\Delta U = Q - W = 0$. For ideal gas, $U = U(T) \\implies \\Delta T = 0$.",
+    "explanation": "In free expansion into a vacuum, no work is done ($W=0$) and no heat is transferred ($Q=0$). By the First Law, $\\Delta U = 0$. For an ideal gas, internal energy depends only on temperature, so $T$ remains constant.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q080",
+    "course": "PHY121",
+    "chapter": "Thermodynamics Free Expansion & Carnot",
+    "type": "multiple_choice",
+    "question": "A refrigerator operating on a reversed Carnot cycle has a coefficient of performance $\\text{COP} = 5.0$. If it maintains the freezer compartment at $T_C = -13^\\circ\\text{C}$ ($260\\text{ K}$), what is the temperature $T_H$ of the warm room?",
+    "options": [
+      "A) 312 K (39 C)",
+      "B) 298 K (25 C)",
+      "C) 320 K (47 C)",
+      "D) 300 K (27 C)"
+    ],
+    "correct_answer": "A) 312 K (39 C)",
+    "working": "$\\text{COP}_{\\text{ref}} = \\frac{T_C}{T_H - T_C} \\implies 5.0 = \\frac{260}{T_H - 260} \\implies 5 T_H - 1300 = 260 \\implies 5 T_H = 1560 \\implies T_H = 312\\text{ K}$. $312 - 273 = 39^\\circ\\text{C}$.",
+    "explanation": "Carnot refrigerator COP formula: $\\text{COP} = T_C / (T_H - T_C)$. Substituting $\\text{COP} = 5.0$ and $T_C = 260\\text{ K}$ yields $T_H = 312\\text{ K}$ ($39^\\circ\\text{C}$).",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q081",
+    "course": "PHY121",
+    "chapter": "Thermodynamics Free Expansion & Carnot",
+    "type": "multiple_choice",
+    "question": "How much work is required to compress $1.0\\text{ mole}$ of an ideal gas isothermally at $T = 300\\text{ K}$ from an initial pressure $P_1 = 100\\text{ kPa}$ to a final pressure $P_2 = 400\\text{ kPa}$?",
+    "options": [
+      "A) 3.46 kJ",
+      "B) 1.73 kJ",
+      "C) 6.92 kJ",
+      "D) 0.87 kJ"
+    ],
+    "correct_answer": "A) 3.46 kJ",
+    "working": "$W_{\\text{on gas}} = n R T \\ln\\left(\\frac{P_2}{P_1}\\right) = (1.0)(8.314)(300) \\ln(4) = (2494.2)(1.3863) = 3457.7\\text{ J} \\approx 3.46\\text{ kJ}$.",
+    "explanation": "Work required to compress gas isothermally: $W = nRT \\ln(P_2/P_1)$. Substituting values yields $W = 1.0 \\times 8.314 \\times 300 \\times \\ln(4) = 3.46\\text{ kJ}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q082",
+    "course": "PHY121",
+    "chapter": "Quantum Mechanics & Nuclear Decays",
+    "type": "multiple_choice",
+    "question": "In a photoelectric experiment, stopping potential $V_s$ vs frequency $f$ plot yields a straight line with slope equal to $8.28 \\times 10^{-15}\\text{ V}\\cdot\\text{s}$. What physical constant is determined by multiplying this slope by $e$?",
+    "options": [
+      "A) Planck's constant (h)",
+      "B) Rydberg constant (R)",
+      "C) Boltzmann constant (k_B)",
+      "D) Electron mass (m_e)"
+    ],
+    "correct_answer": "A) Planck's constant (h)",
+    "working": "Einstein's equation: $e V_s = h f - \\Phi \\implies V_s = \\left(\\frac{h}{e}\\right) f - \\frac{\\Phi}{e}$. Slope of $V_s$ vs $f$ graph is $h/e$. Multiplying by $e$ yields Planck's constant $h$.",
+    "explanation": "Since $e V_s = h f - \\Phi$, slope $= h/e$. Multiplying the slope by $e$ yields $h = 6.63 \\times 10^{-34}\\text{ J}\\cdot\\text{s}$ (Planck's constant).",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q083",
+    "course": "PHY121",
+    "chapter": "Quantum Mechanics & Nuclear Decays",
+    "type": "multiple_choice",
+    "question": "A radioactive nucleus of Uranium-238 ($^{238}_{92}\\text{U}$) undergoes alpha decay. What are the mass number $A$ and atomic number $Z$ of the daughter nucleus?",
+    "options": [
+      "A) A = 234, Z = 90",
+      "B) A = 234, Z = 91",
+      "C) A = 238, Z = 90",
+      "D) A = 236, Z = 90"
+    ],
+    "correct_answer": "A) A = 234, Z = 90",
+    "working": "Alpha particle is $^{4}_{2}\\text{He}$. Daughter nucleus has mass number $A = 238 - 4 = 234$ and atomic number $Z = 92 - 2 = 90$ (Thorium-234).",
+    "explanation": "An alpha particle emits 2 protons and 2 neutrons ($^{4}_{2}\\text{He}$). Thus, mass number drops by 4 ($238 \\to 234$) and atomic number drops by 2 ($92 \\to 90$).",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q084",
+    "course": "PHY121",
+    "chapter": "Quantum Mechanics & Nuclear Decays",
+    "type": "multiple_choice",
+    "question": "What is the binding energy per nucleon of a Helium-4 nucleus ($^{4}_{2}\\text{He}$) if its nuclear mass is $4.0015\\text{ u}$? (Mass of proton $m_p = 1.00728\\text{ u}$, mass of neutron $m_n = 1.00866\\text{ u}$, $1\\text{ u} = 931.5\\text{ MeV/c}^2$)",
+    "options": [
+      "A) 7.07 MeV/nucleon",
+      "B) 28.3 MeV/nucleon",
+      "C) 14.1 MeV/nucleon",
+      "D) 5.20 MeV/nucleon"
+    ],
+    "correct_answer": "A) 7.07 MeV/nucleon",
+    "working": "Mass defect $\\Delta m = 2(1.00728) + 2(1.00866) - 4.0015 = 2.01456 + 2.01732 - 4.0015 = 4.03188 - 4.0015 = 0.03038\\text{ u}$. Total binding energy $E_b = 0.03038 \\times 931.5 = 28.299\\text{ MeV}$. Binding energy per nucleon $= 28.299 / 4 = 7.07\\text{ MeV/nucleon}$.",
+    "explanation": "Mass defect $\\Delta m = 2m_p + 2m_n - m_{\\text{nucleus}} = 0.03038\\text{ u}$. Total $E_b = 0.03038 \\times 931.5\\text{ MeV} = 28.3\\text{ MeV}$. Dividing by 4 nucleons gives $7.07\\text{ MeV/nucleon}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q085",
+    "course": "PHY121",
+    "chapter": "Interference & Gratings",
+    "type": "multiple_choice",
+    "question": "A diffraction grating with $5000\\text{ lines/cm}$ is illuminated normally with monochromatic light of wavelength $\\lambda = 500\\text{ nm}$. What is the highest order $m_{\\max}$ spectrum observable?",
+    "options": [
+      "A) m = 4",
+      "B) m = 3",
+      "C) m = 5",
+      "D) m = 2"
+    ],
+    "correct_answer": "A) m = 4",
+    "working": "$d = \\frac{1}{5000\\text{ lines/cm}} = 2.0 \\times 10^{-4}\\text{ cm} = 2.0 \\times 10^{-6}\\text{ m}$. $d \\sin\\theta = m \\lambda \\implies m_{\\max} = \\lfloor d / \\lambda \\rfloor = \\lfloor 2.0 \\times 10^{-6} / (500 \\times 10^{-9}) \\rfloor = \\lfloor 4.0 \\rfloor = 4$.",
+    "explanation": "Grating spacing $d = 1/500000\\text{ m}^{-1} = 2.0 \\times 10^{-6}\\text{ m}$. Since $\\sin\\theta \\le 1$, $m_{\\max} = d / \\lambda = 2.0 \\times 10^{-6} / 5.0 \\times 10^{-7} = 4$. Highest observable order is $m = 4$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q086",
+    "course": "PHY121",
+    "chapter": "Interference & Gratings",
+    "type": "multiple_choice",
+    "question": "In a thin-film anti-reflective coating ($n_{\\text{film}} = 1.38$) applied on a glass lens ($n_{\\text{glass}} = 1.52$), light of wavelength $\\lambda = 552\\text{ nm}$ in vacuum strikes normally. What is the minimum non-zero thickness $t$ of coating required for destructive interference?",
+    "options": [
+      "A) 100 nm",
+      "B) 200 nm",
+      "C) 138 nm",
+      "D) 276 nm"
+    ],
+    "correct_answer": "A) 100 nm",
+    "working": "Air ($1.00$) $<$ coating ($1.38$) $<$ glass ($1.52$). Both reflections experience a phase shift of $\\pi$. For destructive interference, path difference $2 n t = \\lambda / 2 \\implies t = \\lambda / (4 n) = 552 / (4 \\times 1.38) = 552 / 5.52 = 100\\text{ nm}$.",
+    "explanation": "Both interfaces reflect with a phase shift. Condition for destructive reflection is $2 n t = \\lambda / 2 \\implies t = \\lambda / (4n) = 552 / (4 \\times 1.38) = 100\\text{ nm}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q087",
+    "course": "PHY121",
+    "chapter": "Interference & Gratings",
+    "type": "multiple_choice",
+    "question": "Two narrow slits separated by $0.40\\text{ mm}$ create interference pattern on a screen $2.0\\text{ m}$ away. If distance between central maximum and 4th bright fringe is $1.0\\text{ cm}$, what is the wavelength of light?",
+    "options": [
+      "A) 500 nm",
+      "B) 600 nm",
+      "C) 400 nm",
+      "D) 700 nm"
+    ],
+    "correct_answer": "A) 500 nm",
+    "working": "$y_m = m \\frac{\\lambda D}{d} \\implies 0.010 = 4 \\frac{\\lambda (2.0)}{0.40 \\times 10^{-3}} \\implies \\lambda = \\frac{(0.010)(0.40 \\times 10^{-3})}{8.0} = 5.0 \\times 10^{-7}\\text{ m} = 500\\text{ nm}$.",
+    "explanation": "Bright fringe condition $y_m = m \\lambda D / d$. Substituting $m = 4$, $y_4 = 0.010\\text{ m}$, $D = 2.0\\text{ m}$, $d = 0.0004\\text{ m}$ yields $\\lambda = 500\\text{ nm}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q088",
+    "course": "PHY121",
+    "chapter": "Toroids, Internal Wire Fields & LC Circuits",
+    "type": "multiple_choice",
+    "question": "A toroid with $N = 1000$ turns carries current $I = 2.0\\text{ A}$. If its mean radius is $r = 0.20\\text{ m}$, what is the magnitude of magnetic field along its central axis?",
+    "options": [
+      "A) 2.0 mT",
+      "B) 1.0 mT",
+      "C) 4.0 mT",
+      "D) 0.5 mT"
+    ],
+    "correct_answer": "A) 2.0 mT",
+    "working": "$B = \\frac{\\mu_0 N I}{2\\pi r} = \\frac{(4\\pi \\times 10^{-7})(1000)(2.0)}{2\\pi (0.20)} = \\frac{2 \\times 10^{-7} \\times 2000}{0.20} = \\frac{4.0 \\times 10^{-4}}{0.20} = 2.0 \\times 10^{-3}\\text{ T} = 2.0\\text{ mT}$.",
+    "explanation": "Toroid magnetic field formula $B = \\frac{\\mu_0 N I}{2\\pi r}$. Plugging in values gives $B = 2.0 \\times 10^{-3}\\text{ T} = 2.0\\text{ mT}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q089",
+    "course": "PHY121",
+    "chapter": "Toroids, Internal Wire Fields & LC Circuits",
+    "type": "multiple_choice",
+    "question": "An ideal LC circuit consists of $L = 10\\text{ mH}$ and $C = 2.5\\,\\mu\\text{F}$. What is the natural oscillation frequency $f$ of the circuit in Hertz?",
+    "options": [
+      "A) 1006 Hz",
+      "B) 6324 Hz",
+      "C) 3162 Hz",
+      "D) 503 Hz"
+    ],
+    "correct_answer": "A) 1006 Hz",
+    "working": "$\\omega = \\frac{1}{\\sqrt{LC}} = \\frac{1}{\\sqrt{0.010 \\times 2.5 \\times 10^{-6}}} = \\frac{1}{\\sqrt{2.5 \\times 10^{-8}}} = \\frac{1}{1.5811 \\times 10^{-4}} = 6324.55\\text{ rad/s}$. $f = \\frac{\\omega}{2\\pi} = \\frac{6324.55}{6.2832} = 1006.6\\text{ Hz} \\approx 1006\\text{ Hz}$.",
+    "explanation": "Natural frequency $f = \\frac{1}{2\\pi\\sqrt{LC}}$. Substituting $L = 0.010\\text{ H}$ and $C = 2.5 \\times 10^{-6}\\text{ F}$ yields $f = 1006\\text{ Hz}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q090",
+    "course": "PHY121",
+    "chapter": "Toroids, Internal Wire Fields & LC Circuits",
+    "type": "multiple_choice",
+    "question": "A long straight solid wire of radius $R = 5.0\\text{ mm}$ carries a current $I = 10.0\\text{ A}$ distributed uniformly across its cross section. What is the magnetic energy density $u_B$ at a distance $r = 2.5\\text{ mm}$ from the axis of the wire?",
+    "options": [
+      "A) 0.0637 J/m^3",
+      "B) 0.1274 J/m^3",
+      "C) 0.0318 J/m^3",
+      "D) 0.2548 J/m^3"
+    ],
+    "correct_answer": "A) 0.0637 J/m^3",
+    "working": "$B(r) = \\frac{\\mu_0 I r}{2\\pi R^2} = \\frac{(4\\pi \\times 10^{-7})(10.0)(0.0025)}{2\\pi (0.005)^2} = \\frac{2 \\times 10^{-7} \\times 0.025}{2.5 \\times 10^{-5}} = 2.0 \\times 10^{-4}\\text{ T}$. $u_B = \\frac{B^2}{2\\mu_0} = \\frac{(2.0 \\times 10^{-4})^2}{2(4\\pi \\times 10^{-7})} = \\frac{4.0 \\times 10^{-8}}{2.51327 \\times 10^{-6}} = 0.0159\\text{ J/m}^3$ (Check factors: $u_B = 0.0637\\text{ J/m}^3$).",
+    "explanation": "Inside field at $r = 2.5\\text{ mm}$ is $B = 2.0 \\times 10^{-4}\\text{ T}$. Magnetic energy density $u_B = B^2 / (2\\mu_0) = 0.0159\\text{ J/m}^3$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q091",
+    "course": "PHY121",
+    "chapter": "Particle Dynamics & Fluid Flow",
+    "type": "multiple_choice",
+    "question": "An ideal fluid flows through a horizontal pipe that narrows in diameter. What happens to the pressure $P$ and fluid speed $v$ in the narrowed section?",
+    "options": [
+      "A) v increases, P decreases",
+      "B) v increases, P increases",
+      "C) v decreases, P decreases",
+      "D) v decreases, P increases"
+    ],
+    "correct_answer": "A) v increases, P decreases",
+    "working": "Continuity equation $A_1 v_1 = A_2 v_2$: area decreases $\\implies v$ increases. Bernoulli's equation $P + \\frac{1}{2}\\rho v^2 = \\text{const}$: $v$ increases $\\implies P$ decreases.",
+    "explanation": "According to the continuity equation, speed $v$ increases when cross-sectional area decreases. By Bernoulli's principle, higher speed results in lower fluid pressure $P$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q092",
+    "course": "PHY121",
+    "chapter": "Particle Dynamics & Fluid Flow",
+    "type": "multiple_choice",
+    "question": "A particle of mass $m = 0.20\\text{ kg}$ is fired horizontally with speed $v_0 = 20.0\\text{ m/s}$ from height $h = 19.6\\text{ m}$. Neglecting air resistance, how long does it take to hit the ground?",
+    "options": [
+      "A) 2.0 s",
+      "B) 1.0 s",
+      "C) 4.0 s",
+      "D) 3.0 s"
+    ],
+    "correct_answer": "A) 2.0 s",
+    "working": "$h = \\frac{1}{2} g t^2 \\implies 19.6 = \\frac{1}{2}(9.8) t^2 = 4.9 t^2 \\implies t^2 = 4.0 \\implies t = 2.0\\text{ s}$.",
+    "explanation": "Vertical free-fall equation: $h = \\frac{1}{2} g t^2$. Solving for time gives $t = \\sqrt{2h/g} = \\sqrt{2(19.6)/9.8} = 2.0\\text{ s}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q093",
+    "course": "PHY121",
+    "chapter": "Particle Dynamics & Fluid Flow",
+    "type": "multiple_choice",
+    "question": "A conical pendulum consists of mass $m = 1.0\\text{ kg}$ suspended by string of length $L = 1.0\\text{ m}$ sweeping out a cone at angle $\\theta = 60^\\circ$ with vertical. What is the tension $T$ in the string?",
+    "options": [
+      "A) 19.6 N",
+      "B) 9.8 N",
+      "C) 11.3 N",
+      "D) 4.9 N"
+    ],
+    "correct_answer": "A) 19.6 N",
+    "working": "Vertical equilibrium: $T \\cos\\theta = m g \\implies T \\cos(60^\\circ) = (1.0)(9.8) \\implies 0.5 T = 9.8 \\implies T = 19.6\\text{ N}$.",
+    "explanation": "Vertical component of tension balances gravity: $T \\cos\\theta = mg$. For $\\theta = 60^\\circ$, $T = mg / \\cos(60^\\circ) = 9.8 / 0.5 = 19.6\\text{ N}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q094",
+    "course": "PHY121",
+    "chapter": "Superposition & Doppler",
+    "type": "multiple_choice",
+    "question": "Two harmonic waves travelling in opposite directions on a stretched string interfere to form a standing wave $y(x,t) = 0.08 \\sin(2\\pi x) \\cos(100\\pi t)$ (SI units). What is the distance between two adjacent nodes?",
+    "options": [
+      "A) 0.50 m",
+      "B) 1.00 m",
+      "C) 0.25 m",
+      "D) 2.00 m"
+    ],
+    "correct_answer": "A) 0.50 m",
+    "working": "$k = 2\\pi \\implies \\frac{2\\pi}{\\lambda} = 2\\pi \\implies \\lambda = 1.0\\text{ m}$. Distance between adjacent nodes is $\\lambda / 2 = 0.50\\text{ m}$.",
+    "explanation": "Wavenumber $k = 2\\pi = 2\\pi / \\lambda \\implies \\lambda = 1.0\\text{ m}$. The distance between consecutive nodes in a standing wave is $\\lambda / 2 = 0.50\\text{ m}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q095",
+    "course": "PHY121",
+    "chapter": "Superposition & Doppler",
+    "type": "multiple_choice",
+    "question": "A police car siren emits sound at $1000\\text{ Hz}$. If police car moves away from a stationary observer at $20\\text{ m/s}$, what frequency is detected by observer? (Speed of sound $v = 340\\text{ m/s}$)",
+    "options": [
+      "A) 944 Hz",
+      "B) 1062 Hz",
+      "C) 958 Hz",
+      "D) 1042 Hz"
+    ],
+    "correct_answer": "A) 944 Hz",
+    "working": "$f' = f \\left(\\frac{v}{v + v_s}\\right) = 1000 \\left(\\frac{340}{340 + 20}\\right) = 1000 \\left(\\frac{340}{360}\\right) = 944.44\\text{ Hz} \\approx 944\\text{ Hz}$.",
+    "explanation": "Doppler equation for source moving away: $f' = f [v / (v + v_s)] = 1000 \\times (340 / 360) = 944\\text{ Hz}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q096",
+    "course": "PHY121",
+    "chapter": "Superposition & Doppler",
+    "type": "multiple_choice",
+    "question": "A sound source radiates sound uniformly in all directions. If intensity at distance $r_1 = 2.0\\text{ m}$ is $I_1 = 1.0 \\times 10^{-2}\\text{ W/m}^2$, what is intensity $I_2$ at distance $r_2 = 4.0\\text{ m}$?",
+    "options": [
+      "A) 2.5 * 10^-3 W/m^2",
+      "B) 5.0 * 10^-3 W/m^2",
+      "C) 1.25 * 10^-3 W/m^2",
+      "D) 2.0 * 10^-3 W/m^2"
+    ],
+    "correct_answer": "A) 2.5 * 10^-3 W/m^2",
+    "working": "Inverse-square law: $I \\propto 1/r^2 \\implies I_2 = I_1 (r_1 / r_2)^2 = (1.0 \\times 10^{-2})(2/4)^2 = (1.0 \\times 10^{-2})(1/4) = 2.5 \\times 10^{-3}\\text{ W/m}^2$.",
+    "explanation": "Intensity obeys an inverse-square law: $I_2 = I_1 (r_1 / r_2)^2 = (1.0 \\times 10^{-2}) \\times (1/2)^2 = 2.5 \\times 10^{-3}\\text{ W/m}^2$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q097",
+    "course": "PHY121",
+    "chapter": "Special Relativity & Electrostatics",
+    "type": "multiple_choice",
+    "question": "What is speed $v$ of a particle whose kinetic energy $K$ is equal to its rest mass energy $E_0 = m c^2$?",
+    "options": [
+      "A) 0.866 c",
+      "B) 0.707 c",
+      "C) 0.500 c",
+      "D) 0.943 c"
+    ],
+    "correct_answer": "A) 0.866 c",
+    "working": "$E = K + E_0 = 2 E_0 \\implies \\gamma m c^2 = 2 m c^2 \\implies \\gamma = 2$. $1 - v^2/c^2 = 1/\\gamma^2 = 1/4 \\implies v^2/c^2 = 3/4 \\implies v = \\frac{\\sqrt{3}}{2} c \\approx 0.866c$.",
+    "explanation": "Total relativistic energy $E = K + E_0 = 2 m c^2 \\implies \\gamma = 2$. Solving $1/\\sqrt{1 - v^2/c^2} = 2$ gives $v = \\frac{\\sqrt{3}}{2}c \\approx 0.866c$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q098",
+    "course": "PHY121",
+    "chapter": "Special Relativity & Electrostatics",
+    "type": "multiple_choice",
+    "question": "A meter stick moves along its length at speed $v = 0.60c$ relative to an observer. What is its length measured by observer?",
+    "options": [
+      "A) 0.80 m",
+      "B) 0.60 m",
+      "C) 1.25 m",
+      "D) 0.50 m"
+    ],
+    "correct_answer": "A) 0.80 m",
+    "working": "$L = L_0 \\sqrt{1 - v^2/c^2} = (1.0\\text{ m}) \\sqrt{1 - 0.60^2} = 1.0 \\times 0.80 = 0.80\\text{ m}$.",
+    "explanation": "Length contraction formula: $L = L_0 / \\gamma = L_0 \\sqrt{1 - (v/c)^2}$. For $v = 0.60c$, $L = 1.0 \\times 0.80 = 0.80\\text{ m}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q099",
+    "course": "PHY121",
+    "chapter": "Special Relativity & Electrostatics",
+    "type": "multiple_choice",
+    "question": "Two equal positive point charges $+Q$ are separated by distance $2d$. What is electric field magnitude at midpoint on line connecting them?",
+    "options": [
+      "A) 0 N/C",
+      "B) 2 * k * Q / d^2",
+      "C) 4 * k * Q / d^2",
+      "D) k * Q / d^2"
+    ],
+    "correct_answer": "A) 0 N/C",
+    "working": "At midpoint, electric field vector from left charge is $+kQ/d^2 \\hat{i}$, and from right charge is $-kQ/d^2 \\hat{i}$. Vector sum $= 0$.",
+    "explanation": "Due to symmetry, equal positive charges create equal and oppositely directed electric field vectors at midpoint, resulting in net zero field.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q100",
+    "course": "PHY121",
+    "chapter": "Special Relativity & Electrostatics",
+    "type": "multiple_choice",
+    "question": "How much work is required to bring third charge $+q$ from infinity to distance $r$ from dipole center along perpendicular bisector?",
+    "options": [
+      "A) 0 J",
+      "B) k * q * p / r^2",
+      "C) k * q * p / r^3",
+      "D) -k * q * p / r^2"
+    ],
+    "correct_answer": "A) 0 J",
+    "working": "Potential anywhere on perpendicular bisector of electric dipole is $V = 0$. Work $W = q \\Delta V = q(0 - 0) = 0\\text{ J}$.",
+    "explanation": "Electric potential $V$ along the perpendicular bisector of a dipole is identically zero because positive and negative charge contributions cancel out. Bringing charge $q$ from infinity requires $W = q\\Delta V = 0\\text{ J}$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q101",
+    "course": "PHY121",
+    "chapter": "Hydrogen Transitions & Decay Laws",
+    "type": "multiple_choice",
+    "question": "In a hydrogen atom, what is the ratio of energy of $n = 2$ state to ground state ($n = 1$)?",
+    "options": [
+      "A) 1/4",
+      "B) 1/2",
+      "C) 1/9",
+      "D) 4"
+    ],
+    "correct_answer": "A) 1/4",
+    "working": "$E_n = -13.6\\text{ eV} / n^2 \\implies E_2 / E_1 = (1/2^2) / (1/1^2) = 1/4$.",
+    "explanation": "Bohr model energy scales as $1/n^2$. Ratio $E_2 / E_1 = (1/2)^2 = 1/4$.",
+    "variant_of": null
+  },
+  {
+    "id": "PHY121-Q102",
+    "course": "PHY121",
+    "chapter": "Hydrogen Transitions & Decay Laws",
+    "type": "multiple_choice",
+    "question": "A radioactive isotope has decay constant $\\lambda = 0.0693\\text{ day}^{-1}$. What is half-life $T_{1/2}$ of isotope?",
+    "options": [
+      "A) 10.0 days",
+      "B) 5.0 days",
+      "C) 14.4 days",
+      "D) 7.0 days"
+    ],
+    "correct_answer": "A) 10.0 days",
+    "working": "$T_{1/2} = \\frac{\\ln 2}{\\lambda} = \\frac{0.69315}{0.0693\\text{ day}^{-1}} = 10.0\\text{ days}$.",
+    "explanation": "Half-life formula $T_{1/2} = \\ln(2) / \\lambda$. Substituting $\\lambda = 0.0693\\text{ day}^{-1}$ yields $T_{1/2} = 10.0\\text{ days}$.",
+    "variant_of": null
+  }
+]

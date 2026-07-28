@@ -1,0 +1,856 @@
+{
+  "course": "BIO128",
+  "total": 50,
+  "questions": [
+    {
+      "id": "BIO128_C1_001",
+      "course": "BIO128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "When preparing a dicot or monocot plant root for microscopic examination, which material is recommended to support the specimen during sectioning?",
+      "options": [
+        "Filter paper",
+        "Stylophone material",
+        "Cotton wool",
+        "Glass slide"
+      ],
+      "answer": "Stylophone material",
+      "explanation": "The procedure for sectioning plant roots states to insert the required part of the plant into a supporting stylophone material before cutting.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C1_002",
+      "course": "BIO128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which reagent is used for staining thin sections of plant roots during practical exercises?",
+      "options": [
+        "Methylene blue",
+        "Glycerin",
+        "Iodine solution",
+        "Safranin"
+      ],
+      "answer": "Iodine solution",
+      "explanation": "The procedure specifies that plant sections must be stained with iodine solution.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C1_003",
+      "course": "BIO128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What is a primary similarity between the transverse sections of monocot and dicot roots?",
+      "options": [
+        "Both have secondary growth",
+        "Both have a pith of equal size",
+        "Both have an outer layer called the epidermis for protection",
+        "Both have six or more xylem arms"
+      ],
+      "answer": "Both have an outer layer called the epidermis for protection",
+      "explanation": "The source material confirms that both root types have an outer layer called the epidermis for protection.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C1_004",
+      "course": "BIO128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "In a T.S. of a monocot root, how many xylem arms are typically present?",
+      "options": [
+        "4-5",
+        "Exactly 2",
+        "More than six",
+        "None"
+      ],
+      "answer": "More than six",
+      "explanation": "The comparison table notes that a monocot root has more than six xylem arms, whereas a dicot root has 4-5.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C1_005",
+      "course": "BIO128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which tissue in the leaf is responsible for regulating stomata opening and controlling gas exchange?",
+      "options": [
+        "Mesophyll cells",
+        "Guard cells",
+        "Cuticle",
+        "Bundle sheath"
+      ],
+      "answer": "Guard cells",
+      "explanation": "The source material identifies that guard cells regulate stomata opening to control gases.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C1_006",
+      "course": "BIO128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What is the primary function of the cuticle in a leaf?",
+      "options": [
+        "Photosynthesis",
+        "Water conduction",
+        "Covering of the leaf that stops water loss",
+        "Structural support"
+      ],
+      "answer": "Covering of the leaf that stops water loss",
+      "explanation": "The table of parts and functions defines the cuticle as the covering of the leaf that stops water loss.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C1_007",
+      "course": "BIO128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What is the main function of the xylem in a leaf?",
+      "options": [
+        "Carrying food from the leaves",
+        "Carrying water from the roots to the leaf",
+        "Regulating gas exchange",
+        "Providing structural support"
+      ],
+      "answer": "Carrying water from the roots to the leaf",
+      "explanation": "The source material states that xylem carries water from the roots to the leaf.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C1_008",
+      "course": "BIO128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which of the following is a characteristic of a dicot stem compared to a monocot stem?",
+      "options": [
+        "Vascular bundles are scattered",
+        "No cambium",
+        "Cambium present",
+        "Absence of cortex"
+      ],
+      "answer": "Cambium present",
+      "explanation": "The comparison table indicates that dicot stems possess cambium (secondary growth), while monocot stems do not.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C1_009",
+      "course": "BIO128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "Which cell type is identified as the site for photosynthesis in a leaf?",
+      "options": [
+        "Epidermal cells",
+        "Mesophyll parenchyma cells",
+        "Xylem vessels",
+        "Guard cells"
+      ],
+      "answer": "Mesophyll parenchyma cells",
+      "explanation": "The source material specifies that mesophyll parenchyma cells are the site for photosynthesis.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C1_010",
+      "course": "BIO128",
+      "chapter": 1,
+      "type": "phrase",
+      "question": "What is a major difference between the vascular bundles of monocot and dicot stems?",
+      "options": [
+        "Monocot bundles are in a ring",
+        "Dicot bundles are scattered",
+        "Monocot bundles are scattered",
+        "Dicot bundles lack phloem"
+      ],
+      "answer": "Monocot bundles are scattered",
+      "explanation": "The source material states that vascular bundles in monocot stems are scattered.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C2_011",
+      "course": "BIO128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of the following is described as the most distinctive feature of the angiosperms?",
+      "options": [
+        "The root",
+        "The seed",
+        "The flower",
+        "The leaf"
+      ],
+      "answer": "The flower",
+      "explanation": "The source material states that the flower is the most distinctive feature of the angiosperms.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C2_012",
+      "course": "BIO128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Flowers that exhibit bilateral symmetry, where they can be divided into mirror images in only one way, are referred to as:",
+      "options": [
+        "Regular flowers",
+        "Asymmetrical flowers",
+        "Zygomorphic flowers",
+        "Actinomorphic flowers"
+      ],
+      "answer": "Zygomorphic flowers",
+      "explanation": "Irregular flowers (Zygomorphic) have bilateral symmetry and are divisible into mirror images in only one way.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C2_013",
+      "course": "BIO128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "A fruit that develops from a single carpel or syncarpous ovary is known as a:",
+      "options": [
+        "Simple fruit",
+        "Aggregate fruit",
+        "Multiple fruit",
+        "False fruit"
+      ],
+      "answer": "Simple fruit",
+      "explanation": "A fruit that develops from a unicarpellate or syncarpous ovary is known as a simple fruit.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C2_014",
+      "course": "BIO128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What term describes a fruit that develops from other floral parts in addition to the ovary?",
+      "options": [
+        "True fruit",
+        "Fleshy fruit",
+        "False fruit",
+        "Multiple fruit"
+      ],
+      "answer": "False fruit",
+      "explanation": "When other floral parts develop into a fruit, it is known as a false fruit.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C2_015",
+      "course": "BIO128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Pineapple is an example of which type of fruit?",
+      "options": [
+        "Simple fruit",
+        "Multiple fruit",
+        "Aggregate fruit",
+        "Drupe"
+      ],
+      "answer": "Multiple fruit",
+      "explanation": "A fruit developed from a collection of flowers in an inflorescence is called a multiple fruit, e.g., Pineapple.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C2_016",
+      "course": "BIO128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of the following is categorized as a succulent, fleshy fruit?",
+      "options": [
+        "Samara",
+        "Drupe",
+        "Follicle",
+        "Legume"
+      ],
+      "answer": "Drupe",
+      "explanation": "Fleshy fruits are succulent and include types such as the Drupes.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C2_017",
+      "course": "BIO128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Seeds that retain some food reserve in the endosperm are called:",
+      "options": [
+        "Non-endospermous seeds",
+        "Endospermous seeds",
+        "Dicotyledonous seeds",
+        "Dried seeds"
+      ],
+      "answer": "Endospermous seeds",
+      "explanation": "Endospermous seeds are seeds in which the food reserve in the endosperm is not completely used up during development.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C2_018",
+      "course": "BIO128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "Which of the following is an example of a non-endospermous seed?",
+      "options": [
+        "Maize",
+        "Castor oil",
+        "Groundnut",
+        "Coconut"
+      ],
+      "answer": "Groundnut",
+      "explanation": "Many dicotyledonous seeds are non-endospermous, and examples include groundnut, beans, and okra.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C2_019",
+      "course": "BIO128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "A fruit that does not split open to release seeds is classified as:",
+      "options": [
+        "Dehiscent",
+        "Indehiscent",
+        "Fleshy",
+        "Aggregate"
+      ],
+      "answer": "Indehiscent",
+      "explanation": "Dry fruits that do not split open to release their seeds are known as indehiscent fruits.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C2_020",
+      "course": "BIO128",
+      "chapter": 2,
+      "type": "phrase",
+      "question": "What is the protective outer covering of a seed called?",
+      "options": [
+        "Endosperm",
+        "Testa",
+        "Seed coat",
+        "Cotyledon"
+      ],
+      "answer": "Seed coat",
+      "explanation": "A seed is an embryonic plant enclosed in a protective outer covering called the seed coat.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C3_021",
+      "course": "BIO128",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "Which organ of locomotion is used by *Amoeba* for movement?",
+      "options": [
+        "Cilia",
+        "Flagella",
+        "Pseudopodia",
+        "Tentacles"
+      ],
+      "answer": "Pseudopodia",
+      "explanation": "According to the table of Protozoan organs of locomotion, Amoeba uses pseudopodia for movement.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C3_022",
+      "course": "BIO128",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "Which of the following is the correct method of locomotion for *Paramecium*?",
+      "options": [
+        "Whip-like movement",
+        "Rhythmic beating of cilia",
+        "Flowing of cytoplasm",
+        "Amoeboid movement"
+      ],
+      "answer": "Rhythmic beating of cilia",
+      "explanation": "The source material indicates that *Paramecium* uses cilia for locomotion via rhythmic beating.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C3_023",
+      "course": "BIO128",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "What structure is found in earthworms that provides grip while moving?",
+      "options": [
+        "Cilia",
+        "Setae",
+        "Pseudopodia",
+        "Flagella"
+      ],
+      "answer": "Setae",
+      "explanation": "Earthworms possess setae (tiny bristles) to provide grip while moving.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C3_024",
+      "course": "BIO128",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "Which structure in an earthworm overhangs dorsally on the prostomium?",
+      "options": [
+        "Clitellum",
+        "Mouth",
+        "Anus",
+        "Setae"
+      ],
+      "answer": "Mouth",
+      "explanation": "The external features diagram and notes for *Lumbricus terrestris* state that the mouth overhangs dorsally on the prostomium.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C3_025",
+      "course": "BIO128",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "Platyhelminthes (flatworms) are described as acoelomate, meaning they lack a:",
+      "options": [
+        "Body wall",
+        "True coelom",
+        "Epidermis",
+        "Digestive system"
+      ],
+      "answer": "True coelom",
+      "explanation": "Platyhelminthes are described as acoelomate animals, meaning they lack a true coelom.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C3_026",
+      "course": "BIO128",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "How does *Taenia solium* adapt to survive in the host's intestine?",
+      "options": [
+        "By having cilia for movement",
+        "By possessing hooks and suckers for attachment",
+        "By using flagella to swim",
+        "By having a hard exoskeleton"
+      ],
+      "answer": "Possessing hooks and suckers for attachment",
+      "explanation": "Adaptive features of *Taenia solium* include the possession of hooks and suckers for intestinal attachment.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C3_027",
+      "course": "BIO128",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "In the context of parasitic Nematodes, how is *Ancylostoma duodenale* (hookworm) transmitted to humans?",
+      "options": [
+        "Ingestion of eggs",
+        "Skin penetration by infective larvae",
+        "Ingestion of raw undercooked pork",
+        "Bite of a vector"
+      ],
+      "answer": "Skin penetration by infective larvae",
+      "explanation": "The source material specifies that *Ancylostoma duodenale* is transmitted through skin penetration by infective larvae.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C3_028",
+      "course": "BIO128",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "Which organism causes trichinosis in humans via the ingestion of undercooked meat?",
+      "options": [
+        "*Ascaris lumbricoides*",
+        "*Ancylostoma duodenale*",
+        "*Trichinella spiralis*",
+        "*Planaria*"
+      ],
+      "answer": "*Trichinella spiralis*",
+      "explanation": "The source material notes that *Trichinella spiralis* causes trichinosis through the ingestion of undercooked meat.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C3_029",
+      "course": "BIO128",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "What is the primary body division of mollusks?",
+      "options": [
+        "Head, thorax, and abdomen",
+        "Head, muscular foot, and visceral mass",
+        "Head, neck, and trunk",
+        "Body segments and clitellum"
+      ],
+      "answer": "Head, muscular foot, and visceral mass",
+      "explanation": "Mollusk bodies are divided into three parts: the head, a muscular foot, and the visceral mass.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C3_030",
+      "course": "BIO128",
+      "chapter": 3,
+      "type": "phrase",
+      "question": "When examining a snail shell, the position of the aperture is used to determine if it is:",
+      "options": [
+        "Dextral or sinistral",
+        "Univalve or bivalve",
+        "Mantle or visceral",
+        "Spiraled or flat"
+      ],
+      "answer": "Dextral or sinistral",
+      "explanation": "The orientation of the snail shell aperture (right or left) determines if it is dextral or sinistral.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C4_031",
+      "course": "BIO128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following is a key feature characteristic of all arthropods?",
+      "options": [
+        "Jointed appendages",
+        "Soft shell",
+        "Lack of segmentation",
+        "Internal skeleton"
+      ],
+      "answer": "Jointed appendages",
+      "explanation": "Jointed appendages are a key feature of the arthropods.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C4_032",
+      "course": "BIO128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the primary material forming the exoskeleton of an arthropod?",
+      "options": [
+        "Chitin",
+        "Calcium carbonate",
+        "Cellulose",
+        "Keratin"
+      ],
+      "answer": "Chitin",
+      "explanation": "The arthropod body consists of a head, thorax, and abdomen, characterized by an exoskeleton (cuticle).",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C4_033",
+      "course": "BIO128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which organ is used by a butterfly for feeding?",
+      "options": [
+        "Mandibles",
+        "Proboscis",
+        "Labella",
+        "Chelicerae"
+      ],
+      "answer": "Proboscis",
+      "explanation": "According to the observation table for arthropods, the butterfly uses a proboscis for feeding.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C4_034",
+      "course": "BIO128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "How many pairs of legs does a housefly have?",
+      "options": [
+        "2 pairs",
+        "3 pairs",
+        "4 pairs",
+        "Many pairs"
+      ],
+      "answer": "3 pairs",
+      "explanation": "The arthropod table indicates that the housefly has 3 pairs of legs.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C4_035",
+      "course": "BIO128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following characteristics is possessed by bony fish (Class: Pisces)?",
+      "options": [
+        "Cartilaginous skeleton",
+        "Bony operculum",
+        "Placoid scales",
+        "Lack of swim bladder"
+      ],
+      "answer": "Bony operculum",
+      "explanation": "Bony fishes are characterized by the possession of streamlined bodies, scales, gills, and a bony operculum.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C4_036",
+      "course": "BIO128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is the function of the lateral line system in fish?",
+      "options": [
+        "Respiration",
+        "Digestion",
+        "Detecting vibrations and pressure changes",
+        "Excretion"
+      ],
+      "answer": "Detecting vibrations and pressure changes",
+      "explanation": "Adaptive features of fish include the possession of a lateral line to detect vibrations and pressure changes in water.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C4_037",
+      "course": "BIO128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which type of scales is found in cartilaginous fish?",
+      "options": [
+        "Cycloid",
+        "Ctenoid",
+        "Placoid",
+        "Ganoid"
+      ],
+      "answer": "Placoid",
+      "explanation": "The comparison table states that cartilaginous fish have placoid scales.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C4_038",
+      "course": "BIO128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "In a bony fish, the gill arch is protected by which structure?",
+      "options": [
+        "Spiracle",
+        "Operculum",
+        "Mantle",
+        "Cloaca"
+      ],
+      "answer": "Operculum",
+      "explanation": "The comparison table notes that in bony fish, the gill arch is covered by an operculum.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C4_039",
+      "course": "BIO128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "What is a characteristic shape of a cartilaginous fish?",
+      "options": [
+        "Generally rounded",
+        "Generally flattened",
+        "Streamlined only",
+        "Triangular"
+      ],
+      "answer": "Generally flattened",
+      "explanation": "The comparison table shows that the shape of a cartilaginous fish is generally flattened.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C4_040",
+      "course": "BIO128",
+      "chapter": 4,
+      "type": "phrase",
+      "question": "Which of the following is an adaptive feature of fish for swimming and maintaining balance?",
+      "options": [
+        "Presence of fins",
+        "Possession of heavy scales",
+        "Lack of swim bladder",
+        "Presence of lungs"
+      ],
+      "answer": "Presence of fins",
+      "explanation": "Adaptive features of fish include the possession of fins for swimming, steering, and maintaining balance.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C5_041",
+      "course": "BIO128",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which organ of a toad is responsible for skin (cutaneous) respiration, as it is moist and lacks scales?",
+      "options": [
+        "Lungs",
+        "Skin",
+        "Buccal cavity",
+        "Gills"
+      ],
+      "answer": "Skin",
+      "explanation": "Amphibians like the toad possess moist skin that lacks scales, which is used for cutaneous respiration.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C5_042",
+      "course": "BIO128",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "In the male Agama lizard, what feature is described as prominent and well-developed for display?",
+      "options": [
+        "Nuchal crest",
+        "Gullar fold",
+        "Tail",
+        "Clawed digit"
+      ],
+      "answer": "Gullar fold",
+      "explanation": "The male Agama lizard possesses a prominent and well-developed gullar fold used for display.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C5_043",
+      "course": "BIO128",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which of the following is a key advancement of Reptiles over their amphibian ancestors?",
+      "options": [
+        "External fertilization",
+        "Moist skin",
+        "Shelled amniotic eggs",
+        "Gills in adults"
+      ],
+      "answer": "Shelled amniotic eggs",
+      "explanation": "Reptiles show advancement over amphibians by laying shelled amniotic eggs that can develop on land.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C5_044",
+      "course": "BIO128",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which structure in mammals is used for nourishing the young with milk?",
+      "options": [
+        "Placenta",
+        "Mammary gland",
+        "Muscular diaphragm",
+        "Vibrissae"
+      ],
+      "answer": "Mammary gland",
+      "explanation": "Mammals are characterized by the possession of mammary glands for nourishing their young with milk.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C5_045",
+      "course": "BIO128",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which of the following is a characteristic feature of the mammalian heart?",
+      "options": [
+        "Two-chambered",
+        "Three-chambered",
+        "Four-chambered",
+        "Single-circuit"
+      ],
+      "answer": "Four-chambered",
+      "explanation": "Mammals are characterized by having a four-chambered heart.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C5_046",
+      "course": "BIO128",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "In the procedure for rat dissection, how should the animal be positioned on the dissecting board?",
+      "options": [
+        "Lateral side",
+        "Spread-eagled position",
+        "Dorsal side up",
+        "Sitting position"
+      ],
+      "answer": "Spread-eagled position",
+      "explanation": "The procedure for rat dissection involves pinning the rat in a spread-eagled position to the dissecting board.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C5_047",
+      "course": "BIO128",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which organ of a toad is protractible and attached to the anterior end of the lower jaw?",
+      "options": [
+        "Eye",
+        "Tongue",
+        "Eardrum",
+        "Nostril"
+      ],
+      "answer": "Tongue",
+      "explanation": "The tongue of a toad is protractible and is attached to the anterior end of the lower jaw.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C5_048",
+      "course": "BIO128",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Why is the male rat preferred for displaying the reproductive system during dissection?",
+      "options": [
+        "The size of the kidneys",
+        "The visibility of the genital organs",
+        "The ease of cutting the skin",
+        "The presence of a bladder"
+      ],
+      "answer": "The visibility of the genital organs",
+      "explanation": "The male rat is preferred for displaying the reproductive system because the genitals are well pronounced.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C5_049",
+      "course": "BIO128",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "Which feature helps a toad navigate its terrestrial habitat?",
+      "options": [
+        "Long tail",
+        "Elongated hind limbs with webs",
+        "Scaly skin",
+        "Internal fertilization"
+      ],
+      "answer": "Elongated hind limbs with webs",
+      "explanation": "Toads demonstrate structural modifications for life on land, including greatly elongated hind limbs with webs between the toes.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "BIO128_C5_050",
+      "course": "BIO128",
+      "chapter": 5,
+      "type": "phrase",
+      "question": "What is the primary method of reptile waste excretion?",
+      "options": [
+        "Liquid urea",
+        "Semi-solid uric acid",
+        "Ammonia",
+        "Gaseous waste"
+      ],
+      "answer": "Semi-solid uric acid",
+      "explanation": "Reptiles conserve water by excreting semi-solid uric acid as urine.",
+      "working": null,
+      "variant_of": null
+    }
+  ]
+}
