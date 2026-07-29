@@ -55,14 +55,13 @@ function parseMath(input: string): Node[] {
   let buffer = "";
   const flushText = () => {
     if (buffer) {
-      push({ type: "text", value: buffer });
+      for (const n of autoDetect(buffer)) push(n);
       buffer = "";
     }
   };
 
   while (i < input.length) {
     const two = input.substr(i, 2);
-    // \[ ... \]
     if (two === "\\[") {
       const end = input.indexOf("\\]", i + 2);
       if (end !== -1) {
@@ -72,7 +71,6 @@ function parseMath(input: string): Node[] {
         continue;
       }
     }
-    // \( ... \)
     if (two === "\\(") {
       const end = input.indexOf("\\)", i + 2);
       if (end !== -1) {
@@ -82,7 +80,6 @@ function parseMath(input: string): Node[] {
         continue;
       }
     }
-    // $$ ... $$
     if (two === "$$") {
       const end = input.indexOf("$$", i + 2);
       if (end !== -1) {
@@ -92,7 +89,6 @@ function parseMath(input: string): Node[] {
         continue;
       }
     }
-    // $ ... $
     if (input[i] === "$") {
       const end = input.indexOf("$", i + 1);
       if (end !== -1) {
@@ -108,3 +104,28 @@ function parseMath(input: string): Node[] {
   flushText();
   return out;
 }
+
+// Detect raw LaTeX tokens in undelimited text and wrap them as inline math.
+// Handles patterns like \frac{a}{b}, \sqrt{x}, x^{2}, CO_{2}, x^2, H_2O, \alpha, etc.
+const LATEX_TOKEN = /(\\[a-zA-Z]+(?:\s*\{[^{}]*\}(?:\s*\{[^{}]*\})?)?|[A-Za-z0-9]+(?:\^|_)(?:\{[^{}]*\}|[A-Za-z0-9]))/g;
+
+function autoDetect(text: string): Node[] {
+  if (!text) return [];
+  LATEX_TOKEN.lastIndex = 0;
+  const nodes: Node[] = [];
+  let last = 0;
+  let m: RegExpExecArray | null;
+  let found = false;
+  while ((m = LATEX_TOKEN.exec(text)) !== null) {
+    found = true;
+    if (m.index > last) {
+      nodes.push({ type: "text", value: text.slice(last, m.index) });
+    }
+    nodes.push({ type: "inline", value: m[0] });
+    last = m.index + m[0].length;
+  }
+  if (!found) return [{ type: "text", value: text }];
+  if (last < text.length) nodes.push({ type: "text", value: text.slice(last) });
+  return nodes;
+}
+
