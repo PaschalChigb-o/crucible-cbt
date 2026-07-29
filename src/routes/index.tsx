@@ -9,7 +9,7 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "CBT examination practice for Nigerian university students. 9 courses, 1,350+ questions.",
+          "CBT examination practice for 100lvl Nigerian university students. 9 courses, 1350+ questions",
       },
       {
         property: "og:title",
@@ -18,7 +18,7 @@ export const Route = createFileRoute("/")({
       {
         property: "og:description",
         content:
-          "CBT examination practice app for Nigerian university students across all faculties.",
+          "CBT examination practice for 100lvl Nigerian university students. 9 courses, 1350+ questions",
       },
     ],
   }),

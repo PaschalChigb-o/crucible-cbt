@@ -89,21 +89,25 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           "width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1",
       },
       { name: "theme-color", content: "#0D1F3C" },
-      { title: "CRUCIBLE — CBT Practice for Nigerian Universities" },
+      { title: "CRUCIBLE — Enter the crucible. Leave prepared." },
       {
         name: "description",
         content:
-          "CRUCIBLE is a Computer-Based Test practice app for Nigerian university students across all faculties. Enter the crucible. Leave prepared.",
+          "CBT examination practice for 100lvl Nigerian university students. 9 courses, 1350+ questions",
       },
       { name: "author", content: "CRUCIBLE" },
       { property: "og:title", content: "CRUCIBLE — Enter the crucible. Leave prepared." },
       {
         property: "og:description",
         content:
-          "CBT examination practice for Nigerian university students — 9 courses, 1,350+ questions, offline ready.",
+          "CBT examination practice for 100lvl Nigerian university students. 9 courses, 1350+ questions",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "CRUCIBLE — Enter the crucible. Leave prepared." },
+      { name: "twitter:description", content: "CBT examination practice for 100lvl Nigerian university students. 9 courses, 1350+ questions" },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4065e056-a791-42e6-84a5-fb382ef624bb/id-preview-156ce310--61d86f20-c826-459f-8c7e-be769a6c2c18.lovable.app-1785305080930.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4065e056-a791-42e6-84a5-fb382ef624bb/id-preview-156ce310--61d86f20-c826-459f-8c7e-be769a6c2c18.lovable.app-1785305080930.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
