@@ -128,3 +128,7 @@
 @utility timer-pulse {
   animation: crucible-pulse 1s ease-in-out infinite;
 }
+
+#lovable-badge {
+  display: none !important;
+}
