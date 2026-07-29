@@ -95,9 +95,6 @@ function Home() {
             marginBottom: 20,
           }}
         />
-        <p style={{ fontSize: 13, color: C.accent }}>
-          {totalCourses} courses · 1,350+ questions
-        </p>
       </div>
 
       <div className="flex-1 px-6" style={{ marginTop: 40 }}>
