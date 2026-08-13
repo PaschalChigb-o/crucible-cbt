@@ -1,6 +1,6 @@
 // CRUCIBLE service worker — cache app shell + question data for offline use.
 // Registered only from published production origin (see src/lib/pwa.ts).
-const CACHE = "crucible-v1";
+const CACHE = "crucible-v2";
 const DATA_PREFIX = "/data/";
 
 self.addEventListener("install", (event) => {
