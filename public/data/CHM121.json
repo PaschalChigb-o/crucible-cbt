@@ -1,2556 +1,1418 @@
 {
-  "course": "CHM121",
-  "total": 150,
+  "source": "Dr Benitex CHM121 Revision Series 2 — cleaned and independently verified MCQs; ambiguous, incomplete, five-option, and structurally invalid source questions excluded",
+  "total": 83,
   "questions": [
     {
-      "id": "CHM121_C1_001",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_001",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Who is historically credited with the synthesis of urea from ammonium cyanate in 1828, a discovery that dealt a significant blow to the \"vital force\" theory in organic chemistry?",
+      "question": "Which of the following is not a class of organic compounds?",
       "options": [
-        "Jöns Jacob Berzelius",
-        "Friedrich Wöhler",
-        "August Kekulé",
-        "Antoine Lavoisier"
+        "Amides",
+        "Electro compounds",
+        "Nitro compound",
+        "Carbonyl compound"
       ],
-      "answer": "Friedrich Wöhler",
-      "explanation": "Friedrich Wöhler famously synthesized organic urea from inorganic ammonium cyanate in 1828, disproving the vital force theory.",
+      "answer": "Electro compounds",
+      "explanation": "Amides, nitro compounds, and carbonyl compounds are recognized classes of organic compounds. “Electro compounds” is not a standard class.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_002",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_002",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of the following is a characteristic physical or chemical property typical of the vast majority of organic compounds?",
+      "question": "Which of the following does not come under the organic addition reaction?",
       "options": [
-        "They possess high melting and boiling points due to strong ionic lattices.",
-        "They act as highly efficient electrical conductors in aqueous solutions.",
-        "They are generally highly soluble in non-polar organic solvents and display covalent bonding.",
-        "They are inherently non-combustible and resist oxidation when heated in air."
+        "Halogenation",
+        "Hydrohalogenation",
+        "Hydration",
+        "Dehydration"
       ],
-      "answer": "They are generally highly soluble in non-polar organic solvents and display covalent bonding.",
-      "explanation": "Organic compounds typically possess covalent bonds, low melting/boiling points, and high solubility in non-polar organic solvents.",
+      "answer": "Dehydration",
+      "explanation": "Halogenation, hydrohalogenation, and hydration are addition reactions of unsaturated compounds. Dehydration is an elimination reaction.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_003",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_003",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "According to the structural characteristics of carbon, what specific property allows carbon atoms to link together in long, continuous chains, branched chains, or ring systems?",
+      "question": "Which of the following compound is yielded from the reduction of nitroalkanes?",
       "options": [
-        "High electronegativity value of 4.0",
-        "Catenation",
-        "Low ionization energy",
-        "Highly mobile d-orbital electron shielding"
+        "Amine",
+        "Acid",
+        "Diazo compounds",
+        "Alcohol"
       ],
-      "answer": "Catenation",
-      "explanation": "Catenation is the unique ability of carbon to form continuous chains or rings by linking with other carbon atoms.",
+      "answer": "Amine",
+      "explanation": "Reduction of a nitroalkane converts the nitro group to an amino group, giving an amine.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_004",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_004",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the value defined for the electronegativity of a carbon atom on the Pauling scale, which underpins its ability to form stable, non-polar to moderately polar covalent bonds with hydrogen and other non-metals?",
+      "question": "Which of the following is used to prepare Benzoyl chloride from benzoic acid?",
       "options": [
-        "1.5",
-        "2.1",
-        "2.5",
-        "3.0"
+        "Cl2, H2O",
+        "SOCl2",
+        "SO2, Cl2",
+        "Cl2, hv"
       ],
-      "answer": "2.5",
-      "explanation": "The electronegativity of carbon on the Pauling scale is 2.5.",
+      "answer": "SOCl2",
+      "explanation": "Thionyl chloride converts carboxylic acids into the corresponding acid chlorides; benzoic acid therefore gives benzoyl chloride.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_005",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_005",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "In organic chemistry, a group of atoms or a structural framework within a molecule that dictates its characteristic chemical reactivity and serves as the primary basis for systematic classification is defined as a:",
+      "question": "Isomerism that arises out of the difference in spatial arrangement of atoms or groups about the doubly bonded carbon atoms are called? (In specific)",
       "options": [
-        "Carbocation intermediate",
-        "Homologous series",
-        "Functional group",
-        "Tautomeric conformer"
+        "Structural Isomerism",
+        "Stereo Isomerism",
+        "Geometrical Isomerism",
+        "Optical Isomerism"
       ],
-      "answer": "Functional group",
-      "explanation": "A functional group is an atom or group of atoms that determines the chemical reactivity of an organic molecule.",
+      "answer": "Geometrical Isomerism",
+      "explanation": "Restricted rotation about a carbon-carbon double bond can give cis/trans or E/Z geometrical isomerism.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_006",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_006",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of the following statements correctly describes a defining trait of a homologous series?",
+      "question": "Which among the following does not exhibit geometric isomerism?",
       "options": [
-        "Successive members differ structurally from one another by a constant -\\text{CH}_2- unit.",
-        "All members possess vastly different chemical properties but identical physical boiling points.",
-        "Each consecutive member varies by an absolute molecular mass difference of 12.011\\text{ g mol}^{-1}.",
-        "It consists exclusively of compounds that contain only carbon and hydrogen atoms."
+        "1-hexene",
+        "2-hexene",
+        "3-hexene",
+        "4-hexene"
       ],
-      "answer": "Successive members differ structurally from one another by a constant -\\text{CH}_2- unit.",
-      "explanation": "Homologous series members share a general formula and consecutive members differ structurally by a -\\text{CH}_2- unit.",
+      "answer": "1-hexene",
+      "explanation": "A terminal alkene such as 1-hexene has two identical hydrogen substituents on one double-bond carbon, so E/Z isomerism is impossible.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_007",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_007",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "How does the physical state of straight-chain unbranched alkanes at room temperature (25^\\circ\\text{C}) shift as the molecular size increases within the homologous series?",
+      "question": "Which among the following is formed when an alcohol is dehydrated?",
       "options": [
-        "From solids to liquids, and finally to gases as the chains grow longer.",
-        "From gases (\\text{C}_1 to \\text{C}_4) to liquids (\\text{C}_5 to \\text{C}_{17}), and finally to waxy solids (\\text{C}_{18} and above).",
-        "They remain entirely gaseous across the entire series due to weak London dispersion forces.",
-        "They remain completely liquid across the series because of continuous hydrogen bonding."
+        "alkane",
+        "alkyne",
+        "alkene",
+        "aldehyde"
       ],
-      "answer": "From gases (\\text{C}_1 to \\text{C}_4) to liquids (\\text{C}_5 to \\text{C}_{17}), and finally to waxy solids (\\text{C}_{18} and above).",
-      "explanation": "The physical states change from gases (\\text{C}_1-\\text{C}_4) to liquids (\\text{C}_5-\\text{C}_{17}) to solids (\\text{C}_{18}+) due to increasing London dispersion forces.",
+      "answer": "alkene",
+      "explanation": "Acid-catalysed dehydration of an alcohol removes water and commonly forms an alkene.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_008",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_008",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "When comparing two organic isomers with the same molecular formula—one being a straight-chain alkane and the other a highly branched alkane—how does structural branching alter the boiling point, and why?",
+      "question": "Identify the chiral molecule among the following.",
       "options": [
-        "Branching increases the boiling point by creating a larger surface area for dipole-dipole interactions.",
-        "Branching decreases the boiling point by reducing the molecular surface area, leading to weaker intermolecular London dispersion forces.",
-        "Branching increases the boiling point because branched isomers are inherently more polarizable.",
-        "Branching has no effect on the boiling point since the molecular weights are identical."
+        "Isopropyl alcohol",
+        "2-pentanol",
+        "1-bromo 3-butene",
+        "Isobutyl alcohol"
       ],
-      "answer": "Branching decreases the boiling point by reducing the molecular surface area, leading to weaker intermolecular London dispersion forces.",
-      "explanation": "Branching makes a molecule more compact, reducing its surface area and weakening intermolecular dispersion forces, lowering the boiling point.",
+      "answer": "2-pentanol",
+      "explanation": "2-Pentanol has a stereogenic carbon attached to OH, H, methyl, and propyl groups.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_009",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_009",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Why does o-nitrophenol (ortho-nitrophenol) have a significantly lower boiling point and lower water solubility than its isomer, p-nitrophenol (para-nitrophenol)?",
+      "question": "A fat on hydrolysis would yield?",
       "options": [
-        "o-Nitrophenol forms strong intermolecular hydrogen bonds with adjacent molecules.",
-        "o-Nitrophenol experiences intramolecular hydrogen bonding, which prevents it from interacting strongly with water or neighboring molecules.",
-        "p-Nitrophenol undergoes rapid volatilization due to steric hindrance.",
-        "The nitro group in o-nitrophenol is completely non-polar compared to the para position."
+        "Glycerol and soap",
+        "Ethanol and soap",
+        "Ethanol and glycerol",
+        "Only soap"
       ],
-      "answer": "o-Nitrophenol experiences intramolecular hydrogen bonding, which prevents it from interacting strongly with water or neighboring molecules.",
-      "explanation": "Intramolecular hydrogen bonding occurs in o-nitrophenol because the functional groups are close enough to form a bridge within the same molecule, decreasing its interaction with external molecules.",
+      "answer": "Glycerol and soap",
+      "explanation": "Alkaline hydrolysis (saponification) of fats produces glycerol and salts of fatty acids, which are soaps.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_010",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_010",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What historical natural resource, formed via the slow anaerobic decomposition of ancient plant matter under high pressure and temperature over geological eras, serves alongside crude oil as a primary fossil source of complex aromatic and aliphatic organic raw materials?",
+      "question": "The element least likely to be found in an organic compound is ...",
       "options": [
-        "Limestone",
-        "Shale gas",
-        "Bauxite",
-        "Coal"
+        "silicon",
+        "nitrogen",
+        "sulphur",
+        "oxygen"
       ],
-      "answer": "Coal",
-      "explanation": "Coal and crude oil are major fossil and natural deposits of organic compounds.",
+      "answer": "silicon",
+      "explanation": "Nitrogen, sulfur, and oxygen are common elements in organic compounds. Silicon occurs in organosilicon compounds but is much less commonly encountered in ordinary organic compounds.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_011",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_011",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Identify the correct statement which is related to aromatic hydrocarbon?",
+      "options": [
+        "It has only sigma bonds",
+        "It has only pi bonds",
+        "It has a sigma and two pi bonds",
+        "It has a sigma and delocalized pi bonds"
+      ],
+      "answer": "It has a sigma and delocalized pi bonds",
+      "explanation": "Aromatic systems contain sigma bonds plus a delocalized π-electron system spread over the conjugated ring.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_012",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Aliphatic compound is the other name for _________",
+      "options": [
+        "Acyclic compounds",
+        "Alicyclic compounds",
+        "Ring compounds",
+        "Closed chain compounds"
+      ],
+      "answer": "Acyclic compounds",
+      "explanation": "In the terminology used in the source, aliphatic compounds are open-chain (acyclic) compounds.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_013",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which among the following is not an example of Acyclic compound?",
+      "options": [
+        "Acetaldehyde",
+        "Ethane",
+        "Cyclopropane",
+        "Isobutane"
+      ],
+      "answer": "Cyclopropane",
+      "explanation": "Cyclopropane is a cyclic compound because its carbon atoms form a ring; the other choices are acyclic.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_014",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "In crystallization, the compound dissolved in a solvent is more soluble in what temperature?",
+      "options": [
+        "Room temperature",
+        "Lower temperature",
+        "Higher temperature",
+        "Very low temperature"
+      ],
+      "answer": "Higher temperature",
+      "explanation": "Recrystallization commonly relies on a substance being much more soluble in the hot solvent than in the cold solvent.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_015",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The substituent groups that are commonly associated with benzene ring are _________",
+      "options": [
+        "Phenyl and benzyl",
+        "Propyl and phenyl",
+        "Methyl and benzyl",
+        "Butyl and phenyl"
+      ],
+      "answer": "Phenyl and benzyl",
+      "explanation": "Phenyl (C6H5–) and benzyl (C6H5CH2–) are common substituent groups associated with aromatic chemistry.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_016",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which among these is not a structural isomer of the compound C4H8?",
+      "options": [
+        "But-1-ene",
+        "But-2-ene",
+        "But-3-ene",
+        "2-methylpropene"
+      ],
+      "answer": "But-3-ene",
+      "explanation": "But-3-ene is simply another numbering of but-1-ene, not a distinct structural isomer.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_017",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Select the incorrect statement regarding alkenes.",
+      "options": [
+        "In alkenes, the carbons are connected by pi bonds",
+        "Alkenes have almost same physical properties as that of the alkanes",
+        "Alkenes are less reactive than alkanes",
+        "Alkenes undergo polymerization reaction"
+      ],
+      "answer": "Alkenes are less reactive than alkanes",
+      "explanation": "The carbon-carbon double bond makes alkenes generally more chemically reactive than alkanes, and alkenes can undergo polymerization.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_018",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Acetylene has a total of",
+      "options": [
+        "1σ bond, 2π bonds",
+        "2σ bonds, 4π bonds",
+        "3σ bonds, 2π bonds",
+        "1σ bond, 4π bonds"
+      ],
+      "answer": "3σ bonds, 2π bonds",
+      "explanation": "Acetylene (HC≡CH) contains two C–H sigma bonds and one C–C sigma bond, plus two π bonds.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_019",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Compounds in which carbon use only sp3 hybrid orbitals for bond formation is …….",
+      "options": [
+        "CH3CH2CH3",
+        "CH3C≡CH",
+        "CH3CH=CH2",
+        "CH2=CH-CH=CH2"
+      ],
+      "answer": "CH3CH2CH3",
+      "explanation": "In propane, every carbon forms only single bonds and is therefore sp3-hybridized.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_020",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "When the carbon atom is sp2 hybridized, it is bonded to …",
+      "options": [
+        "2 other atoms",
+        "4 other atoms",
+        "3 other atoms",
+        "5 other atoms"
+      ],
+      "answer": "3 other atoms",
+      "explanation": "An sp2-hybridized carbon has three sigma-bonding directions arranged approximately trigonal-planar, with one unhybridized p orbital.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_021",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which of the following is not a planar molecule",
+      "options": [
+        "formaldehyde",
+        "acetone",
+        "formic acid",
+        "phenol"
+      ],
+      "answer": "acetone",
+      "explanation": "The carbonyl group is planar, but acetone as a whole contains tetrahedral methyl groups whose hydrogens need not lie in the carbonyl plane.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_022",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which molecule has a non-zero dipole moment",
+      "options": [
+        "Cl2",
+        "CO2",
+        "CCl4",
+        "CHCl3"
+      ],
+      "answer": "CHCl3",
+      "explanation": "CHCl3 is unsymmetrical, so its bond dipoles do not cancel completely. Cl2, CO2, and CCl4 have zero net dipole moments.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_023",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which of the following compounds will have the lowest dipole moment",
+      "options": [
+        "carbon tetrachloride",
+        "chloromethane",
+        "dichloromethane",
+        "chloroform"
+      ],
+      "answer": "carbon tetrachloride",
+      "explanation": "CCl4 is tetrahedrally symmetrical, so the four C–Cl bond dipoles cancel and the net dipole moment is zero.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_024",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The following statements are not true about Lassaigne test except",
+      "options": [
+        "used to test for the presence of oxygen and carbon",
+        "used to test for functional group",
+        "it is a reductive test",
+        "used to test for sodium"
+      ],
+      "answer": "it is a reductive test",
+      "explanation": "Lassaigne's sodium-fusion procedure converts covalently bound heteroatoms into ionic species and is fundamentally a reductive fusion process.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_025",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "A constant melting point mixture can be referred to as ….. while a constant boiling point mixture can be referred to as…..",
+      "options": [
+        "solid mixture and liquid mixture",
+        "azeotropic mixture and liquid mixture",
+        "Eutectic mixture and azeotropic mixture",
+        "eutectic mixture and liquid mixture"
+      ],
+      "answer": "Eutectic mixture and azeotropic mixture",
+      "explanation": "A eutectic mixture has a constant melting point, while an azeotrope has constant-boiling composition.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_026",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "…........analysis can be used to determine those elements present in a compound.",
+      "options": [
+        "quantitative",
+        "volumetric",
+        "titration",
+        "qualitative"
+      ],
+      "answer": "qualitative",
+      "explanation": "Qualitative analysis identifies which elements or ions are present; quantitative analysis determines amounts.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_027",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which of the following compounds is an alicyclic compound",
+      "options": [
+        "benzene",
+        "toluene",
+        "2-methylhexanoic acid",
+        "cyclobutene"
+      ],
+      "answer": "cyclobutene",
+      "explanation": "Cyclobutene is a non-aromatic cyclic compound and is therefore alicyclic.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_028",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "A certain neutral compound Y reacts with sodium metal to evolve a colourless gax Z. Further tests show that compound Y decolorizes acidified potassium heptaoxodichromate (Vi) from orange to green. What is the identity of Y and Z respectively?",
+      "options": [
+        "Aldehyde and Hydrogen",
+        "Ketone and CO2",
+        "Alcohol and hydrogen",
+        "Carboxylic acids and hydrogen"
+      ],
+      "answer": "Alcohol and hydrogen",
+      "explanation": "Alcohols react with sodium metal to release hydrogen gas, and an oxidizable alcohol can reduce acidified dichromate from orange to green.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_029",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which of the following compounds will show negative towards iodoform test",
+      "options": [
+        "Ethanol",
+        "Ethanal",
+        "Propanone",
+        "Propan-1ol"
+      ],
+      "answer": "Propan-1ol",
+      "explanation": "Ethanol, ethanal, and propanone give the iodoform reaction. Propan-1-ol does not contain the required CH3CO– or CH3CH(OH)– arrangement.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_030",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which of the following compounds will form a grey precipitate of Ag in a test tube?",
+      "options": [
+        "Acetaldehyde",
+        "Acetone",
+        "Butanone",
+        "Isobutane"
+      ],
+      "answer": "Acetaldehyde",
+      "explanation": "An aldehyde such as acetaldehyde reduces Tollens' reagent, depositing metallic silver as a silver mirror or precipitate.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_031",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "A certain compound W reacts with alkanols to produce X which has a fruity smell. Further tests show that W reacts with sodium hydrogen carbonate to evolve a colourless gas Y. What are the identities of W, X and Y?",
+      "options": [
+        "Aldehydes, Alkanols and hydrogen",
+        "Alkanones, Alkanes and nitrogen",
+        "Carboxylic acids, Esters and CO2",
+        "Nitriles, Esters and CO2"
+      ],
+      "answer": "Carboxylic acids, Esters and CO2",
+      "explanation": "Carboxylic acids react with alcohols to form fruity-smelling esters, and with sodium hydrogen carbonate to release carbon dioxide.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_032",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "An unknown sample Z decolorizes bromine water and further tests show it restores the magenta(pink) colour of Schiff's reagent. Z could be......",
+      "options": [
+        "But-2-ene",
+        "But-2-enal",
+        "Propanone",
+        "Hydroxy-butanone"
+      ],
+      "answer": "But-2-enal",
+      "explanation": "The C=C bond decolorizes bromine water, while the aldehyde group in but-2-enal gives a positive Schiff test.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_033",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "calculation",
-      "question": "Calculate the exact molecular mass of the third member of the straight-chain primary alcohol homologous series (\\text{R-OH}).",
+      "question": "A 0.152g of an organic compound X containing only C, H and O produces 0.223g of CO2 and 0.091g of H2O on combustion. what is the empirical formula of compound X",
       "options": [
-        "32.042\\text{ g mol}^{-1}",
-        "46.069\\text{ g mol}^{-1}",
-        "60.096\\text{ g mol}^{-1}",
-        "74.123\\text{ g mol}^{-1}"
+        "CH2O",
+        "C2HO2",
+        "CHO",
+        "CO2H"
       ],
-      "answer": "60.096\\text{ g mol}^{-1}",
-      "explanation": "The third member of the primary alcohol series is propan-1-ol (\\text{C}_3\\text{H}_7\\text{OH} or \\text{C}_3\\text{H}_8\\text{O}). \\text{Mass} = (3 \\times 12.011) + (8 \\times 1.008) + 15.999 = 36.033 + 8.064 + 15.999 = 60.096\\text{ g mol}^{-1}.",
-      "working": "The third member of the primary alcohol series is propan-1-ol (\\text{C}_3\\text{H}_7\\text{OH} or \\text{C}_3\\text{H}_8\\text{O}). \\text{Mass} = (3 \\times 12.011) + (8 \\times 1.008) + 15.999 = 36.033 + 8.064 + 15.999 = 60.096\\text{ g mol}^{-1}.",
+      "answer": "CH2O",
+      "explanation": "The combustion data give approximately equal moles of C and O and twice as many moles of H, giving the empirical formula CH2O.",
+      "working": "moles C = 0.223/44.01 = 0.00507 mol.\nmoles H2O = 0.091/18.02 = 0.00505 mol, so moles H = 2(0.00505) = 0.01010 mol.\nMass O = 0.152 − (0.223×12.01/44.01) − (0.091×2.016/18.02) ≈ 0.08096 g.\nmoles O = 0.08096/16.00 ≈ 0.00506 mol.\nRatio C:H:O ≈ 1:2:1.\nEmpirical formula = CH2O, matching the first option.",
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_012",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Determine the total number of individual \\sigma (sigma) bonds present in a single, fully saturated open-chain acyclic alkane molecule containing exactly 8 carbon atoms.",
+      "id": "PENDING_034",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The effect of attracting or repelling of electrons in sigma bonds is referred to as......",
       "options": [
-        "24",
-        "25",
-        "26",
-        "27"
+        "resonance effect",
+        "positive inductive effect",
+        "inductive effect",
+        "steric effect"
       ],
-      "answer": "25",
-      "explanation": "An acyclic alkane with 8 carbons (\\text{C}_8\\text{H}_{18}) has n-1 = 7 \\text{C-C} bonds and 2n+2 = 18 \\text{C-H} bonds. Total \\sigma\\text{ bonds} = 7 + 18 = 25 bonds.",
-      "working": "An acyclic alkane with 8 carbons (\\text{C}_8\\text{H}_{18}) has n-1 = 7 \\text{C-C} bonds and 2n+2 = 18 \\text{C-H} bonds. Total \\sigma\\text{ bonds} = 7 + 18 = 25 bonds.",
+      "answer": "inductive effect",
+      "explanation": "The inductive effect is the permanent polarization transmitted through sigma bonds because of electron-attracting or electron-releasing substituents.",
+      "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_013",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_035",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Heterolytic bond fission is favoured by the following except.......",
+      "options": [
+        "use of polar solvent",
+        "presence of resonance and inductive effect",
+        "presence of free radical initiators",
+        "presence of solvent ethanol"
+      ],
+      "answer": "presence of free radical initiators",
+      "explanation": "Heterolysis is favoured by polar environments and charge-stabilizing effects. Free-radical initiators instead promote homolytic cleavage.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_036",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Homolytic fission of C-C bond leads to the formation of ….",
+      "options": [
+        "free radicals",
+        "carbonium ions",
+        "carbanions",
+        "none of these"
+      ],
+      "answer": "free radicals",
+      "explanation": "Homolytic cleavage splits the bonding electron pair equally, leaving one electron on each carbon and producing radicals.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_037",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The order of stability of carbonium ion and free radicals is",
+      "options": [
+        "3o > 2o > 1o",
+        "2o > 3o >1o",
+        "1o> 2o >3o",
+        "1o> 3o >2o"
+      ],
+      "answer": "3o > 2o > 1o",
+      "explanation": "For simple alkyl carbocations and radicals, increasing alkyl substitution generally increases stability through hyperconjugation and inductive donation.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_038",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which statement is correct……………",
+      "options": [
+        "energy is released when a bond breaks",
+        "a sigma bond results from attraction of protons and electrons",
+        "energy is released when a bond forms",
+        "a carbanion is positively charged"
+      ],
+      "answer": "energy is released when a bond forms",
+      "explanation": "Bond formation releases energy because the bonded state is lower in energy than the separated atoms. Bond breaking requires energy.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_039",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which describes the bond strength or dissociation energy",
+      "options": [
+        "energy required to break a bond",
+        "energy released when a bond breaks",
+        "energy released when a bond is formed",
+        "both a and c"
+      ],
+      "answer": "energy required to break a bond",
+      "explanation": "Bond dissociation energy is the energy required to break a specified bond, usually homolytically in the gas phase.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_040",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "An electrophile acts as a ……. When it reacts with nucleophile while a nucleophile acts as a …… whe it reacts with an electrophile….",
+      "options": [
+        "bronsted-lowry base and bronsted-lowry acid",
+        "Arrhenius base and Arrhenius acid",
+        "lewis acid and lewis base",
+        "lewis base and lewis acid"
+      ],
+      "answer": "lewis acid and lewis base",
+      "explanation": "An electrophile accepts an electron pair and is therefore a Lewis acid; a nucleophile donates an electron pair and is a Lewis base.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_041",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which of the following statements is incorrect",
+      "options": [
+        "electrons move toward positively charged locations",
+        "an electron rich atom is called an electrophile",
+        "an electrophile is electron loving",
+        "a nucleophile has a pair of electrons it can share"
+      ],
+      "answer": "an electron rich atom is called an electrophile",
+      "explanation": "Electrophiles are electron-deficient species. Electron-rich species that donate electron pairs are nucleophiles.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_042",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Identify the one which shows E-Z mechanism?",
+      "options": [
+        "3-methylpent-2-ene",
+        "2-methylpent-2-ene",
+        "Methyl-3-pent-2-ene",
+        "2,3-methylpentene"
+      ],
+      "answer": "3-methylpent-2-ene",
+      "explanation": "3-Methylpent-2-ene has two different substituents on each alkene carbon, allowing E/Z stereoisomerism.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_043",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "4-chlorobut-1-ene is the name of which among the following alkenes?",
+      "options": [
+        "CH2Cl-CH2=CH-CH2",
+        "CH2Cl-CH2-CH-CH2",
+        "CH2Cl=CH2-CH=CH2",
+        "CH2Cl-CH2-CH=CH2"
+      ],
+      "answer": "CH2Cl-CH2-CH=CH2",
+      "explanation": "Numbering from the double-bond end gives but-1-ene with chlorine at carbon 4: CH2=CH-CH2-CH2Cl, equivalent to the listed structure.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_044",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Ethylene on reaction with bromine forms which among the following product?",
+      "options": [
+        "BrH2C-CH2Br",
+        "BrH2C=CH2Br",
+        "Br2HC=CHBr2",
+        "Br2HC-CHBr2"
+      ],
+      "answer": "BrH2C-CH2Br",
+      "explanation": "Bromine adds across the C=C bond of ethene to form 1,2-dibromoethane.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_045",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which among the following is not an alkane isomer with 6 carbon atoms?",
+      "options": [
+        "Hexane",
+        "2,3-dimethylbutane",
+        "2,2-dimethylbutane",
+        "Neopentane"
+      ],
+      "answer": "Neopentane",
+      "explanation": "Neopentane has five carbon atoms (C5H12), whereas the other choices are C6 alkane structures.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_046",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which homologous series can be produced from the protonation of grignard reagents ....",
+      "options": [
+        "Alkenes",
+        "Alkanes",
+        "Arenes",
+        "Alkynes"
+      ],
+      "answer": "Alkanes",
+      "explanation": "A Grignard reagent R–MgX is protonated at carbon to give RH, an alkane.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_047",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Grignard reagents can be produced from which of the following",
+      "options": [
+        "Magnesium powder with alkyl halides in dry ether",
+        "Sodium metal with alkyl halides in dry ether",
+        "Mercury with alkyl halides in dry ether",
+        "Bromine with platinum catalyst"
+      ],
+      "answer": "Magnesium powder with alkyl halides in dry ether",
+      "explanation": "Grignard reagents are formed by reacting an alkyl or aryl halide with magnesium in dry ether.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_048",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The breaking down of a heavy alkane molecules in the presence of heat, pressure and a catalyst to give smaller alkanes and alkenes is referred to as.....",
+      "options": [
+        "Catalytic reforming",
+        "Pyrolysis",
+        "Halogenation",
+        "Rearrangement of alkanes"
+      ],
+      "answer": "Pyrolysis",
+      "explanation": "Pyrolysis or cracking breaks larger hydrocarbon molecules into smaller molecules, including alkanes and alkenes.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_049",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The Halogenation of alkanes proceed via what mechanism",
+      "options": [
+        "Electrophilic addition",
+        "Nucleophilic substitution",
+        "Electrophilic addition",
+        "Free radical substitution"
+      ],
+      "answer": "Free radical substitution",
+      "explanation": "Alkane halogenation under light or heat proceeds through a free-radical chain substitution mechanism.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_050",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The IUPAC name of the compound CH3CH2CH2N(CH3)2",
+      "options": [
+        "1,1-dimethylpropylamine",
+        "pentylamine",
+        "N,N-dimethylpropylamine",
+        "1,2-dimethylpropylamine"
+      ],
+      "answer": "N,N-dimethylpropylamine",
+      "explanation": "The nitrogen is bonded to a propyl group and two methyl groups, giving the source's name N,N-dimethylpropylamine.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_051",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Which one of the following compound is obtained by the oxidation of secondary alcohol by [O]",
+      "options": [
+        "Ketone",
+        "Aldehyde",
+        "Ether",
+        "Amine"
+      ],
+      "answer": "Ketone",
+      "explanation": "Oxidation of a secondary alcohol produces a ketone.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_052",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The reaction of carboxylic acids with alcohols catalyzed by conc H2SO4 is called ……",
+      "options": [
+        "dehydration",
+        "saponification",
+        "esterification",
+        "neutralization"
+      ],
+      "answer": "esterification",
+      "explanation": "Acid-catalysed reaction of a carboxylic acid with an alcohol forms an ester and water and is called esterification.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_053",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The oxidation state of oxygen in potassium superoxide(KO2) is",
+      "options": [
+        "+1",
+        "+1/2",
+        "-1",
+        "-1/2"
+      ],
+      "answer": "-1/2",
+      "explanation": "In KO2, potassium is +1, so the O2 group is −1 overall. Each oxygen therefore has an average oxidation state of −1/2.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_054",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "calculation",
-      "question": "An open-chain, unbranched monocarboxylic acid has a calculated molecular mass of approximately 116.16\\text{ g mol}^{-1}. Identify the total number of carbon atoms present in a single molecule of this acid.",
+      "question": "When heptane undergoes complete combustion how many moles of carbon(iv)oxide (CO2) is produced?",
       "options": [
         "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "answer": "6",
-      "explanation": "Monocarboxylic acid formula: \\text{C}_n\\text{H}_{2n}\\text{O}_2. \\text{Mass} = 12.011n + 1.008(2n) + 2(15.999) = 116.16 \\Rightarrow 14.027n + 31.998 = 116.16 \\Rightarrow 14.027n = 84.162 \\Rightarrow n = 6.",
-      "working": "Monocarboxylic acid formula: \\text{C}_n\\text{H}_{2n}\\text{O}_2. \\text{Mass} = 12.011n + 1.008(2n) + 2(15.999) = 116.16 \\Rightarrow 14.027n + 31.998 = 116.16 \\Rightarrow 14.027n = 84.162 \\Rightarrow n = 6.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_014",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A pure hydrocarbon sample belongs to the alkene homologous series. If the precise molecular mass of this alkene is determined to be 84.162\\text{ g mol}^{-1}, calculate the total number of hydrogen atoms contained within one molecule of this compound.",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "16"
-      ],
-      "answer": "12",
-      "explanation": "Alkene series formula: \\text{C}_n\\text{H}_{2n}. \\text{Mass} = 12.011n + 1.008(2n) = 14.027n = 84.162 \\Rightarrow n = 6. Hydrogen atoms = 2n = 12.",
-      "working": "Alkene series formula: \\text{C}_n\\text{H}_{2n}. \\text{Mass} = 12.011n + 1.008(2n) = 14.027n = 84.162 \\Rightarrow n = 6. Hydrogen atoms = 2n = 12.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_015",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the percentage by mass of nitrogen in a pure sample of urea, \\text{CO(NH}_2)_2, which was the historic organic molecule synthesized by Wöhler.",
-      "options": [
-        "26.64\\%",
-        "36.72\\%",
-        "46.65\\%",
-        "53.31\\%"
-      ],
-      "answer": "46.65\\%",
-      "explanation": "Urea \\text{CO(NH}_2)_2 = \\text{CH}_4\\text{N}_2\\text{O}. Total mass = 12.011 + 4.032 + 28.014 + 15.999 = 60.056\\text{ g mol}^{-1}. Mass of \\text{N} = 28.014. Percentage = (28.014 / 60.056) \\times 100\\% = 46.65\\%.",
-      "working": "Urea \\text{CO(NH}_2)_2 = \\text{CH}_4\\text{N}_2\\text{O}. Total mass = 12.011 + 4.032 + 28.014 + 15.999 = 60.056\\text{ g mol}^{-1}. Mass of \\text{N} = 28.014. Percentage = (28.014 / 60.056) \\times 100\\% = 46.65\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_016",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "What is the exact difference in molecular mass between the 5th member and the 9th member of the unbranched, straight-chain alkane homologous series?",
-      "options": [
-        "42.081\\text{ g mol}^{-1}",
-        "56.108\\text{ g mol}^{-1}",
-        "70.135\\text{ g mol}^{-1}",
-        "84.162\\text{ g mol}^{-1}"
-      ],
-      "answer": "56.108\\text{ g mol}^{-1}",
-      "explanation": "Difference between 9th (\\text{C}_9) and 5th (\\text{C}_5) member is exactly 4 times a -\\text{CH}_2- unit. Mass of 4 \\times \\text{CH}_2 = 4 \\times (12.011 + 2(1.008)) = 4 \\times 14.027 = 56.108\\text{ g mol}^{-1}.",
-      "working": "Difference between 9th (\\text{C}_9) and 5th (\\text{C}_5) member is exactly 4 times a -\\text{CH}_2- unit. Mass of 4 \\times \\text{CH}_2 = 4 \\times (12.011 + 2(1.008)) = 4 \\times 14.027 = 56.108\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_017",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A symmetrical ether molecule has a total molecular mass of 74.123\\text{ g mol}^{-1}. Calculate the total number of hydrogen atoms present in only one of the two identical alkyl groups attached to the central oxygen atom.",
-      "options": [
-        "3",
-        "5",
-        "7",
-        "9"
-      ],
-      "answer": "5",
-      "explanation": "Symmetrical ether: \\text{R-O-R}. Total mass = 2(\\text{Mass of R}) + 15.999 = 74.123 \\Rightarrow 2(\\text{Mass of R}) = 58.124 \\Rightarrow \\text{Mass of R} = 29.062\\text{ g mol}^{-1}. This corresponds to an ethyl group (\\text{C}_2\\text{H}_5), which contains 5 hydrogen atoms.",
-      "working": "Symmetrical ether: \\text{R-O-R}. Total mass = 2(\\text{Mass of R}) + 15.999 = 74.123 \\Rightarrow 2(\\text{Mass of R}) = 58.124 \\Rightarrow \\text{Mass of R} = 29.062\\text{ g mol}^{-1}. This corresponds to an ethyl group (\\text{C}_2\\text{H}_5), which contains 5 hydrogen atoms.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_018",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Consider an open-chain alkyl chloride derivative with the general formula \\text{C}_n\\text{H}_{2n+1}\\text{Cl}. If the compound contains exactly 11 carbon atoms, calculate the total number of \\sigma (sigma) bonds contained in one molecule of this alkyl chloride.",
-      "options": [
-        "33",
-        "34",
-        "35",
-        "36"
-      ],
-      "answer": "34",
-      "explanation": "For \\text{C}_{11}\\text{H}_{23}\\text{Cl}, total single covalent bonds (\\sigma\\text{ bonds}) = (\\text{C-C bonds}) + (\\text{C-H bonds}) + (\\text{C-Cl bond}) = 10 + 23 + 1 = 34.",
-      "working": "For \\text{C}_{11}\\text{H}_{23}\\text{Cl}, total single covalent bonds (\\sigma\\text{ bonds}) = (\\text{C-C bonds}) + (\\text{C-H bonds}) + (\\text{C-Cl bond}) = 10 + 23 + 1 = 34.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_019",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the mass percentage of carbon in the fourth member of the alkyne homologous series (\\text{C}_4\\text{H}_6).",
-      "options": [
-        "82.14\\%",
-        "85.63\\%",
-        "88.82\\%",
-        "92.26\\%"
-      ],
-      "answer": "88.82\\%",
-      "explanation": "\\text{C}_4\\text{H}_6. Total mass = (4 \\times 12.011) + (6 \\times 1.008) = 48.044 + 6.048 = 54.092\\text{ g mol}^{-1}. Mass \\% of \\text{C} = (48.044 / 54.092) \\times 100\\% = 88.82\\%.",
-      "working": "\\text{C}_4\\text{H}_6. Total mass = (4 \\times 12.011) + (6 \\times 1.008) = 48.044 + 6.048 = 54.092\\text{ g mol}^{-1}. Mass \\% of \\text{C} = (48.044 / 54.092) \\times 100\\% = 88.82\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_020",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A compound is analyzed and found to belong to the homologous series of saturated open-chain dialdehydes (containing two -\\text{CHO} groups, one at each terminus). If the molecule contains a total of 6 carbon atoms, calculate its exact molecular mass.",
-      "options": [
-        "114.142\\text{ g mol}^{-1}",
-        "100.116\\text{ g mol}^{-1}",
-        "116.158\\text{ g mol}^{-1}",
-        "130.184\\text{ g mol}^{-1}"
-      ],
-      "answer": "114.142\\text{ g mol}^{-1}",
-      "explanation": "Saturated dialdehyde with 6 carbons: \\text{OHC-(CH}_2)_4\\text{-CHO} \\equiv \\text{C}_6\\text{H}_{10}\\text{O}_2. Total mass = (6 \\times 12.011) + (10 \\times 1.008) + (2 \\times 15.999) = 72.066 + 10.080 + 31.998 = 114.144\\text{ g mol}^{-1}.",
-      "working": "Saturated dialdehyde with 6 carbons: \\text{OHC-(CH}_2)_4\\text{-CHO} \\equiv \\text{C}_6\\text{H}_{10}\\text{O}_2. Total mass = (6 \\times 12.011) + (10 \\times 1.008) + (2 \\times 15.999) = 72.066 + 10.080 + 31.998 = 114.144\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_021",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A sample of a straight-chain alkane gas occupies a specific volume. If one molecule of this alkane contains exactly 37 covalent bonds total (\\text{C-C} and \\text{C-H} combined), determine the numerical value of its molecular formula index n in \\text{C}_n\\text{H}_{2n+2}.",
-      "options": [
-        "11",
-        "12",
-        "13",
-        "14"
-      ],
-      "answer": "12",
-      "explanation": "In an acyclic alkane \\text{C}_n\\text{H}_{2n+2}, total bonds = (n-1) + (2n+2) = 3n + 1. Given 3n + 1 = 37 \\Rightarrow 3n = 36 \\Rightarrow n = 12.",
-      "working": "In an acyclic alkane \\text{C}_n\\text{H}_{2n+2}, total bonds = (n-1) + (2n+2) = 3n + 1. Given 3n + 1 = 37 \\Rightarrow 3n = 36 \\Rightarrow n = 12.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_022",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the exact molecular mass of a secondary amine molecule that possesses two symmetric, unbranched saturated alkyl chains, where each chain contains exactly 4 carbon atoms.",
-      "options": [
-        "101.193\\text{ g mol}^{-1}",
-        "115.220\\text{ g mol}^{-1}",
-        "129.247\\text{ g mol}^{-1}",
-        "143.274\\text{ g mol}^{-1}"
-      ],
-      "answer": "129.247\\text{ g mol}^{-1}",
-      "explanation": "Secondary amine with two symmetric 4-carbon chains: (\\text{C}_4\\text{H}_9)_2\\text{NH} \\equiv \\text{C}_8\\text{H}_{19}\\text{N}. Total mass = (8 \\times 12.011) + (19 \\times 1.008) + 14.007 = 96.088 + 19.152 + 14.007 = 129.247\\text{ g mol}^{-1}.",
-      "working": "Secondary amine with two symmetric 4-carbon chains: (\\text{C}_4\\text{H}_9)_2\\text{NH} \\equiv \\text{C}_8\\text{H}_{19}\\text{N}. Total mass = (8 \\times 12.011) + (19 \\times 1.008) + 14.007 = 96.088 + 19.152 + 14.007 = 129.247\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_023",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "If a mixture consists of equal molar amounts of the first three consecutive members of the straight-chain alkane series (methane, ethane, propane), calculate the average molecular mass of this hydrocarbon mixture.",
-      "options": [
-        "26.038\\text{ g mol}^{-1}",
-        "30.069\\text{ g mol}^{-1}",
-        "32.042\\text{ g mol}^{-1}",
-        "44.096\\text{ g mol}^{-1}"
-      ],
-      "answer": "30.069\\text{ g mol}^{-1}",
-      "explanation": "\\text{CH}_4 (16.042) + \\text{C}_2\\text{H}_6 (30.070) + \\text{C}_3\\text{H}_8 (44.096) = 90.208 / 3 = 30.069\\text{ g mol}^{-1}.",
-      "working": "\\text{CH}_4 (16.042) + \\text{C}_2\\text{H}_6 (30.070) + \\text{C}_3\\text{H}_8 (44.096) = 90.208 / 3 = 30.069\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_024",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A monohydric, saturated cyclic alcohol (cycloalkanol) contains a single ring and exactly one -\\text{OH} group. If its molecular mass is determined to be 100.159\\text{ g mol}^{-1}, calculate the total number of hydrogen atoms present in the molecule.",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "14"
-      ],
-      "answer": "12",
-      "explanation": "Cycloalkanol formula: \\text{C}_n\\text{H}_{2n-1}\\text{OH} \\equiv \\text{C}_n\\text{H}_{2n}\\text{O}. Mass = 12.011n + 1.008(2n) + 15.999 = 100.159 \\Rightarrow 14.027n = 84.160 \\Rightarrow n = 6. A 6-carbon ring cycloalkanol (\\text{C}_6\\text{H}_{12}\\text{O}) contains exactly 12 hydrogen atoms.",
-      "working": "Cycloalkanol formula: \\text{C}_n\\text{H}_{2n-1}\\text{OH} \\equiv \\text{C}_n\\text{H}_{2n}\\text{O}. Mass = 12.011n + 1.008(2n) + 15.999 = 100.159 \\Rightarrow 14.027n = 84.160 \\Rightarrow n = 6. A 6-carbon ring cycloalkanol (\\text{C}_6\\text{H}_{12}\\text{O}) contains exactly 12 hydrogen atoms.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_025",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the mass percentage of oxygen present in a pure sample of propanoic acid (\\text{CH}_3\\text{CH}_2\\text{COOH}).",
-      "options": [
-        "21.59\\%",
-        "36.32\\%",
-        "43.19\\%",
-        "48.61\\%"
-      ],
-      "answer": "43.19\\%",
-      "explanation": "Propanoic acid \\text{C}_3\\text{H}_6\\text{O}_2. Total mass = (3 \\times 12.011) + (6 \\times 1.008) + (2 \\times 15.999) = 36.033 + 6.048 + 31.998 = 74.079\\text{ g mol}^{-1}. Mass \\% of \\text{O} = (31.998 / 74.079) \\times 100\\% = 43.19\\%.",
-      "working": "Propanoic acid \\text{C}_3\\text{H}_6\\text{O}_2. Total mass = (3 \\times 12.011) + (6 \\times 1.008) + (2 \\times 15.999) = 36.033 + 6.048 + 31.998 = 74.079\\text{ g mol}^{-1}. Mass \\% of \\text{O} = (31.998 / 74.079) \\times 100\\% = 43.19\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_026",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "phrase",
-      "question": "Why do organic compounds generally display significantly lower melting and boiling points compared to inorganic salts?",
-      "options": [
-        "Organic molecules are held together by exceptionally strong intramolecular ionic networks.",
-        "The intermolecular forces between organic molecules are weak van der Waals interactions or hydrogen bonds, rather than electrostatic ionic lattices.",
-        "Organic molecules possess highly unstable valence electron configurations that spontaneously collapse.",
-        "Organic compounds lack covalent bonds entirely, causing rapid molecular dissociation."
-      ],
-      "answer": "The intermolecular forces between organic molecules are weak van der Waals interactions or hydrogen bonds, rather than electrostatic ionic lattices.",
-      "explanation": "Inorganic salts are held by strong ionic lattices, whereas organic molecules interact via weaker intermolecular forces (dispersion forces, dipole-dipole, or hydrogen bonds), requiring less thermal energy to overcome.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_027",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "phrase",
-      "question": "Which of the following structural changes systematically increases the boiling point of compounds within a specific homologous series?",
-      "options": [
-        "Increasing the number of alkyl branches while keeping the total carbon count constant.",
-        "Lengthening the continuous unbranched carbon chain, which increases the total molecular surface area and dispersion forces.",
-        "Eliminating polar functional groups to maximize hydrophobic shielding.",
-        "Converting the molecule from an open-chain framework into a highly compact spherical isomer."
-      ],
-      "answer": "Lengthening the continuous unbranched carbon chain, which increases the total molecular surface area and dispersion forces.",
-      "explanation": "As the unbranched chain length increases, the molecular surface area grows, leading to stronger intermolecular London dispersion forces and higher boiling points.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_028",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "phrase",
-      "question": "Liquid organic compounds that contain highly polar hydroxyl groups (-\\text{OH}) generally exhibit much higher boiling points than hydrocarbons of similar molecular mass because they can form:",
-      "options": [
-        "Delocalized \\pi-electron aromatic systems",
-        "Rigid, covalent macromolecular network crystals",
-        "Intermolecular hydrogen bonds",
-        "Electrostatic ionic bonds with non-polar solvents"
-      ],
-      "answer": "Intermolecular hydrogen bonds",
-      "explanation": "The presence of the hydroxyl group enables the formation of strong intermolecular hydrogen bonds, requiring significantly more thermal energy to volatilize the liquid compared to non-polar hydrocarbons.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_029",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "phrase",
-      "question": "Which natural matrix yields a complex mixture of volatile and non-volatile aromatic hydrocarbons when subjected to high-temperature destructive distillation in the absence of air?",
-      "options": [
-        "Limestone deposits",
-        "Crude oil fractions",
-        "Bauxite ore",
-        "Coal"
-      ],
-      "answer": "Coal",
-      "explanation": "Destructive distillation of coal yields coal tar, ammoniacal liquor, and coal gas, serving as a historic foundation for isolating complex aromatic compounds.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_030",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "phrase",
-      "question": "Carbon can form stable multiple bonds (double and triple bonds) with itself and other non-metals primarily due to its:",
-      "options": [
-        "Low electronegativity value and large atomic radius",
-        "Small atomic size and ability to undergo orbital hybridization to form effective \\pi overlaps.",
-        "Expansive d-orbitals that participate in hypervalent coordination",
-        "Inability to establish covalent single \\sigma-bonds"
-      ],
-      "answer": "Small atomic size and ability to undergo orbital hybridization to form effective \\pi overlaps.",
-      "explanation": "Carbon’s small atomic radius enables close approach of adjacent p-orbitals, allowing efficient lateral overlap to form stable \\pi-bonds alongside structural \\sigma-frameworks.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_031",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "phrase",
-      "question": "A continuous, unbranched sequence of organic compounds sharing the same functional group and general molecular formula, where consecutive members exhibit regular gradations in physical properties, is called a:",
-      "options": [
-        "Tautomeric mixture",
-        "Heterogeneous matrix",
-        "Homologous series",
-        "Stereoisomeric conformation"
-      ],
-      "answer": "Homologous series",
-      "explanation": "A homologous series is characterized by a shared general formula, identical functional groups, similar chemical reactivities, and a regular step-by-step alteration in physical attributes.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_032",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "phrase",
-      "question": "The remarkable solubility of lower molecular mass alcohols and carboxylic acids in water is directly attributed to:",
-      "options": [
-        "The hydrophobic nature of their long hydrocarbon residues",
-        "Their capacity to form stable intermolecular hydrogen bonds with polar water molecules.",
-        "The formation of insoluble dative co-ordination polymers",
-        "The completely non-polar character of the oxygen-hydrogen single bond"
-      ],
-      "answer": "Their capacity to form stable intermolecular hydrogen bonds with polar water molecules.",
-      "explanation": "The low-molecular-mass derivatives have small hydrophobic tails, allowing the highly polar functional groups (-\\text{OH} or -\\text{COOH}) to readily form hydrogen bonds with water molecules, achieving high miscibility.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_033",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "phrase",
-      "question": "When an organic compound undergoes complete combustion in an excess supply of oxygen gas, what are the primary terminal chemical products generated?",
-      "options": [
-        "Carbon monoxide and elemental hydrogen gas",
-        "Carbon dioxide gas and water vapor",
-        "Methane gas and ozone gas",
-        "Elemental carbon soot and nitric oxide"
-      ],
-      "answer": "Carbon dioxide gas and water vapor",
-      "explanation": "Complete oxidation/combustion of hydrocarbons and oxygenated organic compounds converts the constituent carbon entirely to carbon dioxide (\\text{CO}_2) and hydrogen to water (\\text{H}_2\\text{O}).",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_034",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "phrase",
-      "question": "Why does an organic molecule containing an *intramolecular* hydrogen bond typically show a lower boiling point than its structural isomer that forms *intermolecular* hydrogen bonds?",
-      "options": [
-        "Intramolecular bonding makes the covalent backbone highly unstable and prone to spontaneous fragmentation.",
-        "Intramolecular bonding satisfies the hydrogen-bonding capability within the single molecule itself, reducing the cohesive forces holding adjacent molecules together.",
-        "Intramolecular bonding increases the overall molecular mass of the system.",
-        "Intermolecular bonding entirely prevents a compound from ever converting into a gaseous vapor phase."
-      ],
-      "answer": "Intramolecular bonding satisfies the hydrogen-bonding capability within the single molecule itself, reducing the cohesive forces holding adjacent molecules together.",
-      "explanation": "Intramolecular hydrogen bonds tie up the polar sites internally, leaving fewer sites available to link with neighboring molecules, which decreases the bulk cohesive forces and lowers the boiling point.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_035",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "phrase",
-      "question": "Which of the following is an example of an organic functional group that possesses a highly polarized carbon-oxygen double bond (\\text{C}=\\text{O})?",
-      "options": [
-        "Ether group",
-        "Carbonyl group",
-        "Primary amine group",
-        "Alkene linkage"
-      ],
-      "answer": "Carbonyl group",
-      "explanation": "The carbonyl group (\\text{C}=\\text{O}), found in aldehydes, ketones, carboxylic acids, and derivatives, features a strongly polarized double bond due to the high electronegativity of oxygen.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_036",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Determine the exact molecular mass of the fourth member of the straight-chain unbranched primary monocarboxylic acid homologous series.",
-      "options": [
-        "60.052\\text{ g mol}^{-1}",
-        "74.079\\text{ g mol}^{-1}",
-        "88.106\\text{ g mol}^{-1}",
-        "102.133\\text{ g mol}^{-1}"
-      ],
-      "answer": "88.106\\text{ g mol}^{-1}",
-      "explanation": "The primary monocarboxylic acid series begins with methanoic acid (\\text{C}_1). The fourth member is butanoic acid (\\text{C}_4\\text{H}_8\\text{O}_2). \\text{Mass} = (4 \\times 12.011) + (8 \\times 1.008) + (2 \\times 15.999) = 48.044 + 8.064 + 31.998 = 88.106\\text{ g mol}^{-1}.",
-      "working": "The primary monocarboxylic acid series begins with methanoic acid (\\text{C}_1). The fourth member is butanoic acid (\\text{C}_4\\text{H}_8\\text{O}_2). \\text{Mass} = (4 \\times 12.011) + (8 \\times 1.008) + (2 \\times 15.999) = 48.044 + 8.064 + 31.998 = 88.106\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_037",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A fully saturated open-chain acyclic alkane contains exactly 32 hydrogen atoms. Calculate the total number of single covalent \\sigma (sigma) bonds present within one molecule of this alkane.",
-      "options": [
-        "44",
-        "45",
-        "46",
-        "47"
-      ],
-      "answer": "46",
-      "explanation": "General formula for an acyclic alkane is \\text{C}_n\\text{H}_{2n+2}. Given 2n+2 = 32 \\Rightarrow 2n = 30 \\Rightarrow n = 15. Total single covalent bonds = (n - 1) + (2n + 2) = 14 + 32 = 46 bonds.",
-      "working": "General formula for an acyclic alkane is \\text{C}_n\\text{H}_{2n+2}. Given 2n+2 = 32 \\Rightarrow 2n = 30 \\Rightarrow n = 15. Total single covalent bonds = (n - 1) + (2n + 2) = 14 + 32 = 46 bonds.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_038",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the percentage by mass of carbon in a pure sample of the second member of the alkyne homologous series (\\text{C}_3\\text{H}_4).",
-      "options": [
-        "85.63\\%",
-        "89.94\\%",
-        "92.26\\%",
-        "94.12\\%"
-      ],
-      "answer": "89.94\\%",
-      "explanation": "The alkyne series begins with ethyne (\\text{C}_2\\text{H}_2). The second member is propyne (\\text{C}_3\\text{H}_4). Total mass = (3 \\times 12.011) + (4 \\times 1.008) = 36.033 + 4.032 = 40.065\\text{ g mol}^{-1}. Mass \\% of \\text{C} = (36.033 / 40.065) \\times 100\\% = 89.936\\% \\approx 89.94\\%.",
-      "working": "The alkyne series begins with ethyne (\\text{C}_2\\text{H}_2). The second member is propyne (\\text{C}_3\\text{H}_4). Total mass = (3 \\times 12.011) + (4 \\times 1.008) = 36.033 + 4.032 = 40.065\\text{ g mol}^{-1}. Mass \\% of \\text{C} = (36.033 / 40.065) \\times 100\\% = 89.936\\% \\approx 89.94\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_039",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "An unbranched, saturated open-chain primary monohydric alcohol has a precise molecular mass of 130.231\\text{ g mol}^{-1}. Identify the total number of carbon atoms contained in a single molecule of this alcohol.",
-      "options": [
-        "6",
         "7",
         "8",
-        "9"
-      ],
-      "answer": "8",
-      "explanation": "Saturated monohydric alcohol formula: \\text{C}_n\\text{H}_{2n+2}\\text{O}. \\text{Mass} = 12.011n + 1.008(2n+2) + 15.999 = 130.231 \\Rightarrow 14.027n + 2.016 + 15.999 = 130.231 \\Rightarrow 14.027n + 18.015 = 130.231 \\Rightarrow 14.027n = 112.216 \\Rightarrow n = 8.",
-      "working": "Saturated monohydric alcohol formula: \\text{C}_n\\text{H}_{2n+2}\\text{O}. \\text{Mass} = 12.011n + 1.008(2n+2) + 15.999 = 130.231 \\Rightarrow 14.027n + 2.016 + 15.999 = 130.231 \\Rightarrow 14.027n + 18.015 = 130.231 \\Rightarrow 14.027n = 112.216 \\Rightarrow n = 8.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_040",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the exact molecular mass of an open-chain acyclic alkene that contains exactly three separate carbon-carbon double bonds (\\text{C}=\\text{C}) and a total backbone of 7 carbon atoms.",
-      "options": [
-        "94.157\\text{ g mol}^{-1}",
-        "96.173\\text{ g mol}^{-1}",
-        "98.189\\text{ g mol}^{-1}",
-        "100.205\\text{ g mol}^{-1}"
-      ],
-      "answer": "96.173\\text{ g mol}^{-1}",
-      "explanation": "A hydrocarbon with 7 carbons and 3 double bonds has a molecular formula derived by reducing the alkane formula (\\text{C}_7\\text{H}_{16}) by 2 hydrogens per double bond: \\text{H} = 16 - 2(3) = 10. Formula is \\text{C}_7\\text{H}_{10}. \\text{Mass} = (7 \\times 12.011) + (10 \\times 1.008) = 84.077 + 10.080 = 96.173\\text{ g mol}^{-1}.",
-      "working": "A hydrocarbon with 7 carbons and 3 double bonds has a molecular formula derived by reducing the alkane formula (\\text{C}_7\\text{H}_{16}) by 2 hydrogens per double bond: \\text{H} = 16 - 2(3) = 10. Formula is \\text{C}_7\\text{H}_{10}. \\text{Mass} = (7 \\times 12.011) + (10 \\times 1.008) = 84.077 + 10.080 = 96.173\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_041",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "What is the precise difference in molecular mass between the 3rd member and the 8th member of the straight-chain unbranched primary alcohol homologous series?",
-      "options": [
-        "56.108\\text{ g mol}^{-1}",
-        "70.135\\text{ g mol}^{-1}",
-        "84.162\\text{ g mol}^{-1}",
-        "98.189\\text{ g mol}^{-1}"
-      ],
-      "answer": "70.135\\text{ g mol}^{-1}",
-      "explanation": "The difference between the 8th (\\text{C}_8) and 3rd (\\text{C}_3) member of any homologous series is exactly 5 times a -\\text{CH}_2- unit. \\text{Mass of } 5 \\times \\text{CH}_2 = 5 \\times (12.011 + 2(1.008)) = 5 \\times 14.027 = 70.135\\text{ g mol}^{-1}.",
-      "working": "The difference between the 8th (\\text{C}_8) and 3rd (\\text{C}_3) member of any homologous series is exactly 5 times a -\\text{CH}_2- unit. \\text{Mass of } 5 \\times \\text{CH}_2 = 5 \\times (12.011 + 2(1.008)) = 5 \\times 14.027 = 70.135\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_042",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A symmetrical secondary ketone has a total molecular mass of 114.187\\text{ g mol}^{-1}. Calculate the total number of carbon atoms present in just one of the two identical alkyl groups flanking the central carbonyl group (\\text{C}=\\text{O}).",
-      "options": [
-        "2",
-        "3",
-        "4",
         "5"
       ],
-      "answer": "3",
-      "explanation": "Symmetrical ketone formula: \\text{R-CO-R}. \\text{Total mass} = 2(\\text{Mass of R}) + 12.011 + 15.999 = 114.187 \\Rightarrow 2(\\text{Mass of R}) + 28.010 = 114.187 \\Rightarrow 2(\\text{Mass of R}) = 86.177 \\Rightarrow \\text{Mass of R} = 43.0885\\text{ g mol}^{-1}. For a saturated alkyl group (\\text{C}_n\\text{H}_{2n+1}): 14.027n + 1.008 = 43.0885 \\Rightarrow 14.027n = 42.0805 \\Rightarrow n = 3 (a propyl group).",
-      "working": "Symmetrical ketone formula: \\text{R-CO-R}. \\text{Total mass} = 2(\\text{Mass of R}) + 12.011 + 15.999 = 114.187 \\Rightarrow 2(\\text{Mass of R}) + 28.010 = 114.187 \\Rightarrow 2(\\text{Mass of R}) = 86.177 \\Rightarrow \\text{Mass of R} = 43.0885\\text{ g mol}^{-1}. For a saturated alkyl group (\\text{C}_n\\text{H}_{2n+1}): 14.027n + 1.008 = 43.0885 \\Rightarrow 14.027n = 42.0805 \\Rightarrow n = 3 (a propyl group).",
+      "answer": "7",
+      "explanation": "Complete combustion of C7H16 produces seven CO2 molecules per mole of heptane because each carbon atom becomes one CO2 molecule.",
+      "working": "C7H16 + 11O2 → 7CO2 + 8H2O.\nTherefore, 1 mol of heptane produces 7 mol of CO2.\nAnswer = 7 mol, matching the second option.",
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_043",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the percentage by mass of oxygen in a pure sample of ethyl ethanoate (\\text{CH}_3\\text{COOCH}_2\\text{CH}_3), a common open-chain aliphatic ester.",
-      "options": [
-        "27.24\\%",
-        "31.97\\%",
-        "36.32\\%",
-        "41.51\\%"
-      ],
-      "answer": "36.32\\%",
-      "explanation": "Ethyl ethanoate has the molecular formula \\text{C}_4\\text{H}_8\\text{O}_2. \\text{Total mass} = (4 \\times 12.011) + (8 \\times 1.008) + (2 \\times 15.999) = 48.044 + 8.064 + 31.998 = 88.106\\text{ g mol}^{-1}. Mass \\% of \\text{O} = (31.998 / 88.106) \\times 100\\% = 36.317\\% \\approx 36.32\\%.",
-      "working": "Ethyl ethanoate has the molecular formula \\text{C}_4\\text{H}_8\\text{O}_2. \\text{Total mass} = (4 \\times 12.011) + (8 \\times 1.008) + (2 \\times 15.999) = 48.044 + 8.064 + 31.998 = 88.106\\text{ g mol}^{-1}. Mass \\% of \\text{O} = (31.998 / 88.106) \\times 100\\% = 36.317\\% \\approx 36.32\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_044",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Determine the total number of individual single covalent \\sigma (sigma) bonds in one molecule of an open-chain alkyl bromide compound with the molecular formula \\text{C}_6\\text{H}_{13}\\text{Br}.",
-      "options": [
-        "18",
-        "19",
-        "20",
-        "21"
-      ],
-      "answer": "19",
-      "explanation": "The single bonds in \\text{C}_6\\text{H}_{13}\\text{Br} consist of: 5 \\text{C-C} bonds, 13 \\text{C-H} bonds, and 1 \\text{C-Br} bond. Total single covalent bonds = 5 + 13 + 1 = 19.",
-      "working": "The single bonds in \\text{C}_6\\text{H}_{13}\\text{Br} consist of: 5 \\text{C-C} bonds, 13 \\text{C-H} bonds, and 1 \\text{C-Br} bond. Total single covalent bonds = 5 + 13 + 1 = 19.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_045",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A compound is classified as an open-chain, fully saturated dicarboxylic acid (containing two -\\text{COOH} functional groups, one at each terminus). If the molecule contains a total backbone of 5 carbon atoms, calculate its precise molecular mass.",
-      "options": [
-        "118.088\\text{ g mol}^{-1}",
-        "132.115\\text{ g mol}^{-1}",
-        "146.142\\text{ g mol}^{-1}",
-        "160.169\\text{ g mol}^{-1}"
-      ],
-      "answer": "132.115\\text{ g mol}^{-1}",
-      "explanation": "A 5-carbon saturated dicarboxylic acid has the formula \\text{HOOC-(CH}_2)_3\\text{-COOH} \\equiv \\text{C}_5\\text{H}_8\\text{O}_4. \\text{Total mass} = (5 \\times 12.011) + (8 \\times 1.008) + (4 \\times 15.999) = 60.055 + 8.064 + 63.996 = 132.115\\text{ g mol}^{-1}.",
-      "working": "A 5-carbon saturated dicarboxylic acid has the formula \\text{HOOC-(CH}_2)_3\\text{-COOH} \\equiv \\text{C}_5\\text{H}_8\\text{O}_4. \\text{Total mass} = (5 \\times 12.011) + (8 \\times 1.008) + (4 \\times 15.999) = 60.055 + 8.064 + 63.996 = 132.115\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_046",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "An organic hydrocarbon molecule has the general molecular formula \\text{C}_n\\text{H}_{2n-2} representing an open-chain alkyne structure. If one individual molecule contains exactly 23 total covalent bonds (\\sigma and \\pi combined), determine the numerical value of index n.",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "answer": "8",
-      "explanation": "An alkyne \\text{C}_n\\text{H}_{2n-2} has (n-1) \\text{C-C} single/triple \\sigma-bonds, 2 \\text{C-C} \\pi-bonds, and (2n-2) \\text{C-H} \\sigma-bonds. \\text{Total bonds} = (n-1) + 2 + (2n-2) = 3n - 1. Given 3n - 1 = 22 \\Rightarrow 3n = 23 (non-integer). Let's review the total bond counting layout: Total structural electron pairs shared = (\\text{bonds matching framework}) = (n-1 \\text{ for C-C } \\sigma) + (2n-2 \\text{ for C-H}) + (2 \\pi) = 3n-1. If 3n-1 = 23 \\rightarrow n=8. Let's re-verify with n=8 \\Rightarrow \\text{C}_8\\text{H}_{14}. \\text{Total single/double/triple counts} = 7 \\text{ C-C framework bonds} + 14 \\text{ C-H bonds} + 2 \\text{ extra }\\pi\\text{ bonds} = 23. For an answer choice to match perfectly, let's adjust total count to 23 or check if 3n-1=23 \\Rightarrow n=8.",
-      "working": "An alkyne \\text{C}_n\\text{H}_{2n-2} has (n-1) \\text{C-C} single/triple \\sigma-bonds, 2 \\text{C-C} \\pi-bonds, and (2n-2) \\text{C-H} \\sigma-bonds. \\text{Total bonds} = (n-1) + 2 + (2n-2) = 3n - 1. Given 3n - 1 = 22 \\Rightarrow 3n = 23 (non-integer). Let's review the total bond counting layout: Total structural electron pairs shared = (\\text{bonds matching framework}) = (n-1 \\text{ for C-C } \\sigma) + (2n-2 \\text{ for C-H}) + (2 \\pi) = 3n-1. If 3n-1 = 23 \\rightarrow n=8. Let's re-verify with n=8 \\Rightarrow \\text{C}_8\\text{H}_{14}. \\text{Total single/double/triple counts} = 7 \\text{ C-C framework bonds} + 14 \\text{ C-H bonds} + 2 \\text{ extra }\\pi\\text{ bonds} = 23. For an answer choice to match perfectly, let's adjust total count to 23 or check if 3n-1=23 \\Rightarrow n=8.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_047",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the exact molecular mass of a tertiary amine molecule that contains three symmetrical, unbranched saturated alkyl chains, where each individual chain has exactly 3 carbon atoms.",
-      "options": [
-        "129.247\\text{ g mol}^{-1}",
-        "143.274\\text{ g mol}^{-1}",
-        "157.301\\text{ g mol}^{-1}",
-        "171.328\\text{ g mol}^{-1}"
-      ],
-      "answer": "143.274\\text{ g mol}^{-1}",
-      "explanation": "A tertiary amine with three 3-carbon chains is tripropylamine, (\\text{C}_3\\text{H}_7)_3\\text{N} \\equiv \\text{C}_9\\text{H}_{21}\\text{N}. \\text{Total mass} = (9 \\times 12.011) + (21 \\times 1.008) + 14.007 = 108.099 + 21.168 + 14.007 = 143.274\\text{ g mol}^{-1}.",
-      "working": "A tertiary amine with three 3-carbon chains is tripropylamine, (\\text{C}_3\\text{H}_7)_3\\text{N} \\equiv \\text{C}_9\\text{H}_{21}\\text{N}. \\text{Total mass} = (9 \\times 12.011) + (21 \\times 1.008) + 14.007 = 108.099 + 21.168 + 14.007 = 143.274\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_048",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A gaseous hydrocarbon mixture contains equal numbers of moles of ethene (\\text{C}_2\\text{H}_4) and propene (\\text{C}_3\\text{H}_6). Calculate the average molecular mass of this binary alkene mixture.",
-      "options": [
-        "35.068\\text{ g mol}^{-1}",
-        "42.081\\text{ g mol}^{-1}",
-        "49.095\\text{ g mol}^{-1}",
-        "56.108\\text{ g mol}^{-1}"
-      ],
-      "answer": "35.068\\text{ g mol}^{-1}",
-      "explanation": "\\text{Mass of ethene } (\\text{C}_2\\text{H}_4) = (2 \\times 12.011) + (4 \\times 1.008) = 28.054\\text{ g mol}^{-1}. \\text{Mass of propene } (\\text{C}_3\\text{H}_6) = (3 \\times 12.011) + (6 \\times 1.008) = 42.081\\text{ g mol}^{-1}. Since the mixture is equimolar, \\text{Average Mass} = (28.054 + 42.081) / 2 = 70.135 / 2 = 35.0675 \\approx 35.068\\text{ g mol}^{-1}.",
-      "working": "\\text{Mass of ethene } (\\text{C}_2\\text{H}_4) = (2 \\times 12.011) + (4 \\times 1.008) = 28.054\\text{ g mol}^{-1}. \\text{Mass of propene } (\\text{C}_3\\text{H}_6) = (3 \\times 12.011) + (6 \\times 1.008) = 42.081\\text{ g mol}^{-1}. Since the mixture is equimolar, \\text{Average Mass} = (28.054 + 42.081) / 2 = 70.135 / 2 = 35.0675 \\approx 35.068\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_049",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A pure, monohydric saturated cycloalkanol molecule contains a single isolated ring system and exactly one -\\text{OH} group. If its precise molecular mass is determined to be 114.187\\text{ g mol}^{-1}, calculate the total number of carbon atoms present in its cyclic skeleton.",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "answer": "6",
-      "explanation": "Saturated monohydric cycloalkanol formula: \\text{C}_n\\text{H}_{2n-1}\\text{OH} \\equiv \\text{C}_n\\text{H}_{2n}\\text{O}. \\text{Mass} = 12.011n + 1.008(2n) + 15.999 = 114.187 \\Rightarrow 14.027n + 15.999 = 114.187 \\Rightarrow 14.027n = 98.188 \\Rightarrow n = 7.",
-      "working": "Saturated monohydric cycloalkanol formula: \\text{C}_n\\text{H}_{2n-1}\\text{OH} \\equiv \\text{C}_n\\text{H}_{2n}\\text{O}. \\text{Mass} = 12.011n + 1.008(2n) + 15.999 = 114.187 \\Rightarrow 14.027n + 15.999 = 114.187 \\Rightarrow 14.027n = 98.188 \\Rightarrow n = 7.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_050",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the mass percentage of nitrogen in a pure sample of propanamide (\\text{CH}_3\\text{CH}_2\\text{CONH}_2), a standard primary aliphatic amide.",
-      "options": [
-        "16.12\\%",
-        "19.16\\%",
-        "22.34\\%",
-        "25.04\\%"
-      ],
-      "answer": "19.16\\%",
-      "explanation": "Propanamide has the molecular formula \\text{C}_3\\text{H}_7\\text{NO}. \\text{Total mass} = (3 \\times 12.011) + (7 \\times 1.008) + 14.007 + 15.999 = 36.033 + 7.056 + 14.007 + 15.999 = 73.095\\text{ g mol}^{-1}. Mass \\% of \\text{N} = (14.007 / 73.095) \\times 100\\% = 19.163\\% \\approx 19.16\\%.",
-      "working": "Propanamide has the molecular formula \\text{C}_3\\text{H}_7\\text{NO}. \\text{Total mass} = (3 \\times 12.011) + (7 \\times 1.008) + 14.007 + 15.999 = 36.033 + 7.056 + 14.007 + 15.999 = 73.095\\text{ g mol}^{-1}. Mass \\% of \\text{N} = (14.007 / 73.095) \\times 100\\% = 19.163\\% \\approx 19.16\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_051",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_055",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Why are typical organic compounds classified as non-electrolytes?",
+      "question": "For reactions involving electrophilic addition the predominant product can be predicted by ……",
       "options": [
-        "They split into highly mobile metal cations when dissolved in non-polar fluids.",
-        "They consist of molecules held together by covalent bonds that do not dissociate into free ions in solution.",
-        "They possess highly unstable ionic lattices that readily precipitate out of water.",
-        "They are composed entirely of coordinate metallic frameworks."
+        "hunds rule",
+        "markownikoff",
+        "Saitzeff",
+        "substitution rule"
       ],
-      "answer": "They consist of molecules held together by covalent bonds that do not dissociate into free ions in solution.",
-      "explanation": "Most organic molecules are covalent and remain as intact neutral molecules rather than separating into ions when dissolved, making them non-conductors of electricity.",
+      "answer": "markownikoff",
+      "explanation": "For addition of an unsymmetrical reagent such as HX to an unsymmetrical alkene, Markovnikov's rule predicts the major product under the usual conditions.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_052",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_056",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Within a homologous series, how do the melting points, boiling points, and densities of the constituent members generally change as the molecular weight increases?",
+      "question": "Fullerenes are composed of 60 carbon atoms joined together by single and double bonds to form a hollow sphere with …..",
       "options": [
-        "They decrease systematically because the molecules become lighter and more volatile.",
-        "They increase systematically due to the progressive rise in total molecular surface area and dispersion forces.",
-        "They remain completely static across all members of the series.",
-        "They fluctuate randomly without any observable thermodynamic trend."
+        "12 pentagonal and 20 hexagonal faces",
+        "20 pentagonal and 12 hexagonal faces",
+        "15 pentagonal and 30 hexagonal faces",
+        "30 pentagonal and 15 hexagonal faces"
       ],
-      "answer": "They increase systematically due to the progressive rise in total molecular surface area and dispersion forces.",
-      "explanation": "Increasing the size and mass of the hydrocarbon residue systematically amplifies the London dispersion forces, driving up the melting points, boiling points, and densities.",
+      "answer": "12 pentagonal and 20 hexagonal faces",
+      "explanation": "Buckminsterfullerene, C60, has a truncated-icosahedron structure containing 12 pentagons and 20 hexagons.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_053",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_057",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of the following is a primary natural source from which complex mixtures of open-chain aliphatic hydrocarbons are separated via fractional distillation?",
+      "question": "The third fraction obtained during fractional distillation of crude oil is……",
       "options": [
-        "Limestone rock strata",
-        "Crude oil (petroleum)",
-        "Volcanic sulfur deposits",
-        "Iron ore matrices"
+        "kerosene",
+        "diesel oil",
+        "petrol",
+        "LPG"
       ],
-      "answer": "Crude oil (petroleum)",
-      "explanation": "Crude oil is a complex natural underground repository of varied hydrocarbons that are isolated into useful functional fractions via industrial fractional distillation.",
+      "answer": "diesel oil",
+      "explanation": "Using the simplified fraction sequence represented by the source, petrol is followed by kerosene and then diesel oil.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_054",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_058",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "The core reason carbon exhibits a maximum covalency of four in its stable ground-state organic compounds is because:",
+      "question": "Which of the following alkanes has the highest melting point.",
       "options": [
-        "It has six inner core electrons that block standard bonding pathways.",
-        "It possesses four valence shell electrons available for sharing in covalent bond formation.",
-        "It contains available d-orbitals that allow it to expand its octet to twelve electrons.",
-        "It has an exceptionally low first ionization energy on the Pauling scale."
+        "n-pentane",
+        "2,2-dimethyl propane",
+        "2-methyl butane",
+        "2-methyl propane"
       ],
-      "answer": "It possesses four valence shell electrons available for sharing in covalent bond formation.",
-      "explanation": "Carbon has four valence electrons (2s^2 2p^2), allowing it to form four covalent bonds to complete its stable outer octet.",
+      "answer": "2,2-dimethyl propane",
+      "explanation": "Among these C5 alkane isomers, the highly symmetrical neopentane (2,2-dimethylpropane) packs particularly well in the solid state and has the highest melting point.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_055",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_059",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "If two distinct organic compounds belong to the exact same homologous series, they must possess:",
+      "question": "What type of isomerism exists between CH3CHCl2 and CH2ClCH2Cl",
       "options": [
-        "Identical boiling points and physical densities",
-        "The same functional group and similar chemical properties",
-        "Completely different general molecular formulas",
-        "Symmetrical arrangements of metal coordinate atoms"
+        "positional isomerism",
+        "functional group isomerism",
+        "metamerism",
+        "chain isomerism"
       ],
-      "answer": "The same functional group and similar chemical properties",
-      "explanation": "Members of a homologous series are defined by having the same characteristic functional group, which yields highly comparable chemical reactivities and transformations.",
+      "answer": "positional isomerism",
+      "explanation": "Both compounds have the same carbon skeleton and functional groups, but the chlorine atoms occupy different positions.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_056",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_060",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which factor is responsible for the decrease in boiling point observed when transitioning from a straight-chain alkane to its highly branched structural isomers?",
+      "question": "Coal distillation in the absence of air to give coke, coal gas and liquid by-products is called ….",
       "options": [
-        "An increase in the total molecular mass of the branched isomer.",
-        "A reduction in molecular surface area, which decreases the strength of intermolecular London dispersion forces.",
-        "The creation of strong internal electrostatic ionic repulsions.",
-        "The sudden appearance of highly polar intermolecular hydrogen bonds."
+        "fractionative distillation",
+        "destructive distillation",
+        "steam distillation",
+        "metabolic distillation"
       ],
-      "answer": "A reduction in molecular surface area, which decreases the strength of intermolecular London dispersion forces.",
-      "explanation": "Branching yields a more spherical, compact molecular shape, which minimizes surface contact area between adjacent molecules and weakens dispersion interactions.",
+      "answer": "destructive distillation",
+      "explanation": "Heating coal in the absence of air decomposes it into coke, coal gas, tar and other products; this is destructive distillation.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_057",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_061",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Why is ethanol (\\text{CH}_3\\text{CH}_2\\text{OH}) completely miscible with water, whereas its structural isomer dimethyl ether (\\text{CH}_3\\text{OCH}_3) is only sparingly soluble in water?",
+      "question": "Hydrocarbons are generally ……. in non-polar solvents but ….. in polar solvents",
       "options": [
-        "Ethanol forms a rigid, insoluble ionic lattice when mixed with water.",
-        "Ethanol contains a highly polar hydroxyl hydrogen atom capable of establishing hydrogen bonds with water molecules.",
-        "Dimethyl ether contains a highly reactive metallic core that repels water.",
-        "Dimethyl ether is completely non-combustible and heavy."
+        "insoluble, soluble",
+        "colorful and insoluble",
+        "soluble and insoluble",
+        "soluble and soluble"
       ],
-      "answer": "Ethanol contains a highly polar hydroxyl hydrogen atom capable of establishing hydrogen bonds with water molecules.",
-      "explanation": "The structural presence of the -\\text{OH} group allows ethanol to hydrogen-bond extensively with water molecules, whereas the ether lacks a hydrogen atom bound to an electronegative heteroatom.",
+      "answer": "soluble and insoluble",
+      "explanation": "Non-polar hydrocarbons dissolve preferentially in non-polar solvents and are generally poorly soluble in polar solvents.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_058",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_062",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "The process of destructive distillation of coal is performed by heating coal to high temperatures in:",
+      "question": "Methane reacts with chlorine in the presence of sunlight to give ……",
       "options": [
-        "An atmosphere saturated with pressurized pure oxygen gas",
-        "The complete absence of air or oxygen, causing thermal decomposition into volatile fractions.",
-        "Liquid pools of concentrated nitric acid",
-        "Saturated water vapor under high volcanic pressures"
+        "carbon powder and HCl",
+        "CO2, H2O and HCl",
+        "CH3Cl, CH2Cl2 and CO2",
+        "CH3Cl, CH2Cl2, CHCl3, CCl4"
       ],
-      "answer": "The complete absence of air or oxygen, causing thermal decomposition into volatile fractions.",
-      "explanation": "Heating coal in the absence of air breaks it down thermally without combustion, leaving behind coke and volatilizing coal gas and coal tar.",
+      "answer": "CH3Cl, CH2Cl2, CHCl3, CCl4",
+      "explanation": "Successive free-radical chlorination of methane can produce chloromethane, dichloromethane, chloroform, and carbon tetrachloride.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_059",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_063",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "The uniquely stable, long chains formed by carbon atoms linked together are predominantly held together by what specific class of chemical bonds?",
+      "question": "Dienes is the name given to compounds with ….",
       "options": [
-        "Electrostatic ionic bonds",
-        "Strong covalent bonds",
-        "Metallic coordinate bonds",
-        "Unstable nuclear forces"
+        "exactly two double bonds",
+        "a double bond",
+        "a triple bond",
+        "more than two double bonds"
       ],
-      "answer": "Strong covalent bonds",
-      "explanation": "Carbon forms strong, stable covalent bonds with itself because of its small atomic size and ideal electronegativity, supporting extensive catenation.",
+      "answer": "exactly two double bonds",
+      "explanation": "A diene is a hydrocarbon containing two carbon-carbon double bonds.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_060",
-      "course": "CHM121",
-      "chapter": 1,
+      "id": "PENDING_064",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of the following functional groups characterizes the family of organic compounds known as esters?",
+      "question": "Which reagent converts an aldehyde specifically into a primary alcohol?",
       "options": [
-        "-\\text{OH}",
-        "-\\text{COO-Linkage}",
-        "-\\text{NH}_2",
-        "-\\text{O-}"
+        "NaBH₄ in ethanol",
+        "KMnO₄ in acidic medium",
+        "Tollens’ reagent",
+        "Fehling’s solution"
       ],
-      "answer": "-\\text{COO-Linkage}",
-      "explanation": "Esters are characterized by an acyl group bonded to an alkoxy group (-\\text{COOR}), forming a structural functional bridge within the molecule.",
+      "answer": "NaBH₄ in ethanol",
+      "explanation": "Sodium borohydride reduces an aldehyde carbonyl group to a primary alcohol without being an oxidizing reagent.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C1_061",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the exact molecular mass of the fifth member of the straight-chain unbranched primary alcohol homologous series.",
-      "options": [
-        "74.123\\text{ g mol}^{-1}",
-        "88.150\\text{ g mol}^{-1}",
-        "102.177\\text{ g mol}^{-1}",
-        "116.204\\text{ g mol}^{-1}"
-      ],
-      "answer": "88.150\\text{ g mol}^{-1}",
-      "explanation": "The fifth member of the primary alcohol series is pentan-1-ol (\\text{C}_5\\text{H}_{11}\\text{OH} or \\text{C}_5\\text{H}_{12}\\text{O}). \\text{Mass} = (5 \\times 12.011) + (12 \\times 1.008) + 15.999 = 60.055 + 12.096 + 15.999 = 88.150\\text{ g mol}^{-1}.",
-      "working": "The fifth member of the primary alcohol series is pentan-1-ol (\\text{C}_5\\text{H}_{11}\\text{OH} or \\text{C}_5\\text{H}_{12}\\text{O}). \\text{Mass} = (5 \\times 12.011) + (12 \\times 1.008) + 15.999 = 60.055 + 12.096 + 15.999 = 88.150\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_062",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A fully saturated open-chain acyclic alkane has a calculated molecular mass of 142.285\\text{ g mol}^{-1}. Determine the total number of single covalent carbon-carbon (\\text{C-C}) bonds present in one molecule of this alkane.",
-      "options": [
-        "8",
-        "9",
-        "10",
-        "11"
-      ],
-      "answer": "9",
-      "explanation": "Formula: \\text{C}_n\\text{H}_{2n+2}. \\text{Mass} = 12.011n + 1.008(2n+2) = 14.027n + 2.016 = 142.285 \\Rightarrow 14.027n = 140.269 \\Rightarrow n = 10. The alkane is decane (\\text{C}_{10}\\text{H}_{22}). The number of \\text{C-C} bonds in an open chain is n - 1 = 10 - 1 = 9.",
-      "working": "Formula: \\text{C}_n\\text{H}_{2n+2}. \\text{Mass} = 12.011n + 1.008(2n+2) = 14.027n + 2.016 = 142.285 \\Rightarrow 14.027n = 140.269 \\Rightarrow n = 10. The alkane is decane (\\text{C}_{10}\\text{H}_{22}). The number of \\text{C-C} bonds in an open chain is n - 1 = 10 - 1 = 9.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_063",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the percentage by mass of hydrogen in a pure sample of the third member of the straight-chain unbranched alkane homologous series.",
-      "options": [
-        "16.12\\%",
-        "18.29\\%",
-        "20.11\\%",
-        "24.89\\%"
-      ],
-      "answer": "18.29\\%",
-      "explanation": "The third member of the alkane series is propane (\\text{C}_3\\text{H}_8). \\text{Total mass} = (3 \\times 12.011) + (8 \\times 1.008) = 36.033 + 8.064 = 44.097\\text{ g mol}^{-1}. Mass \\% of \\text{H} = (8.064 / 44.097) \\times 100\\% = 18.287\\% \\approx 18.29\\%.",
-      "working": "The third member of the alkane series is propane (\\text{C}_3\\text{H}_8). \\text{Total mass} = (3 \\times 12.011) + (8 \\times 1.008) = 36.033 + 8.064 = 44.097\\text{ g mol}^{-1}. Mass \\% of \\text{H} = (8.064 / 44.097) \\times 100\\% = 18.287\\% \\approx 18.29\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_064",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "An unbranched, open-chain saturated monocarboxylic acid contains exactly 14 hydrogen atoms in its molecular structure. Calculate its precise molecular mass.",
-      "options": [
-        "116.158\\text{ g mol}^{-1}",
-        "130.185\\text{ g mol}^{-1}",
-        "144.212\\text{ g mol}^{-1}",
-        "158.239\\text{ g mol}^{-1}"
-      ],
-      "answer": "144.212\\text{ g mol}^{-1}",
-      "explanation": "The general formula for a saturated open-chain monocarboxylic acid is \\text{C}_n\\text{H}_{2n}\\text{O}_2. Given 2n = 14 \\Rightarrow n = 7. The molecular formula is \\text{C}_7\\text{H}_{14}\\text{O}_2. \\text{Mass} = (7 \\times 12.011) + (14 \\times 1.008) + (2 \\times 15.999) = 84.077 + 14.112 + 31.998 = 144.212\\text{ g mol}^{-1}.",
-      "working": "The general formula for a saturated open-chain monocarboxylic acid is \\text{C}_n\\text{H}_{2n}\\text{O}_2. Given 2n = 14 \\Rightarrow n = 7. The molecular formula is \\text{C}_7\\text{H}_{14}\\text{O}_2. \\text{Mass} = (7 \\times 12.011) + (14 \\times 1.008) + (2 \\times 15.999) = 84.077 + 14.112 + 31.998 = 144.212\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_065",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Determine the total number of single covalent \\sigma (sigma) bonds in a single molecule of an open-chain alkene containing 9 carbon atoms and exactly two separate carbon-carbon double bonds (\\text{C}=\\text{C}).",
-      "options": [
-        "23",
-        "24",
-        "25",
-        "26"
-      ],
-      "answer": "24",
-      "explanation": "An open-chain alkene with 9 carbons and 2 double bonds lacks 4 hydrogens relative to the alkane (\\text{C}_9\\text{H}_{20}), giving \\text{C}_9\\text{H}_{16}. Total \\sigma bonds = (\\text{C-C } \\sigma \\text{ bonds}) + (\\text{C-H } \\sigma \\text{ bonds}) = (n - 1) + 16 = 8 + 16 = 24.",
-      "working": "An open-chain alkene with 9 carbons and 2 double bonds lacks 4 hydrogens relative to the alkane (\\text{C}_9\\text{H}_{20}), giving \\text{C}_9\\text{H}_{16}. Total \\sigma bonds = (\\text{C-C } \\sigma \\text{ bonds}) + (\\text{C-H } \\sigma \\text{ bonds}) = (n - 1) + 16 = 8 + 16 = 24.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_066",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "What is the precise difference in molecular mass between the 2nd member and the 7th member of the unbranched alkyne homologous series?",
-      "options": [
-        "56.108\\text{ g mol}^{-1}",
-        "70.135\\text{ g mol}^{-1}",
-        "84.162\\text{ g mol}^{-1}",
-        "98.189\\text{ g mol}^{-1}"
-      ],
-      "answer": "70.135\\text{ g mol}^{-1}",
-      "explanation": "The difference between the 7th (\\text{C}_7) and 2nd (\\text{C}_2) member of a homologous series is exactly 5 times a -\\text{CH}_2- unit. \\text{Mass of } 5 \\times \\text{CH}_2 = 5 \\times (12.011 + 2(1.008)) = 5 \\times 14.027 = 70.135\\text{ g mol}^{-1}.",
-      "working": "The difference between the 7th (\\text{C}_7) and 2nd (\\text{C}_2) member of a homologous series is exactly 5 times a -\\text{CH}_2- unit. \\text{Mass of } 5 \\times \\text{CH}_2 = 5 \\times (12.011 + 2(1.008)) = 5 \\times 14.027 = 70.135\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_067",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A symmetrical secondary dialkyl ether molecule has a precise molecular mass of 102.177\\text{ g mol}^{-1}. Determine the total number of carbon atoms present in the entire molecule.",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "answer": "6",
-      "explanation": "Symmetrical ether formula: \\text{R-O-R} \\equiv \\text{C}_n\\text{H}_{2n+2}\\text{O}. \\text{Total mass} = 12.011n + 1.008(2n+2) + 15.999 = 102.177 \\Rightarrow 14.027n + 18.015 = 102.177 \\Rightarrow 14.027n = 84.162 \\Rightarrow n = 6. Wait, let's re-verify: 14.027 \\times 6 = 84.162. So total carbon atoms = 6. Let's select Option D.",
-      "working": "Symmetrical ether formula: \\text{R-O-R} \\equiv \\text{C}_n\\text{H}_{2n+2}\\text{O}. \\text{Total mass} = 12.011n + 1.008(2n+2) + 15.999 = 102.177 \\Rightarrow 14.027n + 18.015 = 102.177 \\Rightarrow 14.027n = 84.162 \\Rightarrow n = 6. Wait, let's re-verify: 14.027 \\times 6 = 84.162. So total carbon atoms = 6. Let's select Option D.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_068",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the percentage by mass of oxygen in a pure sample of the second member of the unbranched open-chain saturated aldehyde (alkanal) homologous series.",
-      "options": [
-        "21.59\\%",
-        "27.54\\%",
-        "36.32\\%",
-        "53.26\\%"
-      ],
-      "answer": "36.32\\%",
-      "explanation": "The alkanal series begins with methanal (\\text{C}_1). The second member is ethanal (\\text{CH}_3\\text{CHO} \\equiv \\text{C}_2\\text{H}_4\\text{O}). \\text{Total mass} = (2 \\times 12.011) + (4 \\times 1.008) + 15.999 = 24.022 + 4.032 + 15.999 = 44.053\\text{ g mol}^{-1}. Mass \\% of \\text{O} = (15.999 / 44.053) \\times 100\\% = 36.318\\% \\approx 36.32\\%.",
-      "working": "The alkanal series begins with methanal (\\text{C}_1). The second member is ethanal (\\text{CH}_3\\text{CHO} \\equiv \\text{C}_2\\text{H}_4\\text{O}). \\text{Total mass} = (2 \\times 12.011) + (4 \\times 1.008) + 15.999 = 24.022 + 4.032 + 15.999 = 44.053\\text{ g mol}^{-1}. Mass \\% of \\text{O} = (15.999 / 44.053) \\times 100\\% = 36.318\\% \\approx 36.32\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_069",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Determine the total number of single covalent \\sigma (sigma) bonds in one molecule of an open-chain alkyl iodide with the molecular formula \\text{C}_5\\text{H}_{11}\\text{I}.",
-      "options": [
-        "14",
-        "15",
-        "16",
-        "17"
-      ],
-      "answer": "16",
-      "explanation": "Single covalent bonds in \\text{C}_5\\text{H}_{11}\\text{I} are: 4 \\text{C-C} bonds, 11 \\text{C-H} bonds, and 1 \\text{C-I} bond. Total single covalent bonds = 4 + 11 + 1 = 16.",
-      "working": "Single covalent bonds in \\text{C}_5\\text{H}_{11}\\text{I} are: 4 \\text{C-C} bonds, 11 \\text{C-H} bonds, and 1 \\text{C-I} bond. Total single covalent bonds = 4 + 11 + 1 = 16.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_070",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A structural compound is classified as an open-chain, fully saturated diol (containing two -\\text{OH} groups). If the molecule contains a total backbone of 4 carbon atoms, calculate its precise molecular mass.",
-      "options": [
-        "76.095\\text{ g mol}^{-1}",
-        "90.122\\text{ g mol}^{-1}",
-        "104.149\\text{ g mol}^{-1}",
-        "118.176\\text{ g mol}^{-1}"
-      ],
-      "answer": "90.122\\text{ g mol}^{-1}",
-      "explanation": "A 4-carbon saturated open-chain diol has the formula \\text{C}_4\\text{H}_8(\\text{OH})_2 \\equiv \\text{C}_4\\text{H}_{10}\\text{O}_2. \\text{Total mass} = (4 \\times 12.011) + (10 \\times 1.008) + (2 \\times 15.999) = 48.044 + 10.080 + 31.998 = 90.122\\text{ g mol}^{-1}.",
-      "working": "A 4-carbon saturated open-chain diol has the formula \\text{C}_4\\text{H}_8(\\text{OH})_2 \\equiv \\text{C}_4\\text{H}_{10}\\text{O}_2. \\text{Total mass} = (4 \\times 12.011) + (10 \\times 1.008) + (2 \\times 15.999) = 48.044 + 10.080 + 31.998 = 90.122\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_071",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "An organic acyclic hydrocarbon has the formula \\text{C}_n\\text{H}_{2n}. If one single molecule contains exactly 17 total single covalent bonds (\\sigma bonds), determine the numerical value of index n.",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "answer": "6",
-      "explanation": "For an open-chain alkene \\text{C}_n\\text{H}_{2n}, total single covalent \\sigma bonds = (n - 1) \\text{ C-C } \\sigma\\text{-bonds} + 2n \\text{ C-H bonds} = 3n - 1. Given 3n - 1 = 17 \\Rightarrow 3n = 18 \\Rightarrow n = 6. Let's align with the text parameter: 3n-1 = 17 \\Rightarrow n = 6.",
-      "working": "For an open-chain alkene \\text{C}_n\\text{H}_{2n}, total single covalent \\sigma bonds = (n - 1) \\text{ C-C } \\sigma\\text{-bonds} + 2n \\text{ C-H bonds} = 3n - 1. Given 3n - 1 = 17 \\Rightarrow 3n = 18 \\Rightarrow n = 6. Let's align with the text parameter: 3n-1 = 17 \\Rightarrow n = 6.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_072",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the exact molecular mass of a primary amine molecule that contains one unbranched saturated alkyl chain with exactly 6 carbon atoms.",
-      "options": [
-        "87.166\\text{ g mol}^{-1}",
-        "101.193\\text{ g mol}^{-1}",
-        "115.220\\text{ g mol}^{-1}",
-        "129.247\\text{ g mol}^{-1}"
-      ],
-      "answer": "101.193\\text{ g mol}^{-1}",
-      "explanation": "A 6-carbon primary amine is hexan-1-amine (\\text{C}_6\\text{H}_{13}\\text{NH}_2 \\equiv \\text{C}_6\\text{H}_{15}\\text{N}). \\text{Total mass} = (6 \\times 12.011) + (15 \\times 1.008) + 14.007 = 72.066 + 15.120 + 14.007 = 101.193\\text{ g mol}^{-1}.",
-      "working": "A 6-carbon primary amine is hexan-1-amine (\\text{C}_6\\text{H}_{13}\\text{NH}_2 \\equiv \\text{C}_6\\text{H}_{15}\\text{N}). \\text{Total mass} = (6 \\times 12.011) + (15 \\times 1.008) + 14.007 = 72.066 + 15.120 + 14.007 = 101.193\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_073",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A gaseous mixture contains equimolar amounts of methane (\\text{CH}_4) and ethane (\\text{C}_2\\text{H}_6). Calculate the mass percentage of methane in this binary mixture.",
-      "options": [
-        "24.15\\%",
-        "34.79\\%",
-        "50.00\\%",
-        "65.21\\%"
-      ],
-      "answer": "34.79\\%",
-      "explanation": "\\text{Mass of } \\text{CH}_4 = 12.011 + (4 \\times 1.008) = 16.043\\text{ g mol}^{-1}. \\text{Mass of } \\text{C}_2\\text{H}_6 = (2 \\times 12.011) + (6 \\times 1.008) = 30.070\\text{ g mol}^{-1}. \\text{Total mixture mass for 1 mole of each} = 16.043 + 30.070 = 46.113\\text{ g mol}^{-1}. Mass \\% of \\text{CH}_4 = (16.043 / 46.113) \\times 100\\% = 34.79\\%.",
-      "working": "\\text{Mass of } \\text{CH}_4 = 12.011 + (4 \\times 1.008) = 16.043\\text{ g mol}^{-1}. \\text{Mass of } \\text{C}_2\\text{H}_6 = (2 \\times 12.011) + (6 \\times 1.008) = 30.070\\text{ g mol}^{-1}. \\text{Total mixture mass for 1 mole of each} = 16.043 + 30.070 = 46.113\\text{ g mol}^{-1}. Mass \\% of \\text{CH}_4 = (16.043 / 46.113) \\times 100\\% = 34.79\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_074",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "A pure monohydric saturated open-chain thiol molecule contains exactly one -\\text{SH} group. If its precise molecular mass is determined to be 90.189\\text{ g mol}^{-1} (using \\text{S} = 32.06\\text{ g mol}^{-1}), calculate the total number of carbon atoms present in the alkyl group.",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "answer": "3",
-      "explanation": "Saturated thiol formula: \\text{C}_n\\text{H}_{2n+1}\\text{SH}. \\text{Total mass} = 12.011n + 1.008(2n+2) + 32.060 = 90.189 \\Rightarrow 14.027n + 2.016 + 32.060 = 90.189 \\Rightarrow 14.027n + 34.076 = 90.189 \\Rightarrow 14.027n = 56.113 \\Rightarrow n = 4.",
-      "working": "Saturated thiol formula: \\text{C}_n\\text{H}_{2n+1}\\text{SH}. \\text{Total mass} = 12.011n + 1.008(2n+2) + 32.060 = 90.189 \\Rightarrow 14.027n + 2.016 + 32.060 = 90.189 \\Rightarrow 14.027n + 34.076 = 90.189 \\Rightarrow 14.027n = 56.113 \\Rightarrow n = 4.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C1_075",
-      "course": "CHM121",
-      "chapter": 1,
-      "type": "calculation",
-      "question": "Calculate the mass percentage of carbon present in a pure sample of butanone (\\text{CH}_3\\text{COCH}_2\\text{CH}_3), an open-chain aliphatic ketone.",
-      "options": [
-        "58.12\\%",
-        "62.15\\%",
-        "66.63\\%",
-        "71.02\\%"
-      ],
-      "answer": "66.63\\%",
-      "explanation": "Butanone has the formula \\text{C}_4\\text{H}_8\\text{O}. \\text{Total mass} = (4 \\times 12.011) + (8 \\times 1.008) + 15.999 = 48.044 + 8.064 + 15.999 = 72.107\\text{ g mol}^{-1}. Mass \\% of \\text{C} = (48.044 / 72.107) \\times 100\\% = 66.63\\%. Wait, looking at the choices: 48.044 / 72.107 = 66.628\\% \\approx 66.63\\%. Let's select Option C.",
-      "working": "Butanone has the formula \\text{C}_4\\text{H}_8\\text{O}. \\text{Total mass} = (4 \\times 12.011) + (8 \\times 1.008) + 15.999 = 48.044 + 8.064 + 15.999 = 72.107\\text{ g mol}^{-1}. Mass \\% of \\text{C} = (48.044 / 72.107) \\times 100\\% = 66.63\\%. Wait, looking at the choices: 48.044 / 72.107 = 66.628\\% \\approx 66.63\\%. Let's select Option C.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_076",
-      "course": "CHM121",
-      "chapter": 2,
+      "id": "PENDING_065",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the characteristic geometry and the theoretical bond angle associated with a carbon atom undergoing sp^3 hybridization in a fully saturated alkane like methane?",
+      "question": "Which test distinguishes aldehydes from ketones in most cases?",
       "options": [
-        "Trigonal planar, 120^\\circ",
-        "Linear, 180^\\circ",
-        "Tetrahedral, 109.5^\\circ",
-        "Octahedral, 90^\\circ"
+        "Bromine water test",
+        "Tollens’ test",
+        "Baeyer's test",
+        "Sodium carbonate test"
       ],
-      "answer": "Tetrahedral, 109.5^\\circ",
-      "explanation": "Carbon atoms in saturated alkanes utilize four equivalent sp^3 hybrid orbitals directed toward the corners of a regular tetrahedron, resulting in ideal bond angles of 109^\\circ 28' or roughly 109.5^\\circ.",
+      "answer": "Tollens’ test",
+      "explanation": "Aldehydes generally reduce Tollens' reagent to metallic silver, whereas ordinary ketones do not.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C2_077",
-      "course": "CHM121",
-      "chapter": 2,
+      "id": "PENDING_066",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "How is a standard \\sigma (sigma) bond formed between two atoms in a hydrocarbon molecule?",
+      "question": "The ozonolysis of alkenes yields..",
       "options": [
-        "By the lateral or side-on overlapping of unhybridized p-orbitals.",
-        "By the head-on or end-to-end overlapping of atomic or hybrid orbitals along the internuclear axis.",
-        "By the random electrostatic attraction between non-bonding valence electron pairs.",
-        "By the absolute transfer of core shell electrons from hydrogen to carbon."
+        "Alcohols and carboxylic acids",
+        "Aldehydes and ketones",
+        "Acid halides and carboxylic acids",
+        "Only carboxylic acids"
       ],
-      "answer": "By the head-on or end-to-end overlapping of atomic or hybrid orbitals along the internuclear axis.",
-      "explanation": "A \\sigma bond is a single covalent bond formed by the direct head-on orbital overlap along the axis connecting the two atomic nuclei.",
+      "answer": "Aldehydes and ketones",
+      "explanation": "Reductive ozonolysis cleaves the C=C bond to form aldehydes and/or ketones depending on the alkene substitution.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C2_078",
-      "course": "CHM121",
-      "chapter": 2,
+      "id": "PENDING_067",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of the following statements accurately contrasts the chemical reactivity of \\sigma bonds and \\pi bonds in unsaturated hydrocarbons?",
+      "question": "The reaction of Br2 with alkenes in organic solvent in the dark follows what mechanism",
       "options": [
-        "\\pi bonds are stronger and less reactive than \\sigma bonds.",
-        "\\sigma bonds are weaker and break more readily during addition reactions.",
-        "\\pi bonds, formed by lateral orbital overlap, have electron density concentrated above and below the internuclear plane, making them weaker and more vulnerable to chemical attack.",
-        "Both bonds possess identical chemical stability and bond dissociation energies."
+        "Free radical addition",
+        "Nucleophilic addition",
+        "Electrophillic addition",
+        "Nucleophilic substitution"
       ],
-      "answer": "\\pi bonds, formed by lateral orbital overlap, have electron density concentrated above and below the internuclear plane, making them weaker and more vulnerable to chemical attack.",
-      "explanation": "Because \\pi bonds result from sideways overlap, their electron clouds are more exposed and less tightly held between the nuclei, making them easier to break than head-on \\sigma bonds.",
+      "answer": "Electrophillic addition",
+      "explanation": "Bromine adds electrophilically across an alkene double bond through a bromonium-ion-type intermediate.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C2_079",
-      "course": "CHM121",
-      "chapter": 2,
+      "id": "PENDING_068",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "In the conformation of cycloalkanes, why does cyclopentane adopt a non-planar \"puckered\" or \"envelope\" conformation rather than remaining perfectly flat?",
+      "question": "The primary function of Zn/CH3COOH in the ozonolysis of alkenes is...",
       "options": [
-        "To maximize its internal aromatic resonance stabilization energy.",
-        "To relieve the severe eclipsing (torsional) strain that would occur among adjacent \\text{C-H} bonds if it were flat.",
-        "To shift its hybridization from sp^3 to sp^2.",
-        "To force all carbon atoms into a strict linear geometry."
+        "To enhance oxidation of ketones",
+        "To enhance the oxidation of ketones",
+        "To prevent oxidation of ketones to carboxylic acids",
+        "To prevent oxidation of aldehydes to carboxylic acids"
       ],
-      "answer": "To relieve the severe eclipsing (torsional) strain that would occur among adjacent \\text{C-H} bonds if it were flat.",
-      "explanation": "If cyclopentane were completely planar, all 10 of its \\text{C-H} bonds would be perfectly eclipsed. Puckering out of the plane reduces this torsional strain.",
+      "answer": "To prevent oxidation of aldehydes to carboxylic acids",
+      "explanation": "Reductive work-up with Zn/acetic acid prevents aldehydes formed during ozonolysis from being further oxidized to carboxylic acids.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C2_080",
-      "course": "CHM121",
-      "chapter": 2,
+      "id": "PENDING_069",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which conformation of cyclohexane is thermodynamically the most stable at room temperature due to the complete absence of angle strain and eclipsing torsional strain?",
+      "question": "The ozonolysis of a compound X gives ethanal and propanal. What is X?",
       "options": [
-        "Boat conformation",
-        "Twist-boat conformation",
-        "Chair conformation",
-        "Half-chair conformation"
+        "Pent-1-ene",
+        "Pent-2-ene",
+        "But-2-ene",
+        "2-methylpent-2-ene"
       ],
-      "answer": "Chair conformation",
-      "explanation": "The chair conformation of cyclohexane allows all bond angles to remain at the stress-free tetrahedral angle of 109.5^\\circ while positioning all adjacent \\text{C-H} bonds in a fully staggered arrangement.",
+      "answer": "Pent-2-ene",
+      "explanation": "Cleavage of pent-2-ene, CH3CH=CHCH2CH3, gives ethanal from one alkene carbon and propanal from the other.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C2_081",
-      "course": "CHM121",
-      "chapter": 2,
+      "id": "PENDING_070",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What type of orbital hybridization is adopted by the carbon atoms involved in the triple bond of ethyne (\\text{H-C}\\equiv\\text{C-H}), and what is the resulting molecular shape?",
+      "question": "An organic process involving smaller units combining to form larger molecules of high molecular weights is best described as .....",
       "options": [
-        "sp^2 hybridization, trigonal planar",
-        "sp hybridization, linear",
-        "sp^3 hybridization, tetrahedral",
-        "sp^3d hybridization, trigonal bipyramidal"
+        "Ozonolysis",
+        "Friedel-crafts reaction",
+        "Polymerization",
+        "Substitution reaction"
       ],
-      "answer": "sp hybridization, linear",
-      "explanation": "The carbon atoms in an alkyne are sp hybridized, using one s and one p orbital to form two linear \\sigma bonds at an angle of 180^\\circ, flanked by two orthogonal \\pi bonds.",
+      "answer": "Polymerization",
+      "explanation": "Polymerization joins monomer units to form larger molecules with high molecular mass.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C2_082",
-      "course": "CHM121",
-      "chapter": 2,
+      "id": "PENDING_071",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "According to the modern resonance model of benzene, the high stability of the ring is caused by:",
+      "question": "The electrophillic addition of HA molecule to unsymmetrical alkenes and alkynes follows....",
       "options": [
-        "Alternating, localized single and double bonds that rapidly oscillate.",
-        "The complete delocalization of six \\pi-electrons uniformly across a planar, hexagonal ring of identical carbon-carbon bonds.",
-        "The presence of sp^3 hybridized carbons that lock the ring into a chair conformation.",
-        "Rapid ring-opening and ring-closing addition reactions."
+        "Markownikoff rule",
+        "Huckels rule",
+        "Saitzeffs rule",
+        "Hoffman's rule"
       ],
-      "answer": "The complete delocalization of six \\pi-electrons uniformly across a planar, hexagonal ring of identical carbon-carbon bonds.",
-      "explanation": "Rather than having distinct single and double bonds, benzene features a continuous, delocalized cloud of \\pi-electrons above and below the planar ring, which distributes electron density evenly and provides chemical stability.",
+      "answer": "Markownikoff rule",
+      "explanation": "Markovnikov's rule predicts the usual orientation of electrophilic addition of HX or related HA reagents to unsymmetrical unsaturated compounds.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C2_083",
-      "course": "CHM121",
-      "chapter": 2,
+      "id": "PENDING_072",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What occurs during the structural process known as \"ring inversion\" or \"chair-chair flip\" in a cyclohexane molecule?",
+      "question": "Alkynes can be prepared by the following processes except...",
       "options": [
-        "The molecule breaks open to form an unsaturated open-chain alkene.",
-        "The hybridization of all carbon atoms changes from sp^3 to sp^2.",
-        "Axial positions flip to equatorial positions, and all equatorial positions become axial positions.",
-        "The ring permanently locks into a high-energy planar configuration."
+        "Markownikoff elimination",
+        "Elimination of Vic-dihalides",
+        "Elimination of gem dihalides",
+        "Reaction of calcium carbide with water"
       ],
-      "answer": "Axial positions flip to equatorial positions, and all equatorial positions become axial positions.",
-      "explanation": "A chair flip dynamically interconverts cyclohexane conformations, causing all substituents that were pointing straight up/down (axial) to shift to slanted outward (equatorial) orientations, and vice versa.",
+      "answer": "Markownikoff elimination",
+      "explanation": "Vicinal and geminal dihalides can undergo double dehydrohalogenation to form alkynes, and calcium carbide reacts with water to form acetylene. “Markownikoff elimination” is not a standard alkyne-preparation method.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C2_084",
-      "course": "CHM121",
-      "chapter": 2,
+      "id": "PENDING_073",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "The specific thermodynamic value that represents the extra stability gained by benzene due to electron delocalization, compared to a hypothetical localized cyclohexa-1,3,5-triene, is known as the:",
+      "question": "Which of the following alkynes is terminal...",
       "options": [
-        "Activation energy",
-        "Resonance (or stabilization) energy",
-        "Enthalpy of combustion",
-        "Lattice dissociation energy"
+        "Propyne",
+        "But-2-yne",
+        "Pent-2-yne",
+        "Both a and c"
       ],
-      "answer": "Resonance (or stabilization) energy",
-      "explanation": "Resonance energy is the difference in energy between the actual delocalized structure of a molecule and its most stable imaginary localized Lewis structure.",
+      "answer": "Propyne",
+      "explanation": "Propyne, CH3C≡CH, has a hydrogen directly attached to a triple-bond carbon and is therefore a terminal alkyne.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C2_085",
-      "course": "CHM121",
-      "chapter": 2,
+      "id": "PENDING_074",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of the following hydrocarbon structures contains a conjugated system of alternating single and double bonds that allows for partial delocalization of \\pi electrons?",
+      "question": "Which of the following compounds is not aromatic?",
       "options": [
-        "Buta-1,3-diene",
-        "Propene",
-        "Cyclohexane",
-        "Ethane"
+        "Benzene",
+        "Cyclobutadiene",
+        "Naphthalene",
+        "Pyrrole"
       ],
-      "answer": "Buta-1,3-diene",
-      "explanation": "Buta-1,3-diene (\\text{CH}_2=\\text{CH-CH}=\\text{CH}_2) has sp^2 hybridized carbons separated by a single \\sigma bond, allowing adjacent p-orbitals to form a continuous conjugated pathway.",
+      "answer": "Cyclobutadiene",
+      "explanation": "Cyclobutadiene has 4 π electrons and is antiaromatic when planar, so it is not aromatic.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C2_086",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "Determine the total number of \\sigma (sigma) bonds and \\pi (pi) bonds present in a single molecule of propene (\\text{CH}_3\\text{CH}=\\text{CH}_2).",
-      "options": [
-        "7\\ \\sigma bonds and 1\\ \\pi bond",
-        "8\\ \\sigma bonds and 1\\ \\pi bond",
-        "6\\ \\sigma bonds and 2\\ \\pi bonds",
-        "9\\ \\sigma bonds and 0\\ \\pi bonds"
-      ],
-      "answer": "8\\ \\sigma bonds and 1\\ \\pi bond",
-      "explanation": "Propene has 2 \\text{C-C} bonds (one single, one double consisting of 1\\ \\sigma + 1\\ \\pi) and 6 \\text{C-H} single bonds. Total \\sigma = 2 + 6 = 8; total \\pi = 1.",
-      "working": "Propene has 2 \\text{C-C} bonds (one single, one double consisting of 1\\ \\sigma + 1\\ \\pi) and 6 \\text{C-H} single bonds. Total \\sigma = 2 + 6 = 8; total \\pi = 1.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_087",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "Calculate the total number of valence electrons explicitly involved in forming all the \\pi (pi) bonds within one molecule of buta-1,3-diene.",
-      "options": [
-        "2",
-        "4",
-        "6",
-        "8"
-      ],
-      "answer": "4",
-      "explanation": "Buta-1,3-diene features two carbon-carbon double bonds. Each double bond contains one \\pi bond formed by sharing 2 electrons. Total \\pi-electrons = 2 \\times 2 = 4.",
-      "working": "Buta-1,3-diene features two carbon-carbon double bonds. Each double bond contains one \\pi bond formed by sharing 2 electrons. Total \\pi-electrons = 2 \\times 2 = 4.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_088",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "If the experimental enthalpy of hydrogenation (\\Delta H^\\circ_{\\text{hydro}}) for a localized alkene double bond in cycloalkenes is approximately -120.0\\text{ kJ mol}^{-1}, a hypothetical localized cyclohexa-1,3,5-triene with three isolated double bonds would be expected to evolve -360.0\\text{ kJ mol}^{-1}. Given that the real delocalized benzene ring exhibits an experimental enthalpy of hydrogenation of only -209.6\\text{ kJ mol}^{-1}, calculate the resonance energy of benzene from these data.",
-      "options": [
-        "-569.6\\text{ kJ mol}^{-1}",
-        "150.4\\text{ kJ mol}^{-1}",
-        "-150.4\\text{ kJ mol}^{-1}",
-        "120.0\\text{ kJ mol}^{-1}"
-      ],
-      "answer": "150.4\\text{ kJ mol}^{-1}",
-      "explanation": "The resonance stabilization energy is the difference between the expected hypothetical value and the actual experimental energy drop: 360.0\\text{ kJ mol}^{-1} - 209.6\\text{ kJ mol}^{-1} = 150.4\\text{ kJ mol}^{-1}.",
-      "working": "The resonance stabilization energy is the difference between the expected hypothetical value and the actual experimental energy drop: 360.0\\text{ kJ mol}^{-1} - 209.6\\text{ kJ mol}^{-1} = 150.4\\text{ kJ mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_089",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "A molecule of methylbenzene (toluene) consists of a planar benzene ring with a single methyl group attached. Calculate the total number of single \\sigma (sigma) bonds contained in one molecule of methylbenzene.",
-      "options": [
-        "12",
-        "13",
-        "14",
-        "15"
-      ],
-      "answer": "15",
-      "explanation": "The ring contains 6 \\text{C-C} \\sigma bonds and 5 \\text{C-H} \\sigma bonds. The attached methyl group introduces 1 \\text{C-C} \\sigma bond and 3 \\text{C-H} \\sigma bonds. Total \\sigma = 6 + 5 + 1 + 3 = 15.",
-      "working": "The ring contains 6 \\text{C-C} \\sigma bonds and 5 \\text{C-H} \\sigma bonds. The attached methyl group introduces 1 \\text{C-C} \\sigma bond and 3 \\text{C-H} \\sigma bonds. Total \\sigma = 6 + 5 + 1 + 3 = 15.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_090",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "Determine the total number of sp^2 hybridized carbon atoms present in a single molecule of penta-1,4-diene.",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "answer": "4",
-      "explanation": "Penta-1,4-diene (\\text{CH}_2=\\text{CH-CH}_2\\text{-CH}=\\text{CH}_2) has double bonds at carbons 1 and 4. Carbons 1, 2, 4, and 5 are each linked to a double bond and are sp^2 hybridized, while carbon 3 is fully saturated (sp^3).",
-      "working": "Penta-1,4-diene (\\text{CH}_2=\\text{CH-CH}_2\\text{-CH}=\\text{CH}_2) has double bonds at carbons 1 and 4. Carbons 1, 2, 4, and 5 are each linked to a double bond and are sp^2 hybridized, while carbon 3 is fully saturated (sp^3).",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_091",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "Calculate the exact molecular mass of a monocyclic cycloalkane that contains a single ring with exactly 14 equatorial and axial hydrogen atoms in total.",
-      "options": [
-        "84.162\\text{ g mol}^{-1}",
-        "98.189\\text{ g mol}^{-1}",
-        "112.216\\text{ g mol}^{-1}",
-        "126.243\\text{ g mol}^{-1}"
-      ],
-      "answer": "98.189\\text{ g mol}^{-1}",
-      "explanation": "Monocyclic cycloalkanes follow the general formula \\text{C}_n\\text{H}_{2n}. Given 2n = 14 hydrogen atoms, n = 7 carbon atoms, making it cycloheptane (\\text{C}_7\\text{H}_{14}). \\text{Mass} = (7 \\times 12.011) + (14 \\times 1.008) = 84.077 + 14.112 = 98.189\\text{ g mol}^{-1}.",
-      "working": "Monocyclic cycloalkanes follow the general formula \\text{C}_n\\text{H}_{2n}. Given 2n = 14 hydrogen atoms, n = 7 carbon atoms, making it cycloheptane (\\text{C}_7\\text{H}_{14}). \\text{Mass} = (7 \\times 12.011) + (14 \\times 1.008) = 84.077 + 14.112 = 98.189\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_092",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "For an open-chain acyclic alkyne with a molecular formula index of n = 6 (\\text{C}_6\\text{H}_{10}), calculate the total number of \\sigma (sigma) bonds present in the entire molecule.",
-      "options": [
-        "13",
-        "14",
-        "15",
-        "16"
-      ],
-      "answer": "15",
-      "explanation": "An open-chain alkyne has n-1 carbon-carbon \\sigma bonds and 2n-2 carbon-hydrogen \\sigma bonds. For n=6, \\text{C-C }\\sigma = 5 and \\text{C-H }\\sigma = 10. Total \\sigma\\text{ bonds} = 5 + 10 = 15.",
-      "working": "An open-chain alkyne has n-1 carbon-carbon \\sigma bonds and 2n-2 carbon-hydrogen \\sigma bonds. For n=6, \\text{C-C }\\sigma = 5 and \\text{C-H }\\sigma = 10. Total \\sigma\\text{ bonds} = 5 + 10 = 15.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_093",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "A hydrocarbon compound has a molecular mass of exactly 54.092\\text{ g mol}^{-1}. If it contains only sp hybridized carbon atoms along with hydrogen, calculate the total number of carbon atoms in this alkyne molecule.",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "answer": "4",
-      "explanation": "Saturated alkyne series formula: \\text{C}_n\\text{H}_{2n-2}. \\text{Mass} = 12.011n + 1.008(2n-2) = 14.027n - 2.016 = 54.092 \\Rightarrow 14.027n = 56.108 \\Rightarrow n = 4 (butyne isomers).",
-      "working": "Saturated alkyne series formula: \\text{C}_n\\text{H}_{2n-2}. \\text{Mass} = 12.011n + 1.008(2n-2) = 14.027n - 2.016 = 54.092 \\Rightarrow 14.027n = 56.108 \\Rightarrow n = 4 (butyne isomers).",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_094",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "How many unhybridized valence p-orbitals are left behind in total across the carbon structural framework of a single molecule of ethyne (\\text{H-C}\\equiv\\text{C-H}) to generate its characteristic \\pi bonds?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "6"
-      ],
-      "answer": "4",
-      "explanation": "Each sp hybridized carbon atom uses one s and one p orbital for \\sigma bonding, leaving two unhybridized orthogonal p-orbitals intact. For both carbons, the total is 2 \\times 2 = 4 unhybridized p-orbitals, which overlap sideways to create two \\pi bonds.",
-      "working": "Each sp hybridized carbon atom uses one s and one p orbital for \\sigma bonding, leaving two unhybridized orthogonal p-orbitals intact. For both carbons, the total is 2 \\times 2 = 4 unhybridized p-orbitals, which overlap sideways to create two \\pi bonds.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_095",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "Consider a substituted cyclohexane ring in a static chair conformation. If the molecule contains a methyl group at every single equatorial position and no substituents at any axial positions, calculate the total number of methyl groups present on this ring.",
-      "options": [
-        "3",
-        "4",
-        "6",
-        "12"
-      ],
-      "answer": "6",
-      "explanation": "A cyclohexane ring contains 6 carbon atoms, each possessing exactly 1 axial position and 1 equatorial position. If all equatorial sites are occupied, there are 6 methyl groups in total.",
-      "working": "A cyclohexane ring contains 6 carbon atoms, each possessing exactly 1 axial position and 1 equatorial position. If all equatorial sites are occupied, there are 6 methyl groups in total.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_096",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "Determine the total number of covalent bonds (\\sigma and \\pi combined) present in one molecule of benzene (\\text{C}_6\\text{H}_6).",
-      "options": [
-        "12",
-        "15",
-        "18",
-        "21"
-      ],
-      "answer": "15",
-      "explanation": "Benzene has 6 \\text{C-C} single/double resonance shared \\sigma bonds, 6 \\text{C-H} \\sigma bonds, and 3 delocalized \\pi bonds. Total bonds = 6 + 6 + 3 = 15 covalent bonds.",
-      "working": "Benzene has 6 \\text{C-C} single/double resonance shared \\sigma bonds, 6 \\text{C-H} \\sigma bonds, and 3 delocalized \\pi bonds. Total bonds = 6 + 6 + 3 = 15 covalent bonds.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_097",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "An open-chain conjugated diene has the molecular formula \\text{C}_6\\text{H}_{10}. Calculate the total number of single covalent carbon-carbon (\\text{C-C}) \\sigma bonds present in its chain framework.",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "6"
-      ],
-      "answer": "5",
-      "explanation": "Any acyclic open-chain hydrocarbon with n carbon atoms contains exactly n - 1 carbon-carbon \\sigma bonds in its core skeleton, regardless of the number of multiple bonds present. For n=6, 6 - 1 = 5 carbon-carbon \\sigma bonds.",
-      "working": "Any acyclic open-chain hydrocarbon with n carbon atoms contains exactly n - 1 carbon-carbon \\sigma bonds in its core skeleton, regardless of the number of multiple bonds present. For n=6, 6 - 1 = 5 carbon-carbon \\sigma bonds.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_098",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "Calculate the percentage by mass of carbon in a pure sample of cyclobutane (\\text{C}_4\\text{H}_8).",
-      "options": [
-        "75.00\\%",
-        "82.14\\%",
-        "85.63\\%",
-        "88.82\\%"
-      ],
-      "answer": "85.63\\%",
-      "explanation": "Cyclobutane has the formula \\text{C}_4\\text{H}_8. \\text{Total mass} = (4 \\times 12.011) + (8 \\times 1.008) = 48.044 + 8.064 = 56.108\\text{ g mol}^{-1}. Mass \\% of \\text{C} = (48.044 / 56.108) \\times 100\\% = 85.628\\% \\approx 85.63\\%.",
-      "working": "Cyclobutane has the formula \\text{C}_4\\text{H}_8. \\text{Total mass} = (4 \\times 12.011) + (8 \\times 1.008) = 48.044 + 8.064 = 56.108\\text{ g mol}^{-1}. Mass \\% of \\text{C} = (48.044 / 56.108) \\times 100\\% = 85.628\\% \\approx 85.63\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_099",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "In a laboratory calculation, an organic chemist scales up the stabilization model of benzene. What would be the total resonance stabilization energy drop, in \\text{kJ}, associated with exactly 2.5\\text{ moles} of pure delocalized benzene liquid?",
-      "options": [
-        "300.8\\text{ kJ}",
-        "376.0\\text{ kJ}",
-        "501.2\\text{ kJ}",
-        "376.0\\text{ kJ} or 376.00\\text{ kJ} — let's verify 2.5 \\times 150.4 = 376.0\\text{ kJ}."
-      ],
-      "answer": "376.0\\text{ kJ}",
-      "explanation": "The resonance energy of benzene is 150.4\\text{ kJ mol}^{-1}. For 2.5\\text{ moles}, the stabilization energy drop is 2.5 \\times 150.4\\text{ kJ mol}^{-1} = 376.0\\text{ kJ}.",
-      "working": "The resonance energy of benzene is 150.4\\text{ kJ mol}^{-1}. For 2.5\\text{ moles}, the stabilization energy drop is 2.5 \\times 150.4\\text{ kJ mol}^{-1} = 376.0\\text{ kJ}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C2_100",
-      "course": "CHM121",
-      "chapter": 2,
-      "type": "calculation",
-      "question": "Determine the total number of \\sigma (sigma) bonds present in a single molecule of cyclopropane (\\text{C}_3\\text{H}_6).",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "9"
-      ],
-      "answer": "9",
-      "explanation": "Cyclopropane forms a 3-carbon triangular ring contributing 3 \\text{C-C} \\sigma bonds. Each carbon carries 2 hydrogen atoms, contributing 3 \\times 2 = 6 \\text{C-H} \\sigma bonds. Total \\sigma bonds = 3 + 6 = 9.",
-      "working": "Cyclopropane forms a 3-carbon triangular ring contributing 3 \\text{C-C} \\sigma bonds. Each carbon carries 2 hydrogen atoms, contributing 3 \\times 2 = 6 \\text{C-H} \\sigma bonds. Total \\sigma bonds = 3 + 6 = 9.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_101",
-      "course": "CHM121",
-      "chapter": 3,
+      "id": "PENDING_075",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of the following fundamental periodic properties systematically decreases when moving across a period from Group IA to Group IIA, and ultimately to Group IVA?",
+      "question": "What is the major product when benzene is nitrated using a mixture of concentrated HNO₃ and H₂SO₄?",
       "options": [
-        "Ionization Energy",
-        "Electronegativity",
-        "Atomic Radius",
-        "Covalent Character"
+        "nitrobenzene",
+        "benzyl alcohol",
+        "aniline",
+        "phenol"
       ],
-      "answer": "Atomic Radius",
-      "explanation": "Atomic radius decreases across a period because the effective nuclear charge increases, pulling the outer valence electrons closer to the nucleus.",
+      "answer": "nitrobenzene",
+      "explanation": "The nitrating mixture generates the nitronium ion, NO2+, which substitutes for hydrogen on benzene to form nitrobenzene.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C3_102",
-      "course": "CHM121",
-      "chapter": 3,
+      "id": "PENDING_076",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "How do the hydrides of Group IA and Group IIA compare in terms of bond type to the hydrides formed by Group IVA elements?",
+      "question": "Which alkaline earth metal hydroxide is the least soluble in water?",
       "options": [
-        "Group IA and IIA form covalent hydrides, while Group IVA forms ionic hydrides.",
-        "Group IA and IIA form ionic hydrides, while Group IVA forms covalent hydrides.",
-        "All three groups form exclusively metallic or interstitial hydrides.",
-        "All three groups form highly unstable coordinate covalent hydrides."
+        "Mg(OH)₂",
+        "Ca(OH)₂",
+        "Sr(OH)₂",
+        "Ba(OH)₂"
       ],
-      "answer": "Group IA and IIA form ionic hydrides, while Group IVA forms covalent hydrides.",
-      "explanation": "Elements in Groups IA and IIA form salt-like ionic hydrides (e.g., \\text{NaH}, \\text{CaH}_2), whereas Group IVA elements form molecular covalent hydrides (e.g., \\text{CH}_4).",
+      "answer": "Mg(OH)₂",
+      "explanation": "The solubility of alkaline-earth hydroxides generally increases down the group; magnesium hydroxide is the least soluble among these.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C3_103",
-      "course": "CHM121",
-      "chapter": 3,
+      "id": "PENDING_077",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which specific element from the groups discussed behaves as a non-metal, highlighting the variable metallic character found within Group IVA?",
+      "question": "Which of the following reacts most vigorously with water?",
       "options": [
-        "Silicon",
-        "Lead",
-        "Tin",
-        "Carbon"
+        "Lithium",
+        "Sodium",
+        "Potassium",
+        "Cesium"
       ],
-      "answer": "Carbon",
-      "explanation": "Metallic character decreases across a period and increases down a group; within Group IVA, carbon is a distinct non-metal, whereas heavier members like lead exhibit metallic behavior.",
+      "answer": "Cesium",
+      "explanation": "Reactivity of alkali metals with water increases down the group because ionization becomes easier; cesium is the most vigorous of these choices.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C3_104",
-      "course": "CHM121",
-      "chapter": 3,
+      "id": "PENDING_078",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which statement accurately describes the reactivity of Group IIA metals with water compared to Group IA metals?",
+      "question": "Which of the following is NOT a property of alkali metals?",
       "options": [
-        "Group IIA metals react more vigorously with cold water than Group IA metals.",
-        "Group IIA metals are completely inert to water, steam, and acids.",
-        "Group IIA metals exhibit moderate reactivity, with calcium reacting with cold water and magnesium requiring steam.",
-        "Group IIA metals react rapidly with water to yield acidic solutions."
+        "They are highly electropositive.",
+        "They form basic oxides and hydroxides.",
+        "They form strong hydrogen bonds.",
+        "They have low ionization energies."
       ],
-      "answer": "Group IIA metals exhibit moderate reactivity, with calcium reacting with cold water and magnesium requiring steam.",
-      "explanation": "Group IA metals react vigorously with cold water, while Group IIA elements are moderately reactive; calcium reacts with cold water, but magnesium requires hot water or steam to react.",
+      "answer": "They form strong hydrogen bonds.",
+      "explanation": "Alkali metals are electropositive and have low ionization energies and form basic oxides/hydroxides. Strong hydrogen bonding is not a characteristic property of the metals.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C3_105",
-      "course": "CHM121",
-      "chapter": 3,
+      "id": "PENDING_079",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What transition in chemical behavior is observed in the nature of oxides as you move from Group IA to Group IIA and then to Group IVA?",
+      "question": "Which of the following alkaline earth metal salts is insoluble in water?",
       "options": [
-        "They transition from purely acidic to strongly basic.",
-        "They shift from strongly basic, to basic, and then to acidic or amphoteric.",
-        "They remain consistently neutral across all three groups.",
-        "They change from amphoteric directly to strongly basic."
+        "CaCl₂",
+        "Sr(NO₃)₂",
+        "BaSO₄",
+        "MgSO₄"
       ],
-      "answer": "They shift from strongly basic, to basic, and then to acidic or amphoteric.",
-      "explanation": "Oxides change across the period as metallic character decreases; Group IA oxides are strongly basic, Group IIA oxides are basic, and Group IVA oxides range from acidic (\\text{CO}_2) to amphoteric (\\text{SnO}_2, \\text{PbO}).",
+      "answer": "BaSO₄",
+      "explanation": "Barium sulfate is highly insoluble in water, unlike the listed chlorides and nitrates and the soluble magnesium sulfate.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C3_106",
-      "course": "CHM121",
-      "chapter": 3,
+      "id": "PENDING_080",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of the following represents the correct valence shell electronic configuration for elements belonging to the Group IVA carbon family?",
+      "question": "When alkali metals react with cold water, which of the following statements is CORRECT?",
       "options": [
-        "ns^1",
-        "ns^2",
-        "ns^2 np^1",
-        "ns^2 np^2"
+        "They form metal oxides and hydrogen gas.",
+        "They form metal hydroxides and hydrogen gas.",
+        "They form metal hydrides and hydrogen gas.",
+        "They form metal halides and hydrogen gas"
       ],
-      "answer": "ns^2 np^2",
-      "explanation": "Group IVA elements possess four valence electrons, accommodated in the outer shells as two electrons in the s-orbital and two electrons in the p-orbital (ns^2 np^2).",
+      "answer": "They form metal hydroxides and hydrogen gas.",
+      "explanation": "Alkali metals react with cold water to form the corresponding hydroxide and hydrogen gas.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C3_107",
-      "course": "CHM121",
-      "chapter": 3,
+      "id": "PENDING_081",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Transition metals are located in the d-block of the periodic table. Which groups and periods do they occupy?",
+      "question": "Which of the following oxidation states is most stable for copper in aqueous solution?",
       "options": [
-        "Groups 1 to 2 in Periods 2 to 5",
-        "Groups 13 to 17 in Periods 3 to 6",
-        "Groups 3 to 12 in Periods 4 to 7",
-        "Option not provided in source document."
-      ],
-      "answer": "Groups 3 to 12 in Periods 4 to 7",
-      "explanation": "The d-block transition metals sit in the central region of the periodic table, spanning Groups 3 to 12 across Periods 4, 5, 6, and 7.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_108",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "What structural feature of transition metals is primarily responsible for their variable oxidation states, color, magnetism, and complex formation?",
-      "options": [
-        "Completely filled core s-orbitals",
-        "Partially filled d-orbitals",
-        "Highly unstable outer p-orbitals",
-        "The total absence of valence shell electrons"
-      ],
-      "answer": "Partially filled d-orbitals",
-      "explanation": "The presence of partially filled d-orbitals allows transition metals to lose varying numbers of electrons, undergo d-to-d electronic transitions that absorb visible light, and host unpaired electrons.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_109",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Which of the following sets represents the common oxidation states exhibited by Manganese (\\text{Mn}) as listed in the reference material?",
-      "options": [
-        "+1, +2",
-        "+2, +3",
-        "+2, +4, +7",
-        "+2, +3, +6"
-      ],
-      "answer": "+2, +4, +7",
-      "explanation": "According to the comparative oxidation state references, Manganese commonly displays +2, +4, and +7 oxidation states.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_110",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "What chemical phenomenon is responsible for producing paramagnetism in transition metal atoms and coordination complexes?",
-      "options": [
-        "The absolute pairing of all available electrons in valence shells.",
-        "The presence of unpaired electrons within the orbitals.",
-        "The rapid rotation of the complete atomic nucleus.",
-        "The total loss of all core d-shell electrons."
-      ],
-      "answer": "The presence of unpaired electrons within the orbitals.",
-      "explanation": "Paramagnetism arises from the magnetic moments generated by one or more unpaired electrons, whereas paired electrons result in diamagnetism.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_111",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Match the transition metal catalyst to its appropriate industrial process as detailed in the text:",
-      "options": [
-        "\\text{V}_2\\text{O}_5 in Haber process; \\text{Fe} in Contact process",
-        "\\text{Fe} in Haber process; \\text{V}_2\\text{O}_5 in Contact process",
-        "\\text{Ni} in Haber process; \\text{Fe} in hydrogenation",
-        "\\text{V}_2\\text{O}_5 in hydrogenation; \\text{Ni} in Contact process"
-      ],
-      "answer": "\\text{Fe} in Haber process; \\text{V}_2\\text{O}_5 in Contact process",
-      "explanation": "Iron (\\text{Fe}) serves as the catalyst in the industrial synthesis of ammonia (Haber process), while Vanadium pentoxide (\\text{V}_2\\text{O}_5) is utilized in the production of sulfuric acid (Contact process).",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_112",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Brass, bronze, steel, and stainless steel are examples of what class of materials formed by transition metals?",
-      "options": [
-        "Covalent network polymers",
-        "Interstitial ionic hydrides",
-        "Coordination complexes",
-        "Alloys"
-      ],
-      "answer": "Alloys",
-      "explanation": "Transition metals readily mix with other metals or non-metals due to their similar atomic sizes, allowing them to form stable metallic mixtures called alloys.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_113",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Determine the correct ground-state electronic configuration of Copper (\\text{Cu}, Z=29) as outlined by the anomalous d-block stability rule in the text.",
-      "options": [
-        "[\\text{Ar}] 3d^9 4s^2",
-        "[\\text{Ar}] 3d^{10} 4s^1",
-        "[\\text{Ar}] 3d^8 4s^2 4p^1",
-        "[\\text{Ar}] 3d^{10} 4s^2"
-      ],
-      "answer": "[\\text{Ar}] 3d^{10} 4s^1",
-      "explanation": "Copper undergoes an orbital promotion to achieve a completely filled 3d subshell, which offers enhanced thermodynamic stability, giving it a configuration of [\\text{Ar}] 3d^{10} 4s^1.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_114",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "Based on the provided reaction data, when 2\\text{ moles} of pure solid Sodium (\\text{Na}) react completely with an excess of cold liquid water, how many moles of hydrogen gas (\\text{H}_2) are generated?",
-      "options": [
-        "0.5\\text{ mole}",
-        "1.0\\text{ mole}",
-        "2.0\\text{ moles}",
-        "4.0\\text{ moles}"
-      ],
-      "answer": "1.0\\text{ mole}",
-      "explanation": "The balanced equation is 2\\text{Na} + 2\\text{H}_2\\text{O} \\rightarrow 2\\text{NaOH} + \\text{H}_2\\uparrow. Therefore, 2\\text{ moles} of \\text{Na} produce exactly 1\\text{ mole} of \\text{H}_2 gas.",
-      "working": "The balanced equation is 2\\text{Na} + 2\\text{H}_2\\text{O} \\rightarrow 2\\text{NaOH} + \\text{H}_2\\uparrow. Therefore, 2\\text{ moles} of \\text{Na} produce exactly 1\\text{ mole} of \\text{H}_2 gas.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_115",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "Calculate the exact formula mass of the complex coordination compound potassium hexacyanoferrate(III), which contains the typical coordination ion [\\text{Fe}(\\text{CN})_6]^{3-} mentioned in the text. *(Atomic masses: \\text{K} = 39.098, \\text{Fe} = 55.845, \\text{C} = 12.011, \\text{N} = 14.007\\text{ g mol}^{-1})*",
-      "options": [
-        "211.95\\text{ g mol}^{-1}",
-        "292.24\\text{ g mol}^{-1}",
-        "329.24\\text{ g mol}^{-1}",
-        "422.39\\text{ g mol}^{-1}"
-      ],
-      "answer": "329.24\\text{ g mol}^{-1}",
-      "explanation": "The neutral compound is \\text{K}_3[\\text{Fe}(\\text{CN})_6]. Formula mass = (3 \\times 39.098) + 55.845 + 6 \\times (12.011 + 14.007) = 117.294 + 55.845 + 6 \\times (26.018) = 173.139 + 156.108 = 329.247 \\approx 329.24\\text{ g mol}^{-1}.",
-      "working": "The neutral compound is \\text{K}_3[\\text{Fe}(\\text{CN})_6]. Formula mass = (3 \\times 39.098) + 55.845 + 6 \\times (12.011 + 14.007) = 117.294 + 55.845 + 6 \\times (26.018) = 173.139 + 156.108 = 329.247 \\approx 329.24\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_116",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "When Magnesium reacts with steam, it forms an oxide and hydrogen gas. What is the correct stoichiometric coefficient of water vapor (\\text{H}_2\\text{O(g)}) when the reaction is fully balanced with the lowest whole-number integers?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "answer": "1",
-      "explanation": "The balanced chemical equation is \\text{Mg} + \\text{H}_2\\text{O(g)} \\rightarrow \\text{MgO} + \\text{H}_2\\uparrow. The coefficient of water vapor is 1.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_117",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Identify the specific transition metal ion that imparts a characteristic blue color to its aqueous coordination solutions from the options below.",
-      "options": [
-        "\\text{Ni}^{2+}",
-        "\\text{Cr}^{3+}",
-        "\\text{Cu}^{2+}",
-        "\\text{Fe}^{3+}"
-      ],
-      "answer": "\\text{Cu}^{2+}",
-      "explanation": "As explicitly tabulated, \\text{Cu}^{2+} ions produce a blue color in solution, while \\text{Ni}^{2+} is green and \\text{Fe}^{3+} is yellow-brown.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_118",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Consider the main group oxide \\text{CO}_2. According to the text, what product is formed when this oxide dissolves in water?",
-      "options": [
-        "\\text{H}_2\\text{CO}_3",
-        "\\text{NaOH}",
-        "\\text{Na}_2\\text{SiO}_3",
-        "\\text{HCOOH}"
-      ],
-      "answer": "\\text{H}_2\\text{CO}_3",
-      "explanation": "\\text{CO}_2 is an acidic oxide that reacts with water to yield carbonic acid: \\text{CO}_2 + \\text{H}_2\\text{O} \\rightarrow \\text{H}_2\\text{CO}_3.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_119",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "How many total valence electrons are shared within the covalent framework of one molecule of Tetrachloromethane (\\text{CCl}_4), which serves as the representative Group IVA halide?",
-      "options": [
-        "8",
-        "16",
-        "24",
-        "32"
-      ],
-      "answer": "32",
-      "explanation": "Carbon contributes 4 valence electrons, and each of the 4 Chlorine atoms contributes 7 valence electrons (4 + (4 \\times 7) = 32). These form 4 single covalent bonds with 3 non-bonding pairs remaining on each chlorine atom.",
-      "working": "Carbon contributes 4 valence electrons, and each of the 4 Chlorine atoms contributes 7 valence electrons (4 + (4 \\times 7) = 32). These form 4 single covalent bonds with 3 non-bonding pairs remaining on each chlorine atom.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_120",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "Calculate the percentage by mass of oxygen in a pure sample of the basic Alkaline Earth metal oxide, Magnesium Oxide (\\text{MgO}). *(Use: \\text{Mg} = 24.305, \\text{O} = 15.999\\text{ g mol}^{-1})*",
-      "options": [
-        "39.70\\%",
-        "53.21\\%",
-        "60.30\\%",
-        "65.80\\%"
-      ],
-      "answer": "39.70\\%",
-      "explanation": "The molar mass of \\text{MgO} = 24.305 + 15.999 = 40.304\\text{ g mol}^{-1}. Mass \\% of \\text{O} = (15.999 / 40.304) \\times 100\\% = 39.695\\% \\approx 39.70\\%.",
-      "working": "The molar mass of \\text{MgO} = 24.305 + 15.999 = 40.304\\text{ g mol}^{-1}. Mass \\% of \\text{O} = (15.999 / 40.304) \\times 100\\% = 39.695\\% \\approx 39.70\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_121",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "Determine the oxidation state of the transition metal center within the complex coordination ion [\\text{Fe}(\\text{CN})_6]^{3-}.",
-      "options": [
+        "+1",
         "+2",
         "+3",
-        "+4",
-        "+6"
+        "0"
       ],
-      "answer": "+3",
-      "explanation": "Cyanide (\\text{CN}^-) carries a -1 charge. Let x be the oxidation state of iron: x + 6(-1) = -3 \\Rightarrow x - 6 = -3 \\Rightarrow x = +3.",
-      "working": "Cyanide (\\text{CN}^-) carries a -1 charge. Let x be the oxidation state of iron: x + 6(-1) = -3 \\Rightarrow x - 6 = -3 \\Rightarrow x = +3.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_122",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Based on the general electronic configuration rule (n-1)d^{1-10}ns^{0-2} for transition metals, what is the exact number of d-electrons present in a ground-state atom of Scandium (\\text{Sc}, Z=21)?",
-      "options": [
-        "1",
-        "2",
-        "5",
-        "10"
-      ],
-      "answer": "1",
-      "explanation": "The electronic configuration for Scandium is explicitly given as [\\text{Ar}] 3d^1 4s^2, which means it possesses exactly 1 electron in its 3d subshell.",
+      "answer": "+2",
+      "explanation": "Cu2+ is generally the more stable oxidation state of copper in ordinary aqueous solution, although Cu+ can be stabilized in suitable complexes or solids.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C3_123",
-      "course": "CHM121",
-      "chapter": 3,
+      "id": "PENDING_082",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "When Silicon dioxide (\\text{SiO}_2) reacts with Sodium Hydroxide (\\text{NaOH}), it forms water and which of the following compounds?",
+      "question": "Silver halides are insoluble in water, but dissolve in aqueous ammonia due to:",
       "options": [
-        "\\text{NaH}",
-        "\\text{Na}_2\\text{SiO}_3",
-        "\\text{SiH}_4",
-        "\\text{Na}_2\\text{O}"
+        "Formation of soluble hydroxides",
+        "Oxidation of Ag⁺",
+        "Formation of complex ions like [Ag(NH₃)₂]⁺",
+        "Reduction of Ag⁺ to metallic silver"
       ],
-      "answer": "\\text{Na}_2\\text{SiO}_3",
-      "explanation": "Silicon dioxide behaves as an acidic oxide, reacting with strong bases like \\text{NaOH} to yield sodium silicate: \\text{SiO}_2 + 2\\text{NaOH} \\rightarrow \\text{Na}_2\\text{SiO}_3 + \\text{H}_2\\text{O}.",
+      "answer": "Formation of complex ions like [Ag(NH₃)₂]⁺",
+      "explanation": "Ammonia coordinates to Ag+ to form the soluble diamminesilver(I) complex, shifting dissolution of suitable silver halides.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "CHM121_C3_124",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "How many total valence electrons are present in a single stable molecule of Methane (\\text{CH}_4), the typical covalent hydride of Group IVA?",
-      "options": [
-        "4",
-        "6",
-        "8",
-        "10"
-      ],
-      "answer": "8",
-      "explanation": "Carbon provides 4 valence electrons, and each of the 4 hydrogen atoms contributes 1 valence electron, giving a total of 4 + 4 = 8 valence electrons (forming 4 single \\text{C-H} covalent bonds).",
-      "working": "Carbon provides 4 valence electrons, and each of the 4 hydrogen atoms contributes 1 valence electron, giving a total of 4 + 4 = 8 valence electrons (forming 4 single \\text{C-H} covalent bonds).",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_125",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "Calculate the mass percentage of Lithium in its strongly basic principal oxide, \\text{Li}_2\\text{O}. *(Use atomic masses: \\text{Li} = 6.94, \\text{O} = 15.999\\text{ g mol}^{-1})*",
-      "options": [
-        "23.22\\%",
-        "46.46\\%",
-        "53.54\\%",
-        "73.31\\%"
-      ],
-      "answer": "46.46\\%",
-      "explanation": "Molar mass of \\text{Li}_2\\text{O} = (2 \\times 6.94) + 15.999 = 13.88 + 15.999 = 29.879\\text{ g mol}^{-1}. Mass \\% of \\text{Li} = (13.88 / 29.879) \\times 100\\% = 46.454\\% \\approx 46.46\\%.",
-      "working": "Molar mass of \\text{Li}_2\\text{O} = (2 \\times 6.94) + 15.999 = 13.88 + 15.999 = 29.879\\text{ g mol}^{-1}. Mass \\% of \\text{Li} = (13.88 / 29.879) \\times 100\\% = 46.454\\% \\approx 46.46\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_126",
-      "course": "CHM121",
-      "chapter": 3,
+      "id": "PENDING_083",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Why do Group IA alkali metals exhibit a much lower first ionization energy compared to Group IIA alkaline earth metals in the same period?",
+      "question": "Which allotrope of phosphorus is most stable at room temperature?",
       "options": [
-        "Group IA elements have a completely filled outer p-subshell.",
-        "Group IA elements experience a lower effective nuclear charge and have a larger atomic radius, making it easier to remove their single valence electron.",
-        "Group IA elements form exceptionally stable covalent networks.",
-        "Group IA elements contain highly shielding unhybridized d-orbitals."
+        "White phosphorus",
+        "Red phosphorus",
+        "Black phosphorus",
+        "Violet phosphorus"
       ],
-      "answer": "Group IA elements experience a lower effective nuclear charge and have a larger atomic radius, making it easier to remove their single valence electron.",
-      "explanation": "Across a period, effective nuclear charge increases and atomic radius decreases. Group IA elements have the lowest nuclear charge and largest radius in their period, allowing them to lose their lone ns^1 valence electron with minimal energy input.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_127",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Which of the following trends correctly describes the reducing power of the elements as you move from Group IA to Group IIA and then to Group IVA?",
-      "options": [
-        "It increases from moderate to very strong.",
-        "It changes from moderate, to strong, to very strong.",
-        "It changes from very strong, to strong, to moderate.",
-        "It remains uniformly constant across all three groups."
-      ],
-      "answer": "It changes from very strong, to strong, to moderate.",
-      "explanation": "As ionization energy increases and the tendency to lose electrons decreases across a period, the ability to act as a reducing agent drops from very strong (Group IA) to strong (Group IIA) and finally to moderate (Group IVA).",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_128",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "What type of bonding typically characterizes the macroscopic lattice structure of Group IA and Group IIA halides compared to Group IVA halides?",
-      "options": [
-        "Group IA and IIA halides are predominantly covalent, while Group IVA halides are predominantly ionic.",
-        "Group IA and IIA halides are predominantly ionic, while Group IVA halides are predominantly covalent.",
-        "Both sets are entirely characterized by weak intermolecular hydrogen bonds.",
-        "Both sets consist exclusively of highly unstable metallic coordinate frameworks."
-      ],
-      "answer": "Group IA and IIA halides are predominantly ionic, while Group IVA halides are predominantly covalent.",
-      "explanation": "The low electronegativity of Group IA and IIA elements causes them to form ionic lattices with halogens (e.g., \\text{NaCl}, \\text{MgCl}_2), whereas the higher electronegativity of Group IVA leads to molecular covalent halides (e.g., \\text{CCl}_4).",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_129",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Why does the compound Carbon disulfide (\\text{CS}_2) or Carbon dioxide (\\text{CO}_2) exhibit purely covalent properties, while Lead(II) oxide (\\text{PbO}) behaves as an amphoteric, more ionic-leaning species?",
-      "options": [
-        "Metallic character increases down Group IVA, shifting properties from non-metallic/covalent to metallic/variable.",
-        "Carbon has a much lower electronegativity than Lead.",
-        "Lead completely lacks available p-orbitals in its valence shell.",
-        "Carbon is located in Period 6 of the periodic table."
-      ],
-      "answer": "Metallic character increases down Group IVA, shifting properties from non-metallic/covalent to metallic/variable.",
-      "explanation": "Down Group IVA, metallic character increases systematically. Carbon is a strict non-metal that forms molecular covalent oxides, whereas lead is a metal whose oxides show amphoteric properties and significant ionic character.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_130",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "What causes transition metal compounds to display a wide variety of bright colors in aqueous solutions or solid forms?",
-      "options": [
-        "The rapid decomposition of the metal nuclei.",
-        "Electronic transitions between split d-orbitals that absorb specific wavelengths of visible light.",
-        "The absolute absence of outer valence shell electrons.",
-        "The continuous emission of high-energy gamma radiation."
-      ],
-      "answer": "Electronic transitions between split d-orbitals that absorb specific wavelengths of visible light.",
-      "explanation": "The color of transition metal complexes typically originates from d-to-d electronic transitions, where unpaired electrons in partially filled d-orbitals absorb specific frequencies of visible light to move between split d-energy levels.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_131",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Which of the following complex ions is explicitly noted in the text as a typical coordination compound formed by Copper(II) in the presence of ammonia?",
-      "options": [
-        "[\\text{Co}(\\text{NH}_3)_6]^{3+}",
-        "[\\text{Fe}(\\text{CN})_6]^{3-}",
-        "[\\text{Cu}(\\text{NH}_3)_4]^{2+}",
-        "[\\text{Ni}(\\text{H}_2\\text{O})_6]^{2+}"
-      ],
-      "answer": "[\\text{Cu}(\\text{NH}_3)_4]^{2+}",
-      "explanation": "The tetraamminecopper(II) ion, [\\text{Cu}(\\text{NH}_3)_4]^{2+}, is specifically highlighted as a prime example of a transition metal coordination complex.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_132",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Transition metals serve as exceptional catalysts because they possess:",
-      "options": [
-        "Completely filled, unreactive outer s and p subshells.",
-        "The ability to adopt variable oxidation states and provide surfaces for favorable molecular orientations.",
-        "Exceptionally low melting points that cause them to melt during reactions.",
-        "Symmetrical ionic lattices that prevent any chemical bonding."
-      ],
-      "answer": "The ability to adopt variable oxidation states and provide surfaces for favorable molecular orientations.",
-      "explanation": "Their partially filled d-orbitals enable transition metals to easily accept or donate electrons, adopting variable oxidation states that stabilize reaction intermediates and lower activation energy barriers.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_133",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Which group contains elements that possess exactly two valence electrons in an ns^2 ground-state electronic configuration?",
-      "options": [
-        "Group IA (Alkali Metals)",
-        "Group IIA (Alkaline Earth Metals)",
-        "Group IVA (Carbon Family)",
-        "Group 18 (Noble Gases)"
-      ],
-      "answer": "Group IIA (Alkaline Earth Metals)",
-      "explanation": "Group IIA alkaline earth metals are defined by having a valence configuration of ns^2, giving them exactly two valence electrons.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_134",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Which property explains why a piece of iron (\\text{Fe}) is attracted to an external magnetic field, whereas a zinc ion (\\text{Zn}^{2+}, [\\text{Ar}]3d^{10}) is repelled?",
-      "options": [
-        "Iron contains unpaired electrons producing paramagnetism, while \\text{Zn}^{2+} has completely paired electrons producing diamagnetism.",
-        "Zinc ions are highly radioactive.",
-        "Iron has a much lower atomic mass than zinc.",
-        "Zinc possesses an open, unfilled 4s orbital in its ionic state."
-      ],
-      "answer": "Iron contains unpaired electrons producing paramagnetism, while \\text{Zn}^{2+} has completely paired electrons producing diamagnetism.",
-      "explanation": "Paramagnetism requires the presence of unpaired electrons, which are abundant in iron ([Ar]3d^6 4s^2). When all d-electrons are fully paired, as in a 3d^{10} system, the species becomes diamagnetic and is weakly repelled by a magnetic field.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_135",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "In terms of chemical reactivity with oxygen, which of the following reactions correctly illustrates the formation of an acidic oxide by a Group IVA non-metal?",
-      "options": [
-        "4\\text{Li} + \\text{O}_2 \\rightarrow 2\\text{Li}_2\\text{O}",
-        "2\\text{Mg} + \\text{O}_2 \\rightarrow 2\\text{MgO}",
-        "\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2",
-        "\\text{Pb} + \\text{O}_2 \\rightarrow \\text{PbO}"
-      ],
-      "answer": "\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2",
-      "explanation": "Carbon reacts with oxygen to form carbon dioxide (\\text{CO}_2), which is an acidic oxide because it reacts with water to yield carbonic acid.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_136",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Determine the correct ground-state electronic configuration of a neutral Iron atom (\\text{Fe}, Z=26) as explicitly stated in the lecture notes.",
-      "options": [
-        "[\\text{Ar}] 3d^5 4s^2 4p^1",
-        "[\\text{Ar}] 3d^6 4s^2",
-        "[\\text{Ar}] 3d^8 4s^0",
-        "[\\text{Ar}] 3d^7 4s^1"
-      ],
-      "answer": "[\\text{Ar}] 3d^6 4s^2",
-      "explanation": "The ground-state electronic configuration of iron is given as [\\text{Ar}] 3d^6 4s^2, containing six electrons in its 3d subshell and two in its 4s subshell.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_137",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "If 1.5\\text{ moles} of Calcium metal (\\text{Ca}) react completely with an excess of cold water according to the balanced equation provided, how many moles of Calcium Hydroxide (\\text{Ca(OH)}_2) will be formed?",
-      "options": [
-        "0.75\\text{ mole}",
-        "1.5\\text{ moles}",
-        "3.0\\text{ moles}",
-        "4.5\\text{ moles}"
-      ],
-      "answer": "1.5\\text{ moles}",
-      "explanation": "The balanced reaction is \\text{Ca} + 2\\text{H}_2\\text{O} \\rightarrow \\text{Ca(OH)}_2 + \\text{H}_2\\uparrow. The molar ratio of \\text{Ca} to \\text{Ca(OH)}_2 is 1:1, so 1.5\\text{ moles} of \\text{Ca} yields exactly 1.5\\text{ moles} of \\text{Ca(OH)}_2.",
-      "working": "The balanced reaction is \\text{Ca} + 2\\text{H}_2\\text{O} \\rightarrow \\text{Ca(OH)}_2 + \\text{H}_2\\uparrow. The molar ratio of \\text{Ca} to \\text{Ca(OH)}_2 is 1:1, so 1.5\\text{ moles} of \\text{Ca} yields exactly 1.5\\text{ moles} of \\text{Ca(OH)}_2.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_138",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "Calculate the exact molar mass of the characteristic purple transition metal compound, Potassium Permanganate (\\text{KMnO}_4), whose coordination anion (\\text{MnO}_4^-) is mentioned in the text. *(Atomic masses: \\text{K} = 39.098, \\text{Mn} = 54.938, \\text{O} = 15.999\\text{ g mol}^{-1})*",
-      "options": [
-        "118.94\\text{ g mol}^{-1}",
-        "158.03\\text{ g mol}^{-1}",
-        "174.03\\text{ g mol}^{-1}",
-        "213.92\\text{ g mol}^{-1}"
-      ],
-      "answer": "158.03\\text{ g mol}^{-1}",
-      "explanation": "Molar mass of \\text{KMnO}_4 = 39.098 + 54.938 + (4 \\times 15.999) = 94.036 + 63.996 = 158.032 \\approx 158.03\\text{ g mol}^{-1}.",
-      "working": "Molar mass of \\text{KMnO}_4 = 39.098 + 54.938 + (4 \\times 15.999) = 94.036 + 63.996 = 158.032 \\approx 158.03\\text{ g mol}^{-1}.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_139",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "Based on the provided electronic configurations, how many total electrons occupy the d-orbitals of a Chromium atom (\\text{Cr}, Z=24) in its stable +3 oxidation state (\\text{Cr}^{3+})?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "answer": "3",
-      "explanation": "A neutral \\text{Cr} atom has the configuration [\\text{Ar}] 3d^5 4s^1. To form the \\text{Cr}^{3+} ion, it loses its one 4s electron and two 3d electrons, leaving a configuration of [\\text{Ar}] 3d^3. Thus, it has exactly 3 d-electrons.",
-      "working": "A neutral \\text{Cr} atom has the configuration [\\text{Ar}] 3d^5 4s^1. To form the \\text{Cr}^{3+} ion, it loses its one 4s electron and two 3d electrons, leaving a configuration of [\\text{Ar}] 3d^3. Thus, it has exactly 3 d-electrons.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_140",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Identify the characteristic color produced by the Hexaamminenickel(II) or aquated Nickel(II) ion (\\text{Ni}^{2+}) in solution as listed in the reference text.",
-      "options": [
-        "Blue",
-        "Purple",
-        "Green",
-        "Yellow-brown"
-      ],
-      "answer": "Green",
-      "explanation": "The lecture note explicitly lists \\text{Ni}^{2+} compounds as being green in color.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_141",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "When Carbon dioxide reacts with water, it sets up an equilibrium producing Carbonic Acid (\\text{H}_2\\text{CO}_3). Calculate the percentage by mass of Carbon in a pure sample of Carbonic Acid. *(Use: \\text{C} = 12.011, \\text{H} = 1.008, \\text{O} = 15.999\\text{ g mol}^{-1})*",
-      "options": [
-        "19.37\\%",
-        "29.02\\%",
-        "61.24\\%",
-        "74.15\\%"
-      ],
-      "answer": "19.37\\%",
-      "explanation": "Molar mass of \\text{H}_2\\text{CO}_3 = (2 \\times 1.008) + 12.011 + (3 \\times 15.999) = 2.016 + 12.011 + 47.997 = 62.024\\text{ g mol}^{-1}. Mass \\% of \\text{C} = (12.011 / 62.024) \\times 100\\% = 19.365\\% \\approx 19.37\\%.",
-      "working": "Molar mass of \\text{H}_2\\text{CO}_3 = (2 \\times 1.008) + 12.011 + (3 \\times 15.999) = 2.016 + 12.011 + 47.997 = 62.024\\text{ g mol}^{-1}. Mass \\% of \\text{C} = (12.011 / 62.024) \\times 100\\% = 19.365\\% \\approx 19.37\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_142",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Determine the oxidation state of the central Chromium atom within the oxoanion dichromate, assuming it follows the high-oxidation behavior +6 listed for Chromium in the text.",
-      "options": [
-        "+2",
-        "+3",
-        "+4",
-        "+6"
-      ],
-      "answer": "+6",
-      "explanation": "The text lists the maximum stable oxidation state of Chromium as +6 (as seen in species like \\text{CrO}_4^{2-} and \\text{Cr}_2\\text{O}_7^{2-}).",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_143",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "According to the text, what is the ground-state electronic configuration of the first d-block element, Scandium (\\text{Sc}, Z=21)?",
-      "options": [
-        "[\\text{Ar}] 3d^2 4s^1",
-        "[\\text{Ar}] 3d^1 4s^2",
-        "[\\text{Ar}] 3d^3 4s^0",
-        "[\\text{Ar}] 4s^2 4p^1"
-      ],
-      "answer": "[\\text{Ar}] 3d^1 4s^2",
-      "explanation": "The electronic configuration for Scandium is explicitly given in the notes as [\\text{Ar}] 3d^1 4s^2.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_144",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "Calculate the total number of valence electrons present in a single unit of the ionic Alkaline Earth metal hydride, Calcium Hydride (\\text{CaH}_2).",
-      "options": [
-        "2",
-        "4",
-        "6",
-        "8"
-      ],
-      "answer": "4",
-      "explanation": "Calcium contributes 2 valence electrons (ns^2), and each of the two hydride anions (\\text{H}^-) contributes 1 valence electron, giving a total of 2 + (2 \\times 1) = 4 electrons within its basic formula unit structure.",
-      "working": "Calcium contributes 2 valence electrons (ns^2), and each of the two hydride anions (\\text{H}^-) contributes 1 valence electron, giving a total of 2 + (2 \\times 1) = 4 electrons within its basic formula unit structure.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_145",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "Determine the total number of coordination ligands bound directly to the central Cobalt atom within the coordination sphere of the complex ion [\\text{Co}(\\text{NH}_3)_6]^{3+} explicitly mentioned in the text.",
-      "options": [
-        "3",
-        "4",
-        "6",
-        "9"
-      ],
-      "answer": "6",
-      "explanation": "The chemical formula [\\text{Co}(\\text{NH}_3)_6]^{3+} clearly denotes that there are exactly 6 ammine (\\text{NH}_3) ligands surrounding the central Cobalt ion.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_146",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "Calculate the mass percentage of Nitrogen in the coordination complex hexaamminecobalt(III) chloride, which features the complex cation [\\text{Co}(\\text{NH}_3)_6]^{3+}. *(Molar mass of [\\text{Co}(\\text{NH}_3)_6]\\text{Cl}_3 = 267.48\\text{ g mol}^{-1}, \\text{N} = 14.007\\text{ g mol}^{-1})*",
-      "options": [
-        "14.15\\%",
-        "22.42\\%",
-        "31.42\\%",
-        "41.92\\%"
-      ],
-      "answer": "31.42\\%",
-      "explanation": "There are 6 Nitrogen atoms in the formula unit. Total mass of \\text{N} = 6 \\times 14.007 = 84.042\\text{ g mol}^{-1}. Mass \\% of \\text{N} = (84.042 / 267.48) \\times 100\\% = 31.42\\%.",
-      "working": "There are 6 Nitrogen atoms in the formula unit. Total mass of \\text{N} = 6 \\times 14.007 = 84.042\\text{ g mol}^{-1}. Mass \\% of \\text{N} = (84.042 / 267.48) \\times 100\\% = 31.42\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_147",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "When an excess of Silicon dioxide (\\text{SiO}_2) reacts with 4.0\\text{ moles} of Sodium Hydroxide (\\text{NaOH}), how many moles of water are produced based on the balanced reaction given in the text?",
-      "options": [
-        "1.0\\text{ mole}",
-        "2.0\\text{ moles}",
-        "4.0\\text{ moles}",
-        "8.0\\text{ moles}"
-      ],
-      "answer": "2.0\\text{ moles}",
-      "explanation": "The balanced reaction is \\text{SiO}_2 + 2\\text{NaOH} \\rightarrow \\text{Na}_2\\text{SiO}_3 + \\text{H}_2\\text{O}. Since 2\\text{ moles} of \\text{NaOH} yield 1\\text{ mole} of \\text{H}_2\\text{O}, 4.0\\text{ moles} of \\text{NaOH} will produce exactly 2.0\\text{ moles} of water.",
-      "working": "The balanced reaction is \\text{SiO}_2 + 2\\text{NaOH} \\rightarrow \\text{Na}_2\\text{SiO}_3 + \\text{H}_2\\text{O}. Since 2\\text{ moles} of \\text{NaOH} yield 1\\text{ mole} of \\text{H}_2\\text{O}, 4.0\\text{ moles} of \\text{NaOH} will produce exactly 2.0\\text{ moles} of water.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_148",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "What is the total number of unpaired electrons in a high-spin Iron(III) ion (\\text{Fe}^{3+}), which gives its solutions a characteristic yellow-brown color?",
-      "options": [
-        "1",
-        "3",
-        "5",
-        "6"
-      ],
-      "answer": "5",
-      "explanation": "Neutral iron is [\\text{Ar}]3d^6 4s^2. The \\text{Fe}^{3+} ion is formed by losing the two 4s electrons and one 3d electron, resulting in a [\\text{Ar}]3d^5 configuration. By Hund's rule, all 5 electrons occupy the five d-orbitals singly, leaving exactly 5 unpaired electrons.",
-      "working": "Neutral iron is [\\text{Ar}]3d^6 4s^2. The \\text{Fe}^{3+} ion is formed by losing the two 4s electrons and one 3d electron, resulting in a [\\text{Ar}]3d^5 configuration. By Hund's rule, all 5 electrons occupy the five d-orbitals singly, leaving exactly 5 unpaired electrons.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_149",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "calculation",
-      "question": "Calculate the percentage by mass of Tin (\\text{Sn}) in its amphoteric dioxide form, \\text{SnO}_2. *(Use atomic masses: \\text{Sn} = 118.71, \\text{O} = 15.999\\text{ g mol}^{-1})*",
-      "options": [
-        "64.15\\%",
-        "71.24\\%",
-        "78.77\\%",
-        "84.21\\%"
-      ],
-      "answer": "78.77\\%",
-      "explanation": "Molar mass of \\text{SnO}_2 = 118.71 + (2 \\times 15.999) = 118.71 + 31.998 = 150.708\\text{ g mol}^{-1}. Mass \\% of \\text{Sn} = (118.71 / 150.708) \\times 100\\% = 78.768\\% \\approx 78.77\\%.",
-      "working": "Molar mass of \\text{SnO}_2 = 118.71 + (2 \\times 15.999) = 118.71 + 31.998 = 150.708\\text{ g mol}^{-1}. Mass \\% of \\text{Sn} = (118.71 / 150.708) \\times 100\\% = 78.768\\% \\approx 78.77\\%.",
-      "variant_of": null
-    },
-    {
-      "id": "CHM121_C3_150",
-      "course": "CHM121",
-      "chapter": 3,
-      "type": "phrase",
-      "question": "According to the master comparative table, what is the characteristic reactivity classification assigned to Group IVA elements compared to the \"Very High\" rating of Group IA?",
-      "options": [
-        "Moderately High",
-        "Variable",
-        "Consistently Inert",
-        "Highly Explosive"
-      ],
-      "answer": "Variable",
-      "explanation": "The master comparative table explicitly lists the reactivity of Group IVA elements as \"Variable,\" reflecting the structural and chemical transition from non-metals like carbon to metals like lead within the family.",
+      "answer": "Black phosphorus",
+      "explanation": "Black phosphorus is the thermodynamically most stable allotrope of phosphorus at ordinary conditions, although red phosphorus is also much more stable than white phosphorus.",
       "working": null,
       "variant_of": null
     }
   ]
 }
+
