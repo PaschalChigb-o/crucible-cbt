@@ -1,856 +1,958 @@
 {
-  "course": "PHY128",
-  "total": 50,
+  "source": "BROZ JAY PHY 128 PQs (022l023).pdf — University of Uyo, PHY 128 General Physics Practical II, Second Semester 2022/2023; Types 1–3",
+  "total": 56,
   "questions": [
     {
-      "id": "PHY128_C4_001",
-      "course": "PHY128",
-      "chapter": 4,
-      "type": "phrase",
-      "question": "According to the practical precautions for the use of an ammeter, how must it be connected to a component to measure the current through that component?",
-      "options": [
-        "In parallel with the component",
-        "In series with the component",
-        "Directly across the battery terminals",
-        "In series with the voltmeter"
-      ],
-      "answer": "In series with the component",
-      "explanation": "The source material states that an ammeter must be connected in series with a component to measure the current through that component.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "PHY128_C4_002",
-      "course": "PHY128",
-      "chapter": 4,
-      "type": "phrase",
-      "question": "Which of the following describes the correct connection for a voltmeter in a circuit?",
-      "options": [
-        "In series with the component",
-        "In parallel with the component",
-        "In series with the battery",
-        "Across the galvanometer"
-      ],
-      "answer": "In parallel with the component",
-      "explanation": "The source material explicitly states that a voltmeter must be connected in parallel with the component.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "PHY128_C4_003",
-      "course": "PHY128",
-      "chapter": 4,
-      "type": "phrase",
-      "question": "In a Wheatstone bridge experiment, what is the purpose of the galvanometer?",
-      "options": [
-        "To measure the total current",
-        "To measure the voltage",
-        "To detect the balance point where no current flows",
-        "To protect the battery from damage"
-      ],
-      "answer": "To detect the balance point where no current flows",
-      "explanation": "The galvanometer is used to determine the balance point in a Wheatstone bridge, which is reached when no current flows through it.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "PHY128_C4_004",
-      "course": "PHY128",
-      "chapter": 4,
-      "type": "phrase",
-      "question": "When using a meter bridge, which material is recommended for cleaning the wire?",
-      "options": [
-        "Water",
-        "Oil",
-        "Acetone if available and emery cloth",
-        "Alcohol and a paper towel"
-      ],
-      "answer": "Acetone if available and emery cloth",
-      "explanation": "The source material advises cleaning the wire properly with acetone if available and emery cloth.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "PHY128_C4_005",
-      "course": "PHY128",
-      "chapter": 4,
-      "type": "phrase",
-      "question": "What happens if the sliding contact of a meter bridge is pressed too hard onto the wire?",
-      "options": [
-        "The circuit will balance faster",
-        "The wire may become non-uniform",
-        "The galvanometer will be protected",
-        "The resistance will increase automatically"
-      ],
-      "answer": "The wire may become non-uniform",
-      "explanation": "The instructions for the meter bridge warn against pressing the sliding contact hard because it can make the wire non-uniform.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "PHY128_C4_006",
-      "course": "PHY128",
-      "chapter": 4,
-      "type": "phrase",
-      "question": "For a potentiometer, the potential difference (V) is related to the balance length (L) by which relationship?",
-      "options": [
-        "V = L/k",
-        "V = k/L",
-        "V = kL",
-        "V = L^2"
-      ],
-      "answer": "V = kL",
-      "explanation": "Since the wire is uniform, the resistance per unit length is constant, leading to the relationship V = kL.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "PHY128_C4_007",
-      "course": "PHY128",
-      "chapter": 4,
-      "type": "phrase",
-      "question": "When measuring the internal resistance of a cell using a potentiometer, why should the accumulator be fully charged?",
-      "options": [
-        "To increase the current in the circuit",
-        "To protect the galvanometer",
-        "To ensure the e.m.f. is stable during the experiment",
-        "To prevent the wire from heating up"
-      ],
-      "answer": "To ensure the e.m.f. is stable during the experiment",
-      "explanation": "The practical precautions state that the accumulator must be fully charged to ensure reliable readings during the measurement of internal resistance.",
-      "working": null,
-      "variant_of": null
-    },
-    {
-      "id": "PHY128_C4_008",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_001",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "calculation",
-      "question": "In a potentiometer experiment to compare two cells with e.m.f. E1 and E2 and balance lengths L1 and L2, which equation is correct?",
+      "question": "In an experiment the following readings were recorded: 3.41, 3.82, 5.01, 5.91, 2.10, 2.01. Estimate the standard error.",
       "options": [
-        "E1/E2 = L2/L1",
-        "E1/E2 = L1/L2",
-        "E1*E2 = L1*L2",
-        "E1+E2 = L1+L2"
+        "±10.635",
+        "±0.78",
+        "±0.65",
+        "none"
       ],
-      "answer": "E1/E2 = L1/L2",
-      "explanation": "The source material confirms that the e.m.f. is proportional to the balance length, hence E1/E2 = L1/L2.",
-      "working": "Since E1 = kL1 and E2 = kL2, dividing the two gives E1/E2 = kL1/kL2 = L1/L2.",
+      "answer": "±0.65",
+      "explanation": "The standard error of the mean is the sample standard deviation divided by √n.",
+      "working": "Mean = (3.41 + 3.82 + 5.01 + 5.91 + 2.10 + 2.01) / 6 = 3.71.\nSample standard deviation s ≈ 1.5565.\nStandard error = s/√6 = 1.5565/2.4495 ≈ 0.6355 ≈ 0.65.\nTherefore the standard error is ±0.65.",
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_009",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_002",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the primary advantage of using electrical heating in a calorimeter compared to other methods?",
+      "question": "The following are said to have the same number of significant figures: 2.33, 0.0042, 5300, 0.0296.",
       "options": [
-        "It is cheaper to set up",
-        "It eliminates uncertain heat loss",
-        "It allows for higher temperatures",
-        "It requires less electrical power"
+        "never",
+        "sometimes",
+        "true",
+        "it depends"
       ],
-      "answer": "It eliminates uncertain heat loss",
-      "explanation": "Electrical heating has the important advantage that uncertain heat loss during the transfer of a hot body to the calorimeter is eliminated.",
+      "answer": "never",
+      "explanation": "The numbers do not have a common, unambiguous significant-figure count. They contain 3, 2, ambiguous, and 3 significant figures respectively; therefore they cannot be said to have the same number.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_010",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_003",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Why is a protective high-series resistor used with a galvanometer?",
+      "question": "Sound travels at about",
       "options": [
-        "To calibrate the galvanometer",
-        "To prevent damage from excessive current",
-        "To increase the sensitivity of the galvanometer",
-        "To measure voltage drops"
+        "420 m/s",
+        "330 m/s",
+        "520 m/s",
+        "none"
       ],
-      "answer": "To prevent damage from excessive current",
-      "explanation": "A high-series resistor is used to protect the galvanometer from being damaged by excessive current during the initial search for a balance point.",
+      "answer": "330 m/s",
+      "explanation": "The speed of sound in air at room temperature is approximately 330–343 m/s; 330 m/s is the appropriate option.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_011",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_004",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What type of galvanometer is most commonly used in institutional laboratories?",
+      "question": "In a rectangular glass block experiment where light rays are incident from air to glass, sin i/sin r is the refractive index of",
       "options": [
-        "Moving coil galvanometer",
-        "Centre zero galvanometer",
-        "Ballistic galvanometer",
-        "Astatic galvanometer"
+        "the glass",
+        "water",
+        "the air",
+        "none of the above"
       ],
-      "answer": "Centre zero galvanometer",
-      "explanation": "The source material specifies that the most commonly used type of galvanometer in institutions is the centre zero galvanometer.",
+      "answer": "the glass",
+      "explanation": "For light entering glass from air, Snell's law gives n = sin i/sin r when the refractive index of air is taken as approximately 1.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_012",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_005",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the resistance of an ideal voltmeter?",
+      "question": "In a triangular prism the deviation is least when the angle of",
       "options": [
-        "Zero",
-        "Very low",
-        "Very high",
-        "Equal to the resistor being measured"
+        "incidence equals angle of refraction",
+        "refraction equals angle of emergence",
+        "emergence equals angle of incidence",
+        "none"
       ],
-      "answer": "Very high",
-      "explanation": "The resistance of a voltmeter is always very high so that it does not divert an appreciable current from the main circuit.",
+      "answer": "emergence equals angle of incidence",
+      "explanation": "At minimum deviation in a prism, the path is symmetric, so the angle of incidence equals the angle of emergence.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_013",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_006",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "When using a galvanometer to find a balance point, what should the pointer indicate if the connections are correct?",
+      "question": "In Snell's law experiment, i is variable.",
       "options": [
-        "It should stay at zero",
-        "It should show opposite deflections at two ends",
-        "It should deflect in the same direction at both ends",
-        "It should vibrate rapidly"
+        "dependent",
+        "constant",
+        "independent",
+        "none"
       ],
-      "answer": "It should show opposite deflections at two ends",
-      "explanation": "To find a balance point, the galvanometer should show opposite deflections when touching the two ends of the wire.",
+      "answer": "independent",
+      "explanation": "The angle of incidence is deliberately varied by the experimenter, so it is the independent variable.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_014",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_007",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "In the context of the Meter Bridge, the point D is located by what means?",
+      "question": "In a triangular prism experiment, i is",
       "options": [
-        "A fixed contact",
-        "A sliding contact",
-        "A laser pointer",
-        "A digital probe"
+        "dependent variable",
+        "independent variable",
+        "constant",
+        "none"
       ],
-      "answer": "A sliding contact",
-      "explanation": "The point D on the meter bridge is located by a sliding contact.",
+      "answer": "independent variable",
+      "explanation": "The angle of incidence is varied experimentally and the resulting deviation/emergence is observed, so i is the independent variable.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_015",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_008",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "The Wheatstone bridge consists of how many resistances arranged in a specific circuit?",
+      "question": "Is a type of cell used for electricity experiment",
       "options": [
-        "Two",
-        "Three",
-        "Four",
-        "Five"
+        "Duracell",
+        "Tiger",
+        "Leclanche cell",
+        "none"
       ],
-      "answer": "Four",
-      "explanation": "The Wheatstone bridge consists of four resistances, R1, R2, R3, and R4, arranged as shown in the diagram.",
+      "answer": "Leclanche cell",
+      "explanation": "A Leclanché cell is a standard primary cell used in basic electricity experiments.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_016",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_009",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the primary unit of electric current?",
+      "question": "Electricity connection in Ohm's experiment should not be left “ON” for a long time to avoid",
       "options": [
-        "Volt",
-        "Ohm",
-        "Ampere",
-        "Watt"
+        "copying another student",
+        "malpractice",
+        "polarization of the cell",
+        "local action"
       ],
-      "answer": "Ampere",
-      "explanation": "The unit of electric current is the ampere.",
+      "answer": "polarization of the cell",
+      "explanation": "Keeping the circuit closed for too long can cause a cell to polarize, changing its terminal voltage and affecting measurements. The source option was corrected as approved.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_017",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_010",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "The instrument used for measuring potential difference is called:",
+      "question": "For resistors in parallel, the combined resistance is always",
       "options": [
-        "Ammeter",
-        "Voltmeter",
-        "Galvanometer",
-        "Rheostat"
+        "more than the value of the smallest individual resistance",
+        "less than the value of the smallest individual resistance",
+        "more than the value of the highest individual value",
+        "none"
       ],
-      "answer": "Voltmeter",
-      "explanation": "The instrument used for measuring the potential difference between two points is the voltmeter.",
+      "answer": "less than the value of the smallest individual resistance",
+      "explanation": "For positive resistances in parallel, 1/R_eq is the sum of the reciprocals, so R_eq is smaller than every individual resistance.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_018",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_011",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the result if the positive terminal of an ammeter is connected to the negative side of a circuit?",
+      "question": "In Ohm's law experiment, V is variable.",
       "options": [
-        "The reading is more accurate",
-        "The pointer moves backwards",
-        "The meter is immediately destroyed",
-        "The current flow increases"
+        "dependent",
+        "constant",
+        "independent",
+        "none"
       ],
-      "answer": "The pointer moves backwards",
-      "explanation": "It is important to connect the positive terminals of electric meters correctly, otherwise the pointer will read backwards.",
+      "answer": "independent",
+      "explanation": "In the standard Ohm's law practical, voltage is varied and current is measured in response; therefore voltage is the independent variable.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_019",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_012",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of these is a correct statement regarding the resistance of an ammeter?",
+      "question": "The instrument with the symbol mA can be used to measure",
       "options": [
-        "It should be very high",
-        "It should be very small",
-        "It should be equal to the internal resistance of the battery",
-        "It should be infinite"
+        "none of the option",
+        "1 A",
+        "above 5 A",
+        "above 10 A"
       ],
-      "answer": "It should be very small",
-      "explanation": "The resistance of an ammeter should be very small, otherwise it will increase the resistance in the circuit and reduce the current it is meant to measure.",
+      "answer": "none of the option",
+      "explanation": "The mA designation denotes a milliammeter, intended for currents in milliamperes rather than ampere-level or multi-ampere currents. None of the listed ranges is an appropriate mA range.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_020",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_013",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "When using a Wheatstone bridge, what condition must be met for the bridge to be balanced?",
+      "question": "In Snell's law experiment, refractive index n of a material is",
       "options": [
-        "No current flows through the galvanometer",
-        "The battery voltage is zero",
-        "The total resistance is zero",
-        "The current is maximum through the galvanometer"
+        "dependent variable",
+        "independent variable",
+        "extrinsic property",
+        "intrinsic property"
       ],
-      "answer": "No current flows through the galvanometer",
-      "explanation": "A balance is reached in a Wheatstone bridge when no current flows through the galvanometer.",
+      "answer": "intrinsic property",
+      "explanation": "For a specified material and wavelength, refractive index is a characteristic property of the material.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_021",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_014",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "The Wheatstone bridge method is described as the most convenient and accurate way to measure:",
+      "question": "For light to travel it need",
       "options": [
-        "Capacitance",
-        "Inductance",
-        "Resistance",
-        "Frequency"
+        "none of the option",
+        "material medium",
+        "it must be at a particular angle",
+        "the must be the same"
       ],
-      "answer": "Resistance",
-      "explanation": "The Wheatstone bridge is the most convenient and accurate way of measuring resistance over a range of different values.",
+      "answer": "none of the option",
+      "explanation": "Light is electromagnetic radiation and can propagate through vacuum; therefore a material medium is not required.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_022",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_015",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "In the electrical heating experiment, the heating element is typically connected to:",
+      "question": "Echo is a result of",
       "options": [
-        "The voltmeter directly",
-        "The galvanometer",
-        "An electric heater within the calorimeter",
-        "A high resistance box"
+        "refraction of light",
+        "deflection of sound",
+        "reflection of sound",
+        "none"
       ],
-      "answer": "An electric heater within the calorimeter",
-      "explanation": "The electrical heating device consists of a calorimeter containing an electric heater.",
+      "answer": "reflection of sound",
+      "explanation": "An echo is produced when sound waves reflect from a distant surface and return to the listener.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_023",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_016",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "The term 'potential difference' is measured in which unit?",
+      "question": "The symbol [rectangular resistor symbol] represents",
       "options": [
-        "Amperes",
-        "Volts",
-        "Ohms",
-        "Watts"
+        "resistance",
+        "resistor",
+        "resistivity",
+        "none"
       ],
-      "answer": "Volts",
-      "explanation": "The unit of potential difference is the volt.",
+      "answer": "resistor",
+      "explanation": "The rectangular IEC circuit symbol denotes a resistor, a component whose electrical resistance opposes current.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_024",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_017",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the purpose of the stirrers in a calorimeter experiment?",
+      "question": "One of these relationships is true in electricity",
       "options": [
-        "To heat the liquid faster",
-        "To keep the temperature uniform throughout the liquid",
-        "To measure the resistance of the heater",
-        "To protect the thermometer"
+        "R ∝ 1/l",
+        "R ∝ A/l",
+        "R ∝ A",
+        "none"
       ],
-      "answer": "To keep the temperature uniform throughout the liquid",
-      "explanation": "A stirrer is used in the calorimeter to keep the temperature of the liquid uniform.",
+      "answer": "none",
+      "explanation": "For a uniform wire, R = ρl/A, so resistance is directly proportional to length and inversely proportional to cross-sectional area. None of the listed relationships states that correctly.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C4_025",
-      "course": "PHY128",
-      "chapter": 4,
+      "id": "PENDING_018",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of the following is an essential piece of equipment in the electrical heating experiment described?",
+      "question": "A length of wire of irregular thickness along its length will obey Ohm's law.",
       "options": [
-        "Thermometer",
-        "Prism",
-        "Lens",
-        "Mirror"
+        "False",
+        "True",
+        "inconsistence",
+        "none"
       ],
-      "answer": "Thermometer",
-      "explanation": "The diagram of the electrical heating device clearly shows a thermometer placed within the calorimeter.",
+      "answer": "True",
+      "explanation": "If the wire remains at constant temperature and its overall resistance is constant for the measurement, its terminal V-I relationship can still be linear even though its cross-sectional area varies along its length.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_026",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_019",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the phenomenon called when an object appears to move relative to another object due to a change in the observer's position?",
+      "question": "The symbol [open switch/key symbol] represents",
       "options": [
-        "Refraction",
-        "Parallax",
-        "Reflection",
-        "Dispersion"
+        "two way key",
+        "cell",
+        "preset",
+        "tapping key"
       ],
-      "answer": "Parallax",
-      "explanation": "The motion of one object relative to another observed when the eye is moved is called parallax.",
+      "answer": "tapping key",
+      "explanation": "The shown symbol is a simple open switch/key with two terminals, corresponding to a tapping key rather than a two-way key.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_027",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_020",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "According to the laws of reflection, what is the relationship between the angle of reflection and the angle of incidence?",
+      "question": "Sound waves are examples of",
       "options": [
-        "The angle of reflection is greater",
-        "The angle of reflection is smaller",
-        "The angles are equal",
-        "There is no fixed relationship"
+        "transverse waves",
+        "oblong waves",
+        "automatic waves",
+        "none"
       ],
-      "answer": "The angles are equal",
-      "explanation": "The law of reflection states that the angle of reflection equals the angle of incidence.",
+      "answer": "none",
+      "explanation": "Sound in air is a longitudinal mechanical wave. None of the listed options states 'longitudinal waves'.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_028",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_021",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the geometric centre of a spherical mirror called?",
+      "question": "Electrical resistance of dry air is",
       "options": [
-        "Principal focus",
-        "Centre of curvature",
-        "Pole",
-        "Aperture"
+        "0",
+        "infinity",
+        "1 kΩ",
+        "none"
       ],
-      "answer": "Pole",
-      "explanation": "The geometric centre of the mirror is called the pole (P).",
+      "answer": "infinity",
+      "explanation": "Dry air is an electrical insulator under ordinary conditions, so its resistance is ideally treated as extremely large or infinite.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_029",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_022",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "For a spherical mirror, what is the relation between the focal length (f) and the radius of curvature (r)?",
+      "question": "Collection of strands of light is known as",
       "options": [
-        "f = r",
-        "f = 2r",
-        "f = r/2",
-        "f = 1/r"
+        "ray of light",
+        "beam of light",
+        "reflection of light",
+        "none"
       ],
-      "answer": "f = r/2",
-      "explanation": "The focal length of a spherical mirror is related to the radius of curvature by the relation f = r/2.",
+      "answer": "beam of light",
+      "explanation": "A beam is a collection of light rays. The duplicate source option was corrected as approved.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_030",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_023",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "In a rectangular glass block experiment, “Normal” is",
+      "options": [
+        "the line perpendicular to the surface of the glass",
+        "the line that intersects the line traced at the surface of the glass",
+        "the line that forms an angle with the incident ray",
+        "none"
+      ],
+      "answer": "the line perpendicular to the surface of the glass",
+      "explanation": "The normal is defined as the line drawn perpendicular to the surface at the point of incidence.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_024",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "calculation",
-      "question": "Using the mirror formula 1/u + 1/v = 1/f, if the focal length f is 10cm and the object distance u is 20cm, what is the image distance v?",
+      "question": "In Ohm's law experiment, V = 4.0 V and I = 1.0 A with an error of 0.1 A. Estimate the resistance R and its percentage error.",
       "options": [
-        "10cm",
-        "20cm",
-        "30cm",
-        "40cm"
+        "4.0 Ω ± 10%",
+        "4.0 Ω ± 2.5%",
+        "4.0 Ω ± 12.5%",
+        "4.0 Ω ± 25%"
       ],
-      "answer": "20cm",
-      "explanation": "Given 1/u + 1/v = 1/f, substitute the values: 1/20 + 1/v = 1/10.",
-      "working": "1/v = 1/10 - 1/20 = 2/20 - 1/20 = 1/20. Therefore, v = 20cm.",
+      "answer": "4.0 Ω ± 10%",
+      "explanation": "Resistance is V/I, and because only current uncertainty is given, the fractional uncertainty in R equals the fractional uncertainty in I.",
+      "working": "R = V/I = 4.0 V/1.0 A = 4.0 Ω.\nFractional error = ΔI/I = 0.1/1.0 = 0.10.\nPercentage error = 0.10 × 100% = 10%.\nTherefore R = 4.0 Ω with 10% percentage error.",
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_031",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_025",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of the following is the correct definition for linear magnification (m) by a mirror?",
+      "question": "Error in practical physics means",
       "options": [
-        "Object height / Image height",
-        "Image height / Object height",
-        "Image distance / Object height",
-        "Object distance / Image distance"
+        "uncertainty",
+        "carelessness",
+        "mistake",
+        "none"
       ],
-      "answer": "Image height / Object height",
-      "explanation": "Linear magnification is given by the ratio of the height of the image to the height of the object.",
+      "answer": "uncertainty",
+      "explanation": "Experimental error is fundamentally the uncertainty or difference associated with a measured quantity; it is not synonymous with carelessness.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_032",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_026",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "When light passes from one medium to another, the angle of incidence (i) and angle of refraction (r) are related by Snell's law as:",
+      "question": "In Snell's law experiment r is variable.",
       "options": [
-        "sini * sinr = n",
-        "sini / sinr = n",
-        "sinr / sini = n",
-        "sini + sinr = n"
+        "independent",
+        "constant",
+        "known",
+        "dependent"
       ],
-      "answer": "sini / sinr = n",
-      "explanation": "Snell's law is given by the expression sini/sinr = n.",
+      "answer": "dependent",
+      "explanation": "The angle of refraction r changes in response to the experimentally varied angle of incidence i, so r is the dependent variable.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_033",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_027",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "A ray of light passing through a rectangular glass block emerges laterally displaced. What can be said about the incident ray and the emergent ray?",
+      "question": "In electricity experiment, resistivity of a material is",
       "options": [
-        "The emergent ray is parallel to the incident ray",
-        "The emergent ray is perpendicular to the incident ray",
-        "The emergent ray is deviated by 90 degrees",
-        "There is no displacement"
+        "an extrinsic property",
+        "an intrinsic property",
+        "vary with cross sectional area",
+        "vary with length"
       ],
-      "answer": "The emergent ray is parallel to the incident ray",
-      "explanation": "The incident ray is laterally displaced and emerges such that the angle of incidence equals the angle of emergence, meaning it emerges without deviation but is displaced.",
+      "answer": "an intrinsic property",
+      "explanation": "Resistivity is a characteristic property of a material and does not depend on the specimen's dimensions.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_034",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_028",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the angle of deviation (d) for a ray passing through a triangular prism given by?",
+      "question": "In a triangular prism experiment, e is",
       "options": [
-        "d = (i - r1) - (e - r2)",
-        "d = (i - r1) + (e - r2)",
-        "d = i + r1 + e + r2",
-        "d = (i + r1) * (e + r2)"
+        "independent variable",
+        "constant",
+        "dependent variable",
+        "none"
       ],
-      "answer": "d = (i - r1) + (e - r2)",
-      "explanation": "The angle of deviation d is given by the expression d = (i - r1) + (e - r2).",
+      "answer": "dependent variable",
+      "explanation": "The angle of emergence e changes in response to the chosen angle of incidence, so it is a dependent variable.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_035",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_029",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "At the minimum angle of deviation (D) in a prism, which condition holds true?",
+      "question": "A cell in electricity is the same as a battery.",
       "options": [
-        "i is not equal to e",
-        "i = e",
-        "r1 is not equal to r2",
-        "The angle of incidence is 90 degrees"
+        "sometimes",
+        "true",
+        "often",
+        "false"
       ],
-      "answer": "i = e",
-      "explanation": "At minimum deviation, the ray passes symmetrically through the prism, implying the angle of incidence equals the angle of emergence (i = e).",
+      "answer": "false",
+      "explanation": "A cell is a single electrochemical unit, whereas a battery is an arrangement of two or more cells; the terms are therefore not strictly identical.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_036",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_030",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is total internal reflection?",
+      "question": "Critical angle is the angle of refraction that is",
       "options": [
-        "Reflection of light by a lens",
-        "Light passing from a less dense to a denser medium",
-        "Light incident at an angle greater than the critical angle from a denser to a less dense medium",
-        "The absorption of light by a glass block"
+        "90°",
+        "45°",
+        "0°",
+        "<90°"
       ],
-      "answer": "Light incident at an angle greater than the critical angle from a denser to a less dense medium",
-      "explanation": "Light incident at an angle greater than the critical angle while moving from a denser to a less dense medium suffers total internal reflection.",
+      "answer": "90°",
+      "explanation": "At the critical angle, the refracted ray travels along the boundary, so the angle of refraction is 90°. The missing correct option was restored.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_037",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_031",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "If the critical angle (c) for light passing from glass to air is known, what is the refractive index (n) of the glass?",
+      "question": "Leads to a situation where current quickly falls to a very small value",
       "options": [
-        "n = 1/sinc",
-        "n = sinc",
-        "n = cosc",
-        "n = 1/tanc"
+        "voltage",
+        "potential difference",
+        "polarization",
+        "none"
       ],
-      "answer": "n = 1/sinc",
-      "explanation": "Applying Snell's law for critical incidence (r = 90), we obtain the equation n = 1/sinc.",
+      "answer": "polarization",
+      "explanation": "Polarization of a cell can cause the current to fall rapidly because hydrogen accumulates on the positive electrode and increases the cell's effective internal resistance.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_038",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_032",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which type of lens gives real images?",
+      "question": "For two identical resistors in parallel, the combined resistance is equal to",
       "options": [
-        "Diverging lens",
-        "Concave lens",
-        "Converging lens",
-        "Plane mirror"
+        "half of the value of each",
+        "a quarter of half of half the value each",
+        "the value of each",
+        "none"
       ],
-      "answer": "Converging lens",
-      "explanation": "The converging lens gives real images.",
+      "answer": "half of the value of each",
+      "explanation": "For two equal resistors R in parallel, 1/R_eq = 1/R + 1/R = 2/R, hence R_eq = R/2.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_039",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_033",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "How can the approximate focal length of a converging lens be easily obtained?",
+      "question": "In Ohm's law experiment current is variable.",
       "options": [
-        "By measuring the radius of curvature",
-        "By focusing the image of a distant object onto a screen",
-        "By using a mirror",
-        "By measuring the diameter of the lens"
+        "constant",
+        "dependent",
+        "independent",
+        "none"
       ],
-      "answer": "By focusing the image of a distant object onto a screen",
-      "explanation": "The approximate focal length of a lens can be obtained by focusing the image of a distant object onto a screen.",
+      "answer": "dependent",
+      "explanation": "When voltage is varied and current is measured in response, current is the dependent variable.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_040",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_034",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "For a combination of a converging lens (f1) and a diverging lens (f2) with a combined focal length (fc), what is the relationship?",
+      "question": "The unit of measurement for electrical resistivity is",
       "options": [
-        "1/fc = 1/f1 - 1/f2",
-        "1/fc = 1/f1 + 1/f2",
-        "fc = f1 + f2",
-        "fc = f1 * f2"
+        "Ω/m",
+        "Ω",
+        "Ω m",
+        "mΩ"
       ],
-      "answer": "1/fc = 1/f1 + 1/f2",
-      "explanation": "It can be shown that for a combination, 1/fc = 1/f1 + 1/f2.",
+      "answer": "Ω m",
+      "explanation": "Resistivity is defined by ρ = RA/L, giving the SI unit ohm-metre (Ω m). The missing correct option was added as approved.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_041",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_035",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the term for the distance between the pole and the principal focus of a mirror?",
+      "question": "In potentiometer experiment null point is a requirement",
       "options": [
-        "Object distance",
-        "Image distance",
-        "Focal length",
-        "Radius of curvature"
+        "sometimes",
+        "depending on the situation",
+        "always",
+        "none"
       ],
-      "answer": "Focal length",
-      "explanation": "The distance between the principal focus (F) and the mirror (pole) is called the focal length (f).",
+      "answer": "always",
+      "explanation": "The potentiometer null method determines a balance point at which no current flows through the galvanometer; locating the null point is fundamental to the method.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_042",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_036",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of these devices utilize curved mirrors?",
+      "question": "Micrometer screw gauge is required in potentiometer experiment",
       "options": [
-        "Spectacles",
-        "Car driving mirrors",
-        "Prisms",
-        "Glass blocks"
+        "it is a necessity",
+        "it is not needed",
+        "for clarity",
+        "none"
       ],
-      "answer": "Car driving mirrors",
-      "explanation": "Curved mirrors are used as car driving mirrors and as reflectors in car headlamps.",
+      "answer": "it is not needed",
+      "explanation": "A micrometer screw gauge measures small dimensions and is not an essential apparatus for a standard potentiometer experiment.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_043",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_037",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the path of a light ray known as in geometric optics?",
+      "question": "The frequency of a stretched string is",
       "options": [
-        "Ray",
-        "Beam",
-        "Wavefront",
-        "Pulse"
+        "directly proportional to length",
+        "equal to length",
+        "directly proportional to inverse of length",
+        "none"
       ],
-      "answer": "Ray",
-      "explanation": "The ray treatment of light is called geometric optics.",
+      "answer": "directly proportional to inverse of length",
+      "explanation": "For a stretched string at fixed tension and linear density, f = (1/2L)√(T/μ), so frequency is inversely proportional to length.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_044",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_038",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the effect on a light ray if the angle of incidence is equal to the angle of emergence through a rectangular glass block?",
+      "question": "The best conductor of electricity is",
       "options": [
-        "The ray is dispersed",
-        "The ray is reflected",
-        "The ray emerges without deviation but is displaced",
-        "The ray stops passing through"
+        "Copper",
+        "Silver",
+        "Aluminum",
+        "Carbon"
       ],
-      "answer": "The ray emerges without deviation but is displaced",
-      "explanation": "The incident ray is laterally displaced and emerges such that the angle of incidence is equal to the angle of emergence, meaning it emerges without deviation.",
+      "answer": "Silver",
+      "explanation": "Silver has the lowest electrical resistivity among common metals and therefore the highest conductivity.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_045",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_039",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "In the experiment for minimum deviation of a prism, what is the value A equal to?",
+      "question": "Tungsten is a resistance wire; it will obey Ohm's law when subjected to varying temperature.",
       "options": [
-        "A = r1 + r2",
-        "A = r1 - r2",
-        "A = i + e",
-        "A = d + i"
+        "False",
+        "True",
+        "not sure",
+        "none"
       ],
-      "answer": "A = r1 + r2",
-      "explanation": "The source material states that A = r1 + r2.",
+      "answer": "False",
+      "explanation": "Ohm's law requires resistance to remain constant. Varying temperature changes tungsten's resistance, so the simple Ohmic relationship is not maintained.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_046",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_040",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "Which of the following is a key component of geometric optics studies?",
+      "question": "The equation governing an experiment helps in",
       "options": [
-        "The law of gravity",
-        "The laws of reflection",
-        "The law of thermodynamics",
-        "The law of conservation of mass"
+        "plotting without error",
+        "knowing the nature of graph expected",
+        "plotting with precision",
+        "none"
       ],
-      "answer": "The laws of reflection",
-      "explanation": "Geometric optics involves the laws of reflection and the laws of refraction.",
+      "answer": "knowing the nature of graph expected",
+      "explanation": "An experimental equation shows how the measured variables are related and therefore indicates the expected graph form.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_047",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_041",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "The principal axis is defined as the line passing through:",
+      "question": "An instrument used to study the behavior of vibrating strings is known as",
       "options": [
-        "The pole and the focus",
-        "The pole and the centre of curvature",
-        "The focus and the centre of curvature",
-        "The object and the image"
+        "vibrator",
+        "stringtometer",
+        "sonometer",
+        "none"
       ],
-      "answer": "The pole and the centre of curvature",
-      "explanation": "The line CP is called the principal axis, connecting the pole and the centre of curvature.",
+      "answer": "sonometer",
+      "explanation": "A sonometer is used to investigate the relationship between frequency, length, tension and linear density of a stretched vibrating string.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_048",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_042",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the angle of refraction (r) when the angle of incidence (i) is the critical angle (c)?",
+      "question": "Ray of light is",
       "options": [
-        "0 degrees",
-        "45 degrees",
-        "90 degrees",
-        "180 degrees"
+        "reversible",
+        "irreversible",
+        "rough",
+        "none"
       ],
-      "answer": "90 degrees",
-      "explanation": "The angle of incidence for which the angle of refraction r = 90 degrees is called the critical angle c.",
+      "answer": "reversible",
+      "explanation": "In geometrical optics, the path of a light ray is reversible: reversing the direction of propagation retraces the same path under the same conditions. The source's 'riverside' was corrected to 'reversible' as approved.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_049",
-      "course": "PHY128",
-      "chapter": 2,
+      "id": "PENDING_043",
+      "course": "PENDING",
+      "chapter": 0,
       "type": "phrase",
-      "question": "What is the purpose of using two pins in the 'no-parallax' method to locate an image?",
+      "question": "Zero error can be corrected by the process of",
       "options": [
-        "To measure distance",
-        "To eliminate parallax to find the image position",
-        "To increase magnification",
-        "To bend the light"
+        "setting",
+        "calibration",
+        "adjustment",
+        "none"
       ],
-      "answer": "To eliminate parallax to find the image position",
-      "explanation": "Parallax is eliminated by making the object coincide with its image to determine its position.",
+      "answer": "adjustment",
+      "explanation": "Zero error is corrected by adjusting the instrument so that its reading is zero when the true input is zero.",
       "working": null,
       "variant_of": null
     },
     {
-      "id": "PHY128_C2_050",
-      "course": "PHY128",
-      "chapter": 2,
-      "type": "phrase",
-      "question": "Which of these is mentioned as an application of optical materials?",
+      "id": "PENDING_044",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "calculation",
+      "question": "Suppose a quantity is given by V = (8.00 ± 0.04) V. Express the error as relative error.",
       "options": [
-        "Building bridges",
-        "Spectacles",
-        "Cooking",
-        "Electrical wiring"
+        "0.05",
+        "0.50",
+        "0.005",
+        "0.002"
       ],
-      "answer": "Spectacles",
-      "explanation": "The scientific study of light and optical materials is useful in the making of spectacles, cameras, and telescopes.",
+      "answer": "0.005",
+      "explanation": "Relative error is the absolute uncertainty divided by the measured value.",
+      "working": "Relative error = ΔV/V = 0.04 V / 8.00 V = 0.005.\nTherefore the relative error is 0.005.",
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_045",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "In Ohm's law experiment R is",
+      "options": [
+        "none of the option",
+        "independent variable",
+        "dependent variable",
+        "constant"
+      ],
+      "answer": "constant",
+      "explanation": "For an ohmic conductor under constant physical conditions, resistance is treated as constant while V and I are varied/measured.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_046",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The following are cells that can be used in electricity experiment except",
+      "options": [
+        "Daniel cell",
+        "Lead-acid cell",
+        "none",
+        "Michael cell"
+      ],
+      "answer": "Michael cell",
+      "explanation": "Daniel and lead-acid cells are established electrochemical cells. 'Michael cell' is not a standard cell type in this context, making it the exception.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_047",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "If the zinc used in a simple cell is of impure commercial variety, bubbles of hydrogen will be seen coming off the zinc. This is called",
+      "options": [
+        "local action",
+        "turbidity",
+        "hydrogenation",
+        "none"
+      ],
+      "answer": "local action",
+      "explanation": "Impurities in zinc form local galvanic cells, causing zinc to be consumed and hydrogen to evolve even when the external circuit is open. This is local action.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_048",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "P.d. is equal to emf only when a cell is in an electrical circuit that is open.",
+      "options": [
+        "False",
+        "it is a fallacy",
+        "True",
+        "mere suggestion"
+      ],
+      "answer": "True",
+      "explanation": "With the external circuit open, no current flows, so there is no internal voltage drop; consequently the terminal potential difference equals the emf.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_049",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "In a triangular glass prism experiment, the graph of angle of deviation against angle of incidence is",
+      "options": [
+        "hyperbolic",
+        "straight line",
+        "none",
+        "parabolic"
+      ],
+      "answer": "none",
+      "explanation": "The deviation-versus-incidence graph for a prism is a curved, generally U-shaped relation with a minimum deviation; it is not a straight line, hyperbola, or parabola in the standard practical description.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_050",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "Constantan is a material with temperature coefficient of resistance",
+      "options": [
+        "negative",
+        "neutral",
+        "none",
+        "positive"
+      ],
+      "answer": "positive",
+      "explanation": "Constantan is an alloy whose resistance increases slightly with temperature, giving it a small positive temperature coefficient.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_051",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The material with negative temperature coefficient of resistance is",
+      "options": [
+        "Copper",
+        "constantan",
+        "carbon",
+        "none"
+      ],
+      "answer": "carbon",
+      "explanation": "Carbon and many semiconducting materials have negative temperature coefficients: their resistance decreases as temperature rises.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_052",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The relationship between the sine of the angle of incidence and the sine of the angle of refraction is given by",
+      "options": [
+        "Snell's law",
+        "Ohm's law",
+        "Hooke's law",
+        "none"
+      ],
+      "answer": "Snell's law",
+      "explanation": "Snell's law states that, for fixed media, n1 sin i = n2 sin r. The source wording was corrected to refer to the sines rather than claiming i is directly proportional to r.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_053",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "A straight stick erected inside a deep stream appears bent when viewed from outside due to",
+      "options": [
+        "refraction",
+        "deflection",
+        "diffraction",
+        "none"
+      ],
+      "answer": "refraction",
+      "explanation": "Light from the submerged part changes direction when it passes from water to air, producing the apparent displacement responsible for the bent appearance.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_054",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "The instrument that is always connected in parallel with the element of an electric circuit is",
+      "options": [
+        "millivolt meter",
+        "galvanometer",
+        "ammeter",
+        "none"
+      ],
+      "answer": "millivolt meter",
+      "explanation": "A voltmeter, including a millivoltmeter, is connected in parallel so it measures the potential difference across the element.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_055",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "A length of Constantan subjected to stress will obey Ohm's law.",
+      "options": [
+        "True",
+        "False",
+        "not sure",
+        "none"
+      ],
+      "answer": "False",
+      "explanation": "Stress and strain are mechanical quantities governed by elastic laws such as Hooke's law; Ohm's law relates electrical potential difference and current, not mechanical stress.",
+      "working": null,
+      "variant_of": null
+    },
+    {
+      "id": "PENDING_056",
+      "course": "PENDING",
+      "chapter": 0,
+      "type": "phrase",
+      "question": "In a straight line, all the plotted points must be on the plotted line.",
+      "options": [
+        "it is a must",
+        "it is a rule",
+        "a clever student must achieve that",
+        "none"
+      ],
+      "answer": "none",
+      "explanation": "Experimental data normally scatter around a best-fit straight line because of measurement uncertainty. Not every point must lie exactly on the line.",
       "working": null,
       "variant_of": null
     }
   ]
-}
+    }
